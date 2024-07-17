@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+                "file": "tools/How-to-use-GitHub-Copilot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+                "file": "tools/How-to-use-GitHub-Copilot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+                "file": "tools/How-to-use-GitHub-Copilot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md"
+                "file": "tools/How-to-use-GitHub-Copilot.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "cf1d083e93f12417",
   "lastOpenFiles": [
     "README.md",
-    "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+    "tools/How-to-use-GitHub-Copilot.md",
     "tools/README.md",
     "img/github-copilot-new.jpg",
     "img.md",

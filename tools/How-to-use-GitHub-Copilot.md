@@ -1,4 +1,8 @@
 
+
+# How To Use GitHub Copilot: Your Comprehensive Guide to AI-Assisted Coding
+
+
 ![copilot symbol](img/github-copilot-new.jpg)
 <div align="center" ><i>A version of the GitHub Copilot icon from AnalyticsVidhya.com</i></div>
 
