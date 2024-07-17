@@ -1,8 +1,9 @@
-# What is a Diffusion Model?  
+# Understanding Diffusion Model 
   
 ![Diffusion Model](img/DiffusionModel.png)  
+<div align="center" ><i>Created using runwayml.com on 16 July 2024.</i></div>
 ## Author  
-- **Tohfa Siddika Barbhuiya** (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))  
+- Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))  
   
 ## Introduction  
   
@@ -18,7 +19,8 @@ A diffusion model is a type of generative model that creates images by progressi
 2. **U-Net**: A neural network that performs the denoising task, transforming the noisy latent representation back into a clean image.  
 3. **Text Encoder (optional)**: For text-to-image generation, a pre trained text encoder like CLIP is used to transform text prompts into embeddings that guide the image generation process.  
   
-![U-Net Architecture](img/UNet.png)  
+![U-Net Architecture](img/UNet.png) 
+<div align="center" ><i>Architecture of UNet. </i> <a href="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/?ref=assemblyai.com" target="_blank">Source</a></div>
   
 ### How Diffusion Models Work  
   
@@ -46,7 +48,8 @@ During inference, the reverse diffusion process starts with pure noise and itera
   
 During training, the model learns to predict the noise at each time step by minimizing the loss function, which measures the difference between the predicted noise and the actual noise. This training process requires a large dataset of images and significant computational resources.  
   
-![Diffusion Process](img/ForwardReverseDiffusion.png)  
+![Diffusion Process](img/ForwardReverseDiffusion.png)
+<div align="center" ><i>Forward and Reverse Diffusion Process. </i> <a href="https://www.simform.com/blog/diffusion-models/" target="_blank">Source</a></div>
   
 ## Applications of Diffusion Models  
   
