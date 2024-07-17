@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "71468105466e9587",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a7d3f24b960ec72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1d083e93f12417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08ac798aed6c807c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8189854dbc66e8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "856faa4c5386a1f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15ae36e0108a68f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4faba0975a7f9dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55ae58fc54d7fa9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d56fec5c6420fc88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57d580115861ac54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2082b6b8deda73c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9db6268a28898f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffe11f4b20b23604",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf1d083e93f12417",
+  "lastOpenFiles": [
+    "README.md",
+    "tools/How to use GitHub Copilot - Your comprehensive guide to AI - Assisted coding.md",
+    "tools/README.md",
+    "img/github-copilot-new.jpg",
+    "img.md",
+    "Pasted image 20240717114729.png",
+    "Pasted image 20240717114043.png",
+    "Pasted image 20240717114035.png",
+    "img/copilot-ext-jet.png",
+    "img/copilot-ext.png",
+    "img/IntelliJ-install.png",
+    "img/VSCODE-install.png",
+    "img/Debugging-Example.png",
+    "models/README.md",
+    "img/ResearchIconMedium.png"
+  ]
+}
