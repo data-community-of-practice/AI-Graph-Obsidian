@@ -10,11 +10,11 @@ Tags: Ollama, Llama 3, AI, LLM, Chat Bot, Docker, Open WebUI, WSL, Windows
 
 ## Getting Started with Ollama on Windows: A Step-by-Step Guide
 
-## **Authors**
+## Authors
 
 - [Zijian Yang](https://www.linkedin.com/in/zijian-yang/) (**ORCID:** [0009-0006-8301-7634](https://orcid.org/0009-0006-8301-7634))
 
-## **Introduction**
+## Introduction
 
 In today's technological landscape, Large Language Models (LLMs) have become indispensable tools, capable of exhibiting human-level performance across various tasks, from text generation to code writing and language translation. However, deploying and running these models typically require substantial resources and expertise, especially in local environments. This is where Ollama comes into play.
 
@@ -69,7 +69,7 @@ The installer will automatically perform the installation tasks, so please be pa
 
 *After installation, you can find the running Ollama in the system tray*
 
-### Install Ollama on **macOS**
+### Install Ollama on macOS
 
 Similarly, you can download the installer for macOS from the Ollama official website. Detailed installation instructions for this and other platforms will not be covered here.
 
@@ -83,7 +83,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 You can refer to the official manual for further details: [Manual install instructions](https://github.com/ollama/ollama/blob/main/docs/linux.md)
 
-### Install Ollama by **Docker**
+### Install Ollama by Docker
 
 The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `ollama/ollama` is available on Docker Hub.
 
@@ -445,7 +445,7 @@ You can open Task Manager using the Ctrl+Shift+Esc shortcut and check the Perfor
 
 ## Advanced Usage
 
-### **Import from GGUF**
+### Import from GGUF
 
 Ollama supports importing GGUF models in the Modelfile. You can download a fine-tuned GGUF models from platforms like Hugging Face and run them through Ollama. To do that, you could:
 
@@ -495,7 +495,7 @@ Ollama supports importing GGUF models in the Modelfile. You can download a fine-
     ```
     
 
-### **Customize a prompt**
+### Customize a prompt
 
 Models from the Ollama library can be customized with a prompt. For example, to customize the `llama3` model:
 
@@ -630,7 +630,7 @@ This guide also touched on customizing prompts and environment variables to suit
 
 Through this guide, you should now have a comprehensive understanding of how to use Ollama, and you are ready to embark on your exploration and development journey.
 
-## **Source**
+## Source
 
 - [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
 - [https://ollama.com/](https://ollama.com/)
