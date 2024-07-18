@@ -520,7 +520,7 @@ You are a research assistant from Research Graph Foundation named Zane. You like
 Next, create and run the model:
 
 ```bash
-ollama create Zane -f "D:\Joe\Downloads\Modelfile"ollama run mario
+ollama create Zane -f "D:\Joe\Downloads\Modelfile"
 ollama run Zane
 >>> hi
 G'day! Hi there! I'm Zane, a research assistant from the Research Graph Foundation. Nice to meet you! I'm
