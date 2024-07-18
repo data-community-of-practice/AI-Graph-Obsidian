@@ -1,3 +1,5 @@
+# Using Private LLM to Create a Chatbot for iOS/Mac Users: A Comprehensive Guide
+
 ## Author
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
 
@@ -16,18 +18,17 @@ This article provides instructions on how to create your own chatbot using Priva
 
 ## Installation
 Begin by downloading Private LLM directly from the App Store. Search for "Private LLM" using the search bar, or use the [direct link](https://apps.apple.com/us/app/private-llm-local-ai-chatbot/id6448106860) provided in the documentation. The app requires a one-time purchase of *$9.99*. Once purchased, make sure your device is connected to a reliable internet connection to successfully complete the download.
-<figure style="text-align: center;">
-    <img src="../img/privatellm-app-store-purchase.png" alt="Private LLM Download Page" width="450" height="auto">
-    <figcaption>Private LLM Download Page on App Store</figcaption>
-</figure>
+
+![Private LLM Download Page](../img/privatellm-app-store-purchase.png)
+<div align="center"><i>Private LLM Download Page on App Store</i></div>
+
 
 ## Getting Started
 After downloading and launching Private LLM, you will be greeted with a chat-style interface featuring the default model, StableLM. This setup provides an immediate and intuitive way for users to begin interacting with the AI. Simply type your questions or instructions into the chat box and watch the AI respond dynamically.
 
-<figure style="text-align: center;">
-    <img src="../img/privatellm-launchepage.png" alt="Private LLM Launch Interface" width="400" height="auto">
-    <figcaption>Private LLM Launch Interface</figcaption>
-</figure>
+![Private LLM Launch Interface](../img/privatellm-launchepage.png)
+<div align="center"><i>Private LLM Launch Interface</i></div>
+
 
 ## Customizing Your ChatBot
 You may find the default model somewhat restricting, especially as you become more familiar with the platform and your requirements grow. To expand your chatbot's capabilities, here are several methods you can employ:
@@ -36,31 +37,19 @@ You may find the default model somewhat restricting, especially as you become mo
 - These initial inputs establish the conversation's context and tone. Customizing these prompts allows you to guide the AI's information processing and user interactions.
 - Begin by crafting prompts that define a specific role or scenario for the AI, such as a personal assistant, knowledgeable guide, or fictional character. This approach helps establish a consistent and engaging interaction tone. In the Private LLM app, navigate to *Settings -> General -> Override System Prompt* to implement this.
 - Example: "You are an extraterrestrial visitor observing human culture and technology for the first time. Respond to questions with curiosity and provide comparisons to your alien technologies and societal structures."
-<figure style="text-align: center;">
-    <img src="../img/privatellm-system-prompt.png" alt="Private LLM System Prompt" width="400" height="auto">
-    <figcaption>Private LLM Craft System Prompt</figcaption>
-</figure>
 
+![Private LLM Craft System Prompt](../img/privatellm-system-prompt.png)
+<div align="center"><i>Private LLM Craft System Prompt</i></div>
 
-<!-- <div style="display: flex; align-items: flex-start;">
-    <figure>
-        <img src="../img/privatellm-default-sys-prompt.png" alt="Private LLM System Prompt" width="600">
-        <figcaption>Chat with Default System Prompt</figcaption>
-    </figure>
-    <figure>
-        <img src="../img/privatellm-new-sys-prompt.png" alt="Second Image Description" width="650">
-        <figcaption>Chat with Customized System Prompt</figcaption>
-    </figure>
-</div> -->
 
 ### Tuning AI Output - Sampling Parameters Configuration
 - The ***Temperature*** parameter influences AI response randomness: lower values yield more predictable and deterministic outputs, while higher values foster creativity and variability.
 - ***Top-P*** (known as nucleus sampling) selects responses from the most probable next words, with lower values creating more focused responses and higher values enhancing output diversity.
 - Example: For customer support bot, set a low temperature (0.3) and a moderate Top-P (0.7) to ensure accurate, reliable answers with just enough variability to appear natural and not robotic; For Technical FAQ bot, use a very low temperature (0.2) combined with a low Top-P (0.6) for precise, to-the-point answers where clarity and correctness are paramount.
-<figure style="text-align: center;">
-    <img src="../img/privatellm-sampling-parameters.png" alt="Private LLM Sampling Parameters" width="400" height="auto">
-    <figcaption>Private LLM Sampling Parameters Configuration</figcaption>
-</figure>
+
+![Private LLM Sampling Parameters](../img/privatellm-sampling-parameters.png)
+<div align="center"><i>Private LLM Sampling Parameters Configuration</i></div>
+
 
 ### Selecting the Optimal Model - Model Choice Strategy
 
@@ -73,10 +62,9 @@ Selecting the appropriate model is essential for optimizing AI response performa
   
 After installation, the app automatically recommends models to download based on your device's capabilities. Once you've chosen a suitable model, click the cloud-shaped button to begin the download. Ensure the application remains open throughout this process.
 
-<figure style="text-align: center;">
-    <img src="../img/privatellm-download-model.png" alt="Model Choice page" width="400" height="auto">
-    <figcaption>Model Download Page - Displays compatible models for a 16GB RAM macOS device</figcaption>
-</figure>
+![Model Choice Page](../img/privatellm-download-model.png)
+<div align="center"><i>Model Download Page - Displays compatible models for a 16GB RAM macOS device</i></div>
+
 
 
 ## Conclusion
