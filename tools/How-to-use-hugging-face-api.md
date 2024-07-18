@@ -19,7 +19,7 @@ To use models from the Hugging Face platform in a local application or service w
 
 ### Step 1: Get your API Token
 
-To get Started, register or Login your Hugging Face account first. Next, go to settings page and click **Access Tokens**. Next, click **Create new token**.
+To get Started, register or Login to your Hugging Face account first. Next, go to settings page and click **Access Tokens**. Next, click **Create new token**.
 
 ![[Step1.png]](../img/images-wendi/Step1.png)
 <div align="center"><small>Screenshot from the Hugging Face account settings</small></div><br>
@@ -51,7 +51,7 @@ On the next page, there are thousands of different models you can use. You can s
 ![[Step2-2.png]](../img/images-wendi/Step2-2.png)
 <div align="center"><small>Screenshot from the Hugging Face website</small></div><br>
 
-Here, we use an image-to-text model called "blip-image-captioning-base" as an example. This Ai model can descript the content image you provide. You can also use other models you like.<br>
+Here, we use an image-to-text model called "blip-image-captioning-base" as an example. This AI model can descript the content image you provide. You can also use other models you like.<br>
 
 ![[Step2-3.png]](../img/images-wendi/Step2-3.png)
 <div align="center"><small>Screenshot from the Hugging Face website</small></div>
@@ -89,12 +89,12 @@ output = query("yourphoto.jpg")
 print(output)
 ```
 
-In this example, we use this cat photo as our input.
+In this example, we used this cat photo as our input.
 
 ![[yourphoto.jpg]](../img/images-wendi/yourphoto.jpg)
 <div align="center"><small>Downloaded from Pexels on 17 Jul 2024</small></div><br>
 
-Then run the code using the command below and get the result from our Hugging Face model. Don't forget to change "app" to your file name. The result says "a cat sitting on a couch looking at the camera", which is a accurate and good description.
+Then run the code using the command below and get the result from our Hugging Face model. Don't forget to change "app" to your file name. The result says "a cat sitting on a couch looking at the camera", which is an accurate and good description.
 
 ```python 
 py app.py

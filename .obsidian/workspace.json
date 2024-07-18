@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md",
+                "file": "tools/How-to-use-hugging-face-api.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md",
+                "file": "tools/How-to-use-hugging-face-api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md",
+                "file": "tools/How-to-use-hugging-face-api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md"
+                "file": "tools/How-to-use-hugging-face-api.md"
               }
             }
           }
@@ -146,9 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "856faa4c5386a1f8",
+  "active": "cf1d083e93f12417",
   "lastOpenFiles": [
     "tools/How-to-use-GitHub-Copilot.md",
+    "tools/privatellm-chatbot-creation-tutorial.md",
+    "tools/what-is-diffusion-model.md",
+    "tools/How-to-use-hugging-face-api.md",
+    "img/images-wendi/yourphoto.jpg",
+    "img/images-wendi/thumbnail-image.webp",
+    "img/privatellm-sampling-params-example.png",
+    "img/privatellm-new-sys-prompt.png",
+    "hi.md",
     "README.md",
     "tools/README.md",
     "img/github-copilot-new.jpg",
@@ -158,10 +166,6 @@
     "Pasted image 20240717114035.png",
     "img/copilot-ext-jet.png",
     "img/copilot-ext.png",
-    "img/IntelliJ-install.png",
-    "img/VSCODE-install.png",
-    "img/Debugging-Example.png",
-    "models/README.md",
-    "img/ResearchIconMedium.png"
+    "models/README.md"
   ]
 }
