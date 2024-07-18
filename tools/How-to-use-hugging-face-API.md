@@ -22,12 +22,12 @@ To use models from the Hugging Face platform in a local application or service w
 To get Started, register or Login your Hugging Face account first. Next, go to settings page and click **Access Tokens**. Next, click **Create new token**.
 
 ![[Step1.png]](../img/images-wendi/Step1.png)
-<div align="center">Screenshot from the Hugging Face account settings</div>
+<div align="center">Screenshot from the Hugging Face account settings</div><br>
 
 Choose the token type you need, in this example, you can choose read-only access because it is sufficient to open pull requests. Then type your token name in the blank space. Here, we type "image-to-text" as our token's name since we will use image-to-text model in this example later.
 
 ![[Step1-2.png]](../img/images-wendi/Step1-2.png)
-<div align="center">Screenshot from the Create new Access Token page</div>
+<div align="center">Screenshot from the Create new Access Token page</div><br>
 
 After token is created, don't forget to copy your API token and save it to a safe place. You won't be able to access it again after you click **done**.
 
