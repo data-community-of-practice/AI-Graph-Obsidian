@@ -3,7 +3,7 @@
 Getting started to join Hugging Face community
 
 ![[thumbnail-image.webp]](../img/images-wendi/thumbnail-image.webp)
-<center>Created using DALLE on 18 Jul 2024</center>
+<div style="text-align: center;">Created using DALLE on 18 Jul 2024</div>
 
 ## Authors
 
@@ -22,51 +22,51 @@ To use models from the Hugging Face platform in a local application or service w
 To get Started, register or Login your Hugging Face account first. Next, go to settings page and click **Access Tokens**. Next, click **Create new token**.
 
 ![[Step1.png]](../img/images-wendi/Step1.png)
-<center>Screenshot from the Hugging Face account settings</center>
+<div style="text-align: center;">Screenshot from the Hugging Face account settings</div>
 
 Choose the token type you need, in this example, you can choose read-only access because it is sufficient to open pull requests. Then type your token name in the blank space. Here, we type "image-to-text" as our token's name since we will use image-to-text model in this example later.
 
 ![[Step1-2.png]](../img/images-wendi/Step1-2.png)
-<center>Screenshot from the Create new Access Token page</center>
+<div style="text-align: center;">Screenshot from the Create new Access Token page</div>
 
 After token is created, don't forget to copy your API token and save it to a safe place. You won't be able to access it again after you click **done**.
 
 ![[Step1-3.png]](../img/images-wendi/Step1-3.png)
-<center>Screenshot from the Save your Access Token window</center>
+<div style="text-align: center;">Screenshot from the Save your Access Token window</div>
 
 You can find the created token here.
 
 ![[Step1-4.png]](../img/images-wendi/Step1-4.png)
-<center>Screenshot from the Hugging Face account page</center>
+<div style="text-align: center;">Screenshot from the Hugging Face account page</div>
 
 ### Step 2: Choose a model you like
 
 Go to the main page of Hugging Face, then click **Models**.
 
 ![[Step2.png]](../img/images-wendi/Step2.png)
-<center>Screenshot from the Hugging Face website</center>
+<div style="text-align: center;">Screenshot from the Hugging Face website</div>
 
 On the next page, there are thousands of different models you can use. You can sort the models based on the function you need on the left side. You also can type the names of models to search for them.
 
 ![[Step2-2.png]](../img/images-wendi/Step2-2.png)
-<center>Screenshot from the Hugging Face website</center>
+<div style="text-align: center;">Screenshot from the Hugging Face website</div>
 
 Here, we use an image-to-text model called "blip-image-captioning-base" as an example. This Ai model can descript the content image you provide. You can also use other models you like.
 
 ![[Step2-3.png]](../img/images-wendi/Step2-3.png)
-<center>Screenshot from the Hugging Face website</center>
+<div style="text-align: center;">Screenshot from the Hugging Face website</div>
 
 ### Step 3: Run the model in your application.
 
 Using this model in your own app is quite easy. Here, we need to set up the API in your code. On Hugging Face, the model will provide the direct code to use it. First, you need to click **Deploy** on this page then click **Inference API (serverless)**.
 
 ![[Step3.jpg]](../img/images-wendi/Step3.jpg)
-<center>Screenshot from the Hugging Face website</center>
+<div style="text-align: center;">Screenshot from the Hugging Face website</div>
 
 In the next window, you can choose any programming language you like. In this example, we choose Python as an example.
 
 ![[Step3-2.png]](../img/images-wendi/Step3-2.png)
-<center>Screenshot from the Hugging Face website</center>
+<div style="text-align: center;">Screenshot from the Hugging Face website</div>
 
 Here is the code we use. You need to replace the "hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" token with yours. Then, you can insert this code into your own program.
 
@@ -92,7 +92,7 @@ print(output)
 In this example, we use this cat photo as our input.
 
 ![[yourphoto.jpg]](../img/images-wendi/yourphoto.jpg)
-<center>Downloaded from Pexels on 17 Jul 2024</center>
+<div style="text-align: center;">Downloaded from Pexels on 17 Jul 2024</div>
 
 Then run the code using the command below and get the result from our Hugging Face model. Don't forget to change "app" to your file name. The result says "a cat sitting on a couch looking at the camera", which is a accurate and good description.
 
@@ -101,7 +101,7 @@ py app.py
 ```
 
 ![[Step3-3.png]](../img/images-wendi/Step3-3.png)
-<center>Screenshot from the result of model</center>
+<div style="text-align: center;">Screenshot from the result of model</div>
 
 Of course, we can enhance the input for our model by incorporating a UI, making it more visually appealing and user-friendly. However, the primary goal of this article is to share how to use the Hugging Face API, so we will not delve further into this topic.
 
