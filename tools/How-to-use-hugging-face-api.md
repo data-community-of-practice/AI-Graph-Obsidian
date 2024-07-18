@@ -2,7 +2,7 @@
 
 Getting started to join Hugging Face community
 
-![[thumbnail-image.webp]](../img/images-wendi/thumbnail-image.webp)
+![[thumbnail-image.png]](../img/images-wendi/thumbnail-image.png)
 <div align="center"><small>Created using DALLE on 18 Jul 2024</small></div>
 
 %%Captions for the images should be more descriptive. You can cite the source, but the caption should still say what the image is about%%
