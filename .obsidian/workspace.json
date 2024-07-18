@@ -148,10 +148,11 @@
   },
   "active": "cf1d083e93f12417",
   "lastOpenFiles": [
+    "tools/what-is-diffusion-model.md",
+    "tools/What are the latest developments in prompt engineering.md",
+    "tools/How-to-use-hugging-face-api.md",
     "tools/How-to-use-GitHub-Copilot.md",
     "tools/privatellm-chatbot-creation-tutorial.md",
-    "tools/what-is-diffusion-model.md",
-    "tools/How-to-use-hugging-face-api.md",
     "img/images-wendi/yourphoto.jpg",
     "img/images-wendi/thumbnail-image.webp",
     "img/privatellm-sampling-params-example.png",

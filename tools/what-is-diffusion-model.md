@@ -14,10 +14,10 @@ In recent years, artificial intelligence (AI) has made significant advancements 
 A diffusion model is a type of generative model that creates images by progressively refining random noise. The process is inspired by thermodynamic diffusion, where particles spread out over time. In the context of AI, diffusion models start with an image filled with random noise and iteratively remove the noise to reveal a clear and coherent picture.  
   
 ### Architecture of Diffusion Models  
-  
+%% A little bit more explanation would make these points seem less technical. Perhaps explaining with a real-life example would help
 1. **Variational Autoencoder (VAE)**: This compresses the image from pixel space to a smaller, more manageable latent space, capturing the essential features of the image.  
 2. **U-Net**: A neural network that performs the denoising task, transforming the noisy latent representation back into a clean image.  
-3. **Text Encoder (optional)**: For text-to-image generation, a pre trained text encoder like CLIP is used to transform text prompts into embeddings that guide the image generation process.  
+3. **Text Encoder (optional)**: For text-to-image generation, a pre trained text encoder like CLIP is used to transform text prompts into embeddings that guide the image generation process.  %%
   
 ![U-Net Architecture](img/UNet.png) 
 <div align="center" ><i>Architecture of UNet. </i> <a href="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/?ref=assemblyai.com" target="_blank">Source</a></div>
@@ -36,7 +36,7 @@ The model is trained using a loss function that measures the difference between 
   
 3. **Denoising Images with U-Net**  
   
-The U-Net architecture plays a crucial role in the denoising process. U-Net is a type of convolutional neural network (CNN) that is particularly effective for image-to-image translation tasks. It consists of an encoder that compresses the input image into a lower-dimensional representation and a decoder that reconstructs the image from this representation. Skip connections between the encoder and decoder layers help preserve spatial information, which is essential for generating detailed images.  
+The U-Net architecture plays a crucial role in the denoising process. U-Net is a type of convolutional neural network (CNN) that is particularly effective for image-to-image translation tasks. It consists of an encoder that compresses the input image into a lower-dimensional representation and a decoder that reconstructs the image from this representation. Skipping connections between the encoder and decoder layers help preserve spatial information, which is essential for generating detailed images.  
   
 4. **Noise Prediction and Removal**  
   
