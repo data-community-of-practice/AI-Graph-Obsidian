@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md",
+                "file": "tools/privatellm-chatbot-creation-tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md",
+                "file": "tools/privatellm-chatbot-creation-tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md",
+                "file": "tools/privatellm-chatbot-creation-tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md"
+                "file": "tools/privatellm-chatbot-creation-tutorial.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf1d083e93f12417",
+  "active": "856faa4c5386a1f8",
   "lastOpenFiles": [
-    "README.md",
     "tools/How-to-use-GitHub-Copilot.md",
+    "README.md",
     "tools/README.md",
     "img/github-copilot-new.jpg",
     "img.md",
