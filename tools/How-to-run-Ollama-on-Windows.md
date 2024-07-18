@@ -1,8 +1,8 @@
 Header image:
 
-![Screenshot of the Ollama website](How%20to%20run%20Ollama%20on%20Windows%20b92bf975269e4245945710d5d199e458/Untitled.png)
+![Screenshot of the Ollama website](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202407182334125.webp)
 
-Screenshot of the Ollama website
+*Screenshot of the Ollama website*
 
 Tags: Ollama, Llama 3, AI, LLM, Chat Bot, Docker, Open WebUI, WSL, Windows
 
