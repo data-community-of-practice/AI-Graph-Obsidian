@@ -7,7 +7,7 @@
   
 ## Introduction  
   
-In recent years, artificial intelligence (AI) has made significant advancements in generating images from text descriptions—a capability once thought to be science fiction. Among the various techniques driving this progress, diffusion models have emerged as a particularly powerful approach. But what exactly is a diffusion model in AI? Let's break it down in simpler terms.  
+In recent years, artificial intelligence (AI) has made significant advancements in generating images from text descriptions, a capability once thought to be science fiction. Among the various techniques driving this progress, diffusion models have emerged as a particularly powerful approach. But what exactly is a diffusion model in AI? Let's break it down in simpler terms.  
   
 ## What is a Diffusion Model?  
   
