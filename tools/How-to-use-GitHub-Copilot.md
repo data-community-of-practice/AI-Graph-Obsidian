@@ -56,7 +56,8 @@ Select from menu File->Settings->Plugins->Search GitHub copilot on marketplace a
 
 Connect your GitHub account in VS Code or JetBrains-based IDEs to activate Copilot. This linkage is crucial as it allows the AI to provide personalized code suggestions based on your coding patterns and preferences.
 
-* There is one important aspect to this. GitHub Copilot's robust features can be accessed via a GitHub enterprise or professional account connected to a University or any such organization, or one could individually pay the standard subscription fee to access all its features.
+* There is one important aspect to this. GitHub Copilot's robust features can be accessed only via a GitHub enterprise or professional account connected to a University or any such organization, or one could individually pay the standard subscription fee to access all its features.
+* To truly leverage the full power of this tool, one must necessarily have a GitHub enterprise account either sponsored via a company or university, or a personally subscribed one which consists of a plan-based subscription fee.
 
 #### Learn and Adapt to New Programming Languages
 
