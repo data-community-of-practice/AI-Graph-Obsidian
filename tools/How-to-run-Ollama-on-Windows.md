@@ -32,7 +32,7 @@ Ollama enables you to obtain open-source models for local use. It automatically 
 
 ### What to Expect
 
-This article will guide you through the process of installing and using Ollama on Windows, introduce its main features, and demonstrate how to leverage it to explore and harness the power of large language models. Whether you want to quickly experience LLMs or need to deeply customize and run models in a local environment, Ollama provides the necessary tools and guidance.
+This article will guide you through the process of installing and using Ollama on Windows, introduce its main features, run multimodal models like Llama 3, use CUDA acceleration, adjust system variables, load GGUF models, customize model prompts, and set up a frontend website through Docker to use chatbots more elegantly. It will demonstrate how to leverage its capabilities to explore and harness the power of large language models. Whether you want to quickly experience LLMs or need to deeply customize and run models in a local environment, Ollama provides the necessary tools and guidance.
 
 > Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
 > 
