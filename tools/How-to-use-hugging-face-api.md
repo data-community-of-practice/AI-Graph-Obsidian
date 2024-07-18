@@ -4,7 +4,8 @@ Getting started to join Hugging Face community
 
 ![[thumbnail-image.webp]](../img/images-wendi/thumbnail-image.webp)
 <div align="center"><small>Created using DALLE on 18 Jul 2024</small></div>
-
+%%This image has to be in jpeg or png format%%
+%%Captions for the images should be more descriptive. You can cite the source, but the caption should still say what the image is about%%
 ## Authors
 
 - Wendi Fan (**ORCID: 0000-0003-0284-9166**)
