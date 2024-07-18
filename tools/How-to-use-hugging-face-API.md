@@ -3,7 +3,7 @@
 Getting started to join Hugging Face community
 
 ![[thumbnail-image.webp]](../img/images-wendi/thumbnail-image.webp)
-<div style="text-align: center;">Created using DALLE on 18 Jul 2024</div>
+<div align="center"><i>Created using DALLE on 18 Jul 2024</i></div>
 
 ## Authors
 
