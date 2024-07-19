@@ -12,39 +12,26 @@ In recent years, artificial intelligence (AI) has made significant advancements 
 ## What is a Diffusion Model?  
   
 A diffusion model is a type of generative model that creates images by progressively refining random noise. The process is inspired by thermodynamic diffusion, where particles spread out over time. In the context of AI, diffusion models start with an image filled with random noise and iteratively remove the noise to reveal a clear and coherent picture. 
-
 Stable Diffusion is a cutting-edge deep learning model introduced in 2022, designed for generating images from text descriptions using diffusion techniques. Developed by Stability AI, it marks a significant advancement in generative AI, contributing to the current AI boom.
 The model excels at creating detailed images based on text prompts and can also perform tasks like inpainting, outpainting, and text-guided image-to-image translations. Its development was a collaborative effort involving researchers from the CompVis Group at Ludwig Maximilian University of Munich and Runway, with computational resources provided by Stability AI and training data from non-profit organizations.
   
 ### Architecture of Stable Diffusion Models  
 
 Stable Diffusion consists of 3 parts described below:
+1. **Variational Autoencoder (VAE)**: This compresses the image from pixel space to a smaller, more manageable latent space, capturing the essential features of the image.The Variational Autoencoder (VAE) model consists of two main components: an encoder and a decoder. A 512 * 512 * 3 image is transformed by the encoder during latent diffusion training into a low dimensional latent representation of an image, say 64 * 64 * 4, for the forward diffusion process. These tiny encoded representations of images are referred to as latents. Every time we train these latents, we add an increasing amount of noise. The U-Net model receives this encoded latent representation of images as input.  In this case, 48 times less memory is needed to turn an image of shape (3, 512, 512) into a latent of shape (4, 64, 64). When compared to pixel-space diffusion models, this results in lower memory and compute needs. As a result, we can also produce 512 x 512 images on 16GB Colab GPUs quite quickly. The latent representation is converted back into a picture by the decoder. Using the VAE decoder, we turn the denoised latents produced by the reverse diffusion process into pictures. The denoised image can be transformed into actual images during inference by simply using the VAE decoder.
 
-1. **Variational Autoencoder (VAE)**: This compresses the image from pixel space to a smaller, more manageable latent space, capturing the essential features of the image. 
-The Variational Autoencoder (VAE) model consists of two main components: an encoder and a decoder. A 512 * 512 * 3 image is transformed by the encoder during latent diffusion training into a low dimensional latent representation of an image, say 64 * 64 * 4, for the forward diffusion process. These tiny encoded representations of images are referred to as latents. Every time we train these latents, we add an increasing amount of noise. The U-Net model receives this encoded latent representation of images as input.  
-  
-In this case, 48 times less memory is needed to turn an image of shape (3, 512, 512) into a latent of shape (4, 64, 64). When compared to pixel-space diffusion models, this results in lower memory and compute needs. As a result, we can also produce 512 x 512 images on 16GB Colab GPUs quite quickly.
-
-The latent representation is converted back into a picture by the decoder. Using the VAE decoder, we turn the denoised latents produced by the reverse diffusion process into pictures.
-
-The denoised image can be transformed into actual images during inference by simply using the VAE decoder.
-
-2. **U-Net**: A neural network that performs the denoising task, transforming the noisy latent representation back into a clean image.  
-
-Denoised image representation of noisy latents is predicted by U-Net. In this case, UNet produces noise in the latents as its output, while Unet receives noisy latents as input. By using this, we can subtract the noise from the noisy latents and obtain true latents.
-
-The Unet that predicts noise by incorporating the noisy latents (x). As guidance, we employ a conditional model that additionally includes the timestep (t) and our text embedding.
+2. **U-Net**: A neural network that performs the denoising task, transforming the noisy latent representation back into a clean image. Denoised image representation of noisy latents is predicted by U-Net. In this case, UNet produces noise in the latents as its output, while Unet receives noisy latents as input. By using this, we can subtract the noise from the noisy latents and obtain true latents. The Unet that predicts noise by incorporating the noisy latents (x). As guidance, we employ a conditional model that additionally includes the timestep (t) and our text embedding.
 
 ![U-Net Architecture](img/unet.png) 
 <div align="center" ><i>Architecture of UNet. </i> <a href="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/?ref=assemblyai.com" target="_blank">Source</a></div>
 
-3. **Text Encoder (optional)**: For text-to-image generation, a pre trained text encoder like CLIP is used to transform text prompts into embeddings that guide the image generation process. For instance, CLIP’s Text Encoder can serve as a text encoder.
+3. **Text Encoder (optional)**: For text-to-image generation, a pre trained text encoder like CLIP is used to transform text prompts into embeddings that guide the image generation process. For instance, CLIP’s Text Encoder can serve as a text encoder. The input prompt is converted by the text-encoder into an embedding space, which is then fed into the U-Net. When we train Unet for its denoising process, this serves as advice for noisy latents. A sequence of input tokens is mapped to a sequence of latent text embeddings by the text encoder, which is often a straightforward transformer-based encoder. Instead of training a fresh text encoder, Stable Diffusion makes advantage of CLIP, which is previously learned. The supplied text is converted into embeddings by the text encoder.
 
-The input prompt is converted by the text-encoder into an embedding space, which is then fed into the U-Net. When we train Unet for its denoising process, this serves as advice for noisy latents. A sequence of input tokens is mapped to a sequence of latent text embeddings by the text encoder, which is often a straightforward transformer-based encoder. Instead of training a fresh text encoder, Stable Diffusion makes advantage of CLIP, which is previously learned. The supplied text is converted into embeddings by the text encoder.
+When everything is considered, the model operates as shown in the below figure during the inference process:
 
   
 ![Stable Diffusion Inference Process](img/inference.png) 
-<div align="center" ><i>Architecture of UNet. </i> <a href="https://medium.com/@onkarmishra/stable-diffusion-explained-1f101284484d" target="_blank">Source</a></div>
+<div align="center" ><i>Stable Diffusion Inference Process</i> <a href="https://medium.com/@onkarmishra/stable-diffusion-explained-1f101284484d" target="_blank">Source</a></div>
   
 ### How Stable Diffusion Models Work  
   
