@@ -13,7 +13,7 @@ In recent years, artificial intelligence (AI) has made significant advancements 
   
 A diffusion model is a type of generative model that creates images by progressively refining random noise. The process is inspired by thermodynamic diffusion, where particles spread out over time. In the context of AI, diffusion models start with an image filled with random noise and iteratively remove the noise to reveal a clear and coherent picture. 
 Stable Diffusion is a cutting-edge deep learning model introduced in 2022, designed for generating images from text descriptions using diffusion techniques. Developed by Stability AI, it marks a significant advancement in generative AI, contributing to the current AI boom.
-The model excels at creating detailed images based on text prompts and can also perform tasks like inpainting, outpainting, and text-guided image-to-image translations. Its development was a collaborative effort involving researchers from the CompVis Group at Ludwig Maximilian University of Munich and Runway, with computational resources provided by Stability AI and training data from non-profit organizations.
+The model excels at creating detailed images based on text prompts and can also perform tasks like inpainting, outpainting, and text-guided image-to-image translations. Its development was a collaborative effort involving researchers from the CompVis Group at Ludwig Maximilian University of Munich and Runway, with computational resources provided by Stability AI and training data from non-profit organisations.
   
 ### Architecture of Stable Diffusion Models  
 
