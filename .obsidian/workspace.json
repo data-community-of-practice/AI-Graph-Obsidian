@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/How-to-use-hugging-face-api.md",
+                "file": "tools/what-is-diffusion-model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/How-to-use-hugging-face-api.md",
+                "file": "tools/what-is-diffusion-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/How-to-use-hugging-face-api.md",
+                "file": "tools/what-is-diffusion-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/How-to-use-hugging-face-api.md"
+                "file": "tools/what-is-diffusion-model.md"
               }
             }
           }
@@ -148,26 +148,26 @@
   },
   "active": "cf1d083e93f12417",
   "lastOpenFiles": [
-    "img/images-wendi/thumbnail-image.png",
-    "tools/what-is-diffusion-model.md",
+    "tools/How-to-run-Ollama-on-Windows.md",
+    "img/unet-architecture.png",
+    "img/inference.png",
+    "img/forward-reverse-diffusion.png",
+    "img/diffusion-model.png",
+    "img/202407182334125.webp",
+    "img/202407182324947.webp",
+    "img/202407182324799.webp",
+    "img/202407182324073.webp",
+    "img/202407182324050.webp",
+    "img/202407182323567.webp",
     "tools/What are the latest developments in prompt engineering.md",
+    "tools/what-is-diffusion-model.md",
     "tools/How-to-use-hugging-face-api.md",
     "tools/How-to-use-GitHub-Copilot.md",
     "tools/privatellm-chatbot-creation-tutorial.md",
-    "img/images-wendi/yourphoto.jpg",
-    "img/images-wendi/thumbnail-image.webp",
-    "img/privatellm-sampling-params-example.png",
-    "img/privatellm-new-sys-prompt.png",
     "hi.md",
     "README.md",
     "tools/README.md",
-    "img/github-copilot-new.jpg",
     "img.md",
-    "Pasted image 20240717114729.png",
-    "Pasted image 20240717114043.png",
-    "Pasted image 20240717114035.png",
-    "img/copilot-ext-jet.png",
-    "img/copilot-ext.png",
     "models/README.md"
   ]
 }
