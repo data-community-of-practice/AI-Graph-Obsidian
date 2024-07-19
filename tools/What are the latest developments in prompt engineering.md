@@ -1,4 +1,9 @@
 
+### Author 
+
+Tarun Krishnan (**ORCID**: [0009-0006-6647-127X](https://orcid.org/0009-0006-6647-127X))
+### Introduction
+
 With the advent of generative AI, there has been a massive influx of generated content across different fields. Unfortunately, as more and more people utilize tools like ChatGPT and Bard (Gemini now), there has been a decrease in the ability to create novel and innovative ideas independently due to over-reliance on these generative tools. On the other hand, frequent use of these tools has made people more adept at creating prompts, which are the ways in which people "communicate" with generative AI. Consequently, in the current job market, multiple companies have started employing 'Prompt Engineers'. 
 
 <div style="display: flex; justify-content: space-around;"> 
@@ -52,6 +57,7 @@ This may sound counter-intuitive because why would one want to create imperfect 
 </div>
 
 This is more of a "purposeful" type of prompting in the sense that only if you know that your prompt is imperfect can you understand why the generated content is being generated that particular way. Let’s take an example on a simpler scale where the user wants to know about the planet Mars. The easiest way to gain information about Mars would be to directly ask Gen AI, "What is Mars?" This response would definitely produce accurate results on what Mars is, where it is located, and so on. But what if the user wanted to know a little more about the moons surrounding Mars? The user can write an imperfect prompt that could result in content being generated in a different way. So if the user responds with, "I heard that Mars has 100 moons revolving around its orbit!" this would probably prompt the AI to respond with the right information but in a different way, which is something that wouldn't have been relayed if just directly asked, "How many moons does Mars have?" Further, the AI could even respond with a more detailed response given that the user has entered incorrect information.
+### Conclusion
 
 The above methods that we discussed just scratch the tip of the iceberg when it comes to the latest developments in prompt engineering. With the daily increase in the usage of Generative AI tools in everyday lives and in industrial applications, there will definitely be further developments in this field and maybe even prompt more employers to hire people to "communicate" with Generative AI.
 ### References
