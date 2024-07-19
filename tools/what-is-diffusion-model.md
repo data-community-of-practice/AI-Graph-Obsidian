@@ -22,7 +22,7 @@ Stable Diffusion consists of 3 parts described below:
 
 2. **U-Net**: A neural network that performs the denoising task, transforming the noisy latent representation back into a clean image. Denoised image representation of noisy latents is predicted by U-Net. In this case, UNet produces noise in the latents as its output, while Unet receives noisy latents as input. By using this, we can subtract the noise from the noisy latents and obtain true latents. The Unet that predicts noise by incorporating the noisy latents (x). As guidance, we employ a conditional model that additionally includes the timestep (t) and our text embedding.
 
-![U-Net Architecture](img/unet.png) 
+![U-Net Architecture](img/unet-architecture.png) 
 <div align="center" ><i>Architecture of UNet. </i> <a href="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/?ref=assemblyai.com" target="_blank">Source</a></div>
 
 3. **Text Encoder (optional)**: For text-to-image generation, a pre trained text encoder like CLIP is used to transform text prompts into embeddings that guide the image generation process. For instance, CLIP’s Text Encoder can serve as a text encoder. The input prompt is converted by the text-encoder into an embedding space, which is then fed into the U-Net. When we train Unet for its denoising process, this serves as advice for noisy latents. A sequence of input tokens is mapped to a sequence of latent text embeddings by the text encoder, which is often a straightforward transformer-based encoder. Instead of training a fresh text encoder, Stable Diffusion makes advantage of CLIP, which is previously learned. The supplied text is converted into embeddings by the text encoder.
