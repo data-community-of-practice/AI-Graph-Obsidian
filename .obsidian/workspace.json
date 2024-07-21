@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c30e49ea9096bf58",
+        "id": "2e143e176f3c4504",
         "type": "tabs",
         "children": [
           {
-            "id": "80d157a61425467d",
+            "id": "32b95a4cb4cc1a2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80d157a61425467d",
+  "active": "32b95a4cb4cc1a2e",
   "lastOpenFiles": [
-    "What are the latest developments in prompt engineering.md"
+    "What are the latest developments in prompt engineering.md",
+    "tools/what-is-diffusion-model.md",
+    "tools/privatellm-chatbot-creation-tutorial.md",
+    "tools/How-to-use-hugging-face-api.md",
+    "tools/How-to-use-GitHub-Copilot.md",
+    "img/privatellm-system-prompt.png",
+    "img/privatellm-sampling-params-example.png",
+    "img/privatellm-sampling-parameters.png",
+    "img/privatellm-new-sys-prompt.png",
+    "img/privatellm-launchepage.png",
+    "img/privatellm-download-model.png",
+    "img/privatellm-app-store-purchase.png",
+    "img/images-wendi/yourphoto.jpg",
+    "img/images-wendi/thumbnail-image.webp",
+    "img/images-wendi/Step3-2.png",
+    "img/images-wendi"
   ]
 }

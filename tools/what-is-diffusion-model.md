@@ -1,0 +1,86 @@
+# Understanding Diffusion Model 
+  
+![Diffusion Model](img/DiffusionModel.png)  
+<div align="center" ><i>Created using runwayml.com on 16 July 2024.</i></div>
+## Author  
+- Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))  
+  
+## Introduction  
+  
+In recent years, artificial intelligence (AI) has made significant advancements in generating images from text descriptions, a capability once thought to be science fiction. Among the various techniques driving this progress, diffusion models have emerged as a particularly powerful approach. But what exactly is a diffusion model in AI? Let's break it down in simpler terms.  
+  
+## What is a Diffusion Model?  
+  
+A diffusion model is a type of generative model that creates images by progressively refining random noise. The process is inspired by thermodynamic diffusion, where particles spread out over time. In the context of AI, diffusion models start with an image filled with random noise and iteratively remove the noise to reveal a clear and coherent picture.  
+  
+### Architecture of Diffusion Models  
+  
+1. **Variational Autoencoder (VAE)**: This compresses the image from pixel space to a smaller, more manageable latent space, capturing the essential features of the image.  
+2. **U-Net**: A neural network that performs the denoising task, transforming the noisy latent representation back into a clean image.  
+3. **Text Encoder (optional)**: For text-to-image generation, a pre trained text encoder like CLIP is used to transform text prompts into embeddings that guide the image generation process.  
+  
+![U-Net Architecture](img/UNet.png) 
+<div align="center" ><i>Architecture of UNet. </i> <a href="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/?ref=assemblyai.com" target="_blank">Source</a></div>
+  
+### How Diffusion Models Work  
+  
+1. **The Forward Diffusion Process**  
+  
+The forward diffusion process involves gradually adding noise to an image over a series of time steps until the image is almost entirely noise. This process can be thought of as taking a clear image and progressively degrading it by adding random noise.  
+  
+2. **The Reverse Diffusion Process**  
+  
+The reverse diffusion process is where the magic happens. The model learns to reverse the noise-adding process, starting from pure noise and iteratively denoising the image to generate a realistic output. This is achieved through a neural network, often a U-Net, that is trained to predict and remove the noise added in each step of the forward process.  
+  
+The model is trained using a loss function that measures the difference between the predicted noise and the actual noise added during the forward process. Over time, the model becomes adept at predicting the noise, enabling it to generate high-quality images from random noise.  
+  
+3. **Denoising Images with U-Net**  
+  
+The U-Net architecture plays a crucial role in the denoising process. U-Net is a type of convolutional neural network (CNN) that is particularly effective for image-to-image translation tasks. It consists of an encoder that compresses the input image into a lower-dimensional representation and a decoder that reconstructs the image from this representation. Skip connections between the encoder and decoder layers help preserve spatial information, which is essential for generating detailed images.  
+  
+4. **Noise Prediction and Removal**  
+  
+At each time step of the reverse diffusion process, the U-Net model predicts the noise present in the current noisy image. This predicted noise is then subtracted from the noisy image to obtain a slightly denoised version. This process is repeated iteratively, with the model progressively refining the image until the noise is entirely removed and a clear image is produced.  
+  
+5. **Sampling in Inference and Training**  
+  
+During inference, the reverse diffusion process starts with pure noise and iteratively refines it into a coherent image. The number of steps in this process can be adjusted, with more steps typically resulting in higher-quality images but at the cost of increased computational time.  
+  
+During training, the model learns to predict the noise at each time step by minimizing the loss function, which measures the difference between the predicted noise and the actual noise. This training process requires a large dataset of images and significant computational resources.  
+  
+![Diffusion Process](img/ForwardReverseDiffusion.png)
+<div align="center" ><i>Forward and Reverse Diffusion Process. </i> <a href="https://www.simform.com/blog/diffusion-models/" target="_blank">Source</a></div>
+  
+## Applications of Diffusion Models  
+  
+There are many applications of Diffusion Models, few of them are listed below:  
+  
+### Text-to-Image Generation  
+  
+One of the most popular applications of diffusion models is generating images from text descriptions. Models like Stable Diffusion can create detailed and high-quality images based on simple text prompts, opening up new possibilities in art, design, and content creation.  
+  
+### Image Inpainting and Outpainting  
+  
+Diffusion models are also used for inpainting (filling in missing parts of an image) and outpainting (extending an image beyond its original borders). These techniques are valuable for editing and restoring images, as well as for creating expansive scenes from smaller visuals.  
+  
+### Image-to-Image Translation  
+  
+Another exciting application is image-to-image translation, where diffusion models modify an existing image based on a text prompt or another image. This can include style transfer, enhancing image details, or even transforming a photo into a different artistic style.  
+  
+## Advancements in Diffusion Models  
+  
+### Stable Diffusion  
+  
+Stable Diffusion is a notable diffusion model developed by Stability AI. It stands out for its ability to run on consumer-grade hardware with modest GPU requirements, making it accessible to a wider audience. The model's architecture includes improvements like latent diffusion, which enhances computational efficiency without compromising image quality.  
+  
+### ControlNet  
+  
+ControlNet is an advanced architecture designed to enhance the control over diffusion models. It duplicates the weights of neural network blocks into "locked" and "trainable" copies, allowing for fine-tuning on small datasets without compromising the original model. This ensures that the model can adapt to new conditions while preserving its integrity.  
+  
+## Conclusion  
+  
+In conclusion, diffusion models represent a significant leap forward in AI capabilities, particularly in the area of image generation and manipulation. By harnessing the power of gradual noise reduction and sophisticated neural networks like U-Net, these models not only produce high-fidelity images but also push the boundaries of what AI can achieve in creative and practical applications. Looking ahead, future advancements in diffusion models are likely to focus on enhancing their scalability, efficiency, and applicability across diverse domains. Research efforts will continue to refine these models, making them more accessible and capable of generating even more realistic and contextually relevant content. Moreover, integrating diffusion models with other AI techniques such as reinforcement learning and multimodal learning could unlock new possibilities in interactive and adaptive content creation.  
+  
+## References  
+  
+- Wikipedia contributors, 2024. Stable diffusion. *Wikipedia, The Free Encyclopedia*, [online] Available at: <https://en.wikipedia.org/wiki/Stable_Diffusion> [Accessed 16 July 2024].
