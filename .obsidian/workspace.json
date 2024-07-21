@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "What are the latest developments in prompt engineering.md",
+=======
+                "file": "tools/what-is-diffusion-model.md",
+>>>>>>> 598e751dddbf1384dfd6860f37026cc99cc304c2
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "What are the latest developments in prompt engineering.md",
+=======
+                "file": "tools/what-is-diffusion-model.md",
+>>>>>>> 598e751dddbf1384dfd6860f37026cc99cc304c2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "What are the latest developments in prompt engineering.md",
+=======
+                "file": "tools/what-is-diffusion-model.md",
+>>>>>>> 598e751dddbf1384dfd6860f37026cc99cc304c2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "What are the latest developments in prompt engineering.md"
+=======
+                "file": "tools/what-is-diffusion-model.md"
+>>>>>>> 598e751dddbf1384dfd6860f37026cc99cc304c2
               }
             }
           }
@@ -146,6 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "32b95a4cb4cc1a2e",
   "lastOpenFiles": [
     "What are the latest developments in prompt engineering.md",
@@ -164,5 +181,30 @@
     "img/images-wendi/thumbnail-image.webp",
     "img/images-wendi/Step3-2.png",
     "img/images-wendi"
+=======
+  "active": "cf1d083e93f12417",
+  "lastOpenFiles": [
+    "tools/How-to-run-Ollama-on-Windows.md",
+    "img/unet-architecture.png",
+    "img/inference.png",
+    "img/forward-reverse-diffusion.png",
+    "img/diffusion-model.png",
+    "img/202407182334125.webp",
+    "img/202407182324947.webp",
+    "img/202407182324799.webp",
+    "img/202407182324073.webp",
+    "img/202407182324050.webp",
+    "img/202407182323567.webp",
+    "tools/What are the latest developments in prompt engineering.md",
+    "tools/what-is-diffusion-model.md",
+    "tools/How-to-use-hugging-face-api.md",
+    "tools/How-to-use-GitHub-Copilot.md",
+    "tools/privatellm-chatbot-creation-tutorial.md",
+    "hi.md",
+    "README.md",
+    "tools/README.md",
+    "img.md",
+    "models/README.md"
+>>>>>>> 598e751dddbf1384dfd6860f37026cc99cc304c2
   ]
 }
