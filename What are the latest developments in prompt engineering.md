@@ -1,4 +1,9 @@
 
+### Author 
+
+Tarun Krishnan (**ORCID**: [0009-0006-6647-127X](https://orcid.org/0009-0006-6647-127X))
+### Introduction
+
 With the advent of generative AI, there has been a massive influx of generated content across different fields. Unfortunately, as more and more people utilize tools like ChatGPT and Bard (Gemini now), there has been a decrease in the ability to create novel and innovative ideas independently due to over-reliance on these generative tools. On the other hand, frequent use of these tools has made people more adept at creating prompts, which are the ways in which people "communicate" with generative AI. Consequently, in the current job market, multiple companies have started employing 'Prompt Engineers'. 
 
 <div style="display: flex; justify-content: space-around;"> 
@@ -12,16 +17,28 @@ We can conclude that there are two types of information that are absolutely esse
 
 Providing contexts to Gen AI is easier said than done. Even a single word can change the generated output. Hence, providing a more tailored context based on the desired output can make a huge difference. So, how do we provide a more detailed context? Instead of just specifying instructions on what content should be generated, one can add additional information like the role that the AI needs to play or the type of persona that the AI should take while generating content, for instance.
 
-Let’s take an example where Dave requires help with fixing his WIFI router and he decides to ask ChatGPT for help because he does not want to wait for hours on end in the customer service call queues. Dave decides to rant to ChatGPT about his issue expecting a solution to be generated. He types: "Oh my god! My WIFI router is not working, I have tried everything to fix it!!" ChatGPT might, in turn, respond by continuing the rant because it has not been given enough context on what is going on. It knows that there is an issue with the WIFI router but does not know what to do with this information. Based on what it has been trained on, it thinks in different ways like, "Should I provide troubleshooting steps to fix this issue?", "Should I complete the text being provided?", or "Do I need to converse with the user as another human?" This is where providing that additional bit of context helps. 
+Let’s take an example where Dave requires help with fixing his TV and decides to ask ChatGPT for help because he does not want to wait for hours on end in customer service call queues. Dave decides to rant to ChatGPT about his issue, expecting a solution to be generated. He types: "Oh my god! My TV is not working, I have tried everything to fix it!! The screen is blue for some reason and it never changes!!" ChatGPT might, in turn, respond by continuing the rant because it has not been given enough context on what is going on. It knows that there is an issue with the TV but does not know what to do with this information. Based on what it has been trained on, it might think in different ways like, "Should I provide troubleshooting steps to fix this issue?", "Should I complete the text being provided?", or "Do I need to converse with the user as another human?" This is where providing that additional bit of context helps.
 
 <div style="text-align: center;">
-<img src="https://www.tecd.co.uk/wp-content/uploads/2022/04/ManAnnoyedAtWiFi-scaled.webp" alt="Wifi Router" width="200"/>
+<img src="https://thumbs.dreamstime.com/b/portrait-frustrated-young-man-holding-tv-remote-control-sitting-couch-home-portrait-frustrated-young-man-117214826.jpg" alt="TV issue" width="200"/>
 </div>
 
-So, in our example, if Dave adds a couple of sentences to his rant (prompt), it can help the AI hone in on a particular pathway to solving the problem at hand. If Dave modifies his prompt by adding the role of the AI: "You are a customer service agent for a Samsung Retail Store. Help the user solve the issue at hand.
-Customer: Oh my god! My WIFI router is not working, I have tried everything to fix it!!" 
+So, in our example, if Dave adds a couple of sentences to his rant (prompt), it can help the AI hone in on a particular pathway to solving the problem at hand. If Dave modifies his prompt by adding the role of the AI: "You are a customer service agent for a Samsung Retail Store. Help the user solve the issue at hand. 
+Customer: Oh my god! My TV is not working, I have tried everything to fix it!! The screen is blue for some reason and it never changes!!". 
 
 The AI now has additional information to accurately reply to the user and doesn’t make the user contemplate their decision to use ChatGPT in the first place.
+
+Let's consider an example where Lisa is a law student and wants help from ChatGPT with her assignment. When it comes to laws, there is a set of fixed laws as part of the constitution of every country. Modifying, changing, or adding new laws, even in small magnitudes like in an assignment, could have certain repercussions. Keeping this in mind, Lisa needs to be wary of using ChatGPT, as generative AI tools sometimes tend to hallucinate or make up information when they haven't been trained on a certain topic. So, what can Lisa do to ensure that such a situation does not occur?
+
+<div style="text-align: center;">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-564b940d55791b436b18f71452924a27" alt="Law assignment" width="200"/>
+</div>
+
+Instead of directly asking ChatGPT a question, she could add additional context, such as a persona in this case. A persona is a behavioral attribute provided to the AI while it generates content. For instance, one can ask the AI to be extremely elaborate or concise to the point while generating content. Using this idea of personas, Lisa could simply add the following line to the start of her prompt:
+
+"You can only use laws that are part of the judicial system and cannot make up or alter new laws for the purpose of the below question. If you do not know the law or answer, do not answer the question."
+
+By adding this simple line, Lisa can ensure that whatever content is generated adheres to the existing laws that are in place.
 ### Using Generative AI to help in prompt engineering
 
 This practice is a rather tricky one to wrap your head around because you require prompts to "communicate" with Gen AI, but how could we use this AI to help write prompts to communicate with itself? Assuming you understood what I was trying to say, let's go over a couple of ways in which we can do this. 
@@ -30,7 +47,7 @@ This practice is a rather tricky one to wrap your head around because you requir
 
 - **Asking Gen AI to write your prompt**: The user can provide basic information about their needs and ask the AI to write a prompt on their behalf. On viewing the generated prompt, the user can corroborate whether their requirements are accurately represented through the generated content. 
 
-- **Asking Gen AI to play multiple personas while generating prompts**: A persona is a behavioral attribute provided to the AI while it generates content. For instance, one can ask the AI to be extremely elaborate or concise to the point while generating content. So in our case, the user can ask the AI to play multiple such personas while creating prompts and can additionally ask it to generate content based on these prompts. Although this might be a resource-intensive process, based on the results generated, the user can decide which type of prompt produces the best results.
+- **Asking Gen AI to Play Multiple Personas While Generating Prompts**: We have seen previously how personas can be used to help provide context to the Gen AI. But how can one use multiple personas to their benefit? In the case of prompt generation, the user can ask the AI to play multiple personas while creating prompts and can additionally ask it to generate content based on these prompts. Although this might be a resource-intensive process, the user can analyze the results generated and decide which type of prompt produces the best outcome.
 ### Imperfect Prompting
 
 This may sound counter-intuitive because why would one want to create imperfect prompts? This type of prompting works when you are intrigued by finding out the different types of generated outputs, which could in turn give you more ideas on the final content you wish to generate.
@@ -40,18 +57,19 @@ This may sound counter-intuitive because why would one want to create imperfect 
 </div>
 
 This is more of a "purposeful" type of prompting in the sense that only if you know that your prompt is imperfect can you understand why the generated content is being generated that particular way. Let’s take an example on a simpler scale where the user wants to know about the planet Mars. The easiest way to gain information about Mars would be to directly ask Gen AI, "What is Mars?" This response would definitely produce accurate results on what Mars is, where it is located, and so on. But what if the user wanted to know a little more about the moons surrounding Mars? The user can write an imperfect prompt that could result in content being generated in a different way. So if the user responds with, "I heard that Mars has 100 moons revolving around its orbit!" this would probably prompt the AI to respond with the right information but in a different way, which is something that wouldn't have been relayed if just directly asked, "How many moons does Mars have?" Further, the AI could even respond with a more detailed response given that the user has entered incorrect information.
+### Conclusion
 
 The above methods that we discussed just scratch the tip of the iceberg when it comes to the latest developments in prompt engineering. With the daily increase in the usage of Generative AI tools in everyday lives and in industrial applications, there will definitely be further developments in this field and maybe even prompt more employers to hire people to "communicate" with Generative AI.
-
 ### References
 
 1) https://www.hausmanmarketingletter.com/wp-content/uploads/2023/05/64063dbcad97bd421b437096_chatgpt.jpg
 2) https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYTIOQzB7f_WPoljpAvMyv2fdvy0U7o1_rLA&s
-3) https://www.tecd.co.uk/wp-content/uploads/2022/04/ManAnnoyedAtWiFi-scaled.webp
-4) https://witsvalleyco.com/wp-content/uploads/2023/08/questions-e1702106123726.jpg
-5) https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/
-6) https://www.forbes.com/sites/lanceeliot/2024/03/14/latest-prompt-engineering-trend-uses-generative-ai-to-generate-your-prompts-for-you/
-7) https://www.forbes.com/sites/lanceeliot/2023/12/28/must-read-best-of-practical-prompt-engineering-strategies-to-become-a-skillful-prompting-wizard-in-generative-ai/
+3) https://thumbs.dreamstime.com/b/portrait-frustrated-young-man-holding-tv-remote-control-sitting-couch-home-portrait-frustrated-young-man-117214826.jpg
+4) https://qph.cf2.quoracdn.net/main-qimg-564b940d55791b436b18f71452924a27
+5) https://witsvalleyco.com/wp-content/uploads/2023/08/questions-e1702106123726.jpg
+6) https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/
+7) https://www.forbes.com/sites/lanceeliot/2024/03/14/latest-prompt-engineering-trend-uses-generative-ai-to-generate-your-prompts-for-you/
+8) https://www.forbes.com/sites/lanceeliot/2023/12/28/must-read-best-of-practical-prompt-engineering-strategies-to-become-a-skillful-prompting-wizard-in-generative-ai/
 
 
 
