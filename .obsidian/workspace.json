@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "43b60d11d340fcf7",
+        "id": "a90880e271541066",
         "type": "tabs",
         "children": [
           {
-            "id": "11ee59b1e764d695",
+            "id": "d86c2cac6a0fba9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/How to use OpenAI Playground.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/How to use OpenAI Playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/How to use OpenAI Playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tools/How to use OpenAI Playground.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11ee59b1e764d695",
+  "active": "d86c2cac6a0fba9c",
   "lastOpenFiles": [
+    "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
+    "tools/How to use OpenAI Playground.md",
     "tools/How-to-use-Gorilla.md",
     "linkedin/README.md",
     "linkedin",
@@ -161,7 +155,6 @@
     "img/gorilla-integrate-langchain.png",
     "img/gorilla-cog-login.png",
     "img/gorilla-cog-build-image.png",
-    "tools/What are the latest developments in prompt engineering.md",
-    "tools/How to use OpenAI Playground.md"
+    "tools/What are the latest developments in prompt engineering.md"
   ]
 }
