@@ -148,8 +148,20 @@
   },
   "active": "11ee59b1e764d695",
   "lastOpenFiles": [
+    "tools/How-to-use-Gorilla.md",
+    "linkedin/README.md",
+    "linkedin",
+    "img/gorilla-select-quantized-model.png",
+    "img/gorilla-replicate-inference.png",
+    "img/gorilla-push-image.png",
+    "img/gorilla-openfunctions-example.png",
+    "img/gorilla-local-inference-example.png",
+    "img/gorilla-local-inference-download.png",
+    "img/gorilla-leaderboard.png",
+    "img/gorilla-integrate-langchain.png",
+    "img/gorilla-cog-login.png",
+    "img/gorilla-cog-build-image.png",
     "tools/What are the latest developments in prompt engineering.md",
-    "tools/How to use OpenAI Playground.md",
-    "Pasted image 20240723231846.png"
+    "tools/How to use OpenAI Playground.md"
   ]
 }
