@@ -95,6 +95,76 @@ http://127.0.0.1:7860/
 ![Example Gorilla Quantized Model interaction](../img/gorilla-local-inference-example.png)
 <div align="center"><i>Sample Interaction with Gorilla Models from WebUI</i></div>
 
+### Hosted Endpoint Inference: Replicate
+Inference with Hosted Endpoint on Replicate allows you to run and deploy Gorilla models in a fast, private, and secure manner, suitable for production-grade applications. Replicate is an alternative to using UC Berkeley's hosted endpoint and provides an excellent option for those who require a scalable platform for their private applications
+
+- Installing Cog: Begin by installing Cog, a tool from Replicate that simplifies the process of containerizing and deploying applications like Gorilla. Execute the following commands to download and install Cog on your system:
+```
+sudo curl -o /usr/local/bin/cog -L https://github.com/replicate/cog/releases/latest/download/cog_`uname -s`_`uname -m`
+sudo chmod +x /usr/local/bin/cog
+```
+- To set up Gorilla for use with Cog, the configuration is specified in a cog.yaml file. This file outlines the necessary system specifications, Python package requirements, and other settings. Here is the cog.yaml file tailored for Gorilla models:
+```
+build:
+  gpu: true
+  python_version: "3.10"
+  python_packages:
+    - "torch==2.0.1"
+    - "transformers==4.28.1"
+    - "huggingface-hub==0.14.1"
+    - "sentencepiece==0.1.99"
+    - "accelerate==0.19.0"
+    - "einops"
+predict: "predict.py:Predictor"
+```
+- **Setting up predict.py:** The predict.py file serves as the prediction interface for Gorilla, outlining the implementation of the Predictor class. This class specifies the setup of the model and the mechanism for generating predictions.
+- **Building a Docker Image with Cog:** Start by building a Docker image that contains the Gorilla model along with all necessary dependencies. This is done using Cog to ensure the environment is consistent and deployable. Run the following command in your terminal, replacing <image-name> with your chosen name for the Docker image:
+```
+cog build -t <image-name>
+```
+![Example Cog Build Image](../img/gorilla-cog-build-image.png)
+<div align="center"><i>Construct a Docker image using the specified configuration with Cog</i></div>
+
+- **Logging into Replicate:** Before you can upload your Docker image, you need to log into your Replicate account. If this is your first time deploying, you'll need to authenticate via the command line:
+```
+cog login
+```
+
+![Example Replicate Login](../img/gorilla-cog-login.png)
+<div align="center"><i>Login to Replicate with API Token</i></div>
+
+- **Publishing the Docker Image to Replicate:**
+Once your Docker image is built and you are logged in, the next step is to push the image to Replicate’s registry. This makes it available for running on Replicate’s platform. Replace <your-username> with your actual Replicate username and <your-model-name> with the name you have assigned to your model on Replicate. Use the following command to upload your image:
+```
+cog push r8.im/<your-username>/<your-model-name>
+```
+
+![Example Cog Push Image](../img/gorilla-push-image.png)
+<div align="center"><i>Publish Docker Image to Replicate</i></div>
+
+- **Installing the Replicate Python Client Library:** Begin by installing the Replicate client library to interact with the hosted Gorilla model. Use the following command to install the library via pip:
+```
+pip install replicate
+```
+
+- **Authenticating with Replicate:** Before you start using the Python client, you need to authenticate by setting your Replicate API token as an environment variable. Replace <your-token-here> with your actual API token:
+```
+export REPLICATE_API_TOKEN=<your-token-here>
+```
+
+- **Running Inference Using the Python Client:** Once the client is set up and authenticated, you can perform inference using Python. Replace <your-username>, <your-model-name>, and <model-version> with your Replicate username, the model name, and the version of the model you wish to use. Additionally, replace <add-your-query-here> with the query you want to process
+```
+import replicate
+
+output = replicate.run(
+    "<your-username>/<your-model-name>:<model-version>",
+    input={"user_query": <add-your-query-here>}
+)
+print(output)
+```
+
+![Example Cog Push Image](../img/gorilla-replicate-inference.png)
+<div align="center"><i>Inference Result with Replicate API</i></div>
 
 ### Gorilla OpenFunctions
 Gorilla OpenFunctions is a powerful capability that allows large language models like Gorilla to generate executable API calls based on a user's natural language query and the provided API documentation.
@@ -145,8 +215,6 @@ get_gorilla_response(query, functions=functions)
 ```
 ![Example Gorilla Openfunctions](../img/gorilla-openfunctions-example.png)
 <div align="center"><i>Gorilla OpenFunctions Example Response</i></div>
-
-
 
 
 ### Integrating Gorilla With Third-Party Libraries
