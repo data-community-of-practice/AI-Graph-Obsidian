@@ -18,7 +18,6 @@ Gorilla is an innovative open-source project that enhances Large Language Models
   - [API Index: Navigating the Gorilla Zoo](#gorilla-api-zoo-index)
   - [Competition: Join the Berkeley Function Calling Leaderboard](#berkeley-function-calling-leaderboard-bfcl)
 
-
 ## Ready-to-Use Product: Gorilla CLI
 Gorilla CLI is a command-line interface tool that streamlines the process of interacting with various APIs by producing appropriate commands for specified tasks. Users don't need to memorize or input lengthy commands for different APIs; instead, they can enter their request in natural language, and Gorilla CLI will create suitable commands to execute the task.
 - **Installation**: Gorilla CLI can be easily installed using Python's package manager. Run the following command to install Gorilla CLI via pip, which will allow you to start using its features immediately
@@ -274,3 +273,9 @@ The BFCL is a comprehensive dataset designed for evaluating executable function 
 
 ## Conclusion
 Gorilla provides a robust suite of tools for integrating APIs with Large Language Models. From user-friendly interfaces to advanced developer options, it offers solutions for diverse needs. With its adaptable deployment methods and community-driven resources, Gorilla stands as a valuable asset in the field of AI and API integration, suitable for both casual users and experienced developers.
+
+## Reference
+[1] *How to Use Gorilla Inference - Step-by-step guide on leveraging Gorilla for model inference.* [Read more.](https://gorilla.cs.berkeley.edu/blogs/5_how_to_gorilla.html#gorilla-inference)<br>
+[2] *Gorilla GitHub Repository - Documentation for running inference with Gorilla.* [Explore GitHub.](https://github.com/ShishirPatil/gorilla/blob/main/inference/README.md)<br>
+[3] *Gorilla API Zoo - Access to various APIs provided by Gorilla for developing applications.* [Visit API Zoo.](https://gorilla.cs.berkeley.edu/apizoo/)<br>
+[4] *Gorilla Leaderboard - View current rankings and results for Gorilla-based competitions.* [View Leaderboard.](https://gorilla.cs.berkeley.edu/leaderboard.html)
