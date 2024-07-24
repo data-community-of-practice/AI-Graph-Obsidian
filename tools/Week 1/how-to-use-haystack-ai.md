@@ -23,8 +23,8 @@ The project focuses on providing hands-on experience with Haystack AI by demonst
 ## Setting Up the Environment
 To start, we need to install the necessary packages and set up our API keys. Follow these steps in your Google Colab environment:
 1. Install the required packages.
-
-```!pip install haystack-ai sentence-transformers transformers "huggingface_hub>=0.22.0"
+```
+!pip install haystack-ai sentence-transformers transformers "huggingface_hub>=0.22.0"
 ```
 2. Set up API keys for Hugging Face and OpenAI.
 ```
