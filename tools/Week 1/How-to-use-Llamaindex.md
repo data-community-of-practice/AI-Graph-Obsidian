@@ -6,7 +6,7 @@
 
 * Aditya Iyengar (ORCID: [0009-0005-1959-9724](https://orcid.org/0009-0005-1959-9724))
 
-
+%% Stick to British english - "s" in place of "z" for words like optimise, customise, utilise etc.%%
 ## Introduction to LlamaIndex
 
 In the burgeoning field of artificial intelligence, the importance of effectively managing and utilizing data cannot be overstated. LlamaIndex stands out as a pivotal tool in this arena, offering a comprehensive framework designed to enhance applications by seamlessly integrating large language models (LLMs) with diverse data sources. This article delves into the detailed usage, capabilities, and practical applications of LlamaIndex, providing a valuable resource for developers eager to harness the power of AI in their projects.
@@ -44,7 +44,8 @@ pip install llama-index-llms-anthropic
 ```
 
 #### Steps 2, 3, 4 and 5:
-
+%% Just mention in words what you do for steps 2,3, 4, 5 in addition to this screenshot%%
+%%Keep a small guide on how to obtain the api key from your service provider, perhaps with an example%%
 ![Steps-in-sequence](img/example-code-llamaindex.png)
 <div align="center" ><i>Example Code to use llamaindex via python for operations like indexing and querying by Aditya Iyengar</i></div>
 ### Data Ingestion and Management

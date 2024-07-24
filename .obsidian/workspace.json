@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla.md",
+                "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla.md",
+                "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla.md",
+                "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla.md"
+                "file": "tools/Week 1/How-to-use-Llamaindex.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "cf0417e127498c48",
   "lastOpenFiles": [
+    "tools/Week 1/how-to-use-haystack-ai.md",
+    "tools/Week 1/How-to-use-Gorilla.md",
     "tools/Week 0/What are the latest developments in prompt engineering.md",
     "tools/Week 0/How-to-use-GitHub-Copilot.md",
     "tools/Week 1/How to use OpenAI Playground.md",
@@ -190,8 +192,6 @@
     "img/llamaindex.png",
     "conflict-files-obsidian-git.md",
     "tools/Week 0/what-is-diffusion-model.md",
-    "tools/Week 1/how-to-use-haystack-ai.md",
-    "tools/Week 1/How-to-use-Gorilla.md",
     "tools/Week 0/How-to-run-Ollama-on-Windows.md",
     "linkedin/README.md",
     "linkedin",
