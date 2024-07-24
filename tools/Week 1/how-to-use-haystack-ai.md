@@ -22,6 +22,7 @@ RAG pipelines blend information retrieval with text generation. They work by fir
 The project focuses on providing hands-on experience with Haystack AI by demonstrating how to create a RAG pipeline that embeds documents, retrieves relevant information, constructs prompts, and generates answers. We chose Google Colab for this project due to its powerful capabilities for running machine learning experiments, including GPU acceleration, which is crucial for processing large NLP models. Colab also makes it easy to share and collaborate on projects.
 ## Setting Up the Environment
 To start, we need to install the necessary packages and set up our API keys. Follow these steps in your Google Colab environment:
+
 1. Install the required packages.
 
 !pip install haystack-ai sentence-transformers transformers "huggingface_hub>=0.22.0"
