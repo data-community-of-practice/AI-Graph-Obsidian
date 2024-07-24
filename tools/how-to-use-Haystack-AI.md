@@ -107,7 +107,7 @@ question = "What is the traditional dish of Japan?"
 rag_pipeline.run({"embedder": {"text": question},
 "prompt_builder": {"query": question}})
 ```
-This query is run to get output.
+This query is run to get output shown below.
 ![Output](img/haystack-rag-output.png) 
 <div align="center" ><i>Output of RAG Pipeline created using Google Colab by Tohfa Siddika Barbhuiya.</i></div>
 ## Putting It All Together
