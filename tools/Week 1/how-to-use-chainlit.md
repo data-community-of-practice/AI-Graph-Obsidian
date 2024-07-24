@@ -38,7 +38,7 @@ A new window of chainlit UI should pop up and ask for your name like this:<br>
 ![[chainlit-ui.png]](../../img/chainlit-ui.png)
 <div align="center"><small>The Basic Chainlit UI Interface</small></div>
 
-If you see something like this, you are all set! :)<br>
+If you see something like this, you are all set!  :)<br>
 
 ### Build a minimal LLM app using Chainlit
 
