@@ -42,7 +42,7 @@ If you see something like this, you are all set! :)<br>
 
 ### Build a minimal LLM app using Chainlit
 
-In the following tutorial, we will guild you step by step to build a LLM app demo with Chainlit on your system. Generally, there are two different ways to use Chainlit. The first is Pure Python, which focuses on how to use chainlit with python code. The second involves integrating Chainlit with other frameworks.<br>
+In the following tutorial, we will guide you step by step to build a LLM app demo with Chainlit on your system. Generally, there are two different ways to use Chainlit. The first is Pure Python, which focuses on how to use chainlit with python code. The second involves integrating Chainlit with other frameworks.<br>
 
 #### In Pure Python
 
@@ -52,7 +52,7 @@ Create a new Python file named **app.py** in your project folder. We will add th
 
 ##### Step 2: Write the application Logic
 
-In the **app.py** file, import Chainlit package into your project and outline the basic structure of our function to handle the incoming messages from the chatbot UI. The `main` function will be called each time a user inputs a new message into the chat box. You can add more logic to the code to customize your application. Here is the basic structure of the script:<br>
+In the **app.py** file, import Chainlit package into your project and outline the basic structure of our function to handle the incoming messages from the chatbot UI. The `main` function will be called each time a user inputs a new message into the chat box. You can add more logic to the code to customise your application. Here is the basic structure of the script:<br>
 ```
 import chainlit as cl
 
@@ -168,7 +168,7 @@ We have built our own story maker, let's have a try!<br>
 ![[chainlit-generated-story.png]](../../img/chainlit-generated-story.png)
 <div align="center"><small>Story generated based on the keywords</small></div><br>
 
-By integrating Chainlit with other LLMs, we can easily create a decent dialogue interface UI and functional application. Additionally, we can customize the application using different types of AI Models. Another advantage of Chainlit is that it can be used across multiple platforms, such as Web App, Copilot, API, Slack, etc. You might have noticed that when we run the demo in this tutorial, it opens our application in your default web browser. It indicates that we have already deployed Chainlit in our web app.
+By integrating Chainlit with other LLMs, we can easily create a decent dialogue interface UI and functional application. Additionally, we can customise the application using different types of AI Models. Another advantage of Chainlit is that it can be used across multiple platforms, such as Web App, Copilot, API, Slack, etc. You might have noticed that when we run the demo in this tutorial, it opens our application in your default web browser. It indicates that we have already deployed Chainlit in our web app.
 
 ## Conclusion
 
