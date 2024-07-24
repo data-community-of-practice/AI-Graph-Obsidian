@@ -1,7 +1,7 @@
 
 ### Introduction
 
-Have you ever thought, "Wow! ChatGPT is really cool, but how can I modify the way it gives results? Is there any way I can tweak the infamous brain of ChatGPT?" Well, my friend, you've clicked on the right article!
+Have you ever thought, "Wow! ChatGPT is really cool, but how can I modify the way it gives results? Is there any way I can tweak the infamous brain of ChatGPT?" Well, my friend, you've clicked on the right article!%%Avoid marketing language, it can be simple and easy to read, but still keep it professional%%
 
 <div style="text-align: center;">
 <img src="https://www.webfx.com/wp-content/uploads/2023/07/what-is-openai.png" alt="TV issue" width="200"/>

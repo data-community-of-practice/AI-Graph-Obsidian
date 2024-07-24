@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
+                "file": "tools/Week 1/How to use OpenAI Playground.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
+                "file": "tools/Week 1/How to use OpenAI Playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
+                "file": "tools/Week 1/How to use OpenAI Playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md"
+                "file": "tools/Week 1/How to use OpenAI Playground.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "cf0417e127498c48",
   "lastOpenFiles": [
+    "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
     "README.md",
     "linkedin/Week 1",
     "tools/README.md",
     "tools/Week 1/How to use OpenAI Playground.md",
-    "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
     "tools/Week 1",
     "tools/Week 0",
     "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
