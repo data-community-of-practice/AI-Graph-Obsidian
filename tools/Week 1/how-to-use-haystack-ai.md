@@ -23,8 +23,9 @@ The project focuses on providing hands-on experience with Haystack AI by demonst
 ## Setting Up the Environment
 To start, we need to install the necessary packages and set up our API keys. Follow these steps in your Google Colab environment:
 1. Install the required packages.
-python
-```!pip install haystack-ai sentence-transformers transformers "huggingface_hub>=0.22.0"```
+
+```!pip install haystack-ai sentence-transformers transformers "huggingface_hub>=0.22.0"
+```
 2. Set up API keys for Hugging Face and OpenAI.
 ```
 import os
@@ -107,13 +108,14 @@ question = "What is the traditional dish of Japan?"
 rag_pipeline.run({"embedder": {"text": question},
 "prompt_builder": {"query": question}})
 ```
-
+This query is run to get output shown below.
 ![Output](img/haystack-rag-output.png) 
 <div align="center" ><i>Output of RAG Pipeline created using Google Colab by Tohfa Siddika Barbhuiya.</i></div>
 ## Putting It All Together
 When you run the full pipeline with the question "What is the traditional dish of Japan?", it embeds the query, retrieves relevant documents, constructs a prompt, and generates an answer using GPT-4.
 ## Conclusion
 In this article, we explored Haystack AI and how to create a RAG pipeline with it. We covered the installation of necessary packages, creation of a pipeline, and construction of a more advanced RAG pipeline. As you experiment with different components and configurations furthermore, you'll find Haystack AI to be an invaluable tool in developing cutting-edge, production-ready NLP solutions tailored to your specific requirements.
+
 ## References  
 - deepset, "Creating Pipelines," Haystack AI Documentation, [Online]. Available: https://docs.haystack.deepset.ai/docs/creating-pipelines. [Accessed: 22-Jul-2024].
 
