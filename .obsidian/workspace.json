@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 1/How-to-use-Llamaindex.md",
+                "file": "tools/Week 1/how-to-use-haystack-ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 1/How-to-use-Llamaindex.md",
+                "file": "tools/Week 1/how-to-use-haystack-ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 1/How-to-use-Llamaindex.md",
+                "file": "tools/Week 1/how-to-use-haystack-ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 1/How-to-use-Llamaindex.md"
+                "file": "tools/Week 1/how-to-use-haystack-ai.md"
               }
             }
           }
@@ -171,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0417e127498c48",
+  "active": "856faa4c5386a1f8",
   "lastOpenFiles": [
+    "tools/Week 1/How-to-use-Llamaindex.md",
+    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
     "tools/Week 1/how-to-use-haystack-ai.md",
     "tools/Week 1/How-to-use-Gorilla.md",
     "tools/Week 0/What are the latest developments in prompt engineering.md",
@@ -186,7 +188,6 @@
     "tools/Week 0",
     "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
     "linkedin/Week 1/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
-    "tools/Week 1/How-to-use-Llamaindex.md",
     "img/example-code-llamaindex.png",
     "img/anthropic-llm.png",
     "img/llamaindex.png",
