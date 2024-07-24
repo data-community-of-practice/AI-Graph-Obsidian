@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "8c659263090a448e",
+            "id": "7f7f45eacc3c1111",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "tools/How-to-use-Llamaindex.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md",
+                "file": "tools/How-to-use-Llamaindex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md",
+                "file": "tools/How-to-use-Llamaindex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md"
+                "file": "tools/How-to-use-Llamaindex.md"
               }
             }
           }
@@ -157,22 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c659263090a448e",
+  "active": "7f7f45eacc3c1111",
   "lastOpenFiles": [
+    "img/example-code-llamaindex.png",
+    "img/anthropic-llm.png",
     "tools/How-to-use-GitHub-Copilot.md",
+    "tools/How-to-use-Llamaindex.md",
+    "img/llamaindex.png",
+    "conflict-files-obsidian-git.md",
+    "tools/what-is-diffusion-model.md",
+    "tools/how-to-use-haystack-ai.md",
+    "tools/What are the latest developments in prompt engineering.md",
+    "tools/How-to-use-Gorilla.md",
+    "tools/How-to-run-Ollama-on-Windows.md",
+    "tools/How to use OpenAI Playground.md",
+    "linkedin/README.md",
+    "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
+    "linkedin/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
+    "linkedin",
+    "img/unet-architecture.png",
+    "img/inference.png",
+    "img/images-wendi/thumbnail-image.png",
+    "img/haystack-thumbnail.png",
+    "img/haystack-rag-output.png",
+    "img/haystack-architecture.png",
+    "img/gorilla-select-quantized-model.png",
+    "img/gorilla-replicate-inference.png",
     "tools/what-is-diffusion-model",
     "tools/privatellm-chatbot-creation-tutorial.md",
     "tools/How-to-use-hugging-face-api.md",
-    "img/privatellm-system-prompt.png",
-    "img/privatellm-sampling-params-example.png",
-    "img/privatellm-sampling-parameters.png",
-    "img/privatellm-new-sys-prompt.png",
-    "img/privatellm-launchepage.png",
-    "img/privatellm-download-model.png",
-    "img/privatellm-app-store-purchase.png",
-    "img/images-wendi/yourphoto.jpg",
-    "img/images-wendi/thumbnail-image.webp",
-    "img/images-wendi/Step3.jpg",
     "img/images-wendi",
     "README.md",
     "tools/README.md",
