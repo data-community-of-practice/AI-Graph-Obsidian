@@ -97,3 +97,13 @@ LlamaIndex boasts a great community of developers and AI enthusiasts who continu
 LlamaIndex represents a significant advancement in the realm of AI development, providing developers with the tools needed to build sophisticated, data-driven applications. By streamlining the processes of data ingestion, indexing, and querying, LlamaIndex not only enhances the capabilities of existing applications but also opens up new possibilities for innovative AI solutions. Whether you are a seasoned developer or just beginning to explore the possibilities of AI, LlamaIndex offers a robust framework to propel your projects forward.
 
 For more detailed information, tutorials, and community resources, visit the [official LlamaIndex documentation](https://docs.llamaindex.ai).
+
+## References
+
+Analytics Vidhya, 2023. Decoding Language Dynamics: Advanced Linguistic Analysis with LlamaIndex. [online] Available at: [https://www.analyticsvidhya.com/blog/2023/12/decoding-language-dynamics-advanced-linguistic-analysis-with-llamaindex/](https://www.analyticsvidhya.com/blog/2023/12/decoding-language-dynamics-advanced-linguistic-analysis-with-llamaindex/) [24 July 2024].
+
+DataStax, What is LlamaIndex? [online] Available at: <https://www.datastax.com/guides/what-is-llamaindex> [24 July 2024].
+
+LlamaIndex, LlamaIndex Documentation. [online] Available at: <https://docs.llamaindex.ai/> [24 July 2024].
+
+LlamaIndex, LlamaIndex TypeScript. [online] Available at: <https://ts.llamaindex.ai/> [24 July 2024].
