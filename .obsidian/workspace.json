@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf0417e127498c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/How-to-use-Llamaindex.md",
+                "file": "linkedin/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/How-to-use-Llamaindex.md",
+                "file": "linkedin/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/How-to-use-Llamaindex.md"
+                "file": "linkedin/Evaluating the Reliability of Self-Explanations in Large Language Models.md"
               }
             }
           }
@@ -159,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f7f45eacc3c1111",
+  "active": "cf0417e127498c48",
   "lastOpenFiles": [
     "tools/How-to-use-GitHub-Copilot.md",
     "tools/How-to-use-Llamaindex.md",
