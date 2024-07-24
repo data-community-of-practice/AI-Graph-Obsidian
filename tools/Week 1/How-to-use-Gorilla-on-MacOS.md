@@ -1,4 +1,4 @@
-# How to use Gorilla 
+# How to use Gorilla on MacOS: A Comprehensive Guide
 
 ## Author
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
