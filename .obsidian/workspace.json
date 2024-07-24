@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md",
+                "file": "tools/How-to-use-GitHub-Copilot.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c659263090a448e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md",
+                "file": "tools/How-to-use-GitHub-Copilot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md",
+                "file": "tools/How-to-use-GitHub-Copilot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/privatellm-chatbot-creation-tutorial.md"
+                "file": "tools/How-to-use-GitHub-Copilot.md"
               }
             }
           }
@@ -146,22 +157,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "856faa4c5386a1f8",
+  "active": "8c659263090a448e",
   "lastOpenFiles": [
     "tools/How-to-use-GitHub-Copilot.md",
+    "tools/what-is-diffusion-model",
+    "tools/privatellm-chatbot-creation-tutorial.md",
+    "tools/How-to-use-hugging-face-api.md",
+    "img/privatellm-system-prompt.png",
+    "img/privatellm-sampling-params-example.png",
+    "img/privatellm-sampling-parameters.png",
+    "img/privatellm-new-sys-prompt.png",
+    "img/privatellm-launchepage.png",
+    "img/privatellm-download-model.png",
+    "img/privatellm-app-store-purchase.png",
+    "img/images-wendi/yourphoto.jpg",
+    "img/images-wendi/thumbnail-image.webp",
+    "img/images-wendi/Step3.jpg",
+    "img/images-wendi",
     "README.md",
     "tools/README.md",
-    "img/github-copilot-new.jpg",
     "img.md",
-    "Pasted image 20240717114729.png",
-    "Pasted image 20240717114043.png",
-    "Pasted image 20240717114035.png",
-    "img/copilot-ext-jet.png",
-    "img/copilot-ext.png",
-    "img/IntelliJ-install.png",
-    "img/VSCODE-install.png",
-    "img/Debugging-Example.png",
-    "models/README.md",
-    "img/ResearchIconMedium.png"
+    "models/README.md"
   ]
 }
