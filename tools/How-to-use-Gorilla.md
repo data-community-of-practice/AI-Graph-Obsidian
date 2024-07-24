@@ -4,7 +4,24 @@
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
 
 ## Introduction
-Gorilla is an innovative open-source project that enhances Large Language Models (LLMs) by linking them to a wide range of APIs. This allows LLMs to generate and execute API calls for tasks like creating CLI commands, scheduling meetings, and ordering services. Gorilla features include Open Functions, both local and hosted inference options, and third-party library integration, making it versatile for developers and businesses. This article explores the various applications and demonstrates how Gorilla can be effectively utilized.
+Gorilla is an innovative open-source project that enhances Large Language Models (LLMs) by linking them to a wide range of APIs. This allows LLMs to generate and execute API calls for tasks like creating CLI commands, scheduling meetings, and ordering services. Gorilla features include Open Functions, both local and hosted inference options, and third-party library integration, making it versatile for developers and businesses. This article explores the various applications and demonstrates how Gorilla can be effectively utilized in the following aspects:
+
+- [How to use Gorilla](#how-to-use-gorilla)
+  - [Author](#author)
+  - [Introduction](#introduction)
+  - [Ready-to-Use Product: Gorilla CLI](#ready-to-use-product-gorilla-cli)
+  - [Developer Building Blocks](#developer-building-blocks)
+    - [Gorilla Inference](#gorilla-inference)
+      - [Local Inference: CLI](#local-inference-cli)
+      - [Local Inference: WebUI and Quantized Models](#local-inference-webui-and-quantized-models)
+      - [Hosted Endpoint Inference: Replicate](#hosted-endpoint-inference-replicate)
+    - [Gorilla OpenFunctions](#gorilla-openfunctions)
+    - [Integrating Gorilla With Third-Party Libraries](#integrating-gorilla-with-third-party-libraries)
+  - [Gorilla Community](#gorilla-community)
+    - [Gorilla API Zoo Index](#gorilla-api-zoo-index)
+    - [Berkeley Function Calling Leaderboard (BFCL)](#berkeley-function-calling-leaderboard-bfcl)
+  - [Conclusion](#conclusion)
+
 
 ## Ready-to-Use Product: Gorilla CLI
 Gorilla CLI is a command-line interface tool that streamlines the process of interacting with various APIs by producing appropriate commands for specified tasks. Users don't need to memorize or input lengthy commands for different APIs; instead, they can enter their request in natural language, and Gorilla CLI will create suitable commands to execute the task.
@@ -33,7 +50,10 @@ git config --global user.email "user@example.com"
 
 ## Developer Building Blocks
 
-### Local Inference: CLI
+### Gorilla Inference
+To gain a deeper understanding of Gorilla models and potentially integrate it into your application for enhanced functionality, running Gorilla inference offers an excellent opportunity for exploration.
+
+#### Local Inference: CLI
 - **Creating and Activating a Conda Environment:** Start by creating a new Conda environment specifically for Gorilla. This helps manage dependencies without affecting other Python projects. Use the following commands to create and activate the environment:
 ```
 conda create -n gorilla python=3.10
@@ -64,7 +84,7 @@ python3 gorilla_eval.py --model-path gorilla-llm/gorilla-falcon-7b-hf-v0 --quest
 <div align="center"><i>Gorilla CLI Inference with Multiple Prompts</i></div>
 
 
-### Local Inference: WebUI and Quantized Models
+#### Local Inference: WebUI and Quantized Models
 To facilitate the local execution of Gorilla, the Gorilla Team have introduced quantized versions of the llama, falcon, and mpt-based models. For a streamlined local experience with a user-friendly interface, the text-generation-webui is the most convenient option.
 - **Cloning the Text Generation Web UI Repository**: Begin by cloning the text-generation-webui repository from GitHub to your local machine. 
 ```
@@ -95,7 +115,7 @@ http://127.0.0.1:7860/
 ![Example Gorilla Quantized Model interaction](../img/gorilla-local-inference-example.png)
 <div align="center"><i>Sample Interaction with Gorilla Models from WebUI</i></div>
 
-### Hosted Endpoint Inference: Replicate
+#### Hosted Endpoint Inference: Replicate
 Inference with Hosted Endpoint on Replicate allows you to run and deploy Gorilla models in a fast, private, and secure manner, suitable for production-grade applications. Replicate is an alternative to using UC Berkeley's hosted endpoint and provides an excellent option for those who require a scalable platform for their private applications
 
 - Installing Cog: Begin by installing Cog, a tool from Replicate that simplifies the process of containerizing and deploying applications like Gorilla. Execute the following commands to download and install Cog on your system:
@@ -245,11 +265,16 @@ print(example.content)
 ## Gorilla Community
 In addition to using Gorilla CLI products and running models locally, Gorilla offers extensive resources for collaboration, contribution, and updates. Users can access tutorials for self-hosting OpenFunctions or integrating with libraries like Langchain. The community also connects on Discord and GitHub, facilitating updates, inquiries, and active participation in development. Key components include:
 
-- **Gorilla API Zoo Index:** The API Zoo is an open-sourced index containing API documentation that can be used by Large Language Models (LLMs) to increase their tool-use capabilities via API calls. This index allows anyone to upload API documentation, thereby expanding the range of tools LLMs can interact with. It essentially serves as a repository of APIs that Gorilla can utilize to perform various tasks 
+### Gorilla API Zoo Index
+The API Zoo is an open-sourced index containing API documentation that can be used by Large Language Models (LLMs) to increase their tool-use capabilities via API calls. This index allows anyone to upload API documentation, thereby expanding the range of tools LLMs can interact with. It essentially serves as a repository of APIs that Gorilla can utilize to perform various tasks 
 ![Example Gorilla Integration](../img/gorilla-api-zoo-index.png)
 <div align="center"><i>Gorilla API Zoo Index</i></div>
 
-- **Berkeley Function Calling Leaderboard (BFCL):** The BFCL is a comprehensive dataset designed for evaluating executable function calls across different programming languages and scenarios. It assesses the performance of LLMs in making function calls across Python, Java, JavaScript, REST APIs, and SQL. The leaderboard provides an interactive visualization to compare how different models perform on this dataset, helping users see which models are most effective in real-world function calling scenarios.
+### Berkeley Function Calling Leaderboard (BFCL)
+The BFCL is a comprehensive dataset designed for evaluating executable function calls across different programming languages and scenarios. It assesses the performance of LLMs in making function calls across Python, Java, JavaScript, REST APIs, and SQL. The leaderboard provides an interactive visualization to compare how different models perform on this dataset, helping users see which models are most effective in real-world function calling scenarios.
 
 ![Example Gorilla Integration](../img/gorilla-leaderboard.png)
 <div align="center"><i>Gorilla Function Calling Leaderboard</i></div>
+
+## Conclusion
+Gorilla provides a robust suite of tools for integrating APIs with Large Language Models. From user-friendly interfaces to advanced developer options, it offers solutions for diverse needs. With its adaptable deployment methods and community-driven resources, Gorilla stands as a valuable asset in the field of AI and API integration, suitable for both casual users and experienced developers.
