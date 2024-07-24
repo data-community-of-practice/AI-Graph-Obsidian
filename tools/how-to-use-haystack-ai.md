@@ -108,7 +108,7 @@ rag_pipeline.run({"embedder": {"text": question},
 "prompt_builder": {"query": question}}) 
 ```
 ![Output](img/haystack-rag-output.png) 
-<div align="center" ><i>Output of RAG Pipeline created using Google Colab by Tohfa SIddika Barbhuiya.</i></div>
+<div align="center" ><i>Output of RAG Pipeline created using Google Colab by Tohfa Siddika Barbhuiya.</i></div>
 ## Putting It All Together
 When you run the full pipeline with the question "What is the traditional dish of Japan?", it embeds the query, retrieves relevant documents, constructs a prompt, and generates an answer using GPT-4.
 ## Conclusion
