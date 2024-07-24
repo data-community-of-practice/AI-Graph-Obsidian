@@ -6,21 +6,17 @@
 ## Introduction
 Gorilla is an innovative open-source project that enhances Large Language Models (LLMs) by linking them to a wide range of APIs. This allows LLMs to generate and execute API calls for tasks like creating CLI commands, scheduling meetings, and ordering services. Gorilla features include Open Functions, both local and hosted inference options, and third-party library integration, making it versatile for developers and businesses. This article explores the various applications and demonstrates how Gorilla can be effectively utilized in the following aspects:
 
-- [How to use Gorilla](#how-to-use-gorilla)
-  - [Author](#author)
-  - [Introduction](#introduction)
-  - [Ready-to-Use Product: Gorilla CLI](#ready-to-use-product-gorilla-cli)
-  - [Developer Building Blocks](#developer-building-blocks)
-    - [Gorilla Inference](#gorilla-inference)
-      - [Local Inference: CLI](#local-inference-cli)
-      - [Local Inference: WebUI and Quantized Models](#local-inference-webui-and-quantized-models)
-      - [Hosted Endpoint Inference: Replicate](#hosted-endpoint-inference-replicate)
-    - [Gorilla OpenFunctions](#gorilla-openfunctions)
-    - [Integrating Gorilla With Third-Party Libraries](#integrating-gorilla-with-third-party-libraries)
-  - [Gorilla Community](#gorilla-community)
-    - [Gorilla API Zoo Index](#gorilla-api-zoo-index)
-    - [Berkeley Function Calling Leaderboard (BFCL)](#berkeley-function-calling-leaderboard-bfcl)
-  - [Conclusion](#conclusion)
+- [Getting Started: Gorilla CLI Basics](#ready-to-use-product-gorilla-cli)
+- [Development Tools: Gorilla Building Essentials](#developer-building-blocks)
+  - [Inference: Running with Gorilla](#gorilla-inference)
+     - [Local Inference via CLI](#local-inference-cli)
+     - [Local Inference via WebUI](#local-inference-webui-and-quantized-models)
+     - [Private inference via Hosted Endpoint](#hosted-endpoint-inference-replicate) 
+  - [Functions: Utilizing Gorilla Open Functions](#gorilla-openfunctions)
+  - [Libraries: Expanding with Third-Party Integration](#integrating-gorilla-with-third-party-libraries)
+- [Community Interaction: Discover Gorilla Resources](#gorilla-community)
+  - [API Index: Navigating the Gorilla Zoo](#gorilla-api-zoo-index)
+  - [Competition: Join the Berkeley Function Calling Leaderboard](#berkeley-function-calling-leaderboard-bfcl)
 
 
 ## Ready-to-Use Product: Gorilla CLI
@@ -137,7 +133,7 @@ build:
     - "einops"
 predict: "predict.py:Predictor"
 ```
-- **Setting up predict.py:** The predict.py file serves as the prediction interface for Gorilla, outlining the implementation of the Predictor class. This class specifies the setup of the model and the mechanism for generating predictions.
+- **Setting up predict.py:** The predict.py (available at [this guide](https://github.com/ShishirPatil/gorilla/blob/main/inference/README.md#4-private-inference-using-gorilla-hosted-endpoint-on-replicate)) file serves as the prediction interface for Gorilla, outlining the implementation of the Predictor class. This class specifies the setup of the model and the mechanism for generating predictions.
 - **Building a Docker Image with Cog:** Start by building a Docker image that contains the Gorilla model along with all necessary dependencies. This is done using Cog to ensure the environment is consistent and deployable. Run the following command in your terminal, replacing <image-name> with your chosen name for the Docker image:
 ```
 cog build -t <image-name>
