@@ -18,6 +18,8 @@ Gorilla is an innovative open-source project that enhances Large Language Models
   - [API Index: Navigating the Gorilla Zoo](#gorilla-api-zoo-index)
   - [Competition: Join the Berkeley Function Calling Leaderboard](#berkeley-function-calling-leaderboard-bfcl)
 
+%%the links are not working%%
+
 ## Ready-to-Use Product: Gorilla CLI
 Gorilla CLI is a command-line interface tool that streamlines the process of interacting with various APIs by producing appropriate commands for specified tasks. Users don't need to memorize or input lengthy commands for different APIs; instead, they can enter their request in natural language, and Gorilla CLI will create suitable commands to execute the task.
 - **Installation**: Gorilla CLI can be easily installed using Python's package manager. Run the following command to install Gorilla CLI via pip, which will allow you to start using its features immediately
@@ -32,6 +34,8 @@ gorilla "your query"
 ```
 gorilla "show current CPU and memory usage"
 ```
+%%Place the note before starting, we don't want people to run into issues because they hadn't read the note by then %%
+
 - **Note**: Before using Gorilla CLI, make sure to configure your global email settings with git to enable proper execution of commands. This can be done by running:
 ```
 git config --global user.email "user@example.com"
@@ -80,7 +84,7 @@ python3 gorilla_eval.py --model-path gorilla-llm/gorilla-falcon-7b-hf-v0 --quest
 
 
 #### Local Inference: WebUI and Quantized Models
-To facilitate the local execution of Gorilla, the Gorilla Team have introduced quantized versions of the llama, falcon, and mpt-based models. For a streamlined local experience with a user-friendly interface, the text-generation-webui is the most convenient option.
+To facilitate the local execution of Gorilla, the Gorilla Team has introduced quantized versions of the llama, falcon, and mpt-based models. For a streamlined local experience with a user-friendly interface, the text-generation-webui is the most convenient option.
 - **Cloning the Text Generation Web UI Repository**: Begin by cloning the text-generation-webui repository from GitHub to your local machine. 
 ```
 git clone https://github.com/oobabooga/text-generation-webui.git
