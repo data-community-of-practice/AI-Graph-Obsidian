@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
+                "file": "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
+                "file": "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
+                "file": "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 1/How-to-use-Gorilla-on-MacOS.md"
+                "file": "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md"
               }
             }
           }
@@ -173,6 +173,11 @@
   },
   "active": "cf0417e127498c48",
   "lastOpenFiles": [
+    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
+    "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
+    "tools/Week 1/How-to-use-Llamaindex.md",
+    "tools/Week 1/How to use OpenAI Playground.md",
+    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
     "img/Week1/Mingrui/gorilla-replicate-inference.png",
     "img/Week1/Mingrui/gorilla-push-image.png",
     "img/Week1/Mingrui/gorilla-openfunctions-example.png",
@@ -183,18 +188,12 @@
     "img/Week1/Mingrui/gorilla-cog-login.png",
     "img/Week1/Mingrui/gorilla-cog-build-image.png",
     "img/Week1/Mingrui/gorilla-cli-single-prompt.png",
-    "img/Week1/Mingrui/gorilla-cli-pre-condition.png",
     "img/Week1/Mingrui",
     "img/Week1/New folder",
     "tools/Week 1/how-to-use-chainlit.md",
-    "tools/Week 1/How to use OpenAI Playground.md",
-    "tools/Week 1/How-to-use-Llamaindex.md",
     "img/Week1/Adithya",
     "tools/Week 1/how-to-use-haystack-ai.md",
-    "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
-    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
     "img/Week1/Tohfa",
-    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
     "img/Week1/Wendi",
     "img/Week1",
     "img/Week0",
