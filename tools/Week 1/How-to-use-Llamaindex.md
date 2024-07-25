@@ -65,6 +65,34 @@ One of LlamaIndex's core strengths is its robust data ingestion capabilities. It
 - Use normalization techniques to ensure uniformity across different data types.
 %%Can you add an example?%%
 
+Example of Data Ingestion:
+
+Here’s a simple example to demonstrate data ingestion:
+
+#### Import dataloader from python's llamaindex package (This, however might be subject to change since python's llamaindex class keeps changing and updating with new versions, but this is just an example code)
+```
+from llama_index.loaders import DataLoader
+```
+
+#### Create an instance of DataLoader
+```
+data_loader = DataLoader()
+```
+
+#### Example data source URL
+```
+data_url = "http://example.com/data.json"
+```
+
+#### Load and normalize data
+```
+data = data_loader.load(data_url)
+normalized_data = data_loader.normalize(data)
+print("Normalized Data:", normalized_data)
+```
+
+This snippet shows how you might load and normalize data from a JSON source using LlamaIndex’s DataLoader class.
+
 ### Advanced Indexing Capabilities
 
 LlamaIndex offers multiple indexing models tailored to optimize data retrieval based on specific application needs:
