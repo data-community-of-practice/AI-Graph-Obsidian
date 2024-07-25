@@ -1,10 +1,24 @@
-# How to use Gorilla 
+# How to use Gorilla on MacOS: A Comprehensive Guide
 
 ## Author
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
 
 ## Introduction
-Gorilla is an innovative open-source project that enhances Large Language Models (LLMs) by linking them to a wide range of APIs. This allows LLMs to generate and execute API calls for tasks like creating CLI commands, scheduling meetings, and ordering services. Gorilla features include Open Functions, both local and hosted inference options, and third-party library integration, making it versatile for developers and businesses. This article explores the various applications and demonstrates how Gorilla can be effectively utilized.
+Gorilla is an innovative open-source project that enhances Large Language Models (LLMs) by linking them to a wide range of APIs. This allows LLMs to generate and execute API calls for tasks like creating CLI commands, scheduling meetings, and ordering services. Gorilla features include Open Functions, both local and hosted inference options, and third-party library integration, making it versatile for developers and businesses. This article explores the various applications and demonstrates how Gorilla can be effectively utilized in the following aspects:
+
+- [Getting Started: Gorilla CLI Basics](#ready-to-use-product-gorilla-cli)
+- [Development Tools: Gorilla Building Essentials](#developer-building-blocks)
+  - [Inference: Running with Gorilla](#gorilla-inference)
+     - [Local Inference via CLI](#local-inference-cli)
+     - [Local Inference via WebUI](#local-inference-webui-and-quantized-models)
+     - [Private inference via Hosted Endpoint](#hosted-endpoint-inference-replicate) 
+  - [Functions: Utilizing Gorilla Open Functions](#gorilla-openfunctions)
+  - [Libraries: Expanding with Third-Party Integration](#integrating-gorilla-with-third-party-libraries)
+- [Community Interaction: Discover Gorilla Resources](#gorilla-community)
+  - [API Index: Navigating the Gorilla Zoo](#gorilla-api-zoo-index)
+  - [Competition: Join the Berkeley Function Calling Leaderboard](#berkeley-function-calling-leaderboard-bfcl)
+
+%%the links are not working%%
 
 ## Ready-to-Use Product: Gorilla CLI
 Gorilla CLI is a command-line interface tool that streamlines the process of interacting with various APIs by producing appropriate commands for specified tasks. Users don't need to memorize or input lengthy commands for different APIs; instead, they can enter their request in natural language, and Gorilla CLI will create suitable commands to execute the task.
@@ -20,20 +34,25 @@ gorilla "your query"
 ```
 gorilla "show current CPU and memory usage"
 ```
+%%Place the note before starting, we don't want people to run into issues because they hadn't read the note by then %%
+
 - **Note**: Before using Gorilla CLI, make sure to configure your global email settings with git to enable proper execution of commands. This can be done by running:
 ```
 git config --global user.email "user@example.com"
 ```
 
-![Example Gorilla CLI Output](../img/gorilla-cli-example.png)
+![Example Gorilla CLI Output](../../img/gorilla-cli-example.png)
 <div align="center"><i>Example Gorilla CLI Output</i></div>
 
-![Example Gorilla CLI Effect](../img/gorilla-cli-effect.png)
+![Example Gorilla CLI Effect](../../img/gorilla-cli-effect.png)
 <div align="center"><i>Command executed after choosing the anticipated generated response</i></div>
 
 ## Developer Building Blocks
 
-### Local Inference: CLI
+### Gorilla Inference
+To gain a deeper understanding of Gorilla models and potentially integrate it into your application for enhanced functionality, running Gorilla inference offers an excellent opportunity for exploration.
+
+#### Local Inference: CLI
 - **Creating and Activating a Conda Environment:** Start by creating a new Conda environment specifically for Gorilla. This helps manage dependencies without affecting other Python projects. Use the following commands to create and activate the environment:
 ```
 conda create -n gorilla python=3.10
@@ -57,15 +76,15 @@ python3 serve/gorilla_falcon_cli.py --model-path gorilla-llm/gorilla-falcon-7b-h
 python3 gorilla_eval.py --model-path gorilla-llm/gorilla-falcon-7b-hf-v0 --question-file path/to/questions.jsonl --answer-file path/to/answers.jsonl
 ```
 
-![Example Gorilla CLI inference](../img/gorilla-cli-single-prompt.png)
+![Example Gorilla CLI inference](../../img/gorilla-cli-single-prompt.png)
 <div align="center"><i>Gorilla CLI Inference with Single Prompt</i></div>
 
-![Example Gorilla CLI inference](../img/gorilla-cli-inference-batch-prompts.png)
+![Example Gorilla CLI inference](../../img/gorilla-cli-inference-batch-prompts.png)
 <div align="center"><i>Gorilla CLI Inference with Multiple Prompts</i></div>
 
 
-### Local Inference: WebUI and Quantized Models
-To facilitate the local execution of Gorilla, the Gorilla Team have introduced quantized versions of the llama, falcon, and mpt-based models. For a streamlined local experience with a user-friendly interface, the text-generation-webui is the most convenient option.
+#### Local Inference: WebUI and Quantized Models
+To facilitate the local execution of Gorilla, the Gorilla Team has introduced quantized versions of the llama, falcon, and mpt-based models. For a streamlined local experience with a user-friendly interface, the text-generation-webui is the most convenient option.
 - **Cloning the Text Generation Web UI Repository**: Begin by cloning the text-generation-webui repository from GitHub to your local machine. 
 ```
 git clone https://github.com/oobabooga/text-generation-webui.git
@@ -84,18 +103,18 @@ http://127.0.0.1:7860/
 ```
 - **Selecting a Quantized Model:** Within the application, navigate to the “Model” tab. Choose the quantized model you'd like to use by copying its name from the indicated Hugging Face repository and pasting it into the appropriate field. After the model has been successfully downloaded, refresh the model list. Then, select your model and click on the `Load` button to initiate it.
 
-![Example Gorilla Model Download](../img/gorilla-local-inference-download.png)
+![Example Gorilla Model Download](../../img/gorilla-local-inference-download.png)
 <div align="center"><i>Downloading Gorilla Quantized models in text-generation-webui</i></div>
 
-![Example Gorilla Model Selection](../img/gorilla-select-quantized-model.png)
+![Example Gorilla Model Selection](../../img/gorilla-select-quantized-model.png)
 <div align="center"><i>Selecting Gorilla Quantized models following successful download</i></div>
 
 - **Start Prompting**: Finally, switch back to the Chat Tab within the application and begin entering your queries to interact with the model.
 
-![Example Gorilla Quantized Model interaction](../img/gorilla-local-inference-example.png)
+![Example Gorilla Quantized Model interaction](../../img/gorilla-local-inference-example.png)
 <div align="center"><i>Sample Interaction with Gorilla Models from WebUI</i></div>
 
-### Hosted Endpoint Inference: Replicate
+#### Hosted Endpoint Inference: Replicate
 Inference with Hosted Endpoint on Replicate allows you to run and deploy Gorilla models in a fast, private, and secure manner, suitable for production-grade applications. Replicate is an alternative to using UC Berkeley's hosted endpoint and provides an excellent option for those who require a scalable platform for their private applications
 
 - Installing Cog: Begin by installing Cog, a tool from Replicate that simplifies the process of containerizing and deploying applications like Gorilla. Execute the following commands to download and install Cog on your system:
@@ -117,12 +136,12 @@ build:
     - "einops"
 predict: "predict.py:Predictor"
 ```
-- **Setting up predict.py:** The predict.py file serves as the prediction interface for Gorilla, outlining the implementation of the Predictor class. This class specifies the setup of the model and the mechanism for generating predictions.
+- **Setting up predict.py:** The predict.py (available at [this guide](https://github.com/ShishirPatil/gorilla/blob/main/inference/README.md#4-private-inference-using-gorilla-hosted-endpoint-on-replicate)) file serves as the prediction interface for Gorilla, outlining the implementation of the Predictor class. This class specifies the setup of the model and the mechanism for generating predictions.
 - **Building a Docker Image with Cog:** Start by building a Docker image that contains the Gorilla model along with all necessary dependencies. This is done using Cog to ensure the environment is consistent and deployable. Run the following command in your terminal, replacing <image-name> with your chosen name for the Docker image:
 ```
 cog build -t <image-name>
 ```
-![Example Cog Build Image](../img/gorilla-cog-build-image.png)
+![Example Cog Build Image](../../img/gorilla-cog-build-image.png)
 <div align="center"><i>Construct a Docker image using the specified configuration with Cog</i></div>
 
 - **Logging into Replicate:** Before you can upload your Docker image, you need to log into your Replicate account. If this is your first time deploying, you'll need to authenticate via the command line:
@@ -130,7 +149,7 @@ cog build -t <image-name>
 cog login
 ```
 
-![Example Replicate Login](../img/gorilla-cog-login.png)
+![Example Replicate Login](../../img/gorilla-cog-login.png)
 <div align="center"><i>Login to Replicate with API Token</i></div>
 
 - **Publishing the Docker Image to Replicate:**
@@ -139,7 +158,7 @@ Once your Docker image is built and you are logged in, the next step is to push 
 cog push r8.im/<your-username>/<your-model-name>
 ```
 
-![Example Cog Push Image](../img/gorilla-push-image.png)
+![Example Cog Push Image](../../img/gorilla-push-image.png)
 <div align="center"><i>Publish Docker Image to Replicate</i></div>
 
 - **Installing the Replicate Python Client Library:** Begin by installing the Replicate client library to interact with the hosted Gorilla model. Use the following command to install the library via pip:
@@ -163,7 +182,7 @@ output = replicate.run(
 print(output)
 ```
 
-![Example Cog Push Image](../img/gorilla-replicate-inference.png)
+![Example Cog Push Image](../../img/gorilla-replicate-inference.png)
 <div align="center"><i>Inference Result with Replicate API</i></div>
 
 ### Gorilla OpenFunctions
@@ -213,7 +232,7 @@ functions = [
 ]
 get_gorilla_response(query, functions=functions)
 ```
-![Example Gorilla Openfunctions](../img/gorilla-openfunctions-example.png)
+![Example Gorilla Openfunctions](../../img/gorilla-openfunctions-example.png)
 <div align="center"><i>Gorilla OpenFunctions Example Response</i></div>
 
 
@@ -238,18 +257,29 @@ chat_model = ChatOpenAI(
 example = chat_model.invoke("I want to convert English text to Speech")
 print(example.content)
 ```
-![Example Gorilla Integration](../img/gorilla-integrate-langchain.png)
+![Example Gorilla Integration](../../img/gorilla-integrate-langchain.png)
 <div align="center"><i>Sample Response from a Text-to-Speech Request Using Gorilla with Integrated Langchain</i></div>
 
 
 ## Gorilla Community
 In addition to using Gorilla CLI products and running models locally, Gorilla offers extensive resources for collaboration, contribution, and updates. Users can access tutorials for self-hosting OpenFunctions or integrating with libraries like Langchain. The community also connects on Discord and GitHub, facilitating updates, inquiries, and active participation in development. Key components include:
 
-- **Gorilla API Zoo Index:** The API Zoo is an open-sourced index containing API documentation that can be used by Large Language Models (LLMs) to increase their tool-use capabilities via API calls. This index allows anyone to upload API documentation, thereby expanding the range of tools LLMs can interact with. It essentially serves as a repository of APIs that Gorilla can utilize to perform various tasks 
-![Example Gorilla Integration](../img/gorilla-api-zoo-index.png)
+### Gorilla API Zoo Index
+The API Zoo is an open-sourced index containing API documentation that can be used by Large Language Models (LLMs) to increase their tool-use capabilities via API calls. This index allows anyone to upload API documentation, thereby expanding the range of tools LLMs can interact with. It essentially serves as a repository of APIs that Gorilla can utilize to perform various tasks 
+![Example Gorilla Integration](../../img/gorilla-api-zoo-index.png)
 <div align="center"><i>Gorilla API Zoo Index</i></div>
 
-- **Berkeley Function Calling Leaderboard (BFCL):** The BFCL is a comprehensive dataset designed for evaluating executable function calls across different programming languages and scenarios. It assesses the performance of LLMs in making function calls across Python, Java, JavaScript, REST APIs, and SQL. The leaderboard provides an interactive visualization to compare how different models perform on this dataset, helping users see which models are most effective in real-world function calling scenarios.
+### Berkeley Function Calling Leaderboard (BFCL)
+The BFCL is a comprehensive dataset designed for evaluating executable function calls across different programming languages and scenarios. It assesses the performance of LLMs in making function calls across Python, Java, JavaScript, REST APIs, and SQL. The leaderboard provides an interactive visualization to compare how different models perform on this dataset, helping users see which models are most effective in real-world function calling scenarios.
 
-![Example Gorilla Integration](../img/gorilla-leaderboard.png)
+![Example Gorilla Integration](../../img/gorilla-leaderboard.png)
 <div align="center"><i>Gorilla Function Calling Leaderboard</i></div>
+
+## Conclusion
+Gorilla provides a robust suite of tools for integrating APIs with Large Language Models. From user-friendly interfaces to advanced developer options, it offers solutions for diverse needs. With its adaptable deployment methods and community-driven resources, Gorilla stands as a valuable asset in the field of AI and API integration, suitable for both casual users and experienced developers.
+
+## Reference
+[1] *How to Use Gorilla Inference - Step-by-step guide on leveraging Gorilla for model inference.* [Read more.](https://gorilla.cs.berkeley.edu/blogs/5_how_to_gorilla.html#gorilla-inference)<br>
+[2] *Gorilla GitHub Repository - Documentation for running inference with Gorilla.* [Explore GitHub.](https://github.com/ShishirPatil/gorilla/blob/main/inference/README.md)<br>
+[3] *Gorilla API Zoo - Access to various APIs provided by Gorilla for developing applications.* [Visit API Zoo.](https://gorilla.cs.berkeley.edu/apizoo/)<br>
+[4] *Gorilla Leaderboard - View current rankings and results for Gorilla-based competitions.* [View Leaderboard.](https://gorilla.cs.berkeley.edu/leaderboard.html)

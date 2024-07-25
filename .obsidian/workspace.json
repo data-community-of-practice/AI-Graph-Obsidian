@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d86c2cac6a0fba9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/How to use OpenAI Playground.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a38d36e85c000c74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/How-to-use-GitHub-Copilot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/How to use OpenAI Playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/How to use OpenAI Playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tools/How to use OpenAI Playground.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,21 +138,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d86c2cac6a0fba9c",
+  "active": "a38d36e85c000c74",
   "lastOpenFiles": [
+    "tools/How-to-use-GitHub-Copilot.md",
+    "tools/How to use OpenAI Playground.md",
+    "tools/Week 0/How-to-run-Ollama-on-Windows.md",
+    "tools/Week 0/privatellm-chatbot-creation-tutorial.md",
+    "tools/Week 0/what-is-diffusion-model.md",
+    "tools/Week 0/What are the latest developments in prompt engineering.md",
+    "tools/Week 0/How-to-use-hugging-face-api.md",
+    "tools/Week 0/How-to-use-GitHub-Copilot.md",
+    "tools/Week 0",
+    "tools/Week 1/How-to-use-Llamaindex.md",
+    "tools/Week 1/how-to-use-haystack-ai.md",
+    "tools/Week 1/how-to-use-chainlit.md",
+    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
+    "tools/Week 1/How to use OpenAI Playground.md",
+    "tools/Week 1",
+    "img/example-code-llamaindex.png",
+    "img/chainlit-ui.png",
+    "img/chainlit-mario-bot.png",
+    "img/chainlit-generated-story.png",
+    "img/chainlit-cover-photo.png",
+    "img/anthropic-llm.png",
     "img/help-playground.png",
     "img/forum-playground.png",
     "img/usage-playground.png",
     "img/speech-playground.png",
-    "img/leftbar-playground.png",
-    "img/view-code-playground.png",
-    "img/summarize-playground.png",
-    "img/prompt-playground.png",
-    "img/topbar-playground.png",
-    "img/sidebar-playground.png",
-    "img/assistant-playground.png",
-    "tools/How-to-use-GitHub-Copilot.md",
-    "tools/How to use OpenAI Playground.md",
     "img/images-tarun",
     "img/New folder",
     "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",

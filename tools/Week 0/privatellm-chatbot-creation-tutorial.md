@@ -19,14 +19,14 @@ This article provides instructions on how to create your own chatbot using Priva
 ## Installation
 Begin by downloading Private LLM directly from the App Store. Search for "Private LLM" using the search bar, or use the [direct link](https://apps.apple.com/us/app/private-llm-local-ai-chatbot/id6448106860) provided in the documentation. The app requires a one-time purchase of *$9.99*. Once purchased, make sure your device is connected to a reliable internet connection to successfully complete the download.
 
-![Private LLM Download Page](../img/privatellm-app-store-purchase.png)
+![Private LLM Download Page](privatellm-app-store-purchase.png)
 <div align="center"><i>Private LLM Download Page on App Store</i></div>
 
 
 ## Getting Started
 After downloading and launching Private LLM, you will be greeted with a chat-style interface featuring the default model, [StableLM](https://stability.ai/news/stablelm-zephyr-3b-stability-llm). This setup provides an immediate and intuitive way for users to begin interacting with the AI. Simply type your questions or instructions into the chat box and watch the AI respond dynamically.
 
-![Private LLM Launch Interface](../img/privatellm-launchepage.png)
+![Private LLM Launch Interface](privatellm-launchepage.png)
 <div align="center"><i>Private LLM Launch Interface</i></div>
 
 
@@ -38,10 +38,10 @@ You may find the default model somewhat restricting, especially as you become mo
 - Begin by crafting prompts that define a specific role or scenario for the AI, such as a personal assistant, knowledgeable guide, or fictional character. This approach helps establish a consistent and engaging interaction tone. In the Private LLM app, navigate to *Settings -> General -> Override System Prompt* to implement this.
 - Example: "You are an extraterrestrial visitor observing human culture and technology for the first time. Respond to questions with curiosity and provide comparisons to your alien technologies and societal structures."
 
-![Private LLM Craft System Prompt](../img/privatellm-system-prompt.png)
+![Private LLM Craft System Prompt](privatellm-system-prompt.png)
 <div align="center"><i>Private LLM Craft System Prompt</i></div>
 
-![New System Prompt Interface](../img/privatellm-new-sys-prompt.png)
+![New System Prompt Interface](privatellm-new-sys-prompt.png)
 <div align="center"><i>New System Prompt Interface - Showcasing customized AI behavior</i></div>
 
 
@@ -50,10 +50,10 @@ You may find the default model somewhat restricting, especially as you become mo
 - ***Top-P*** (known as nucleus sampling) selects responses from the most probable next words, with lower values creating more focused responses and higher values enhancing output diversity.
 - Example: For customer support bot, set a low temperature (0.3) and a moderate Top-P (0.7) to ensure accurate, reliable answers with just enough variability to appear natural and not robotic; For Technical FAQ bot, use a very low temperature (0.2) combined with a low Top-P (0.6) for precise, to-the-point answers where clarity and correctness are paramount.
 
-![Private LLM Sampling Parameters](../img/privatellm-sampling-parameters.png)
+![Private LLM Sampling Parameters](privatellm-sampling-parameters.png)
 <div align="center"><i>Private LLM Sampling Parameters Configuration</i></div>
 
-![Sampling Parameters Example](../img/privatellm-sampling-params-example.png)
+![Sampling Parameters Example](privatellm-sampling-params-example.png)
 <div align="center"><i>Sampling Parameters Example - Demonstrates settings for a techincal FAQ bot</i></div>
 
 
@@ -68,7 +68,7 @@ Selecting the appropriate model is essential for optimizing AI response performa
   
 After installation, the app automatically recommends models to download based on your device's capabilities. Once you've chosen a suitable model, click the cloud-shaped button to begin the download. Ensure the application remains open throughout this process.
 
-![Model Choice Page](../img/privatellm-download-model.png)
+![Model Choice Page](privatellm-download-model.png)
 <div align="center"><i>Model Download Page - Displays compatible models for a 16GB RAM macOS device</i></div>
 
 
