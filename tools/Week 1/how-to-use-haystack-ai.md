@@ -28,6 +28,7 @@ To start, we need to install the necessary packages and set up our API keys. Fol
 !pip install haystack-ai sentence-transformers transformers "huggingface_hub>=0.22.0"
 
 2. Set up API keys for Hugging Face and OpenAI.
+%%Give a small guide on how to get openai and hugging face api keys, or give links on how to get them%%
 ```
 import os
 from getpass import getpass
@@ -61,6 +62,7 @@ pipeline.add_component("writer", DocumentWriter(document_store))
 pipeline.connect("embedder", "writer")
 pipeline.show()
 ```
+
 4. **Running the Pipeline with Sample Documents**: Testing the pipeline with sample data to verify functionality. We run the pipeline with sample documents to embed and store them.
 ```
 from haystack.dataclasses import Document
@@ -103,6 +105,9 @@ rag_pipeline.connect("prompt_builder", "generator")
 
 rag_pipeline.show()
 ```
+
+%%You can add what the pipeline looks like with the image you get when you execute rag_pipeline.show()%%
+
 4. **Running the RAG Pipeline**: Executing the pipeline with a sample question to generate an answer based on the retrieved documents.
 ```
 question = "What is the traditional dish of Japan?"
