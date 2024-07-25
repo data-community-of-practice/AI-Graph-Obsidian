@@ -1,6 +1,7 @@
 # How to use Gorilla on MacOS: A Comprehensive Guide
+![Example Gorilla Thumbnail](../../img/Week1/Mingrui/gorilla-thumbnail.png)
+<div align="center"><i></i></div>
 
-%%Add thumbnail image%%
 ## Author
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
 
@@ -19,8 +20,6 @@ Gorilla is an innovative open-source project that enhances Large Language Models
   - [API Index: Navigating the Gorilla Zoo](#gorilla-api-zoo-index)
   - [Competition: Join the Berkeley Function Calling Leaderboard](#berkeley-function-calling-leaderboard-bfcl)
 
-%%the links are not working%%
-
 ## Ready-to-Use Product: Gorilla CLI
 Gorilla CLI is a command-line interface tool that streamlines the process of interacting with various APIs by producing appropriate commands for specified tasks. Users don't need to memorize or input lengthy commands for different APIs; instead, they can enter their request in natural language, and Gorilla CLI will create suitable commands to execute the task.
 - **Installation**: Gorilla CLI can be easily installed using Python's package manager. Run the following command to install Gorilla CLI via pip, which will allow you to start using its features immediately
@@ -31,24 +30,21 @@ pip install gorilla-cli
 ```
 gorilla "your query"
 ```
-- **Example**: For a practical application, enter the below query into the terminal. This command allows you to monitor the current CPU and memory usage directly from the command line, showcasing Gorilla CLI's utility in system monitoring. Gorilla CLI will generate multiple candidate commands that could potentially accomplish the user's query. Users can then toggle through the commands using arrow keys and select the desired one by pressing Enter.
-```
-gorilla "show current CPU and memory usage"
-```
-%%Place the note before starting, we don't want people to run into issues because they hadn't read the note by then %%
-
 - **Note**: Before using Gorilla CLI, make sure to configure your global email settings with git to enable proper execution of commands. This can be done by running:
 ```
 git config --global user.email "user@example.com"
 ```
+- **Example**: For a practical application, enter the below query into the terminal. This command allows you to monitor the current CPU and memory usage directly from the command line, showcasing Gorilla CLI's utility in system monitoring. Gorilla CLI will generate multiple candidate commands that could potentially accomplish the user's query. Users can then toggle through the commands using arrow keys and select the desired one by pressing Enter to execute them.
+```
+gorilla "show current CPU and memory usage"
+```
 
-![Example Gorilla CLI Output](../../img/gorilla-cli-example.png)
+![Example Gorilla CLI Output](../../img/Week1/Mingrui/gorilla-cli-example.png)
 <div align="center"><i>Example Gorilla CLI Output</i></div>
 
-%%Did not understand how to get this image%%
 
-![Example Gorilla CLI Effect](../../img/gorilla-cli-effect.png)
-<div align="center"><i>Command executed after choosing the anticipated generated response</i></div>
+![Example Gorilla CLI Effect](../../img/Week1/Mingrui/gorilla-cli-effect.png)
+<div align="center"><i>Command executed after pressing Enter</i></div>
 
 ## Developer Building Blocks
 
@@ -79,12 +75,11 @@ python3 serve/gorilla_falcon_cli.py --model-path gorilla-llm/gorilla-falcon-7b-h
 python3 gorilla_eval.py --model-path gorilla-llm/gorilla-falcon-7b-hf-v0 --question-file path/to/questions.jsonl --answer-file path/to/answers.jsonl
 ```
 
-![Example Gorilla CLI inference](../../img/gorilla-cli-single-prompt.png)
+![Example Gorilla CLI inference](../../img/Week1/Mingrui/gorilla-cli-single-prompt.png)
 <div align="center"><i>Gorilla CLI Inference with Single Prompt</i></div>
 
 
-
-![Example Gorilla CLI inference](../../img/gorilla-cli-inference-batch-prompts.png)
+![Example Gorilla CLI inference](../../img/Week1/Mingrui/gorilla-cli-inference-batch-prompts.png)
 <div align="center"><i>Gorilla CLI Inference with Multiple Prompts</i></div>
 
 
@@ -108,15 +103,15 @@ http://127.0.0.1:7860/
 ```
 - **Selecting a Quantized Model:** Within the application, navigate to the “Model” tab. Choose the quantized model you'd like to use by copying its name from the indicated Hugging Face repository and pasting it into the appropriate field. After the model has been successfully downloaded, refresh the model list. Then, select your model and click on the `Load` button to initiate it.
 
-![Example Gorilla Model Download](../../img/gorilla-local-inference-download.png)
+![Example Gorilla Model Download](../../img/Week1/Mingrui/gorilla-local-inference-download.png)
 <div align="center"><i>Downloading Gorilla Quantized models in text-generation-webui</i></div>
 
-![Example Gorilla Model Selection](../../img/gorilla-select-quantized-model.png)
+![Example Gorilla Model Selection](../../img/Week1/Mingrui/gorilla-select-quantized-model.png)
 <div align="center"><i>Selecting Gorilla Quantized models following successful download</i></div>
 
 - **Start Prompting**: Finally, switch back to the Chat Tab within the application and begin entering your queries to interact with the model.
 
-![Example Gorilla Quantized Model interaction](../../img/gorilla-local-inference-example.png)
+![Example Gorilla Quantized Model interaction](../../img/Week1/Mingrui/gorilla-local-inference-example.png)
 <div align="center"><i>Sample Interaction with Gorilla Models from WebUI</i></div>
 
 #### Hosted Endpoint Inference: Replicate
@@ -146,7 +141,7 @@ predict: "predict.py:Predictor"
 ```
 cog build -t <image-name>
 ```
-![Example Cog Build Image](../../img/gorilla-cog-build-image.png)
+![Example Cog Build Image](../../img/Week1/Mingrui/gorilla-cog-build-image.png)
 <div align="center"><i>Construct a Docker image using the specified configuration with Cog</i></div>
 
 - **Logging into Replicate:** Before you can upload your Docker image, you need to log into your Replicate account. If this is your first time deploying, you'll need to authenticate via the command line:
@@ -154,7 +149,7 @@ cog build -t <image-name>
 cog login
 ```
 
-![Example Replicate Login](../../img/gorilla-cog-login.png)
+![Example Replicate Login](../../img/Week1/Mingrui/gorilla-cog-login.png)
 <div align="center"><i>Login to Replicate with API Token</i></div>
 
 - **Publishing the Docker Image to Replicate:**
@@ -163,7 +158,7 @@ Once your Docker image is built and you are logged in, the next step is to push 
 cog push r8.im/<your-username>/<your-model-name>
 ```
 
-![Example Cog Push Image](../../img/gorilla-push-image.png)
+![Example Cog Push Image](../../img/Week1/Mingrui/gorilla-push-image.png)
 <div align="center"><i>Publish Docker Image to Replicate</i></div>
 
 - **Installing the Replicate Python Client Library:** Begin by installing the Replicate client library to interact with the hosted Gorilla model. Use the following command to install the library via pip:
@@ -187,7 +182,7 @@ output = replicate.run(
 print(output)
 ```
 
-![Example Cog Push Image](../../img/gorilla-replicate-inference.png)
+![Example Cog Push Image](../../img/Week1/Mingrui/gorilla-replicate-inference.png)
 <div align="center"><i>Inference Result with Replicate API</i></div>
 
 ### Gorilla OpenFunctions
@@ -237,7 +232,7 @@ functions = [
 ]
 get_gorilla_response(query, functions=functions)
 ```
-![Example Gorilla Openfunctions](../../img/gorilla-openfunctions-example.png)
+![Example Gorilla Openfunctions](../../img/Week1/Mingrui/gorilla-openfunctions-example.png)
 <div align="center"><i>Gorilla OpenFunctions Example Response</i></div>
 
 
@@ -262,7 +257,7 @@ chat_model = ChatOpenAI(
 example = chat_model.invoke("I want to convert English text to Speech")
 print(example.content)
 ```
-![Example Gorilla Integration](../../img/gorilla-integrate-langchain.png)
+![Example Gorilla Integration](../../img/Week1/Mingrui/gorilla-integrate-langchain.png)
 <div align="center"><i>Sample Response from a Text-to-Speech Request Using Gorilla with Integrated Langchain</i></div>
 
 
@@ -271,13 +266,13 @@ In addition to using Gorilla CLI products and running models locally, Gorilla of
 
 ### Gorilla API Zoo Index
 The API Zoo is an open-sourced index containing API documentation that can be used by Large Language Models (LLMs) to increase their tool-use capabilities via API calls. This index allows anyone to upload API documentation, thereby expanding the range of tools LLMs can interact with. It essentially serves as a repository of APIs that Gorilla can utilize to perform various tasks 
-![Example Gorilla Integration](../../img/gorilla-api-zoo-index.png)
+![Example Gorilla Integration](../../img/Week1/Mingrui/gorilla-api-zoo-index.png)
 <div align="center"><i>Gorilla API Zoo Index</i></div>
 
 ### Berkeley Function Calling Leaderboard (BFCL)
 The BFCL is a comprehensive dataset designed for evaluating executable function calls across different programming languages and scenarios. It assesses the performance of LLMs in making function calls across Python, Java, JavaScript, REST APIs, and SQL. The leaderboard provides an interactive visualization to compare how different models perform on this dataset, helping users see which models are most effective in real-world function calling scenarios.
 
-![Example Gorilla Integration](../../img/gorilla-leaderboard.png)
+![Example Gorilla Integration](../../img/Week1/Mingrui/gorilla-leaderboard.png)
 <div align="center"><i>Gorilla Function Calling Leaderboard</i></div>
 
 ## Conclusion
