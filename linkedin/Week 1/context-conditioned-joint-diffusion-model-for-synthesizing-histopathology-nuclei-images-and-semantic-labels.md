@@ -1,0 +1,15 @@
+Context-Conditioned Joint Diffusion Model for Synthesizing Histopathology Nuclei Images and Semantic Labels
+
+📌 A novel framework is presented for co-synthesizing histopathology nuclei images and their corresponding semantic labels using a context-conditioned joint diffusion model. It addresses the challenge of insufficient training data in multi-class histopathology nuclei analysis tasks by generating high-quality synthetic image-label pairs. The method leverages nucleus centroid layouts and structure-related text prompts to incorporate spatial and structural context information, enhancing the realism and utility of the synthetic data for downstream tasks such as nuclei segmentation and classification.
+
+Article link: https://arxiv.org/abs/2407.14434
+
+🔹 The significant issue of limited training data for multi-class histopathology nuclei analysis is tackled. Existing methods often fail to consider the spatial and structural context of biological tissues, leading to suboptimal synthetic data for training deep learning models. This gap highlights the necessity for a solution that accurately represents the spatial and structural intricacies of histopathology specimens.
+
+🔹 A context-conditioned joint diffusion model is introduced, co-synthesizing histopathology nuclei images and paired semantic labels. By conditioning the diffusion model with nucleus centroid layouts and text prompts, the method incorporates critical spatial and structural context into the generated data. This innovative approach not only generates realistic images but also provides granular instance-wise nuclei labels, allowing for more precise and detailed data generation crucial for improving downstream analysis tasks.
+
+🔹 The proposed framework significantly improves the quality of synthetic data compared to existing augmentation methods. Experimental results demonstrate that the synthetic data generated using this method outperforms others in nuclei segmentation and classification tasks across multi-institutional, multi-organ, and multi-modality datasets. The integration of nucleus centroid layouts and text prompts ensures that the synthetic data captures the complexity and diversity of real histopathology images, leading to better generalization and robustness in machine learning models.
+
+🔹 The context-conditioned joint diffusion model is concluded to be highly effective in generating realistic and useful synthetic histopathology data. Future work will focus on reducing the time cost for data synthesis and exploring generative methods for more realistic point layouts, further enhancing the applicability of the proposed framework. This involves optimizing the model for faster data generation and investigating new techniques for improving the fidelity of synthesized data to better mimic real-world histopathological variability.
+
+📑 Min, S., Oh, H., Jeong, W. (2024).  Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model. DOI: 10.48550/arXiv.2407.14434
