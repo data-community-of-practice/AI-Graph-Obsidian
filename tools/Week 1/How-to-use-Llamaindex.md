@@ -63,6 +63,7 @@ One of LlamaIndex's core strengths is its robust data ingestion capabilities. It
 - Connect to various data sources.
 - Utilize built-in loaders for automatic data fetching.
 - Use normalization techniques to ensure uniformity across different data types.
+%%Can you add an example?%%
 
 ### Advanced Indexing Capabilities
 

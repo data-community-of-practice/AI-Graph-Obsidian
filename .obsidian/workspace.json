@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 1/how-to-use-haystack-ai.md",
+                "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 1/how-to-use-haystack-ai.md",
+                "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 1/how-to-use-haystack-ai.md",
+                "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 1/how-to-use-haystack-ai.md"
+                "file": "tools/Week 1/How-to-use-Llamaindex.md"
               }
             }
           }
@@ -173,6 +173,11 @@
   },
   "active": "cf0417e127498c48",
   "lastOpenFiles": [
+    "img/Week1/Adithya/example-code-llamaindex.png",
+    "img/Week1/Adithya/llamaindex.png",
+    "img/Week1/Adithya",
+    "img/Week1/New folder",
+    "tools/Week 1/how-to-use-haystack-ai.md",
     "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
     "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
     "img/view-code-playground.png",
@@ -184,9 +189,7 @@
     "img/speech-playground.png",
     "img/sidebar-playground.png",
     "img/prompt-playground.png",
-    "img/models-playground.png",
     "img/Week1/Tohfa",
-    "img/Week1/New folder",
     "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
     "tools/Week 1/How to use OpenAI Playground.md",
     "tools/Week 1/how-to-use-chainlit.md",
@@ -197,7 +200,6 @@
     "tools/Week 1/How-to-use-Llamaindex.md",
     "tools/Week 1/How to use Chainlit.md",
     "linkedin/Week 1/multi-motion-generation-from-text-with-discrete-diffusion-models.md",
-    "tools/Week 1/how-to-use-haystack-ai.md",
     "tools/Week 1/How-to-use-Gorilla.md",
     "tools/Week 0/What are the latest developments in prompt engineering.md",
     "tools/Week 0/How-to-use-GitHub-Copilot.md",
@@ -213,7 +215,6 @@
     "tools/Week 0/what-is-diffusion-model.md",
     "tools/Week 0/How-to-run-Ollama-on-Windows.md",
     "linkedin/README.md",
-    "linkedin",
     "tools/Week 0/privatellm-chatbot-creation-tutorial.md",
     "tools/Week 0/How-to-use-hugging-face-api.md",
     "img.md",
