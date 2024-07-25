@@ -104,7 +104,7 @@ Ideal for handling large datasets, this index type uses vector embeddings to enh
 Best suited for hierarchical data structures, the tree index helps in efficiently navigating complex data sets.
 
 **Keyword Index**:
-This traditional approach is useful for tagging and retrieving data based on specific keywords, which is particularly beneficial in domains like legal and medical data management【13†source】.
+This traditional approach is useful for tagging and retrieving data based on specific keywords, which is particularly beneficial in domains like legal and medical data management.
 
 ### Querying with Natural Language
 
