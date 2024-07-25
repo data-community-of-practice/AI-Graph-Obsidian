@@ -1,5 +1,6 @@
 # How to use Gorilla on MacOS: A Comprehensive Guide
 
+%%Add thumbnail image%%
 ## Author
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
 
@@ -44,6 +45,8 @@ git config --global user.email "user@example.com"
 ![Example Gorilla CLI Output](../../img/gorilla-cli-example.png)
 <div align="center"><i>Example Gorilla CLI Output</i></div>
 
+%%Did not understand how to get this image%%
+
 ![Example Gorilla CLI Effect](../../img/gorilla-cli-effect.png)
 <div align="center"><i>Command executed after choosing the anticipated generated response</i></div>
 
@@ -78,6 +81,8 @@ python3 gorilla_eval.py --model-path gorilla-llm/gorilla-falcon-7b-hf-v0 --quest
 
 ![Example Gorilla CLI inference](../../img/gorilla-cli-single-prompt.png)
 <div align="center"><i>Gorilla CLI Inference with Single Prompt</i></div>
+
+
 
 ![Example Gorilla CLI inference](../../img/gorilla-cli-inference-batch-prompts.png)
 <div align="center"><i>Gorilla CLI Inference with Multiple Prompts</i></div>
