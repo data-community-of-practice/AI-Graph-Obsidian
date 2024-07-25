@@ -1,6 +1,7 @@
 
 ### Introduction
 
+%%First half of this post uses a lot of marketing language, please change the phrasing to keep it professional%%
 Have you ever thought, "Wow! ChatGPT is really cool, but how can I modify the way it gives results? Is there any way I can tweak the infamous brain of ChatGPT?" Well, my friend, you've clicked on the right article!
 
 ![OpenAI Logo](https://www.webfx.com/wp-content/uploads/2023/07/what-is-openai.png)
@@ -126,3 +127,5 @@ Finally, let us turn our attention to the left sidebar of Playground.
 ### Conclusion
 
 As with any new skill, practice makes perfect. Having all these tools available at your disposal might seem overwhelming, but working on projects in Playground can definitely give you an upper hand in this generative AI stage in modern technology.
+
+%%Add references%%
