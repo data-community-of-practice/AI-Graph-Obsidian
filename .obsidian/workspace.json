@@ -11,8 +11,24 @@
             "id": "d86c2cac6a0fba9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tools/How to use OpenAI Playground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a38d36e85c000c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/How-to-use-GitHub-Copilot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/How to use OpenAI Playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/How to use OpenAI Playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tools/How to use OpenAI Playground.md"
+              }
             }
           }
         ]
@@ -140,21 +160,25 @@
   },
   "active": "d86c2cac6a0fba9c",
   "lastOpenFiles": [
-    "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
+    "img/help-playground.png",
+    "img/forum-playground.png",
+    "img/usage-playground.png",
+    "img/speech-playground.png",
+    "img/leftbar-playground.png",
+    "img/view-code-playground.png",
+    "img/summarize-playground.png",
+    "img/prompt-playground.png",
+    "img/topbar-playground.png",
+    "img/sidebar-playground.png",
+    "img/assistant-playground.png",
+    "tools/How-to-use-GitHub-Copilot.md",
     "tools/How to use OpenAI Playground.md",
+    "img/images-tarun",
+    "img/New folder",
+    "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
     "tools/How-to-use-Gorilla.md",
     "linkedin/README.md",
     "linkedin",
-    "img/gorilla-select-quantized-model.png",
-    "img/gorilla-replicate-inference.png",
-    "img/gorilla-push-image.png",
-    "img/gorilla-openfunctions-example.png",
-    "img/gorilla-local-inference-example.png",
-    "img/gorilla-local-inference-download.png",
-    "img/gorilla-leaderboard.png",
-    "img/gorilla-integrate-langchain.png",
-    "img/gorilla-cog-login.png",
-    "img/gorilla-cog-build-image.png",
     "tools/What are the latest developments in prompt engineering.md"
   ]
 }
