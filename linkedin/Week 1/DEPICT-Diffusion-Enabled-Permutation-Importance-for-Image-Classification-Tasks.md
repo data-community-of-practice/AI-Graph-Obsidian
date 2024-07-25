@@ -3,7 +3,7 @@
 - Aditya Iyengar (ORCID: 0009-0005-1959-9724)
 - Link to Article: [https://arxiv.org/abs/2407.14509](https://arxiv.org/abs/2407.14509)
 
-📍 DEPICT introduces a groundbreaking method for global feature importance evaluation%%explain in simpler terms what global feature importance evaluation is%% in AI image classification, moving beyond pixel-specific explanations. By leveraging permutation importance and text-conditioned diffusion models %%models such as? give one or 2 examples%%, DEPICT assesses how changes in labelled concepts across a dataset affect model predictions, providing deeper insights into model behaviour.
+📍 DEPICT introduces a groundbreaking method for global feature importance evaluation in AI image classification, moving beyond pixel-specific explanations. This approach assesses the overall impact of features across the entire dataset, rather than focusing on small details within individual images. By leveraging permutation importance and text-conditioned diffusion models, DEPICT assesses how changes in labelled concepts across a dataset affect model predictions, providing deeper insights into model behaviour. This is particularly useful in understanding complex models like Google’s Inception or AlexNet, where discerning which features influence the AI’s decisions can greatly enhance transparency and effectiveness.
 
 🔸 Traditional AI explainability methods often focus on local, instance-specific insights, limiting understanding of model decisions on a dataset level. This challenge is significant in fields requiring robust explanation frameworks, such as healthcare and autonomous driving, where understanding AI decisions globally is crucial.
 
