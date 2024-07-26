@@ -20,10 +20,14 @@ Its modular design and pre-built components make it an ideal choice for developi
 RAG pipelines blend information retrieval with text generation. They work by first retrieving relevant documents from a storage system and then using these documents to generate accurate and contextually relevant answers. The beauty of Haystack lies in its ability to build customizable pipelines by combining various components like document stores, retrievers, and generators. In this guide, we’ll walk through the process of building a RAG pipeline using Haystack, demonstrating how it can enhance your NLP applications.
 ## Project Overview 
 The project focuses on providing hands-on experience with Haystack AI and how to work with Hugging Face and OpenAI API keys. This is demonstrated by creating a RAG pipeline as example that embeds documents, retrieves relevant information, constructs prompts, and generates answers. We chose Google Colab for this project due to its powerful capabilities for running machine learning experiments, including GPU acceleration, which is crucial for processing large NLP models. Colab also makes it easy to share and collaborate on projects.
+
 Note: For this project, OpenAI subscription is needed to use OpenAI API Key. It's very affordable and easy to get started.
 Here’s how you can proceed:
 Sign Up and Subscribe: Go to <a href="https://openai.com/index/openai-api/" target="_blank">OpenAI</a> and sign up for an account. Choose a subscription plan that fits your needs.
-## Setting Up the Environment
+
+For more details visit <a href="https://platform.openai.com/docs/overview" target="_blank">OpenAI Documentation</a> and <a href="https://huggingface.co/docs" target="_blank">Hugging Face Documentation</a>. Also this is not a promotional post.
+
+## Let's get started. Setting Up the Environment
 To start, we need to install the necessary packages and set up our API keys. Follow these steps in your Google Colab environment:
 
 1. Install the required packages.
