@@ -1,12 +1,7 @@
 
 ### Introduction
 
-<<<<<<< HEAD
 Have you ever thought, "Wow! ChatGPT is really cool, but how can I modify the way it gives results? Is there any way I can tweak the infamous brain of ChatGPT?". This article discusses a very efficient way to do so.
-=======
-%%First half of this post uses a lot of marketing language, please change the phrasing to keep it professional%%
-Have you ever thought, "Wow! ChatGPT is really cool, but how can I modify the way it gives results? Is there any way I can tweak the infamous brain of ChatGPT?" Well, my friend, you've clicked on the right article!
->>>>>>> 3d696a15576bebeed900b86cb02d601ffe9fc6a2
 
 ![OpenAI Logo](https://www.webfx.com/wp-content/uploads/2023/07/what-is-openai.png)
 <div align="center" ><i>Source: webfx.com</i></div>
@@ -130,7 +125,6 @@ Finally, let us turn our attention to the left sidebar of Playground.
 
 ### Conclusion
 
-<<<<<<< HEAD
 As with any new skill, practice makes perfect. Having all these tools available at one's disposal might seem overwhelming, but working on projects in Playground can definitely give someone an upper hand in this generative AI stage in modern technology.
 
 ### References
@@ -138,8 +132,3 @@ As with any new skill, practice makes perfect. Having all these tools available 
 1) Chandler K. “Everything You Need to Know about the OpenAI Playground.” _Medium_, The AI Archives, 5 Apr. 2024, medium.com/the-ai-archives/everything-you-need-to-know-about-the-openai-playground-811780614674. Accessed 23 July 2024.
 
 2) Bockes, Brendan. “The OpenAl Playground: A Beginner’s Guide for Non-Developers | Medium.” _Medium_, Medium, 21 Dec. 2022, medium.com/@brendanbockes/the-openai-playground-a-beginners-guide-for-non-developers-a166dcb02094. Accessed 24 July 2024.
-=======
-As with any new skill, practice makes perfect. Having all these tools available at your disposal might seem overwhelming, but working on projects in Playground can definitely give you an upper hand in this generative AI stage in modern technology.
-
-%%Add references%%
->>>>>>> 3d696a15576bebeed900b86cb02d601ffe9fc6a2
