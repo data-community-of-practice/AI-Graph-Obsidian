@@ -23,6 +23,7 @@ The project focuses on providing hands-on experience with Haystack AI and how to
 
 Note: For this project, OpenAI subscription is needed to use OpenAI API Key. It's very affordable and easy to get started.
 Here’s how you can proceed:
+
 Sign Up and Subscribe: Go to <a href="https://openai.com/index/openai-api/" target="_blank">OpenAI</a> and sign up for an account. Choose a subscription plan that fits your needs.
 
 For more details visit <a href="https://platform.openai.com/docs/overview" target="_blank">OpenAI Documentation</a> and <a href="https://huggingface.co/docs" target="_blank">Hugging Face Documentation</a>. Also this is not a promotional post.
@@ -35,9 +36,13 @@ To start, we need to install the necessary packages and set up our API keys. Fol
 !pip install haystack-ai sentence-transformers transformers "huggingface_hub>=0.22.0"
 
 2. Set up API keys for Hugging Face and OpenAI.
+
 Getting a Hugging Face API Key:
+
 Go to <a href="https://huggingface.co/" target="_blank">Hugging Face</a>, sign up/login for a free account. Navigate to your account settings and generate your API key. Copy it and paste it when the output of the below code asks it.
+
 Getting a OpenAI API Key:
+
 Go to <a href="https://openai.com/index/openai-api/" target="_blank">OpenAI</a>, sign up/login, and choose a subscription plan if you already don't have a paid plan.
 Get API Key: After subscribing, generate your API key from your account dashboard. Copy it and paste it when the output of the below code asks it.
 ```
