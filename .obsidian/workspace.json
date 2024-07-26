@@ -1,38 +1,14 @@
 {
   "main": {
-    "id": "71468105466e9587",
+    "id": "e33deab93425bdab",
     "type": "split",
     "children": [
       {
-        "id": "4a7d3f24b960ec72",
+        "id": "a90880e271541066",
         "type": "tabs",
         "children": [
           {
-            "id": "cf1d083e93f12417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Week 0/How-to-use-GitHub-Copilot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f7f45eacc3c1111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Week 1/How-to-use-Llamaindex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf0417e127498c48",
+            "id": "a38d36e85c000c74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "08ac798aed6c807c",
+    "id": "97c2b4aae7729fdd",
     "type": "split",
     "children": [
       {
-        "id": "8189854dbc66e8fa",
+        "id": "a1ed3bf24146d2b6",
         "type": "tabs",
         "children": [
           {
-            "id": "856faa4c5386a1f8",
+            "id": "907c5e41f2b55f2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +43,7 @@
             }
           },
           {
-            "id": "15ae36e0108a68f9",
+            "id": "6f6c4990985817ae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "e4faba0975a7f9dc",
+            "id": "193815b8dc81fbbc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "55ae58fc54d7fa9d",
+    "id": "599d7b8064420fb8",
     "type": "split",
     "children": [
       {
-        "id": "d56fec5c6420fc88",
+        "id": "751611e216b88245",
         "type": "tabs",
         "children": [
           {
-            "id": "57d580115861ac54",
+            "id": "eced46d869d7cad1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +97,7 @@
             }
           },
           {
-            "id": "c2082b6b8deda73c",
+            "id": "da89eaa3f19a81fd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -134,7 +109,7 @@
             }
           },
           {
-            "id": "e9db6268a28898f5",
+            "id": "48f809b1bb697f64",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,7 +120,7 @@
             }
           },
           {
-            "id": "ffe11f4b20b23604",
+            "id": "d48a5a787ae6d5a4",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -171,52 +146,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0417e127498c48",
+  "active": "a38d36e85c000c74",
   "lastOpenFiles": [
-    "tools/Week 1/how-to-use-chainlit.md",
-    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
-    "tools/Week 1/how-to-use-haystack-ai.md",
-    "tools/Week 1/How-to-use-Llamaindex.md",
-    "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
-    "img/202407182313627.png",
-    "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
-    "linkedin/Week 1/multi-motion-generation-from-text-with-discrete-diffusion-models.md",
-    "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
-    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
-    "linkedin/Week 1/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
-    "img/202407182314513.png",
-    "img/202407182313977.png",
     "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
-    "img/202407260119767.png",
-    "img/202407260119675.png",
-    "img/202407260119613.png",
-    "img/202407260119405.png",
-    "img/202407260119241.png",
-    "img/202407260119103.png",
-    "img/202407260118505.png",
-    "tools/Week 1/How to use OpenAI Playground.md",
-    "img/Week1/Mingrui",
-    "img/Week1/New folder",
+    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
+    "img/Week1/Adithya/example-code-llamaindex.png",
+    "img/Week1/Adithya/llamaindex.png",
+    "img/Week1/Tohfa/haystack-architecture.png",
+    "img/Week1/Wendi/chainlit-ui.png",
+    "img/Week1/Tohfa/haystack-thumbnail.png",
+    "img/Week1/Wendi/chainlit-generated-story.png",
+    "img/Week1/Tohfa/haystack-rag-output.png",
+    "img/Week1/Wendi/chainlit-mario-bot.png",
+    "img/Week1/Mingrui/gorilla-select-quantized-model.png",
+    "img/Week1/Mingrui/gorilla-thumbnail.png",
     "img/Week1/Adithya",
     "img/Week1/Tohfa",
     "img/Week1/Wendi",
+    "img/Week1/Mingrui",
     "img/Week1",
     "img/Week0",
-    "img/New folder",
-    "tools/Week 1/How to use Chainlit.md",
-    "tools/Week 1/How-to-use-Gorilla.md",
-    "tools/Week 0/What are the latest developments in prompt engineering.md",
-    "tools/Week 0/How-to-use-GitHub-Copilot.md",
-    "README.md",
+    "linkedin/Week 1/multi-motion-generation-from-text-with-discrete-diffusion-models.md",
+    "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
+    "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
+    "linkedin/Week 1/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
+    "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
     "linkedin/Week 1",
-    "tools/README.md",
-    "tools/Week 1",
-    "conflict-files-obsidian-git.md",
-    "tools/Week 0/what-is-diffusion-model.md",
+    "tools/How-to-use-GitHub-Copilot.md",
+    "tools/How to use OpenAI Playground.md",
     "tools/Week 0/How-to-run-Ollama-on-Windows.md",
-    "linkedin/README.md",
     "tools/Week 0/privatellm-chatbot-creation-tutorial.md",
+    "tools/Week 0/what-is-diffusion-model.md",
+    "tools/Week 0/What are the latest developments in prompt engineering.md",
     "tools/Week 0/How-to-use-hugging-face-api.md",
-    "img.md"
+    "tools/Week 0/How-to-use-GitHub-Copilot.md",
+    "tools/Week 0",
+    "tools/Week 1/How-to-use-Llamaindex.md",
+    "tools/Week 1/how-to-use-haystack-ai.md",
+    "tools/Week 1/how-to-use-chainlit.md",
+    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
+    "tools/Week 1/How to use OpenAI Playground.md",
+    "tools/Week 1",
+    "img/images-tarun",
+    "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
+    "tools/How-to-use-Gorilla.md",
+    "linkedin/README.md",
+    "tools/What are the latest developments in prompt engineering.md"
   ]
 }

@@ -1,13 +1,12 @@
 
 ### Introduction
 
-%%First half of this post uses a lot of marketing language, please change the phrasing to keep it professional%%
-Have you ever thought, "Wow! ChatGPT is really cool, but how can I modify the way it gives results? Is there any way I can tweak the infamous brain of ChatGPT?" Well, my friend, you've clicked on the right article!
+Have you ever thought, "Wow! ChatGPT is really cool, but how can I modify the way it gives results? Is there any way I can tweak the infamous brain of ChatGPT?". This article discusses a very efficient way to do so.
 
 ![OpenAI Logo](https://www.webfx.com/wp-content/uploads/2023/07/what-is-openai.png)
 <div align="center" ><i>Source: webfx.com</i></div>
 
-OpenAI has created a tool/platform for adventurous souls who want to do more than just ask ChatGPT to complete questions on their online MCQ quizzes. "Playground" allows users to alter the parameters (i.e., settings) of GPT models through an interactive environment. This tool can be very powerful; through trial and error, users can figure out the set of parameters that provide the best results for their use case, rather than using the default parameters on the chat engine provided by OpenAI (ChatGPT) and gaining merely satisfactory results. 
+OpenAI has created a tool/platform for the valiant ones out there who want to utilize ChatGPT for more than just completing questions on their online MCQ quizzes. "Playground" allows users to alter the parameters (i.e., settings) of GPT models through an interactive environment. This tool can be very powerful; through trial and error, users can figure out the set of parameters that provide the best results for their use case, rather than using the default parameters on the chat engine provided by OpenAI (ChatGPT) and gaining merely satisfactory results. 
 
 Let us now dive straight into understanding this tool!
 
@@ -16,7 +15,7 @@ Let us now dive straight into understanding this tool!
 ![OpenAI Playground Landing Page](landing-playground.png)
 <div align="center" ><i>Landing Page of OpenAI Playground</i></div>
 
-It might look a little daunting with all the options and sliders to select from at first glance, but don't worry because we'll go over what each of them does.
+It might look a little daunting with all the options and sliders to select from at first glance, but don't fret because we'll go over what each of them does.
 
 Let's start with the model selection feature.
 
@@ -44,7 +43,7 @@ Something interesting happens when you click on the "User" button: you get a new
 
 ![OpenAI Playground Assistant Message](assistant-playground.png)<div align="center" ><i>Assistant Message Input of OpenAI Playground</i></div>
 
-Now, if both of us are thinking on the same wavelength, you might be confused about the difference between System Instructions and Assistant Messages. The key difference is that system instructions are typically given once at the start, whereas Assistant messages can be provided throughout the conversation as needed. In other words, system instructions set a broad, overarching context, while Assistant messages are used for specific tasks or adjustments within that context. A few examples could be "Provide a step-by-step solution to this problem." and "Summarize the key points of this article." Additionally, if you click on the { f } button, it allows the user to define custom functions that the AI can call during the conversation. These functions can be used to handle specific tasks, perform calculations, fetch data, or execute any predefined operations that enhance the AI's capabilities. If one does not want to add functions as a part of the assistant messages, they can do so from another place.
+System Instructions and Assistant Messages both provide specific instructions to the Generative AI model, but the key difference is that System Instructions are typically given once at the start, whereas Assistant Messages can be provided throughout the conversation as needed. In other words, system instructions set a broad, overarching context, while Assistant messages are used for specific tasks or adjustments within that context. A few examples could be "Provide a step-by-step solution to this problem." and "Summarize the key points of this article." Additionally, if you click on the { f } button, it allows the user to define custom functions that the AI can call during the conversation. These functions can be used to handle specific tasks, perform calculations, fetch data, or execute any predefined operations that enhance the AI's capabilities. If one does not want to add functions as a part of the assistant messages, they can do so from another place.
 
 ![OpenAI Playground Sidebar](sidebar-playground.png)
 <div align="center" ><i>Right Sidebar of OpenAI Playground</i></div>
@@ -126,6 +125,10 @@ Finally, let us turn our attention to the left sidebar of Playground.
 
 ### Conclusion
 
-As with any new skill, practice makes perfect. Having all these tools available at your disposal might seem overwhelming, but working on projects in Playground can definitely give you an upper hand in this generative AI stage in modern technology.
+As with any new skill, practice makes perfect. Having all these tools available at one's disposal might seem overwhelming, but working on projects in Playground can definitely give someone an upper hand in this generative AI stage in modern technology.
 
-%%Add references%%
+### References
+
+1) Chandler K. “Everything You Need to Know about the OpenAI Playground.” _Medium_, The AI Archives, 5 Apr. 2024, medium.com/the-ai-archives/everything-you-need-to-know-about-the-openai-playground-811780614674. Accessed 23 July 2024.
+
+2) Bockes, Brendan. “The OpenAl Playground: A Beginner’s Guide for Non-Developers | Medium.” _Medium_, Medium, 21 Dec. 2022, medium.com/@brendanbockes/the-openai-playground-a-beginners-guide-for-non-developers-a166dcb02094. Accessed 24 July 2024.
