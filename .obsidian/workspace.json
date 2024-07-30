@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
+                "file": "tools/Week 1/How to use OpenAI Playground.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
+                "file": "tools/Week 1/How to use OpenAI Playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
+                "file": "tools/Week 1/How to use OpenAI Playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md"
+                "file": "tools/Week 1/How to use OpenAI Playground.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "a38d36e85c000c74",
   "lastOpenFiles": [
+    "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
+    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
+    "linkedin/Week 2/image-processing-plugins-for-the-web-via-javascript-injection.md",
     "linkedin/Week 2/AI's-Hidden-Bias-Revealing-the-Stereotypes-in-Autism-Imagery.md",
-    "tools/Week 1/How to use OpenAI Playground.md",
+    "linkedin/Week 2",
     "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
     "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
     "img/Week1/Adithya/example-code-llamaindex.png",
@@ -187,11 +190,9 @@
     "tools/Week 1/how-to-use-haystack-ai.md",
     "tools/Week 1/how-to-use-chainlit.md",
     "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
+    "tools/Week 1/How to use OpenAI Playground.md",
     "tools/Week 1",
-    "img/images-tarun",
     "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
-    "tools/How-to-use-Gorilla.md",
-    "linkedin/README.md",
-    "tools/What are the latest developments in prompt engineering.md"
+    "tools/How-to-use-Gorilla.md"
   ]
 }
