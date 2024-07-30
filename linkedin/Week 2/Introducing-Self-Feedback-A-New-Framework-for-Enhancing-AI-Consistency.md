@@ -10,7 +10,7 @@ Article link: https://arxiv.org/abs/2407.14507
 
 📌Exploring the core challenges in AI, this paper delves into the issues of deficient reasoning and hallucinatory content in large language models (LLMs). It introduces the concept of Internal Consistency, providing a unified framework to address these fundamental problems.
 
-🔹LLMs, while achieving remarkable advancements, often struggle with generating consistent and logical responses. This paper identifies Internal Consistency%%explain in one sentence what internal consistency is%% as a pivotal factor influencing the accuracy and reliability of AI outputs. The research presents Self-Feedback, a novel framework that enhances LLMs' reasoning abilities and reduces hallucinations through self-evaluation and self-updating mechanisms.
+🔹 LLMs, while achieving remarkable advancements, often struggle with generating consistent and logical responses. This paper identifies Internal Consistency, defined as the degree to which the outputs of a model align with each other and the provided inputs, as a pivotal factor influencing the accuracy and reliability of AI outputs. The research presents Self-Feedback, a novel framework that enhances LLMs' reasoning abilities and reduces hallucinations through self-evaluation and self-updating mechanisms.
 
 🔹The Self-Feedback framework consists of two key modules: Self-Evaluation and Self-Update. Self-Evaluation captures signals of Internal Consistency, while Self-Update leverages these signals to improve the model's responses or its internal structure. This innovative approach allows LLMs to autonomously enhance their performance, offering a promising solution to longstanding AI challenges.
 
