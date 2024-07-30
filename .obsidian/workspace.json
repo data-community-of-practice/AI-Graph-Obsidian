@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md",
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f74438059c32fa67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md",
+                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md",
+                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md"
+                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a38d36e85c000c74",
+  "active": "f74438059c32fa67",
   "lastOpenFiles": [
+    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+    "tools/Week 1/How to use OpenAI Playground.md",
     "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
     "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
     "linkedin/Week 2/image-processing-plugins-for-the-web-via-javascript-injection.md",
@@ -190,9 +206,6 @@
     "tools/Week 1/how-to-use-haystack-ai.md",
     "tools/Week 1/how-to-use-chainlit.md",
     "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
-    "tools/Week 1/How to use OpenAI Playground.md",
-    "tools/Week 1",
-    "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
-    "tools/How-to-use-Gorilla.md"
+    "tools/Week 1"
   ]
 }
