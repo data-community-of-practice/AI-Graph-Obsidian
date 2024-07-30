@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md"
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f74438059c32fa67",
+  "active": "a38d36e85c000c74",
   "lastOpenFiles": [
-    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
     "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
     "tools/Week 1/How to use OpenAI Playground.md",
     "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
     "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
