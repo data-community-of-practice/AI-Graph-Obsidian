@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md",
+                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md",
+                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md",
+                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 1/How to use OpenAI Playground.md"
+                "file": "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "a38d36e85c000c74",
   "lastOpenFiles": [
+    "linkedin/Week 2/AI's-Hidden-Bias-Revealing-the-Stereotypes-in-Autism-Imagery.md",
+    "tools/Week 1/How to use OpenAI Playground.md",
     "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
     "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
     "img/Week1/Adithya/example-code-llamaindex.png",
@@ -185,7 +187,6 @@
     "tools/Week 1/how-to-use-haystack-ai.md",
     "tools/Week 1/how-to-use-chainlit.md",
     "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
-    "tools/Week 1/How to use OpenAI Playground.md",
     "tools/Week 1",
     "img/images-tarun",
     "linkedin/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
