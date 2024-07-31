@@ -161,6 +161,11 @@
   },
   "active": "f74438059c32fa67",
   "lastOpenFiles": [
+    "tools/How-to-use-Flowise.md",
+    "linkedin/Week 2/Negative-Results-of-Image-Processing-for-Identifying-Duplicate-Questions-on-Stack-Overflow.md",
+    "linkedin/Week 2/Diffusion Models for Multi-Task Generative Modeling.md",
+    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
+    "linkedin/Week 2/Adversarial Robustification via Text-to-Image Diffusion Models.md",
     "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
     "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
     "tools/Week 1/How to use OpenAI Playground.md",
@@ -200,12 +205,7 @@
     "tools/Week 0/what-is-diffusion-model.md",
     "tools/Week 0/What are the latest developments in prompt engineering.md",
     "tools/Week 0/How-to-use-hugging-face-api.md",
-    "tools/Week 0/How-to-use-GitHub-Copilot.md",
     "tools/Week 0",
-    "tools/Week 1/How-to-use-Llamaindex.md",
-    "tools/Week 1/how-to-use-haystack-ai.md",
-    "tools/Week 1/how-to-use-chainlit.md",
-    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
     "tools/Week 1"
   ]
 }
