@@ -13,6 +13,6 @@ In the rapidly evolving field of medical image segmentation, a new model called 
 4️⃣ **Conclusion and Future Directions**: The authors conclude that SDSeg sets a new standard in diffusion-based medical image segmentation by combining efficiency with high accuracy. The model's design, particularly its use of a trainable vision encoder and latent space operations, enables it to adapt to various medical imaging modalities. Future work may explore the integration of SDSeg into clinical workflows, potentially enhancing real-time diagnostic capabilities and broadening its applicability to other areas of medical imaging.
 
 ### Reference:
-Lin, T., Zhu, S., Liu, H., Zhang, Q., & Tang, J. (2024). "Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process" ArXiv. /abs/2406.183
+Lin, T., Zhu, S., Liu, H., Zhang, Q., & Tang, J. (2024). "Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process". ArXiv. /abs/2406.18361
 
 
