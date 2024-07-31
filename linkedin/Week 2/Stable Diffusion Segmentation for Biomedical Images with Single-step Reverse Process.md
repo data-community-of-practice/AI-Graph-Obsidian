@@ -2,7 +2,7 @@
 
 In the rapidly evolving field of medical image segmentation, a new model called **SDSeg** has been introduced, representing a significant technological advancement. This paper addresses key challenges in the application of diffusion models to medical image segmentation, particularly focusing on resource efficiency and the stability of predictions.
 
-**Article Link** : https://arxiv.org/abs/2407.18035
+**Article Link** : https://arxiv.org/abs/2406.18361
 
 1️⃣ **Context and Problem Statement**: Traditional diffusion models, like Diffusion Probabilistic Models (DPMs), typically involve generating segmentation maps in the pixel space, requiring multiple reverse steps to produce detailed images. This approach is computationally expensive and time-consuming, often needing numerous samples to ensure stable predictions. The process not only consumes significant computational resources but also poses challenges in maintaining consistency across predictions, which is critical in medical diagnostics.
 
