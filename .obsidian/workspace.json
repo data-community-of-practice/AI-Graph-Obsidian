@@ -161,6 +161,9 @@
   },
   "active": "f74438059c32fa67",
   "lastOpenFiles": [
+    "tools/Week 2/How to use DALL-E API",
+    "tools/Week 2/How to use DALLE-API",
+    "tools/Week 2",
     "tools/How-to-use-Flowise.md",
     "linkedin/Week 2/Negative-Results-of-Image-Processing-for-Identifying-Duplicate-Questions-on-Stack-Overflow.md",
     "linkedin/Week 2/Diffusion Models for Multi-Task Generative Modeling.md",
@@ -203,9 +206,6 @@
     "tools/Week 0/How-to-run-Ollama-on-Windows.md",
     "tools/Week 0/privatellm-chatbot-creation-tutorial.md",
     "tools/Week 0/what-is-diffusion-model.md",
-    "tools/Week 0/What are the latest developments in prompt engineering.md",
-    "tools/Week 0/How-to-use-hugging-face-api.md",
-    "tools/Week 0",
-    "tools/Week 1"
+    "tools/Week 0/What are the latest developments in prompt engineering.md"
   ]
 }
