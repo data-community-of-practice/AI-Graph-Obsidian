@@ -90,7 +90,6 @@ In this case, we're using OpenAI's `text-embedding-ada-002`, which produces embe
 - Save the entire workflow by clicking the purple button located in the upper right corner.
 - To finalize the process, click on the green database icon. This action confirms and initiates the upload of vector embeddings to Pinecone.
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/41e75ef8-96d5-4142-1617-3d61b7236e00/public)
-<!-- ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/064c2afc-2c95-4c10-68b4-8ec571874a00/public) -->
 
 <p align="center">
   <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/064c2afc-2c95-4c10-68b4-8ec571874a00/public" width="300" alt="image">
