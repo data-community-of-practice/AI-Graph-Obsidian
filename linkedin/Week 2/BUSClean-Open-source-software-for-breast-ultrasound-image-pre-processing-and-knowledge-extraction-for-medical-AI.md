@@ -4,7 +4,7 @@
 
 📍 BUSClean introduces a transformative open-source software solution for the pre-processing of breast ultrasound (BUS) images, enhancing the data quality for medical AI applications. This tool addresses the challenge of irregularities and artifacts in clinical BUS datasets, which can skew AI training and diagnostics.
 
-🔸 *Challenges in BUS Image Pre-processing*: Unlike standardized medical imaging modalities, BUS images often include a variety of irregularities such as non-standard scan modes and embedded text annotations. These can introduce significant noise into AI models, leading to poor generalization and diagnostic inaccuracies.
+🔸 *Challenges in BUS Image Pre-processing*: Unlike standardised medical imaging modalities, BUS images often include a variety of irregularities such as non-standard scan modes and embedded text annotations. These can introduce significant noise into AI models, leading to poor generalization and diagnostic inaccuracies.
 
 🔸 *Capabilities of BUSClean*: BUSClean automates the cleaning, filtering, and knowledge extraction processes for BUS images. It effectively identifies and processes artifacts, text annotations, and non-standard imaging modes using advanced image processing and OCR techniques. This ensures that AI models train on high-quality data, leading to more reliable and robust medical imaging AI systems.
 

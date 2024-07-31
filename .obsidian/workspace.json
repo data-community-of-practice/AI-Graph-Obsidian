@@ -1,53 +1,39 @@
 {
   "main": {
-    "id": "71468105466e9587",
+    "id": "b2bb22c1ac7ba6cc",
     "type": "split",
     "children": [
       {
-        "id": "4a7d3f24b960ec72",
+        "id": "24fa74b5b635ad83",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7f45eacc3c1111",
+            "id": "01f393e40dbe6456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f74438059c32fa67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
-                "file": "tools/Week 1/How-to-use-Llamaindex.md",
+                "file": "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "08ac798aed6c807c",
+    "id": "3c060475ed67e2ac",
     "type": "split",
     "children": [
       {
-        "id": "8189854dbc66e8fa",
+        "id": "454c3cb742b7bb9d",
         "type": "tabs",
         "children": [
           {
-            "id": "856faa4c5386a1f8",
+            "id": "b2a99cec1e3f006f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +43,7 @@
             }
           },
           {
-            "id": "15ae36e0108a68f9",
+            "id": "6c407348118a893b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +58,7 @@
             }
           },
           {
-            "id": "e4faba0975a7f9dc",
+            "id": "71aa4c6807af2116",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,21 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "55ae58fc54d7fa9d",
+    "id": "e65ba5079b55109f",
     "type": "split",
     "children": [
       {
-        "id": "d56fec5c6420fc88",
+        "id": "c92a264277eab817",
         "type": "tabs",
         "children": [
           {
-            "id": "57d580115861ac54",
+            "id": "98d7e5caf4851969",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
-                "file": "tools/Week 1/How-to-use-Llamaindex.md",
+                "file": "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,20 +97,19 @@
             }
           },
           {
-            "id": "c2082b6b8deda73c",
+            "id": "821b76907e0ec027",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
-                "file": "tools/Week 1/How-to-use-Llamaindex.md",
+                "file": "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e9db6268a28898f5",
+            "id": "8e842e86d9c6ed28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,13 +120,12 @@
             }
           },
           {
-            "id": "ffe11f4b20b23604",
+            "id": "95cd573d31a779d0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md"
-                "file": "tools/Week 1/How-to-use-Llamaindex.md"
+                "file": "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md"
               }
             }
           }
@@ -163,64 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f7f45eacc3c1111",
+  "active": "01f393e40dbe6456",
   "lastOpenFiles": [
-    "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
-    "linkedin/Week 2/image-processing-plugins-for-the-web-via-javascript-injection.md",
-    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
-    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
-    "linkedin/Week 2/AI's-Hidden-Bias-Revealing-the-Stereotypes-in-Autism-Imagery.md",
-    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
-    "tools/Week 1/How to use OpenAI Playground.md",
-    "linkedin/Week 2",
-    "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
-    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
-    "img/Week1/Adithya/example-code-llamaindex.png",
-    "tools/Week 1/How-to-use-Llamaindex.md",
-    "img/Week1/Adithya/llamaindex.png",
-    "tools/Week 0/what-is-diffusion-model.md",
-    "tools/Week 0/What are the latest developments in prompt engineering.md",
-    "tools/Week 0/How-to-use-hugging-face-api.md",
-    "tools/Week 0/privatellm-chatbot-creation-tutorial.md",
-    "tools/Week 0/How-to-run-Ollama-on-Windows.md",
-    "tools/Week 0/How-to-use-GitHub-Copilot.md",
-    "tools/Week 0",
-    "tools/Week 1/How to use OpenAI Playground.md",
-    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
-    "tools/Week 1/how-to-use-haystack-ai.md",
-    "tools/Week 1/how-to-use-chainlit.md",
-    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
-    "tools/Week 1"
-    "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
-    "tools/Week 1",
-    "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
-    "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
-    "linkedin/Week 1/multi-motion-generation-from-text-with-discrete-diffusion-models.md",
-    "linkedin/Week 1/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
-    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
-    "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
-    "linkedin/Week 1",
-    "img/view-code-playground.png",
-    "img/user-playground.png",
-    "img/usage-playground.png",
-    "img/topbar-playground.png",
-    "img/system-playground.png",
-    "img/summarize-playground.png",
-    "img/speech-playground.png",
-    "img/sidebar-playground.png",
-    "tools/How-to-use-Llamaindex.md",
-    "img/Week1/Tohfa",
-    "img/Week1/Wendi",
-    "img/Week1/Mingrui",
-    "img/Week1/Adithya",
-    "img/Week1",
-    "img/Week0",
-    "tools/How-to-use-GitHub-Copilot.md",
-    "linkedin/Unlocking New Frontiers in Long Context AI and RAG.md",
-    "conflict-files-obsidian-git.md",
-    "tools/what-is-diffusion-model.md",
-    "tools/how-to-use-haystack-ai.md",
-    "tools/What are the latest developments in prompt engineering.md",
-    "linkedin"
+    "linkedin/Week 2/Negative-Results-of-Image-Processing-for-Identifying-Duplicate-Questions-on-Stack-Overflow.md",
+    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md"
   ]
 }
