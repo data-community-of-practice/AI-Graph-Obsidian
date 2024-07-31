@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f74438059c32fa67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
                 "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
                 "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -102,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
                 "file": "tools/Week 1/How-to-use-Llamaindex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -125,6 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md"
                 "file": "tools/Week 1/How-to-use-Llamaindex.md"
               }
             }
@@ -148,6 +165,16 @@
   },
   "active": "7f7f45eacc3c1111",
   "lastOpenFiles": [
+    "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
+    "linkedin/Week 2/image-processing-plugins-for-the-web-via-javascript-injection.md",
+    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
+    "linkedin/Week 2/AI's-Hidden-Bias-Revealing-the-Stereotypes-in-Autism-Imagery.md",
+    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+    "tools/Week 1/How to use OpenAI Playground.md",
+    "linkedin/Week 2",
+    "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
+    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
     "img/Week1/Adithya/example-code-llamaindex.png",
     "tools/Week 1/How-to-use-Llamaindex.md",
     "img/Week1/Adithya/llamaindex.png",
@@ -162,6 +189,8 @@
     "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
     "tools/Week 1/how-to-use-haystack-ai.md",
     "tools/Week 1/how-to-use-chainlit.md",
+    "tools/Week 1/How-to-use-Gorilla-on-MacOS.md",
+    "tools/Week 1"
     "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
     "tools/Week 1",
     "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",

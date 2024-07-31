@@ -67,7 +67,7 @@ There are only two login options: GitHub and Google. You can choose either to lo
 
 After logging in, you will see the Studio interface. You can skip the next section and go directly to the "Models" chapter.
 
-### **Deploying the Community Edition: Running Locally**
+### Deploying the Community Edition: Running Locall
 
 If you want to run Dify locally, you can choose to deploy the Dify Community Edition, which is the open-source version. You can deploy it via Docker Compose or the local source code. This article will demonstrate the more convenient method of deploying Dify locally on Windows using Docker Compose.
 
