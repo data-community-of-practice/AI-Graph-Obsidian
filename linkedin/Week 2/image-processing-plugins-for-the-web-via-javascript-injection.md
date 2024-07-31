@@ -13,3 +13,5 @@ Article link: https://arxiv.org/abs/2405.07868
 🔹 Boostlet.js enhances the capabilities of web-based visualization frameworks by providing a unified programming interface for image processing. This development allows researchers and developers to create, share, and apply advanced image processing techniques easily. Future challenges include expanding the library's support for 3D and WebGL/WebGPU frameworks to enhance pixel manipulation capabilities further. Additionally, continued community engagement and feedback will be crucial in refining the library and adding more functionalities to meet the evolving needs of the medical imaging and visualization community.
 
 📑 Gaibor, E., Varade, S., Deshmukh, R., Meyer, T., Geshvadi, Mahsa., Kim, S., Narayanappa, V.S., Haehn, D. (2024).  Boostlet.js: Image processing plugins for the web via JavaScript injection. DOI: 10.48550/arXiv.2405.07868
+
+%%The post is too long, we have to keep it within 3000 characters, this post has overshot that limit by 581 characters. Please make this more concise%%
