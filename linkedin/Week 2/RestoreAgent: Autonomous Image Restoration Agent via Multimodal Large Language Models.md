@@ -2,7 +2,7 @@
 
 The field of image restoration is witnessing a transformative leap with the introduction of **RestoreAgent**, an advanced system designed to tackle complex image degradations. This innovative approach addresses the limitations of traditional and all-in-one models by autonomously assessing and restoring images with multiple types of degradation, such as noise, blur, and low light. RestoreAgent leverages state-of-the-art AI techniques, including multimodal large language models (MLLM), to optimize the restoration process.
 
-**Article Link** : https://arxiv.org/abs/2406.18361
+**Article Link** : https://arxiv.org/abs/2407.18035
 
 1️⃣ **Context and Problem Statement**: In the domain of image restoration, traditional methods often rely on manual selection and fixed sequences of specific tasks, such as denoising, deblurring, and super-resolution. These methods struggle with real-world images that frequently suffer from multiple, simultaneous degradations. All-in-one models, while capable of addressing multiple degradations within a single framework, often face trade-offs between generalization and performance, leading to suboptimal restoration outcomes with overly smooth or low-fidelity results.
 
