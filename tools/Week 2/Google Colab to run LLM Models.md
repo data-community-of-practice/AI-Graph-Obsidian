@@ -1,4 +1,4 @@
-# Google Colab to run LLM Models remotely
+# Google Colab to run LLM Models
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Google_Colab.png)
 <div align="center"><small>Created using runwayml</small></div>
@@ -40,7 +40,7 @@ Select GPU under Hardware accelerator.
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/GPU_Selection.png)
 
 <div align="center"><small>Created from Google Colab Jupyter Notebook by Tohfa Siddika Barbhuiya</small></div>
-
+Then click on Connect
 
 ### 2.3 Installing Required Libraries
 
@@ -130,7 +130,7 @@ Again you get surprising output from the response.
 Also, you can connect to Ollama remotely through Google Colab as well.
 
 ## 6. Conclusion
-Google Colab is a powerful, accessible platform that levels the playing field for working with large language models. By providing free GPU access and a user-friendly interface, it allows individuals, small teams, and students to harness the power of LLMs without substantial financial investment. Start leveraging Google Colab today to explore and implement large language models.
+Google Colab provides a versatile and accessible platform for running large language models, removing the barriers of expensive hardware and complex setups. By offering free GPU access, seamless Google Drive integration, and a user-friendly interface, Colab empowers individuals and small teams to explore and utilize the capabilities of advanced AI models like Falcon-7B-Instruct, running Ollama remotely and run LLM Models. This democratization of technology enables more people to engage in cutting-edge AI research and applications, making powerful computational tools available to a wider audience. Start using Google Colab today to unlock the potential of LLMs in your projects.
 
 ## References
 - T. I. Institute, "Falcon-7B-Instruct," Hugging Face, 2023. [Online]. Available: https://huggingface.co/tiiuae/falcon-7b-instruct. [Accessed: 31-July-2024].
