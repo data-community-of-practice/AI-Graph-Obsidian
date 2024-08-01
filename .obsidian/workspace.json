@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md"
+                "file": "tools/Week 2/Creating images with DALL-E API in Python.md"
               }
             }
           }
@@ -161,6 +162,11 @@
   },
   "active": "f74438059c32fa67",
   "lastOpenFiles": [
+    "img/flying_car.png",
+    "tools/Week 2/How to create images with DALL-E API.md",
+    "img/dalle-1.png",
+    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+    "tools/Week 2/Creating images with DALL-E API in Python.md",
     "tools/Week 2/How to use DALL-E API",
     "tools/Week 2/How to use DALLE-API",
     "tools/Week 2",
@@ -170,7 +176,6 @@
     "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
     "linkedin/Week 2/Adversarial Robustification via Text-to-Image Diffusion Models.md",
     "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
-    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
     "tools/Week 1/How to use OpenAI Playground.md",
     "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
     "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
@@ -188,7 +193,6 @@
     "img/Week1/Tohfa/haystack-rag-output.png",
     "img/Week1/Wendi/chainlit-mario-bot.png",
     "img/Week1/Mingrui/gorilla-select-quantized-model.png",
-    "img/Week1/Mingrui/gorilla-thumbnail.png",
     "img/Week1/Adithya",
     "img/Week1/Tohfa",
     "img/Week1/Wendi",
@@ -200,12 +204,9 @@
     "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
     "linkedin/Week 1/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
     "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
-    "linkedin/Week 1",
     "tools/How-to-use-GitHub-Copilot.md",
     "tools/How to use OpenAI Playground.md",
     "tools/Week 0/How-to-run-Ollama-on-Windows.md",
-    "tools/Week 0/privatellm-chatbot-creation-tutorial.md",
-    "tools/Week 0/what-is-diffusion-model.md",
-    "tools/Week 0/What are the latest developments in prompt engineering.md"
+    "tools/Week 0/privatellm-chatbot-creation-tutorial.md"
   ]
 }

@@ -41,11 +41,11 @@ Importantly, Dify is **open source**, co-created by a professional full-time tea
 
 ### What You Can Gain from This Article
 
-By reading this article, you'll gain a comprehensive understanding of how to leverage Dify, an open-source LLM app development platform, to create powerful AI applications without needing to write code. 
+By reading this article, you'll gain a comprehensive understanding of how to leverage Dify, an open-source LLM app development platform, to create powerful AI applications without needing to write code.
 
-You'll learn how to build and deploy workflows using a visual interface, integrate a wide range of models, and implement advanced features like RAG pipelines and AI agents. 
+You'll learn how to build and deploy workflows using a visual interface, integrate a wide range of models, and implement advanced features like RAG pipelines and AI agents.
 
-Additionally, the article provides practical guidance on setting up both cloud-based and self-hosted solutions, equipping you with the skills to deploy and manage AI applications efficiently. 
+Additionally, the article provides practical guidance on setting up both cloud-based and self-hosted solutions, equipping you with the skills to deploy and manage AI applications efficiently.
 
 Whether you're new to AI or an experienced developer, you'll find valuable insights and practical steps to enhance your AI development capabilities with Dify.
 
@@ -197,21 +197,20 @@ docker compose up -d
 Dify classifies models into 4 types, each for different uses:
 
 1. **System Inference Models:** Used in applications for tasks like chat, name generation, and suggesting follow-up questions.
-   
-    > Providers include OpenAI、Azure OpenAI Service、Anthropic、Hugging Face Hub、Replicate、Xinference、OpenLLM、iFLYTEK SPARK、WENXINYIYAN、TONGYI、Minimax、ZHIPU(ChatGLM) Ollama、LocalAI、.
-    > 
+
+   > Providers include OpenAI、Azure OpenAI Service、Anthropic、Hugging Face Hub、Replicate、Xinference、OpenLLM、iFLYTEK SPARK、WENXINYIYAN、TONGYI、Minimax、ZHIPU(ChatGLM) Ollama、LocalAI、.
+
 2. **Embedding Models:** Employed to embed segmented documents in knowledge and process user queries in applications.
-   
-    > Providers include OpenAI, ZHIPU (ChatGLM), Jina AI(Jina Embeddings 2).
-    > 
+
+   > Providers include OpenAI, ZHIPU (ChatGLM), Jina AI(Jina Embeddings 2).
+
 3. **Rerank Models:** Enhance search capabilities in LLMs.
-   
-    > Provider: Cohere.
-    > 
+
+   > Provider: Cohere.
+
 4. **Speech-to-Text Models:** Convert spoken words to text in conversational applications.
-   
-    > Provider: OpenAI.
-    > 
+
+   > Provider: OpenAI.
 
 **Selecting and Configuring Models**
 
@@ -247,19 +246,15 @@ Here, we notice that the Rerank model is empty and has no selectable options. Th
 
 This article will not delve into practising Rerank, but we can briefly understand what Rerank is and what it does.
 
-> 
-> 
-> 
 > Hybrid retrieval can combine the advantages of different retrieval techniques to achieve better recall results. However, the query results under different retrieval modes need to be merged and normalized (converting data into a unified standard range or distribution for better comparison, analysis, and processing) before being provided to the large model together. At this point, we need to introduce a scoring system: the Rerank Model.
-> 
+>
 > The Rerank Model calculates the semantic matching between the candidate document list and the user's query, reordering the results based on semantic matching to improve the semantic ranking results. Its principle is to calculate the relevance scores between the user's query and each given candidate document, then return a list of documents sorted by relevance from high to low. Common Rerank models include Cohere rerank, bge-reranker, etc.
-> 
+>
 > ![Hybrid Retrieval + Rerank](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202407260109152.png)
-> 
+>
 > In most cases, there will be an initial retrieval before reranking because calculating the relevance scores between a query and millions of documents would be very inefficient. Therefore, reranking is usually placed at the final stage of the search process, making it very suitable for merging and sorting results from different retrieval systems.
-> 
+>
 > Its greatest advantage is that it not only provides a simple and low-complexity method to improve search results, allowing users to incorporate semantic relevance into existing search systems but also requires no significant infrastructure modifications.
-> 
 
 ### Custom Model Integration (Ollama + Llama 3.1 as Example)
 
@@ -321,23 +316,22 @@ The specific meanings and methods of filling in the parameters shown in the pict
 
 - Model Name: `llama3.1`
 - Base URL: `http://<your-ollama-endpoint-domain>:11434`, where the URL consists of `http://` followed by the local IP address obtained earlier and the port number.
-    - Note that using `127.0.0.1` here will not work; you need to use the local IP address.
-    - If Dify is deployed using Docker, consider using the local network IP address, e.g., `http://192.168.1.100:11434` or the Docker host machine IP address, e.g., `http://172.17.0.1:11434`.
-    - If Ollama is running in Docker Desktop, `http://host.docker.internal:11434` might be the correct address because localhost in Docker is not the same as the host's localhost since the container exists in a separate network namespace.
-    - If Dify is deployed using the local source code deployment method, you can try using `http://localhost:11434`.
+  - Note that using `127.0.0.1` here will not work; you need to use the local IP address.
+  - If Dify is deployed using Docker, consider using the local network IP address, e.g., `http://192.168.1.100:11434` or the Docker host machine IP address, e.g., `http://172.17.0.1:11434`.
+  - If Ollama is running in Docker Desktop, `http://host.docker.internal:11434` might be the correct address because localhost in Docker is not the same as the host's localhost since the container exists in a separate network namespace.
+  - If Dify is deployed using the local source code deployment method, you can try using `http://localhost:11434`.
 - Model Type: `Chat`
 - Model Context Length: `4096`
-  
-    The maximum context length of the model. If unsure, use the default value of 4096.
-    
+
+  The maximum context length of the model. If unsure, use the default value of 4096.
+
 - Maximum Token Limit: `4096`
-  
-    The maximum number of tokens returned by the model. If there are no specific requirements for the model, this can be consistent with the model context length.
-    
+
+  The maximum number of tokens returned by the model. If there are no specific requirements for the model, this can be consistent with the model context length.
+
 - Support for Vision: `No`
-  
-    Check this option if the model supports image understanding (multimodal), like `llava`.
-    
+
+  Check this option if the model supports image understanding (multimodal), like `llava`.
 
 Click "Save" to use the model in the application after verifying that there are no errors.
 
@@ -364,40 +358,38 @@ Here is how to set up environment variables for Ollama on macOS and Linux. The r
 If Ollama is run as a macOS application, environment variables should be set using `launchctl`:
 
 1. For each environment variable, call `launchctl setenv`.
-   
-    ```bash
-    launchctl setenv OLLAMA_HOST "0.0.0.0"
-    ```
-    
+
+   ```bash
+   launchctl setenv OLLAMA_HOST "0.0.0.0"
+   ```
+
 2. Restart Ollama application.
 3. If the above steps are ineffective, you can use the following method:
-   
-    The issue lies within Docker itself, and accessing the Docker host.
-    you should connect to `host.docker.internal`. Therefore, replacing `localhost` with `host.docker.internal` in the service will make it work effectively.
-    
-    ```bash
-    http://host.docker.internal:11434
-    ```
-    
+
+   The issue lies within Docker itself, and accessing the Docker host.
+   you should connect to `host.docker.internal`. Therefore, replacing `localhost` with `host.docker.internal` in the service will make it work effectively.
+
+   ```bash
+   http://host.docker.internal:11434
+   ```
 
 If Ollama is run as a systemd service, environment variables should be set using `systemctl`:
 
 1. Edit the systemd service by calling `systemctl edit ollama.service`. This will open an editor.
 2. For each environment variable, add a line `Environment` under section `[Service]`:
-   
-    ```bash
-    [Service]
-    Environment="OLLAMA_HOST=0.0.0.0"
-    ```
-    
+
+   ```bash
+   [Service]
+   Environment="OLLAMA_HOST=0.0.0.0"
+   ```
+
 3. Save and exit.
 4. Reload `systemd` and restart Ollama:
-   
-    ```bash
-    systemctl daemon-reload
-    systemctl restart ollama
-    ```
-    
+
+   ```bash
+   systemctl daemon-reload
+   systemctl restart ollama
+   ```
 
 ## Application Orchestration
 
@@ -458,17 +450,17 @@ Dify offers four types of applications:
 
 The differences between Text Generation and Chat Assistant are shown in the table below:
 
-|  | Text Generation | Chat Assistant |
-| --- | --- | --- |
-| WebApp Interface | Form + Results | Chat-based |
-| WebAPI Endpoint | completion-messages | chat-messages |
-| Interaction Mode | One question, one answer | Multi-turn conversation |
-| Streaming Results | Supported | Supported |
-| Context Preservation | Per session | Continuous |
-| User Input Form | Supported | Supported |
-| Datasets and Plugins | Supported | Supported |
-| AI Opening Remarks | Not supported | Supported |
-| Example Scenarios | Translation, judgment, indexing | Chatting |
+|                      | Text Generation                 | Chat Assistant          |
+| -------------------- | ------------------------------- | ----------------------- |
+| WebApp Interface     | Form + Results                  | Chat-based              |
+| WebAPI Endpoint      | completion-messages             | chat-messages           |
+| Interaction Mode     | One question, one answer        | Multi-turn conversation |
+| Streaming Results    | Supported                       | Supported               |
+| Context Preservation | Per session                     | Continuous              |
+| User Input Form      | Supported                       | Supported               |
+| Datasets and Plugins | Supported                       | Supported               |
+| AI Opening Remarks   | Not supported                   | Supported               |
+| Example Scenarios    | Translation, judgment, indexing | Chatting                |
 
 When creating an application, you need to give it a name, choose an appropriate icon, and use clear and concise text to describe the purpose of this application, to facilitate its subsequent use within the team.
 
@@ -653,26 +645,24 @@ Dify's knowledge base feature visualizes each step in the RAG pipeline, providin
 In Dify, Knowledge is a collection of documents. A knowledge base can be integrated into an application as a retrieval context. Documents can be uploaded by developers or a member of the operation team, or synchronized from other data sources (usually corresponding to one unit file in the data source).
 
 > **What is RAG?**
-> 
-> 
+>
 > The RAG architecture, with vector retrieval at its core, has become the mainstream technical framework for enabling large models to access the latest external knowledge while addressing the problem of hallucinations in generated content. This technology has been implemented in a variety of application scenarios.
-> 
+>
 > Developers can use this technology to build AI-powered customer service, enterprise knowledge bases, AI search engines, and more at a low cost. By using natural language input to interact with various forms of knowledge organization, they can create intelligent systems. Let's take a representative RAG application as an example:
-> 
+>
 > In the diagram below, when a user asks, "Who is the President of the United States?", the system does not directly pass the question to the large model for an answer. Instead, it first performs a vector search in a knowledge base (such as Wikipedia shown in the diagram) to find relevant content through semantic similarity matching (e.g., "Joe Biden is the 46th and current president of the United States..."). Then, the system provides the user's question along with the retrieved relevant knowledge to the large model, allowing it to obtain sufficient information to answer the question reliably.
-> 
+>
 > ![The Basic Architecture of RAG](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202407260117722.png)
-> 
+>
 > **Why is this necessary?**
-> 
+>
 > We can think of a large model as a super expert who is familiar with various fields of human knowledge. However, it has its limitations. For instance, it does not know personal information about you because such information is private and not publicly available on the internet, so it has no prior learning opportunity.
-> 
+>
 > When you want to hire this super expert as your personal financial advisor, you need to allow them to review your investment records, household expenses, and other data before answering your questions. This way, the expert can provide professional advice based on your personal circumstances.
-> 
+>
 > **This is exactly what the RAG system does: it helps the large model temporarily acquire external knowledge it does not possess, allowing it to find answers before responding to questions.**
-> 
+>
 > From the example above, it is easy to see that the most critical part of the RAG system is the retrieval of external knowledge. Whether the expert can provide professional financial advice depends on whether they can accurately find the necessary information. If they find your weight loss plan instead of your investment records, even the most knowledgeable expert would be powerless.
-> 
 
 Let's get hands-on and create a simple chatbot with a knowledge base. The following steps are based on the previous local deployment and integration of Dify and Ollama.
 
@@ -680,7 +670,7 @@ First, click on `Knowledge > Create Knowledge`.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202407260118451.png)
 
-Select `Import from file` to upload the document. Here, I will use Nvidia's latest paper *ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities* as an example. After uploading, click `Next`
+Select `Import from file` to upload the document. Here, I will use Nvidia's latest paper _ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities_ as an example. After uploading, click `Next`
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202407260118505.png)
 
