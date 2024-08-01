@@ -12,7 +12,7 @@ In recent times, there has been a boom in the field of image generation, with mo
 
 - Once you have created an OpenAI account, navigate to the "User API Keys" section by clicking on "Your Profile" on the OpenAI site.
 
-![OpenAI API Key generation](dalle-1.png)
+![OpenAI API Key generation](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/dalle-1.png)
 
 <div align="center" ><i>Creation of OpenAI API keys</i></div>
 
@@ -97,7 +97,7 @@ else:
 
 ### Result
 
-![OpenAI DALL-E 3 Result](flying_car.png)
+![OpenAI DALL-E 3 Result](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/flying_car.png)
 
 <div align="center" ><i>DALL-E 3 Image Generation Example</i></div>
 
