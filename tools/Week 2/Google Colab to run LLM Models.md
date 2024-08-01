@@ -7,7 +7,7 @@
 - Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))  
 
 In the field of Artificial Intelligence, large language models (LLMs) are transforming the landscape of what machines can achieve. These sophisticated models excel at tasks like summarizing text, generating human-like content, translating languages, and answering complex questions. However, the computational resources required to run such models can be prohibitive for many individuals and small teams.
-Enter the world of Google Colab.
+Let's enter the world of Google Colab.
 Colab is a python platform by google. It provides a game-changing solution by offering a free cloud-based environment that supports Python code execution. This allows you to leverage powerful hardware, including GPUs, without the financial burden of expensive infrastructure. We can run the LLM models on the free version of Google Colab using their free T4 GPU. Here’s how you can utilize Google Colab to run LLMs effectively.
 
 ## 1. Introduction to Google Colab
