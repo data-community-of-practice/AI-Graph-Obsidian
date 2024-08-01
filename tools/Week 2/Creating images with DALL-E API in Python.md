@@ -1,3 +1,5 @@
+%% Add a thumbnail image%%
+
 ### Author
 
 Tarun Krishnan (**ORCID**: [0009-0006-6647-127X](https://orcid.org/0009-0006-6647-127X))
@@ -156,4 +158,4 @@ In this article, we saw the straightforward process of setting up an OpenAI API 
 
 Whether you're looking to enhance your presentations, create compelling marketing materials, or explore new creative avenues, DALL-E 3 provides an accessible and powerful solution. As technology continues to evolve, we can only anticipate even more remarkable advancements in the field of artificial intelligence and image generation.
 
-So why wait? Start experimenting with DALL-E 3 today and unlock the potential of your creative vision!
+%%So why wait? Start experimenting with DALL-E 3 today and unlock the potential of your creative vision! Taking this sentence out to keep things professional%%

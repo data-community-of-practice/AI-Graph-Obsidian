@@ -6,6 +6,7 @@
 ## Introduction
 Flowise is an open-source, low-code tool tailored for developers to build customized orchestration flows and AI agents for Large Language Models (LLMs). It simplifies the development cycle, enabling quick iterations and a smooth transition from testing to production. In this article, we will explore the primary use cases for Flowise.
 
+%%Add captions to the images. Have a thumbnail image%%
 ## Get Started
 Flowise provides two deployment choices: local installation or obtaining product access via their [official website](https://flowiseai.com/). We chose to proceed with a local deployment for our experimentation.
 

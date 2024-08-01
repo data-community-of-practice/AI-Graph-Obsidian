@@ -20,3 +20,5 @@ The field of image restoration is witnessing a transformative leap with the intr
 Chen, H., Li, W., Gu, J., Ren, J., Chen, S., Ye, T., Pei, R., Zhou, K., Song, F., & Zhu, L. (2024). "RestoreAgent: Autonomous Image Restoration Agent
 via Multimodal Large Language Models" ArXiv. /abs/2407.18035
 
+%%The post is too long. LinkedIn allows for posts to be of 3000 characters. This post exceeded that limit by 1200+ characters. Please make this more concise%%
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+                "file": "tools/How-to-use-Flowise.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
+                "file": "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
+                "file": "tools/How-to-use-Flowise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
+                "file": "tools/How-to-use-Flowise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md"
+                "file": "tools/How-to-use-Flowise.md"
               }
             }
           }
@@ -160,29 +158,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f74438059c32fa67",
+  "active": "a38d36e85c000c74",
   "lastOpenFiles": [
-    "linkedin/Week 2/Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process.md",
-    "linkedin/Week 2/RestoreAgent - Autonomous Image Restoration Agent via Multimodal Large Language Models.md",
-    "img/flying_car.png",
-    "tools/Week 2/How to create images with DALL-E API.md",
-    "img/dalle-1.png",
-    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
     "tools/Week 2/Creating images with DALL-E API in Python.md",
-    "tools/Week 2/How to use DALL-E API",
-    "tools/Week 2/How to use DALLE-API",
+    "linkedin/Week 2/Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process.md",
+    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+    "linkedin/Week 2/RestoreAgent - Autonomous Image Restoration Agent via Multimodal Large Language Models.md",
+    "linkedin/Week 2/image-processing-plugins-for-the-web-via-javascript-injection.md",
     "tools/Week 2",
-    "tools/How-to-use-Flowise.md",
+    "img/flying_car.png",
+    "img/dalle-1.png",
+    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
+    "linkedin/Week 2/AI's-Hidden-Bias-Revealing-the-Stereotypes-in-Autism-Imagery.md",
+    "linkedin/Week 2/Adversarial Robustification via Text-to-Image Diffusion Models.md",
+    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
+    "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
     "linkedin/Week 2/Negative-Results-of-Image-Processing-for-Identifying-Duplicate-Questions-on-Stack-Overflow.md",
     "linkedin/Week 2/Diffusion Models for Multi-Task Generative Modeling.md",
-    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
-    "linkedin/Week 2/Adversarial Robustification via Text-to-Image Diffusion Models.md",
-    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+    "tools/How-to-use-Flowise.md",
+    "img/202407310959004.png",
     "tools/Week 1/How to use OpenAI Playground.md",
-    "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
-    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
-    "linkedin/Week 2/image-processing-plugins-for-the-web-via-javascript-injection.md",
-    "linkedin/Week 2/AI's-Hidden-Bias-Revealing-the-Stereotypes-in-Autism-Imagery.md",
     "linkedin/Week 2",
     "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
     "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
@@ -193,7 +189,6 @@
     "img/Week1/Tohfa/haystack-thumbnail.png",
     "img/Week1/Wendi/chainlit-generated-story.png",
     "img/Week1/Tohfa/haystack-rag-output.png",
-    "img/Week1/Wendi/chainlit-mario-bot.png",
     "img/Week1/Adithya",
     "img/Week1/Tohfa",
     "img/Week1/Wendi",
@@ -205,8 +200,11 @@
     "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
     "linkedin/Week 1/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
     "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
+    "linkedin/Week 1",
     "tools/How-to-use-GitHub-Copilot.md",
     "tools/How to use OpenAI Playground.md",
-    "tools/Week 0/How-to-run-Ollama-on-Windows.md"
+    "tools/Week 0/How-to-run-Ollama-on-Windows.md",
+    "tools/Week 0/privatellm-chatbot-creation-tutorial.md",
+    "tools/Week 0"
   ]
 }
