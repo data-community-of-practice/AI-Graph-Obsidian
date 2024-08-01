@@ -33,11 +33,11 @@ Ensure you’re using a GPU for enhanced performance:
 Navigate to Runtime > Change runtime type.
 Select GPU under Hardware accelerator.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Runtime_type.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Runtime__type.png)
 
 <div align="center"><small>Created from Google Colab Jupyter Notebook by Tohfa Siddika Barbhuiya</small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/GPU_Selection.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/GPU__Selection.png)
 
 <div align="center"><small>Created from Google Colab Jupyter Notebook by Tohfa Siddika Barbhuiya</small></div>
 Then click on Connect
