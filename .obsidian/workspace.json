@@ -162,6 +162,8 @@
   },
   "active": "f74438059c32fa67",
   "lastOpenFiles": [
+    "linkedin/Week 2/Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process.md",
+    "linkedin/Week 2/RestoreAgent - Autonomous Image Restoration Agent via Multimodal Large Language Models.md",
     "img/flying_car.png",
     "tools/Week 2/How to create images with DALL-E API.md",
     "img/dalle-1.png",
@@ -192,7 +194,6 @@
     "img/Week1/Wendi/chainlit-generated-story.png",
     "img/Week1/Tohfa/haystack-rag-output.png",
     "img/Week1/Wendi/chainlit-mario-bot.png",
-    "img/Week1/Mingrui/gorilla-select-quantized-model.png",
     "img/Week1/Adithya",
     "img/Week1/Tohfa",
     "img/Week1/Wendi",
@@ -206,7 +207,6 @@
     "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
     "tools/How-to-use-GitHub-Copilot.md",
     "tools/How to use OpenAI Playground.md",
-    "tools/Week 0/How-to-run-Ollama-on-Windows.md",
-    "tools/Week 0/privatellm-chatbot-creation-tutorial.md"
+    "tools/Week 0/How-to-run-Ollama-on-Windows.md"
   ]
 }
