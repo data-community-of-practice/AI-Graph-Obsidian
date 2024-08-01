@@ -235,7 +235,6 @@ Here are the key properties of a Red-Black Tree:
 
 Creating a full Red-Black Tree implementation involves significant complexity, and typically specialized libraries (like `sortedcontainers` for Python, or using `TreeMap` in Java) handle these. However, I can show you a basic implementation of the insertion operation along with rebalancing.
 
-```python
 class Node:
     def __init__(self, data):
         self.data = data
@@ -356,7 +355,7 @@ for value in values:
 
 sorted_values = rb_tree.inorder_traversal(rb_tree.root)
 sorted_values  # This should return an in-order traversal of the tree, which is the sorted order of elements
-```
+
 
 This code defines a Red-Black Tree with insertion and basic rebalancing. The `fix_insert` function ensures that the tree maintains its properties after each insertion. The `inorder_traversal` function can be used to retrieve a sorted list of elements from the tree, demonstrating that the tree operations work as intended. 
 
@@ -380,7 +379,7 @@ Quick sort is a popular and efficient sorting algorithm that uses a divide-and-c
 
 Here is a basic implementation of the quick sort algorithm in Python:
 
-```python
+
 def quick_sort(arr):
     if len(arr) <= 1:
         return arr
@@ -395,7 +394,7 @@ def quick_sort(arr):
 arr = [3, 6, 8, 10, 1, 2, 1]
 sorted_arr = quick_sort(arr)
 print(sorted_arr)
-```
+
 
 In the code above:
 1. We define the `quick_sort` function that takes an array `arr` as input.
@@ -412,10 +411,10 @@ How to write a quick sort?
 
 ```
 
-## **Conclusion**
+## Conclusion
 
 In summary, the Assistants API offers a robust platform for developers to integrate advanced AI assistants into their applications. By leveraging tools like the Code Interpreter, File Search, and Function Calling, developers can create specialized assistants capable of handling a wide range of tasks. The API's support for persistent Threads ensures efficient management of user interactions, maintaining context and coherence in conversations. As OpenAI continues to expand the capabilities of the Assistants API, developers have an exciting opportunity to build more sophisticated and responsive AI-driven solutions, enhancing user experiences and streamlining workflows across various industries.
 
-## **Source**
+## Source
 
 - [https://platform.openai.com/docs/assistants/quickstart?context=without-streaming](https://platform.openai.com/docs/assistants/quickstart?context=without-streaming)
