@@ -1,4 +1,4 @@
-## RestoreAgent Autonomous Image Restoration Agent via Multimodal Large Language Models
+## RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models
 
 The field of image restoration is witnessing a transformative leap with the introduction of **RestoreAgent**, an advanced system designed to tackle complex image degradations. This innovative approach addresses the limitations of traditional and all-in-one models by autonomously assessing and restoring images with multiple types of degradation, such as noise, blur, and low light. RestoreAgent leverages state-of-the-art AI techniques, including multimodal large language models (MLLM), to optimize the restoration process.
 
