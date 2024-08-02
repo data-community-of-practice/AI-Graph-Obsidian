@@ -26,7 +26,7 @@ A unique feature of the Assistants API is its support for persistent Threads, wh
 
 Moreover, Assistants can access and handle various file formats, whether for initial setup or during interactions within Threads. They can create files such as images and spreadsheets or reference files within their responses, enhancing the assistant's utility and integration.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408020448659.png)
+![Objects Framework And Workflow of Assistants API](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408020448659.png)
 
 | Object | What it represents |
 | --- | --- |
@@ -35,6 +35,8 @@ Moreover, Assistants can access and handle various file formats, whether for ini
 | Message | A message created by an Assistant or a user. Messages can include text, images, and other files. Messages stored as a list on the Thread. |
 | Run | An invocation of an Assistant on a Thread. The Assistant uses its configuration and the Thread’s Messages to perform tasks by calling models and tools. As part of a Run, the Assistant appends Messages to the Thread. |
 | Run Step | A detailed list of steps the Assistant took as part of a Run. An Assistant can call tools or create Messages during its run. Examining Run Steps allows you to introspect how the Assistant is getting to its final results. |
+
+*The functions of Objects in Assistants API*
 
 ### What is the difference between OpenAI Assistant API and Chat API?
 
