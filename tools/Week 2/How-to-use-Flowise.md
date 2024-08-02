@@ -104,21 +104,18 @@ In this case, we're using OpenAI's `text-embedding-ada-002`, which produces embe
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/41e75ef8-96d5-4142-1617-3d61b7236e00/public)
 <div align="center"><small style="font-size: 18px;">Flowise Workflow Running Instructions</small></div><br>
 
-<p align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/064c2afc-2c95-4c10-68b4-8ec571874a00/public" width="300" alt="image">
-</p>
+
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/064c2afc-2c95-4c10-68b4-8ec571874a00/public)
 <div align="center"><small style="font-size: 18px;">Flowise Document Upserted To Vector Database</small></div><br>
 
-6. Your chatbot is now operational and ready for interaction. To begin:
+1. Your chatbot is now operational and ready for interaction. To begin:
 - Locate the purple chat icon in the upper right corner of the interface.
 - Click on this icon to open the chat window.
 - Start asking questions about the content you've just uploaded.
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/4b0fe779-2e87-4824-29ae-8e8535c96400/public)
 <div align="center"><small style="font-size: 18px;">Flowise Workflow Start Button</small></div><br>
 
-<p align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/ca509ec5-1f1d-465c-a401-e81668db4200/public" width="400" alt="image">
-</p>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/ca509ec5-1f1d-465c-a401-e81668db4200/public)
 <div align="center"><small style="font-size: 18px;">Flowise Chatbot Dialog Box</small></div><br>
 
 ## API Integration: Extending Flowise Capabilities
