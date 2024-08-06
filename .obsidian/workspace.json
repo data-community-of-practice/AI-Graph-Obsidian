@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d707d8f986c0356",
+            "id": "9cbc36f75dccf60b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
+                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee89fe641056a4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
+                "file": "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
+                "file": "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md"
+                "file": "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md"
               }
             }
           }
@@ -146,14 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d707d8f986c0356",
+  "active": "ee89fe641056a4be",
   "lastOpenFiles": [
+    "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
+    "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
+    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
+    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
+    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
+    "tools/Week 2/Creating images with DALL-E API in Python.md",
     "linkedin/Week 3/Revolutionizing Media Forensics Tackling the Deepfake Dilemma.md",
     "linkedin/Week 3/Revolutionizing Dark Web Threat Detection with AI and Image Processing.md",
     "linkedin/Week 3/enhancing-medical-evidence-summarization-bridging-the-gap-between-open-source-and proprietary-large-language-models.md",
     "linkedin/Week 3",
     "tools/Week 1/How to use OpenAI Playground.md",
-    "tools/Week 2/Creating images with DALL-E API in Python.md",
     "tools/Week 2/How to Use OpenAI Assistants API to Build Your Own Custom ChatGPT.md"
   ]
 }
