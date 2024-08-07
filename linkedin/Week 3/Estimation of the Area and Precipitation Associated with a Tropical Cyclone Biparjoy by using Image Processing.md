@@ -1,0 +1,15 @@
+Decoding Cyclone Biparjoy: How Image Processing Unveils Tropical Cyclone Rainfall Patterns
+
+📌 Tropical cyclones pose a significant threat to coastal regions, with their associated rainfall contributing substantially to annual precipitation in affected areas. However, accurately predicting the amount and distribution of cyclone-induced rainfall remains a challenge. This paper presents a new method using satellite imagery and image processing techniques to estimate the area and precipitation associated with Tropical Cyclone Biparjoy, offering valuable insights for disaster management and climate research.
+
+Article Link: https://arxiv.org/pdf/2407.05255
+
+🔹 Tropical cyclones, like Biparjoy, significantly impact annual rainfall patterns in India, yet quantifying their precipitation remains a challenge. Traditional methods, such as manual observations, radar, and numerical weather prediction models, have limitations in accuracy and coverage, especially over oceanic areas. This gap in precise rainfall estimation hinders effective disaster preparedness and management. Moreover, the dynamic nature of cyclones makes it difficult to predict the amount and spatial distribution of rainfall, leaving vulnerable areas at risk.
+
+🔹 This study introduces a novel approach to quantifying cyclone-related rainfall using image processing on satellite data. Utilizing the GPM satellite's IMERG-Late Run product, researchers developed a method combining spatial subsetting, masking, and Connected Component Analysis to isolate cyclone-induced rainfall patterns. This innovative methodology enables precise estimation of total rainfall and affected area, especially valuable in regions with limited ground-based observations.
+
+🔹 The study revealed significant insights into Tropical Cyclone Biparjoy's impact. It showed an average daily rainfall of 53.14 mm/day over India and the Arabian Sea, affecting 411.76 thousand square kilometers. Gujarat, Rajasthan, Madhya Pradesh, and Uttar Pradesh were primarily impacted, with Rajasthan recording the highest single-day rainfall of 42.89 mm/day. These findings highlight the cyclone's extensive reach and its spatial-temporal variations, providing crucial data for improving forecasting models and disaster management strategies.
+
+🔹 This study advances cyclone-related precipitation analysis, offering a novel approach to quantify rainfall patterns. While challenges remain, such as potential issues with satellite imagery, the methodology shows promise for improving our understanding of extreme weather events. Future research should focus on integrating this approach with other data sources and applying it to a wider range of cyclones. This could significantly enhance our ability to develop more effective, region-specific disaster preparedness strategies, especially crucial in the face of climate change impacts on cyclone behavior.
+
+Verma, S.¹⁾, Srivastava, K., Tiwari, A., & Verma, S. (2024). Estimation of the Area and Precipitation Associated with a Tropical Cyclone 'Biparjoy' by using Image Processing. arXiv. DOI: 10.48550/ARXIV.2407.05255
