@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb5c9abd4be52f73",
+        "id": "8ac5e76658147109",
         "type": "tabs",
         "children": [
           {
-            "id": "9cbc36f75dccf60b",
+            "id": "4728a41ec792eb10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee89fe641056a4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
+                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md"
+                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md"
               }
             }
           }
@@ -158,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cbc36f75dccf60b",
+  "active": "4728a41ec792eb10",
   "lastOpenFiles": [
+    "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
     "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
     "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
     "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
