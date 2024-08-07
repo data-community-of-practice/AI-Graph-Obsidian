@@ -10,3 +10,4 @@ Microsoft released 4 variants of Phi-3:
 - **Phi-3-small**: This version contains 7 billion parameters. It strikes a balance between performance and computational efficiency, making it suitable for tasks that need more capacity than the mini version but still benefit from a compact model size.
 - **Phi-3-medium**: This is the largest in the Phi-3 family, with 14 billion parameters. It is more suited for complex tasks that involve advanced reasoning, data analysis, and understanding of context​. 
 
+Now that we know the different versions of Phi-3 let us talk about 
