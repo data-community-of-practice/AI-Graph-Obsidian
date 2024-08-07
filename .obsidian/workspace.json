@@ -5,28 +5,32 @@
     "children": [
       {
         "id": "24fa74b5b635ad83",
-        "id": "9ae831845336c3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc87c6c76fdb0d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
             "id": "01f393e40dbe6456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 2/What-Is-Gemma2.md",
+                "file": "models/What-is-stable-diffusion-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1c6e8d1658c784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 0/How-to-use-GitHub-Copilot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
         ]
       }
     ],
@@ -74,7 +78,6 @@
             }
           }
         ]
-        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 2/What-Is-Gemma2.md",
+                "file": "models/What-is-stable-diffusion-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 2/What-Is-Gemma2.md",
+                "file": "models/What-is-stable-diffusion-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 2/What-Is-Gemma2.md"
+                "file": "models/What-is-stable-diffusion-model.md"
               }
             }
           }
@@ -155,62 +158,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dc87c6c76fdb0d6",
-  "active": "01f393e40dbe6456",
+  "active": "b2a99cec1e3f006f",
   "lastOpenFiles": [
-    "img/intropic.png",
-    "img/intropic.png.crdownload",
-    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
-    "tools/How-to-use-Flowise.md",
-    "tools/Week 2/Creating images with DALL-E API in Python.md",
+    "img/sd-logo.png",
+    "img/example-image.png",
+    "img/sd-2-1-drawio.png",
+    "img/latent-diffusion.png",
+    "img/sd-1.png",
+    "img/code-sci.png",
+    "img/automata-1111.png",
+    "tools/Week 0/How-to-use-GitHub-Copilot.md",
+    "models/What-is-stable-diffusion-model.md",
     "tools/Week 1/How-to-use-Llamaindex.md",
     "tools/Week 2/What-Is-Gemma2.md",
-    "tools/Week 0/How-to-use-GitHub-Copilot.md",
+    "conflict-files-obsidian-git.md",
+    "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
+    "img/mistral-question-wendi.png",
+    "img/mistral-question-nemo-wendi.png",
+    "img/mistral-ollama-wendi.png",
+    "img/mistral-nemo-test-wendi.png",
     "tools/Week 2/Creating images with DALL-E API in Python.md",
     "tools/How-to-use-Flowise.md",
     "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
     "tools/Week 2",
     "linkedin/Week 2/Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process.md",
-    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
     "linkedin/Week 2/RestoreAgent - Autonomous Image Restoration Agent via Multimodal Large Language Models.md",
-    "linkedin/Week 2/image-processing-plugins-for-the-web-via-javascript-injection.md",
-    "tools/Week 2",
-    "img/flying_car.png",
-    "img/dalle-1.png",
-    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
-    "linkedin/Week 2/AI's-Hidden-Bias-Revealing-the-Stereotypes-in-Autism-Imagery.md",
-    "linkedin/Week 2/Adversarial Robustification via Text-to-Image Diffusion Models.md",
-    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
-    "linkedin/Week 2/Introducing-Self-Feedback-A-New-Framework-for-Enhancing-AI-Consistency.md",
-    "linkedin/Week 2/Negative-Results-of-Image-Processing-for-Identifying-Duplicate-Questions-on-Stack-Overflow.md",
-    "linkedin/Week 2/Diffusion Models for Multi-Task Generative Modeling.md",
-    "img/202407310959004.png",
-    "tools/Week 1/How to use OpenAI Playground.md",
-    "linkedin/Week 2",
-    "tools/Week 1/Getting-Started-with-Dify-No-Code-AI-Application-Development.md",
-    "linkedin/Week 1/DEPICT-Diffusion-Enabled-Permutation-Importance-for-Image-Classification-Tasks.md",
-    "img/Week1/Adithya/example-code-llamaindex.png",
-    "img/Week1/Adithya/llamaindex.png",
-    "img/Week1/Tohfa/haystack-architecture.png",
-    "img/Week1/Wendi/chainlit-ui.png",
-    "img/Week1/Tohfa/haystack-thumbnail.png",
-    "img/Week1/Wendi/chainlit-generated-story.png",
-    "img/Week1/Tohfa/haystack-rag-output.png",
-    "img/Week1/Adithya",
-    "img/Week1/Tohfa",
-    "img/Week1/Wendi",
-    "img/Week1/Mingrui",
-    "img/Week1",
-    "img/Week0",
-    "linkedin/Week 1/multi-motion-generation-from-text-with-discrete-diffusion-models.md",
-    "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
-    "linkedin/Week 1/Unlocking New Frontiers in Long Context AI and RAG.md",
-    "linkedin/Week 1/Evaluating the Reliability of Self-Explanations in Large Language Models.md",
-    "linkedin/Week 1/context-conditioned-joint-diffusion-model-for-synthesizing-histopathology-nuclei-images-and-semantic-labels.md",
-    "linkedin/Week 1",
-    "tools/How-to-use-GitHub-Copilot.md",
-    "tools/How to use OpenAI Playground.md",
-    "tools/Week 0/How-to-run-Ollama-on-Windows.md"
     "linkedin/Week 2/Negative-Results-of-Image-Processing-for-Identifying-Duplicate-Questions-on-Stack-Overflow.md"
   ]
 }
