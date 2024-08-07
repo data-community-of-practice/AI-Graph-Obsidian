@@ -159,3 +159,9 @@ The advent of advanced image generation models like DALL-E 3 has revolutionized 
 In this article, we saw the straightforward process of setting up an OpenAI API key, installing the necessary Python modules, and writing a script to generate and download images using DALL-E 3. With these tools at your disposal, you can effortlessly bring your imaginative ideas to life.
 
 Whether you're looking to enhance your presentations, create compelling marketing materials, or explore new creative avenues, DALL-E 3 provides an accessible and powerful solution. As technology continues to evolve, we can only anticipate even more remarkable advancements in the field of artificial intelligence and image generation.
+
+### References
+
+1. Cappellini, Stefano. “How to Use ChatGPT and DALL-E3 for Image Generation: Complete Tutorial Guide for Text-Based Image….” _Medium_, 21 Apr. 2024, medium.com/@toptalenticalcio/how-to-use-chatgpt-and-dall-e3-for-image-generation-complete-tutorial-guide-for-text-based-image-9fb3c6fa8495. Accessed 31 July. 2024.
+
+2. Gonsalves, Robert A. “Using AI to Create New Comic Strips without Writing Any Code.” _Medium_, 5 Sept. 2023, medium.com/towards-data-science/using-ai-to-create-new-comic-strips-without-writing-any-code-cc669bb317a7. Accessed 1 Aug. 2024.
