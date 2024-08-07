@@ -6,10 +6,10 @@ This paper explores a novel technique for improving diffusion models through Smo
 
 1️⃣ **Context & Problem**: Diffusion models face challenges in producing detailed and coherent images due to the difficulty in managing the variance of attention weights and the energy landscape's complexity. Efficiently smoothing the energy function can enhance image quality and model performance.
 
-2️⃣ **Methodology**: The study introduces SEG, which involves applying Gaussian blurring to attention weights. This technique involves:
-   - **Mean Preservation**: SEG maintains the mean of attention weights while reducing their variance.
-   - **Variance Reduction**: By blurring, the model's attention weights become less sensitive to high-frequency variations, leading to smoother and more stable energy landscapes.
-   - **Energy Optimization**: SEG improves the overall optimization of the diffusion model by enhancing the coherence and detail of generated images.
+2️⃣ **Methodology**: The paper investigates the impact of Gaussian blur on attention weights to enhance diffusion guidance. The approach is outlined as follows:
+   - **MEffect of Gaussian Blur**: The paper theoretically analyzes how Gaussian blur influences attention weights. It demonstrates that Gaussian blur preserves the mean of attention weights, reduces their variance, and consequently decreases the log-sum-exp (lse) value. These properties are essential for understanding the effect of blur on the underlying energy function.
+   - **Attenuating Energy Curvature**: The paper shows that applying Gaussian blur to attention weights attenuates the curvature of the energy landscape. This attenuation leads to a smoother, blunter prediction, which enhances the performance of guidance mechanisms.
+   - **Smoothed Energy Guidance (SEG)**: Building on these findings, the paper introduces Smoothed Energy Guidance (SEG). SEG utilizes the attenuated energy landscape to improve diffusion guidance. Additionally, an equivalent query blurring method is proposed, which performs attention blurring efficiently without incurring quadratic complexity in relation to the number of tokens.
 
 3️⃣ **Key Findings**: 
    - **Improved Image Quality**: SEG enhances image sharpness and coherence by smoothing the energy landscape, leading to finer details and more realistic textures.
