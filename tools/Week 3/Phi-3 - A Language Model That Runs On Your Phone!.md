@@ -1,6 +1,11 @@
 ![Phi-3](https://media.licdn.com/dms/image/D4D12AQE-07X1ijhiFg/article-cover_image-shrink_600_2000/0/1716483690066?e=2147483647&v=beta&t=BCGKUC2qkoFhLOJQ8pFNZvSBjW0ELbrNYj0vRn14kyE)
 <div align="center" ><i>Source : linkedin.com</i></div>
 
+
+# Author
+
+Tarun Krishnan (**ORCID**: [0009-0006-6647-127X](https://orcid.org/0009-0006-6647-127X))
+
 # Introduction
 
 In recent times, the battle for developing the most capable language model has intensified, with many big tech companies getting deeply involved in generative AI. This has led to the creation of massive models, some boasting even trillions of parameters. There is a common misconception that 'bigger is better,' meaning that people often think that the more parameters a model has or the more training data it is fed, the better it will perform. Enter Microsoft with their latest generative AI model, 'Phi-3', which has demonstrated better performance on standard open-source benchmarks (that measure the model’s reasoning ability) like MMLU and MT-bench than popular competitors Mixtral 8x7B and GPT-3.5, both of which contain billions more parameters than Phi-3. With Phi-3, one can now use a highly capable generative AI model on their phone to help with everyday tasks without concern for privacy, as the model can be downloaded on their handheld device and used without an internet connection, all for around only 2GB of storage space!
@@ -19,6 +24,7 @@ Before we delve into what makes Phi-3 so special, let's briefly discuss the four
 
 ![Benchmark phi](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/benchmark-phi-tarun.png)
 <div align="center" ><i>Comparison of Phi-3 Models and Its Competitors on Benchmark Tests</i></div>
+
 
 Now that we know a bit about the different versions that Phi-3 has to offer, let's focus our attention on the Phi-3-mini.
 
@@ -76,6 +82,7 @@ ollama run phi3:medium
 
 ![phi install](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/ollama-install-tarun.png)
 <div align="center" ><i>Phi-3 Installation Process</i></div>
+
 ## Step 3: Trying Out Microsoft's Newest Innovation!
 
 I have installed the mini version on my system, but feel free to try running the medium model. Once you download the model, you should see the following prompt:
@@ -83,11 +90,21 @@ I have installed the mini version on my system, but feel free to try running the
 ![phi start](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/start-ollama-tarun.png)
 <div align="center" ><i>Phi-3 Message Request</i></div>
 
+
 If not, you can always run the same command that you ran to install your Phi-3 model.
 
-![phi start](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/convo-phi-tarun.png)
+![phi sample conversation](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/convo-phi-tarun.png)
 <div align="center" ><i>Phi-3 Sample Conversation</i></div>
 
 # Conclusion
 
 The Phi-3 model series from Microsoft highlights the potential of high-quality, efficient AI models that don't rely on sheer size to achieve outstanding performance. With variants like Phi-3-mini offering powerful local processing capabilities and larger models providing advanced reasoning, Phi-3 caters to a broad spectrum of needs. Microsoft's innovative approach to training data and model structure, combined with a strong emphasis on safety and privacy, sets a new standard in the field of generative AI. The future of generative AI looks promising with the continued development and refinement of models like Phi-3.
+
+
+# References 
+
+1) AI Revolution. “Microsoft’s New PHI-3 AI Turns Your IPhone into an AI Superpower! (Game Changer!).” _YouTube_, 23 Apr. 2024, www.youtube.com/watch?v=F-FL2f9rRxQ. Accessed 5 Aug. 2024.
+
+2) Matthew Berman. “Phi-3 BEATS Mixtral and Fits on Your Phone!” _YouTube_, 24 Apr. 2024, www.youtube.com/watch?v=Enp70Kkjb8k. Accessed 6 Aug. 2024.
+
+3) Abdin, M., Jacobs, S. A., Awan, A. A., Aneja, J., Awadallah, A., Awadalla, H., Bach, N., Bahree, A., Bakhtiari, A., Bao, J., Behl, H., Benhaim, A., Bilenko, M., Bjorck, J., Bubeck, S., Cai, Q., Cai, M., Mendes, C. C., Chen, W., . . . Zhou, X. (2024). Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone. _ArXiv_. /abs/2404.14219
