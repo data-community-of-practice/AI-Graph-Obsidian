@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01f393e40dbe6456",
+            "id": "5b670fb991c2f2e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f1c6e8d1658c784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Week 0/How-to-use-GitHub-Copilot.md",
+                "file": "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
+                "file": "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
+                "file": "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md"
+                "file": "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md"
               }
             }
           }
@@ -158,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01f393e40dbe6456",
+  "active": "5b670fb991c2f2e0",
   "lastOpenFiles": [
+    "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
+    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
+    "models/What-is-stable-diffusion-model.md",
     "img/example-image.png",
     "tools/Week 0/How-to-use-GitHub-Copilot.md",
     "img/dalle-1.png",
@@ -171,7 +162,6 @@
     "img/sd-1.png",
     "img/anthropic-llm.png",
     "img/automata-1111.png",
-    "models/What-is-stable-diffusion-model.md",
     "conflict-files-obsidian-git.md",
     "tools/Week 3/What is BLIP.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
@@ -193,7 +183,6 @@
     "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
     "tools/Week 2/Creating images with DALL-E API in Python.md",
     "tools/How-to-use-Flowise.md",
-    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
     "tools/Week 2",
     "linkedin/Week 2/Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process.md",
     "linkedin/Week 2/RestoreAgent - Autonomous Image Restoration Agent via Multimodal Large Language Models.md",
