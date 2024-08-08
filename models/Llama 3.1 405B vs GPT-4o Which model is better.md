@@ -126,7 +126,7 @@ Write a python Tetris game
 
 ![On the left is the program execution result of Llama 3.1, and on the right is the program execution result of GPT-4o.](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408090226910.png)
 
-On the left is the program execution result of Llama 3.1, and on the right is the program execution result of GPT-4o.
+On the left is the program execution result of GPT-4o, and on the right is the program execution result of Llama 3.1.
 
 ![On the left is Llama 3.1's response, and on the right is GPT-4o's response.](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408090226299.png)
 
