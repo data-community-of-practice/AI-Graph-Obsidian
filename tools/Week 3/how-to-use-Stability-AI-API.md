@@ -71,6 +71,16 @@ if response.status_code == 200:
 else:
     raise Exception(str(response.json()))
 ```
+
+Open the terminal and run the code.
+```bash
+python app.py
+```
+If you are using Python 3 versions then use the below code to run the script.
+
+```bash
+pyhton3 app.py
+```
 ## Output
 
 Outputs will be generated as per the prompt.
