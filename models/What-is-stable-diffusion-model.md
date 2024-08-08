@@ -91,7 +91,9 @@ sudo pacman -S wget git python3
 ![brief-intro](https://i.imgur.com/jPwQ1Ht.png[/img])
 <div align="center" ><i>Automatic1111's Stable Diffusion WEBUI major components explained</i></div>
 
-   - Another Prompt here:
+   - In the above image, I have used a different checkpoint instead of the default stable diffusion. This is because you can download and manually configure the WEBUI to get different diverse checkpoints, and one very prominent website for these model checkpoints is [civitai.com](https://civitai.com/images)
+   - From this website you can download model checkpoints which usually come in the file format of `.safetensors` or `.ckpt`. In civitai.com, you can also view example images and see how well a certain checkpoint performs.
+   - Another Prompt here with a checkpoint called `rpg_v5`:
 	
 ![Another-example](https://i.imgur.com/glknj5v.png)
 <div align="center" ><i>Another Example of WEBUI usage</i></div>
@@ -151,8 +153,15 @@ new_image = result.images[0]
 new_image.show()
 ```
 
+- The input image:
+![Original-image](https://i.imgur.com/mGixhmr.jpeg)
+
+<div align="center" ><i>Original input image</i></div>
+ 
+
 - The result is:
 ![output-of-code](https://i.imgur.com/C4B2ijZ.png)
+ 
  <div align="center" ><i>Image Generation Result via Stable Diffusion img2img</i></div>
 
 - As you can see, results are not perfect due to technical considerations and optimization processes. These are explained below.
@@ -181,3 +190,4 @@ This comprehensive guide to Stable Diffusion offers a deep understanding of its 
 - Git SCM (n.d.). _Git - Downloads for Windows_. Available at: [https://git-scm.com/download/win](https://git-scm.com/download/win). [Accessed: 7 August 2024].
 - AUTOMATIC1111 (n.d.). _Installation on Apple Silicon_. GitHub. Available at: [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon). [Accessed: 7 August 2024].
 - Jacobs, I. (n.d.). _High-resolution image synthesis with latent diffusion models_. LinkedIn Pulse. Available at: [https://www.linkedin.com/pulse/high-resolution-image-synthesis-latent-diffusion-models-ivan-jacobs/](https://www.linkedin.com/pulse/high-resolution-image-synthesis-latent-diffusion-models-ivan-jacobs/). [Accessed: 7 August 2024].
+- Civitai. Available at: https://civitai.com/images. [Accessed: 8 August 2024].
