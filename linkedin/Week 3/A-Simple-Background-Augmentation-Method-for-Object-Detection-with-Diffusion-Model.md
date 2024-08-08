@@ -16,4 +16,4 @@
 
 ### Reference:
 
-Li, Y., Dong, X., Chen, C., Zhuang, W., Lyu, L., 2024. A Simple Background Augmentation Method for Object Detection with Diffusion Model. arXiv:2408.00350v1. Available at: [https://arxiv.org/abs/2408.00350](https://arxiv.org/abs/2408.00350) [Accessed: 1 August 2024].
+Li, Y., Dong, X., Chen, C., Zhuang, W., Lyu, L., 2024. A Simple Background Augmentation Method for Object Detection with Diffusion Model. arXiv:2408.00350v1. Available at: [https://arxiv.org/abs/2408.00350](https://arxiv.org/abs/2408.00350) [Accessed: 8 August 2024].

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "deb75dd5e986634f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
+                "file": "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
+                "file": "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md"
+                "file": "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b670fb991c2f2e0",
+  "active": "deb75dd5e986634f",
   "lastOpenFiles": [
     "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
+    "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
     "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
     "models/What-is-stable-diffusion-model.md",
     "img/example-image.png",
@@ -185,7 +199,6 @@
     "tools/How-to-use-Flowise.md",
     "tools/Week 2",
     "linkedin/Week 2/Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process.md",
-    "linkedin/Week 2/RestoreAgent - Autonomous Image Restoration Agent via Multimodal Large Language Models.md",
-    "linkedin/Week 2/Negative-Results-of-Image-Processing-for-Identifying-Duplicate-Questions-on-Stack-Overflow.md"
+    "linkedin/Week 2/RestoreAgent - Autonomous Image Restoration Agent via Multimodal Large Language Models.md"
   ]
 }
