@@ -23,6 +23,7 @@ Stability AI is a leading provider of artificial intelligence and machine learni
 1. Register/login on the <a href="https://platform.stability.ai/" target="_blank">Stability AI</a>. You get 25 credits for free on sign up.
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/stability_ai_credits.png)
 <div align="center"><small>Image generated using Stability AI API Key of Tohfa Siddika Barbhuiya</small></div>
+
 2. Obtain your API key from the API section of your account dashboard, copy it and save it somewhere for use in upcoming step.
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/API_key_copy.png)
 <div align="center"><small>Image generated using Stability AI API Key of Tohfa Siddika Barbhuiya</small></div>
@@ -77,6 +78,7 @@ Outputs will be generated as per the prompt.
 For prompt: "A distant exoplanet with a stunning ring system, glowing auroras, and a futuristic spaceship landing on its surface.", output generated is shown below.
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/spacecraft.png)
 <div align="center"><small>Image generated from the desktop of Tohfa Siddika Barbhuiya</small></div>
+
 
 For prompt: "Lighthouse on a cliff overlooking the ocean", output generated is shown below.
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/cliff.png)
