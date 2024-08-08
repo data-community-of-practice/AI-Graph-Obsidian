@@ -1,5 +1,5 @@
 # What is Stable Diffusion? 
-_An In-Depth Exploration of Text-to-Image AI_
+_An In-Depth Exploration of the Text/Image-to-Image AI model_
 
 
 ![stable-diffusion-logo](https://i.imgur.com/CECiLrp.png)
@@ -177,7 +177,7 @@ new_image.show()
 - **Efficiency Maximization**: Techniques for maximizing the efficiency of image generation, such as adjusting the inference steps, experimenting with different batch sizes, and leveraging advanced features like checkpointing to manage long-running tasks.
 - **Memory and Resource Management**: Best practices for managing system resources, including memory optimization techniques to prevent crashes and slowdowns, particularly when handling large-scale image generation tasks.
 
-
+---
 ### Conclusion
 
 This comprehensive guide to Stable Diffusion offers a deep understanding of its technology, from the fundamental mechanisms to advanced applications and practical implementations. By dissecting each component and functionality, users can effectively harness the capabilities of this powerful tool to transform textual descriptions into vivid images, paving the way for innovations across various creative and technical fields. Whether you are a novice looking to explore AI-driven image generation or an expert aiming to integrate and optimise Stable Diffusion in professional projects, this guide provides the knowledge and tools needed to achieve mastery in this area.
