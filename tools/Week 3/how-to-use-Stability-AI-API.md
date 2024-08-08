@@ -24,13 +24,13 @@ Stability AI is a leading provider of artificial intelligence and machine learni
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/stability_ai_credits.png)
 <div align="center"><small>Image generated using Stability AI API Key of Tohfa Siddika Barbhuiya</small></div>
 2. Obtain your API key from the API section of your account dashboard, copy it and save it somewhere for use in upcoming step.
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/API_key_copys.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/API_key_copy.png)
 <div align="center"><small>Image generated using Stability AI API Key of Tohfa Siddika Barbhuiya</small></div>
 
 
 ## Install Required Libraries
 
-For Python, open vs code and create mnew file named app.py.
+For Python, open VS Code. Create new folder and file named app.py.
 Open its terminal and install
 
 Install the `requests` library:
@@ -76,10 +76,11 @@ Outputs will be generated as per the prompt.
 
 For prompt: "A distant exoplanet with a stunning ring system, glowing auroras, and a futuristic spaceship landing on its surface.", output generated is shown below.
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/spacecraft.png)
-<div align="center"><small>Image generated from the desktop of Tohfa Siddika BArbhuiya</small></div>
+<div align="center"><small>Image generated from the desktop of Tohfa Siddika Barbhuiya</small></div>
+
 For prompt: "Lighthouse on a cliff overlooking the ocean", output generated is shown below.
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/cliff.png)
-<div align="center"><small>Image generated from the desktop of Tohfa Siddika BArbhuiya</small></div>
+<div align="center"><small>Image generated from the desktop of Tohfa Siddika Barbhuiya</small></div>
 
 ## Handle Responses
 Check the API documentation for details on the response structure and how to handle the data returned.
