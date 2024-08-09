@@ -4,6 +4,7 @@ Now is the perfect time to explore Mistral NeMo!
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/mistralnemo-0.png)
 <div align="center"><small>Created using DALLE on August 8, 2024</small></div>
+
 ## Authors
 
 - Wendi Fan (**ORCID: 0000-0003-0284-9166**)<br>
