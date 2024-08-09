@@ -2,8 +2,8 @@
 _An In-Depth Exploration of the Text/Image-to-Image AI model_
 
 
-![stable-diffusion-logo](https://i.imgur.com/CECiLrp.png)
-<div><i>Stable Diffusion Logo From tooldirectory.ai</i></div>
+![stable-diffusion-logo](https://i.imgur.com/p0U7ioM.jpeg)
+<div  align="center"><i>Stable Diffusion Logo</i></div>
 
 
 ## Author
