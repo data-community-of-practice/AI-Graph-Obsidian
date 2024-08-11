@@ -1,31 +1,35 @@
 {
   "main": {
-    "id": "43a631c9f948e6b6",
+    "id": "b2bb22c1ac7ba6cc",
     "type": "split",
     "children": [
       {
-        "id": "8ac5e76658147109",
+        "id": "24fa74b5b635ad83",
         "type": "tabs",
         "children": [
           {
-            "id": "4728a41ec792eb10",
+            "id": "5b670fb991c2f2e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+=======
+                "file": "models/What-is-stable-diffusion-model.md",
+>>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2deeace2dc6f5f16",
+            "id": "deb75dd5e986634f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 2/Creating images with DALL-E API in Python.md",
+                "file": "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c703dc772bb2a740",
+    "id": "3c060475ed67e2ac",
     "type": "split",
     "children": [
       {
-        "id": "3855eb30bb2aa32a",
+        "id": "454c3cb742b7bb9d",
         "type": "tabs",
         "children": [
           {
-            "id": "ee18cdbd1c199ae9",
+            "id": "b2a99cec1e3f006f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +59,12 @@
             }
           },
           {
-            "id": "366ea965776fa1a2",
+            "id": "6c407348118a893b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Introduction",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "9ccbafd33c73fa5c",
+            "id": "71aa4c6807af2116",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +88,24 @@
     "width": 300
   },
   "right": {
-    "id": "97eab8969f6f4164",
+    "id": "e65ba5079b55109f",
     "type": "split",
     "children": [
       {
-        "id": "295069d9a7f7ee38",
+        "id": "c92a264277eab817",
         "type": "tabs",
         "children": [
           {
-            "id": "9a1610bca6beee04",
+            "id": "98d7e5caf4851969",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+=======
+                "file": "models/What-is-stable-diffusion-model.md",
+>>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +117,23 @@
             }
           },
           {
-            "id": "800f10c495f3e577",
+            "id": "821b76907e0ec027",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+=======
+                "file": "models/What-is-stable-diffusion-model.md",
+>>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0253e7b4b7cc0a68",
+            "id": "8e842e86d9c6ed28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +144,16 @@
             }
           },
           {
-            "id": "9e16dd17cf3ad140",
+            "id": "95cd573d31a779d0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md"
+=======
+                "file": "models/What-is-stable-diffusion-model.md"
+>>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
               }
             }
           }
@@ -158,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4728a41ec792eb10",
+  "active": "5b670fb991c2f2e0",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
     "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
@@ -178,9 +195,46 @@
     "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
     "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
     "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
+=======
+    "conflict-files-obsidian-git.md",
+    "models/What-is-stable-diffusion-model.md",
+    "tools/Week 3/how-to-use-Stability-AI-API.md",
+    "models/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
+    "models/Llama 3.1 405B vs GPT-4o Which model is better.md",
+    "img/stability_ai_credits.png",
+    "img/spacecraft.png",
+    "img/mistralnemo-6.png",
+    "img/mistralnemo-5.png",
+    "img/mistralnemo-4.png",
+    "img/mistralnemo-3.jpg",
+    "img/mistralnemo-2.png",
+    "img/mistralnemo-1.png",
+    "img/mistralnemo-0.png",
+    "img/cliff.png",
+    "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
+    "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
+    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
+    "tools/Week 0/How-to-use-GitHub-Copilot.md",
+    "tools/Week 3/What is BLIP.md",
+    "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
+    "tools/Week 3",
+    "linkedin/Week 3/automated-multimodal-machine-learning-with-large-language-models.md",
+    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
+    "linkedin/Week 3/TurboEdit Text-Based Image Editing Using Few-Step Diffusion Models.md",
+    "linkedin/Week 3/SentenceVAE - Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models.md",
+    "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
+    "linkedin/Week 3/Smoothed Energy Guidance - Guiding Diffusion Models with Reduced Energy Curvature of Attention.md",
+>>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
     "linkedin/Week 3/Revolutionizing Media Forensics Tackling the Deepfake Dilemma.md",
+    "linkedin/Week 3/Estimation of the Area and Precipitation Associated with a Tropical Cyclone Biparjoy by using Image Processing.md",
     "linkedin/Week 3/Revolutionizing Dark Web Threat Detection with AI and Image Processing.md",
     "linkedin/Week 3/enhancing-medical-evidence-summarization-bridging-the-gap-between-open-source-and proprietary-large-language-models.md",
-    "linkedin/Week 3"
+    "linkedin/Week 3",
+    "URL.md",
+    "tools/Week 1/How-to-use-Llamaindex.md",
+    "tools/Week 2/What-Is-Gemma2.md",
+    "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
+    "tools/Week 2/Creating images with DALL-E API in Python.md",
+    "tools/Week 2"
   ]
 }
