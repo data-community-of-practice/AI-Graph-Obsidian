@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
+                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
+                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
+                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md"
+                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "4728a41ec792eb10",
   "lastOpenFiles": [
-    "tools/Week 2/Creating images with DALL-E API in Python.md",
+    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
+    "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
+    "tools/Week 2/Creating images with DALL-E API in Python.md",
     "tools/Week 3/What is BLIP.md",
     "img/benchmark-phi-tarun.png",
     "tools/Week 1/How to use OpenAI Playground.md",
@@ -172,8 +174,6 @@
     "URL.md",
     "linkedin/Week 3/TurboEdit Text-Based Image Editing Using Few-Step Diffusion Models.md",
     "linkedin/Week 3/Smoothed Energy Guidance - Guiding Diffusion Models with Reduced Energy Curvature of Attention.md",
-    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
-    "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
     "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
     "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
     "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
