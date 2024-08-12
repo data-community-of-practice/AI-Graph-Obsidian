@@ -1,55 +1,52 @@
 {
   "main": {
-    "id": "b2bb22c1ac7ba6cc",
+    "id": "116c9c63bc5b85c6",
     "type": "split",
     "children": [
       {
-        "id": "24fa74b5b635ad83",
+        "id": "70633ffc2c9252b0",
         "type": "tabs",
         "children": [
           {
-            "id": "5b670fb991c2f2e0",
+            "id": "84797360643bda31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
-=======
-                "file": "models/What-is-stable-diffusion-model.md",
->>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
+                "file": "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "deb75dd5e986634f",
+            "id": "f221607fe48ac371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
+                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3c060475ed67e2ac",
+    "id": "3c0a6d0867f544e8",
     "type": "split",
     "children": [
       {
-        "id": "454c3cb742b7bb9d",
+        "id": "a2b72ffcf57409bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a99cec1e3f006f",
+            "id": "b6fe713a15fa225f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +56,7 @@
             }
           },
           {
-            "id": "6c407348118a893b",
+            "id": "302110b9b1cd1835",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +71,7 @@
             }
           },
           {
-            "id": "71aa4c6807af2116",
+            "id": "703685cffe6a22b3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,24 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "e65ba5079b55109f",
+    "id": "1ca683ab7a7e3ea9",
     "type": "split",
     "children": [
       {
-        "id": "c92a264277eab817",
+        "id": "0b18a6f9a248eb92",
         "type": "tabs",
         "children": [
           {
-            "id": "98d7e5caf4851969",
+            "id": "a4af5b15d8075f99",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
-=======
-                "file": "models/What-is-stable-diffusion-model.md",
->>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
+                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +110,19 @@
             }
           },
           {
-            "id": "821b76907e0ec027",
+            "id": "27f7acd45d70dc1b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
-=======
-                "file": "models/What-is-stable-diffusion-model.md",
->>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
+                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8e842e86d9c6ed28",
+            "id": "7985fa1b2b4424e7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,16 +133,12 @@
             }
           },
           {
-            "id": "95cd573d31a779d0",
+            "id": "19c8e156cf93f247",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md"
-=======
-                "file": "models/What-is-stable-diffusion-model.md"
->>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
+                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md"
               }
             }
           }
@@ -174,67 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b670fb991c2f2e0",
+  "active": "f221607fe48ac371",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
-    "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
-    "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
-    "tools/Week 2/Creating images with DALL-E API in Python.md",
-    "tools/Week 3/What is BLIP.md",
-    "img/benchmark-phi-tarun.png",
-    "tools/Week 1/How to use OpenAI Playground.md",
-    "tools/Week 2/How to Use OpenAI Assistants API to Build Your Own Custom ChatGPT.md",
-    "img/convo-phi-tarun.png",
-    "img/start-ollama-tarun.png",
-    "img/ollama-install-tarun.png",
-    "URL.md",
-    "linkedin/Week 3/TurboEdit Text-Based Image Editing Using Few-Step Diffusion Models.md",
-    "linkedin/Week 3/Smoothed Energy Guidance - Guiding Diffusion Models with Reduced Energy Curvature of Attention.md",
-    "linkedin/Week 1/On Pre-training of Multimodal Language Models Customized for Chart Understanding.md",
-    "linkedin/Week 2/When Synthetic Traces Hide Real Content - Analysis of Stable Diffusion Image Laundering.md",
-    "linkedin/Week 2/Demystifying Verbatim Memorization in Large Language Models.md",
-    "linkedin/Week 2/balancing-copyright-protection-and-privacy--the role-of-watermarking-in-large-language-models.md",
-=======
-    "conflict-files-obsidian-git.md",
-    "models/What-is-stable-diffusion-model.md",
-    "tools/Week 3/how-to-use-Stability-AI-API.md",
-    "models/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
-    "models/Llama 3.1 405B vs GPT-4o Which model is better.md",
-    "img/stability_ai_credits.png",
-    "img/spacecraft.png",
-    "img/mistralnemo-6.png",
-    "img/mistralnemo-5.png",
-    "img/mistralnemo-4.png",
-    "img/mistralnemo-3.jpg",
-    "img/mistralnemo-2.png",
-    "img/mistralnemo-1.png",
-    "img/mistralnemo-0.png",
-    "img/cliff.png",
-    "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
-    "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
-    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
-    "tools/Week 0/How-to-use-GitHub-Copilot.md",
-    "tools/Week 3/What is BLIP.md",
-    "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
-    "tools/Week 3",
-    "linkedin/Week 3/automated-multimodal-machine-learning-with-large-language-models.md",
-    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
-    "linkedin/Week 3/TurboEdit Text-Based Image Editing Using Few-Step Diffusion Models.md",
-    "linkedin/Week 3/SentenceVAE - Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models.md",
-    "linkedin/Week 3/Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification.md",
-    "linkedin/Week 3/Smoothed Energy Guidance - Guiding Diffusion Models with Reduced Energy Curvature of Attention.md",
->>>>>>> e5c8d9c8536cd39c0db944e01e099caf59410c17
-    "linkedin/Week 3/Revolutionizing Media Forensics Tackling the Deepfake Dilemma.md",
-    "linkedin/Week 3/Estimation of the Area and Precipitation Associated with a Tropical Cyclone Biparjoy by using Image Processing.md",
-    "linkedin/Week 3/Revolutionizing Dark Web Threat Detection with AI and Image Processing.md",
-    "linkedin/Week 3/enhancing-medical-evidence-summarization-bridging-the-gap-between-open-source-and proprietary-large-language-models.md",
-    "linkedin/Week 3",
-    "URL.md",
-    "tools/Week 1/How-to-use-Llamaindex.md",
-    "tools/Week 2/What-Is-Gemma2.md",
-    "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
-    "tools/Week 2/Creating images with DALL-E API in Python.md",
-    "tools/Week 2"
+    "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
+    "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
+    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md"
   ]
 }
