@@ -2,7 +2,7 @@
 
 Large Language Models (LLMs) such as GPT-3 and BERT have revolutionized natural language processing, demonstrating impressive capabilities across a range of tasks. However, their performance in logical reasoning, particularly syllogistic reasoning, remains suboptimal. Syllogistic reasoning requires the model to draw a logical conclusion from two or more premises, a task that often exposes reasoning biases within LLMs. This paper investigates these biases through the lens of the NeuBAROCO dataset, a novel and comprehensive dataset designed to evaluate LLMs' performance on syllogistic reasoning tasks.
 
-**Article Link** : https://arxiv.org/abs/2408.00735
+**Article Link** : https://arxiv.org/abs/2408.04403
 
 ## Understanding the Problem
 
