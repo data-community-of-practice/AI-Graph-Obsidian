@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
+                "file": "tools/Week 4/What is TinyLlama.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/e815c068-56b9-4895-3443-aa7702ee9500/public)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
+                "file": "tools/Week 4/What is TinyLlama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
+                "file": "tools/Week 4/What is TinyLlama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md"
+                "file": "tools/Week 4/What is TinyLlama.md"
               }
             }
           }
@@ -159,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f221607fe48ac371",
+  "active": "302110b9b1cd1835",
   "lastOpenFiles": [
-    "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
+    "tools/Week 4",
+    "URL.md",
     "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
+    "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
     "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md"
   ]
 }
