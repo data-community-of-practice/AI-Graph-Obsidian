@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deb75dd5e986634f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
+                "file": "models/what-is-DETR.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
+                "file": "models/what-is-DETR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
+                "file": "models/what-is-DETR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md"
+                "file": "models/what-is-DETR.md"
               }
             }
           }
@@ -160,8 +148,10 @@
   },
   "active": "5b670fb991c2f2e0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "models/What-is-stable-diffusion-model.md",
+    "models/what-is-DETR.md",
+    "tools/Week 2/What-Is-Gemma2.md",
+    "conflict-files-obsidian-git.md",
     "tools/Week 3/how-to-use-Stability-AI-API.md",
     "models/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
     "models/Llama 3.1 405B vs GPT-4o Which model is better.md",
@@ -195,9 +185,7 @@
     "linkedin/Week 3",
     "URL.md",
     "tools/Week 1/How-to-use-Llamaindex.md",
-    "tools/Week 2/What-Is-Gemma2.md",
     "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
-    "tools/Week 2/Creating images with DALL-E API in Python.md",
     "tools/Week 2"
   ]
 }
