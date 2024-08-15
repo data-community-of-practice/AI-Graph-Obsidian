@@ -1,0 +1,15 @@
+iNAAD: Detecting Fetal Brain Anomalies with Self-Taught AI
+
+📌 Detecting fetal brain anomalies in ultrasound is crucial but challenging. Current supervised methods struggle with rare conditions and labeling. This paper introduces iNAAD, an unsupervised approach using diffusion models to detect various anomalies without abnormal training data.
+
+Article Link: https://arxiv.org/abs/2408.03654
+
+🔹 Current fetal brain anomaly detection methods in ultrasound imaging rely on supervised learning, which has significant limitations. These approaches require extensive, expensive labeling of abnormal cases and struggle with rare anomalies due to limited data. Consequently, they often detect only common malformations, potentially missing critical but uncommon abnormalities. This poses a significant risk in prenatal care, where early detection of all anomaly types is crucial for proper medical intervention.
+
+🔹 The paper introduces iNAAD (inpainting-based Noise Agnostic Anomaly Detection), a novel unsupervised approach using Denoising Diffusion Probabilistic Models (DDPMs) for fetal brain anomaly detection. This method learns from normal fetal brain images only, eliminating the need for labeled abnormal data. iNAAD corrupts input images with noise, reconstructs them, and compares the reconstruction to the original to detect anomalies. It uses inpainting to focus on the fetal brain region and aggregates results from multiple noise levels. This approach enables detection of a wide range of anomalies, including rare ones, overcoming limitations of abnormal training data availability.
+
+🔹 The study demonstrates iNAAD's potential for unsupervised fetal brain anomaly detection. Compared to a supervised baseline (ResNet-18 classifier), iNAAD performed comparably or better for certain anomalies, especially those manifesting locally like cerebral cysts and ventriculomegaly. Gaussian noise outperformed other noise types in the fetal ultrasound setting, contrary to MRI study findings. The method provides inherent explainability through anomaly heatmaps. These results suggest iNAAD could be valuable in clinical practice, particularly for detecting rare anomalies that supervised methods might miss due to limited training data.
+
+🔹 iNAAD shows promise but faces challenges. It struggles with some structural anomalies and needs further clinical validation. Future work should refine the approach and explore ultrasound-specific noise types. Despite challenges, iNAAD marks progress in prenatal screening. As unsupervised methods advance, they could transform medical imaging analysis where abnormal data is scarce.
+
+Olsen, M. D. S., Ambsdorf, J., Lin, M., Taksøe-Vester, C., Svendsen, M. B. S., Christensen, A. N., Nielsen, M., Tolsgaard, M. G., Feragen, A., & Pegios, P. (2024). Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models. arXiv. DOI: 10.48550/ARXIV.2408.03654

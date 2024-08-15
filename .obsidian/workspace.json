@@ -1,39 +1,53 @@
 {
   "main": {
-    "id": "b2bb22c1ac7ba6cc",
+    "id": "116c9c63bc5b85c6",
     "type": "split",
     "children": [
       {
-        "id": "24fa74b5b635ad83",
+        "id": "70633ffc2c9252b0",
         "type": "tabs",
         "children": [
           {
-            "id": "5b670fb991c2f2e0",
+            "id": "84797360643bda31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f221607fe48ac371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 4/What is TinyLlama.md",
                 "file": "models/what-is-DETR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3c060475ed67e2ac",
+    "id": "3c0a6d0867f544e8",
     "type": "split",
     "children": [
       {
-        "id": "454c3cb742b7bb9d",
+        "id": "a2b72ffcf57409bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a99cec1e3f006f",
+            "id": "b6fe713a15fa225f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +57,12 @@
             }
           },
           {
-            "id": "6c407348118a893b",
+            "id": "302110b9b1cd1835",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/e815c068-56b9-4895-3443-aa7702ee9500/public)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,33 +72,35 @@
             }
           },
           {
-            "id": "71aa4c6807af2116",
+            "id": "703685cffe6a22b3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "e65ba5079b55109f",
+    "id": "1ca683ab7a7e3ea9",
     "type": "split",
     "children": [
       {
-        "id": "c92a264277eab817",
+        "id": "0b18a6f9a248eb92",
         "type": "tabs",
         "children": [
           {
-            "id": "98d7e5caf4851969",
+            "id": "a4af5b15d8075f99",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/Week 4/What is TinyLlama.md",
                 "file": "models/what-is-DETR.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -97,11 +113,12 @@
             }
           },
           {
-            "id": "821b76907e0ec027",
+            "id": "27f7acd45d70dc1b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/Week 4/What is TinyLlama.md",
                 "file": "models/what-is-DETR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -109,7 +126,7 @@
             }
           },
           {
-            "id": "8e842e86d9c6ed28",
+            "id": "7985fa1b2b4424e7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,11 +137,12 @@
             }
           },
           {
-            "id": "95cd573d31a779d0",
+            "id": "19c8e156cf93f247",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "tools/Week 4/What is TinyLlama.md"
                 "file": "models/what-is-DETR.md"
               }
             }
@@ -146,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b670fb991c2f2e0",
+  "active": "302110b9b1cd1835",
   "lastOpenFiles": [
+    "tools/Week 4",
     "models/What-is-stable-diffusion-model.md",
     "models/what-is-DETR.md",
     "tools/Week 2/What-Is-Gemma2.md",
@@ -184,6 +203,9 @@
     "linkedin/Week 3/enhancing-medical-evidence-summarization-bridging-the-gap-between-open-source-and proprietary-large-language-models.md",
     "linkedin/Week 3",
     "URL.md",
+    "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
+    "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
+    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md"
     "tools/Week 1/How-to-use-Llamaindex.md",
     "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
     "tools/Week 2"
