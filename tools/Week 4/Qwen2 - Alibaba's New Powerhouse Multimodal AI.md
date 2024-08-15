@@ -228,7 +228,7 @@ If not, you can always run the same command that you ran to install your Qwen2 m
 <div align="center" ><i>Qwen2 Sample Conversation</i></div>
 
 
-# Conclusion
+# Conclusions
 
 As we reflect on the launch of Qwen2, it’s clear that this series marks a pivotal moment in the evolution of AI. Alibaba’s commitment to pushing the boundaries of innovation is evident in every aspect of Qwen2, from its diverse model sizes to its sophisticated capabilities in coding, mathematics, and long-context understanding.
 
@@ -238,7 +238,7 @@ Moreover, Qwen2’s emphasis on safety and ethical considerations underscores th
 
 In essence, Qwen2 embodies the spirit of collaboration and innovation that drives the AI field forward. As we look ahead, the impact of Qwen2 will likely resonate across various domains, inspiring new applications and advancements. Its journey is a testament to the power of open-source contributions and the collective effort of a global community committed to shaping the future of AI.
 
-# Reference
+# References
 
 1) Team, Qwen. “Hello Qwen2.” _Qwen_, 7 June 2024, qwenlm.github.io/blog/qwen2/
 
