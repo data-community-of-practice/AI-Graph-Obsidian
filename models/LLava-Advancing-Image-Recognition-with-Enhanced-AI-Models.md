@@ -7,7 +7,7 @@ Everything You Need to Know About LLava Models
 
 ## Authors
 
-- Wendi Fan (**ORCID: 0000-0003-0284-9166**)<br>
+- [Wendi Fan](https://www.linkedin.com/in/wendi-fan-265996310/) (**ORCID: 0000-0003-0284-9166**)<br>
 ## Introduction
 
 LLava, also known as the Large Language and Vision Assistant, is a large language model (LLM) with advanced features that allow it to identify and respond to questions about images. Developed by University of Wisconsin and Microsoft, LLava has shown remarkable multimodal capabilities, occasionally displaying behaviors similar to those seen in sophisticated models like GPT-4.
