@@ -246,4 +246,6 @@ The impact of LLMLingua and LongLLMLingua is evident in various domains:
 LLMLingua and LongLLMLingua represent significant advancements in the field of large language models, addressing one of the most pressing challenges: the limitation of context windows. By refining and compressing input data, these frameworks enable LLMs to process larger and more complex datasets, opening new possibilities in AI-driven tasks. As LLM technology continues to evolve, LLMLingua and LongLLMLingua will likely play a crucial role in expanding the capabilities and applications of these powerful models.
 
 ## References
-Stability AI, "API Reference," Stability AI Documentation. https://platform.stability.ai/docs/api-reference (accessed Aug. 6, 2024).
+Hugging Face, "LLMLingua by Microsoft," [Online]. Available: https://huggingface.co/spaces/microsoft/LLMLingua. [Accessed: Aug. 15, 2024].
+LLMLingua. Microsoft GitHub Repository. https://github.com/microsoft/LLMLingua (accessed Aug. 13, 2024).
+Microsoft Research, "LLMLingua," Microsoft, [Online]. Available: https://www.microsoft.com/en-us/research/project/llmlingua/. [Accessed: Aug. 13, 2024].
