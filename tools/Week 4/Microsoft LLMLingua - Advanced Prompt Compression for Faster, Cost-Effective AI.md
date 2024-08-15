@@ -1,6 +1,5 @@
 # Microsoft LLMLingua: Accelerating LLMs with Advanced Prompt Compression 
 
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-thumbnail.png)
 <div align="center"><small>LLMLingua by Microsoft <a href="https://huggingface.co/spaces/microsoft/LLMLingua" target="_blank">Source</a></small></div>
 
@@ -45,7 +44,6 @@ Ever encountered the token limit when asking ChatGPT to summarize lengthy texts?
 Frustrated with ChatGPT forgetting previous instructions after extensive fine-tuning?
 Experienced high costs using GPT3.5/4 API for experiments despite excellent results?
 While Large Language Models like ChatGPT and GPT-4 excel in generalization and reasoning, they often face challenges like prompt length limits and prompt-based pricing schemes.
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-Overview.png)
 <div align="center"><small>LLMLingua context from <a href="https://github.com/microsoft/LLMLingua" target="_blank">Source</a></small></div>
 
@@ -59,13 +57,10 @@ These tools offer an efficient solution to compress prompts by up to 20x, enhanc
 - **Knowledge Retention:** Maintains original prompt information like ICL and reasoning.
 - **KV-Cache Compression:** Accelerates inference process.
 - **Comprehensive Recovery:** GPT-4 can recover all key information from compressed prompts.
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua.png)
 <div align="center"><small>LLMLingua description from <a href="https://github.com/microsoft/LLMLingua" target="_blank">Source</a></small></div>
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LongLLMLingua.png)
 <div align="center"><small>LongLLMLingua context from <a href="https://github.com/microsoft/LLMLingua" target="_blank">Source</a></small></div>
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-2.png)
 <div align="center"><small>LLMLingua-2 context from <a href="https://www.pymnts.com/acquisitions/2023/report-stability-ai-positioning-itself-for-acquisition/" target="_blank">Source</a></small></div>
 
@@ -211,7 +206,6 @@ print("Original Tokens:", original_tokens)
 print("Compressed Tokens:", compressed_tokens)
 print("Compressed Ratio:", f"{original_tokens/(compressed_tokens + 1e-5):.2f}x")
 ```
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Reducedtoken.png)
 <div align="center"><small>Image from <a href="https://llmlingua.com/llmlingua.html" target="_blank">Source</a></small></div>
 
@@ -224,13 +218,11 @@ print(str(response))
 
 # Results of Reasoning and ICL scenarios
 LLMLingua tested originally in various scenarios, including reasoning, in-context learning (ICL), summarization, and dialogue. The results in the GSM8K and Big-bench Hard Benchmark are listed below. Notably, within the GSM8K, LLMLingua was able to retain the reasoning capabilities of LLMs at a 20x compression ratio, with only a 1.5% loss in performance. 
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-Experiment.png)
 <div align="center"><small>LLMLingua Experiment result from <a href="https://llmlingua.com/llmlingua.html" target="_blank">Source</a></small></div>
 
 # Results of RAG scenarios (Multi-document QA)
 LLMLingua is tested across a range of scenarios, such as multi-document QA, coding, retrieval-based tasks, multi-hop QA, summarization, and ranking, with the NQ multi-document QA results highlighted below. Notably, LongLLMLingua effectively mitigates the 'lost in the middle' issue, achieving up to a 21.4% improvement at 4x compression and achieving a 2.1x acceleration in end-to-end latency.
-
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LongLLMLingua-Experiment.png)
 <div align="center"><small>RAG Scenario Experiment results from <a href="https://llmlingua.com/longllmlingua.html" target="_blank">Source</a></small></div>
 
