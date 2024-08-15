@@ -44,7 +44,7 @@ Ever encountered the token limit when asking ChatGPT to summarize lengthy texts?
 Frustrated with ChatGPT forgetting previous instructions after extensive fine-tuning?
 Experienced high costs using GPT3.5/4 API for experiments despite excellent results?
 While Large Language Models like ChatGPT and GPT-4 excel in generalization and reasoning, they often face challenges like prompt length limits and prompt-based pricing schemes.
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-Overview.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLinguaOverview.png)
 <div align="center"><small>LLMLingua context from <a href="https://github.com/microsoft/LLMLingua" target="_blank">Source</a></small></div>
 
 Now you can use LLMLingua, LongLLMLingua, and LLMLingua-2!
@@ -219,12 +219,12 @@ print(str(response))
 
 # Results of Reasoning and ICL scenarios
 LLMLingua tested originally in various scenarios, including reasoning, in-context learning (ICL), summarization, and dialogue. The results in the GSM8K and Big-bench Hard Benchmark are listed below. Notably, within the GSM8K, LLMLingua was able to retain the reasoning capabilities of LLMs at a 20x compression ratio, with only a 1.5% loss in performance. 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-Experiment.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLinguaExperiment.png)
 <div align="center"><small>LLMLingua Experiment result from <a href="https://llmlingua.com/llmlingua.html" target="_blank">Source</a></small></div>
 
 # Results of RAG scenarios (Multi-document QA)
 LLMLingua is tested across a range of scenarios, such as multi-document QA, coding, retrieval-based tasks, multi-hop QA, summarization, and ranking, with the NQ multi-document QA results highlighted below. Notably, LongLLMLingua effectively mitigates the 'lost in the middle' issue, achieving up to a 21.4% improvement at 4x compression and achieving a 2.1x acceleration in end-to-end latency.
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LongLLMLingua-Experiment.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LongLLMLinguaExperiment.png)
 <div align="center"><small>RAG Scenario Experiment results from <a href="https://llmlingua.com/longllmlingua.html" target="_blank">Source</a></small></div>
 
 ### Key Advantages of LongLLMLingua:
@@ -247,5 +247,7 @@ LLMLingua and LongLLMLingua represent significant advancements in the field of l
 
 ## References
 Hugging Face, "LLMLingua by Microsoft," [Online]. Available: https://huggingface.co/spaces/microsoft/LLMLingua. [Accessed: Aug. 15, 2024].
+
 LLMLingua. Microsoft GitHub Repository. https://github.com/microsoft/LLMLingua (accessed Aug. 13, 2024).
+
 Microsoft Research, "LLMLingua," Microsoft, [Online]. Available: https://www.microsoft.com/en-us/research/project/llmlingua/. [Accessed: Aug. 13, 2024].
