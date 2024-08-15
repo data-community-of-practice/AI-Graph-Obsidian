@@ -60,8 +60,10 @@ These tools offer an efficient solution to compress prompts by up to 20x, enhanc
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua.png)
 <div align="center"><small>LLMLingua description from <a href="https://github.com/microsoft/LLMLingua" target="_blank">Source</a></small></div>
+
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LongLLMLingua.png)
 <div align="center"><small>LongLLMLingua context from <a href="https://github.com/microsoft/LLMLingua" target="_blank">Source</a></small></div>
+
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-2.png)
 <div align="center"><small>LLMLingua-2 context from <a href="https://www.pymnts.com/acquisitions/2023/report-stability-ai-positioning-itself-for-acquisition/" target="_blank">Source</a></small></div>
 
@@ -72,7 +74,7 @@ The objective of this project is to efficiently retrieve, compress, and process 
 Note: For this project, OpenAI subscription is needed to use OpenAI API Key. It's very affordable and easy to get started.
 Here’s how you can proceed:
 
-For more details visit <a href="https://platform.openai.com/docs/overview"target="_blank">OpenAI Documentation</a>
+For more details visit <a href="https://platform.openai.com/docs/overview" target="_blank">OpenAI Documentation</a>
 
 1. Installing Required Libraries
 
