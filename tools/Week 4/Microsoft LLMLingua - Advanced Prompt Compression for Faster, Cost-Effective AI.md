@@ -57,6 +57,7 @@ These tools offer an efficient solution to compress prompts by up to 20x, enhanc
 - **Knowledge Retention:** Maintains original prompt information like ICL and reasoning.
 - **KV-Cache Compression:** Accelerates inference process.
 - **Comprehensive Recovery:** GPT-4 can recover all key information from compressed prompts.
+
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua.png)
 <div align="center"><small>LLMLingua description from <a href="https://github.com/microsoft/LLMLingua" target="_blank">Source</a></small></div>
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LongLLMLingua.png)
@@ -243,3 +244,6 @@ The impact of LLMLingua and LongLLMLingua is evident in various domains:
 ## Conclusion
 
 LLMLingua and LongLLMLingua represent significant advancements in the field of large language models, addressing one of the most pressing challenges: the limitation of context windows. By refining and compressing input data, these frameworks enable LLMs to process larger and more complex datasets, opening new possibilities in AI-driven tasks. As LLM technology continues to evolve, LLMLingua and LongLLMLingua will likely play a crucial role in expanding the capabilities and applications of these powerful models.
+
+## References
+Stability AI, "API Reference," Stability AI Documentation. https://platform.stability.ai/docs/api-reference (accessed Aug. 6, 2024).
