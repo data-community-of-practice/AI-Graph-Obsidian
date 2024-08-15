@@ -42,7 +42,6 @@ While these methods are effective, they can be slow and prone to errors because 
     - **What is Attention?** The attention mechanism is like a spotlight that helps the model focus on the most important parts of the input. In the context of transformers, attention allows the model to weigh different parts of the input (like different patches of an image) according to how relevant they are for making a prediction.
     - **How does it work in DETR?** In DETR, attention helps the model look at the entire image and understand the relationships between different parts of the image. This global view allows DETR to detect objects more accurately, even in complex scenes where objects might be overlapping or partially hidden.
 
----
 
 ## DETR Architecture Overview
 
@@ -64,7 +63,6 @@ Here is the architecture diagram for a visual representation:
 ![detr-architecture](https://i.imgur.com/qzGF1D1.png)
 <div  align="center"><i>DETR Architecture diagram</i></div>
 
----
 
 ## Key Advantages of DETR
 
@@ -80,7 +78,6 @@ Here is the architecture diagram for a visual representation:
 4. **Global Context Understanding**:
     - **Why is global context important?** By considering the entire image at once, DETR can better differentiate between similar objects and make more accurate predictions in scenes where the context matters (e.g., understanding that a person is holding an object).
 
----
 
 ## How to Use DETR
 
