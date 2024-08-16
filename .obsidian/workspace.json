@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+                "file": "models/Week 4/what-is-DETR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+                "file": "models/Week 4/what-is-DETR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+                "file": "models/Week 4/what-is-DETR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md"
+                "file": "models/Week 4/what-is-DETR.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   "active": "61f9c2c72d209df9",
   "lastOpenFiles": [
     "tools/Week 4/What is TinyLlama.md",
-    "tools/Week 3/how-to-use-Stability-AI-API.md",
+    "tools/Week 4/Microsoft LLMLingua - Advanced Prompt Compression for Faster, Cost-Effective AI.md",
+    "models/Week 4/what-is-DETR.md",
+    "models/Week 4",
     "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+    "tools/Week 3/how-to-use-Stability-AI-API.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
-    "models/what-is-DETR.md",
     "img/qwen2-response.png",
     "img/qwen2-prompt.png",
     "img/qwen2-install.png",
