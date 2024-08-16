@@ -109,4 +109,6 @@ There are multiple applications, some of which are listed below
 The Stability AI API offers powerful and scalable AI solutions that can significantly enhance your applications. By following the steps to integrate the API, you can leverage advanced AI capabilities with ease and efficiency. Understanding the billing structure and monitoring your usage will help you manage costs effectively while taking full advantage of Stability AI’s offerings.
 
 ## References
-Stability AI, "API Reference," Stability AI Documentation. https://platform.stability.ai/docs/api-reference (accessed Aug. 6, 2024).
+Hugging Face, "LLMLingua by Microsoft," [Online]. Available: https://huggingface.co/spaces/microsoft/LLMLingua. [Accessed: Aug. 15, 2024].
+LLMLingua. Microsoft GitHub Repository. https://github.com/microsoft/LLMLingua (accessed Aug. 13, 2024).
+Microsoft Research, "LLMLingua," Microsoft, [Online]. Available: https://www.microsoft.com/en-us/research/project/llmlingua/. [Accessed: Aug. 13, 2024].
