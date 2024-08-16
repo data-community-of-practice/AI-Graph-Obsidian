@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/what-is-DETR.md",
+                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/what-is-DETR.md",
+                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/what-is-DETR.md",
+                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/what-is-DETR.md"
+                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "5b670fb991c2f2e0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "linkedin/Week 4/Img-diff-contrastive-data-synthesis-for-multimodal-large-language-models.md",
+    "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
     "models/what-is-DETR.md",
+    "conflict-files-obsidian-git.md",
     "tools/Week 4/What is TinyLlama.md",
     "tools/Week 4",
     "linkedin/Week 4/VizECGNet-ECG-Image-Based-Cardiovascular-Disease-Classification.md",
@@ -185,8 +187,6 @@
     "tools/Week 3/What is BLIP.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
     "tools/Week 3",
-    "linkedin/Week 3/automated-multimodal-machine-learning-with-large-language-models.md",
-    "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md",
     "linkedin/Week 3",
     "tools/Week 2"
   ]
