@@ -13,15 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/Week 4/what-is-DETR.md",
-                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
+                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/Week 4/what-is-DETR.md",
-                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
+                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/Week 4/what-is-DETR.md",
-                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
+                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/Week 4/what-is-DETR.md"
-                "file": "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md"
+                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md"
               }
             }
           }
@@ -153,56 +148,32 @@
   },
   "active": "61f9c2c72d209df9",
   "lastOpenFiles": [
-    "linkedin/Week 4/Img-diff-contrastive-data-synthesis-for-multimodal-large-language-models.md",
-    "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
-    "models/what-is-DETR.md",
-    "conflict-files-obsidian-git.md",
-    "tools/Week 4/What is TinyLlama.md",
     "tools/Week 4/Microsoft LLMLingua - Advanced Prompt Compression for Faster, Cost-Effective AI.md",
     "models/Week 4/what-is-DETR.md",
     "models/Week 4",
-    "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+    "models/LLava-Advancing-Image-Recognition-with-Enhanced-AI-Models.md",
+    "models/How to use Deep Live Cam Real-Time Face Swap and One-Click Video Deepfake with a Single Image.md",
+    "linkedin/Week 4/Img-diff-contrastive-data-synthesis-for-multimodal-large-language-models.md",
+    "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
+    "img/llava-thumbnail.png",
+    "img/llava-result5.png",
+    "img/llava-result4.png",
+    "img/llava-result3.png",
+    "img/llava-result2.png",
+    "img/llava-result1.png",
+    "img/llava-people.jpg",
+    "img/llava-pear-apple.jpeg",
+    "img/llava-install.png",
+    "img/llava-happy.jpg",
+    "tools/Week 4/What is TinyLlama.md",
     "tools/Week 3/how-to-use-Stability-AI-API.md",
+    "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
-    "img/qwen2-response.png",
-    "img/qwen2-prompt.png",
-    "img/qwen2-install.png",
-    "img/qwen2-math.png",
-    "img/qwen2-instruct2.png",
-    "img/qwen2-instruct.png",
-    "img/qwen2-compare.png",
-    "img/qwen2-lang.png",
-    "img/qwen2-models.png",
+    "models/what-is-DETR.md",
     "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
     "tools/Week 4",
     "URL.md",
     "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
     "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md"
-    "linkedin/Week 4/AnomalySD-Few-Shot Multi-Class Anomaly Detection with Stable Diffusion Model.md",
-    "linkedin/Week 4",
-    "models/What-is-stable-diffusion-model.md",
-    "tools/Week 2/What-Is-Gemma2.md",
-    "tools/Week 3/how-to-use-Stability-AI-API.md",
-    "models/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
-    "models/Llama 3.1 405B vs GPT-4o Which model is better.md",
-    "img/stability_ai_credits.png",
-    "img/spacecraft.png",
-    "img/mistralnemo-6.png",
-    "img/mistralnemo-5.png",
-    "img/mistralnemo-4.png",
-    "img/mistralnemo-3.jpg",
-    "img/mistralnemo-2.png",
-    "img/mistralnemo-1.png",
-    "img/mistralnemo-0.png",
-    "img/cliff.png",
-    "linkedin/Week 3/A-Simple-Background-Augmentation-Method-for-Object-Detection-with-Diffusion-Model.md",
-    "linkedin/Week 3/Alleviating-Hallucination-in-Large-Vision-Language-Models-with-Active-Retrieval-Augmentation.md",
-    "linkedin/Week 2/BUSClean-Open-source-software-for-breast-ultrasound-image-pre-processing-and-knowledge-extraction-for-medical-AI.md",
-    "tools/Week 0/How-to-use-GitHub-Copilot.md",
-    "tools/Week 3/What is BLIP.md",
-    "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
-    "tools/Week 3",
-    "linkedin/Week 3",
-    "tools/Week 2"
   ]
 }
