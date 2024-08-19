@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+                "file": "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "416a3c8f301b4a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+                "file": "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+                "file": "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md"
+                "file": "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md"
               }
             }
           }
@@ -148,6 +160,10 @@
   },
   "active": "61f9c2c72d209df9",
   "lastOpenFiles": [
+    "linkedin/Week 5/Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding.md",
+    "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
+    "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md",
+    "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
     "tools/Week 4/Microsoft LLMLingua - Advanced Prompt Compression for Faster, Cost-Effective AI.md",
     "models/Week 4/what-is-DETR.md",
     "models/Week 4",
@@ -167,13 +183,11 @@
     "img/llava-happy.jpg",
     "tools/Week 4/What is TinyLlama.md",
     "tools/Week 3/how-to-use-Stability-AI-API.md",
-    "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
     "models/what-is-DETR.md",
     "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
     "tools/Week 4",
     "URL.md",
-    "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
     "linkedin/Week 3/WaveMamba - Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification.md"
   ]
 }
