@@ -52,10 +52,10 @@ To access the Codestral Mamba through an API , you'll first need an API key. Her
 
 2. Next, navigate to the API Keys tab [Mistral AI API Key Workspace ](https://console.mistral.ai/api-keys/). Click Create new key to generate your API key. 
 
-![Mamba API ](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-api1.png))
+![Mamba API ](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-api1.png)
 <div align="center" ><i>Mistral AI API Key Workspace</i></div>
 
-[Mamba API 2](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-api2.png))
+[Mamba API 2](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-api2.png)
 <div align="center" ><i>Mistral AI API Key Creation</i></div>
 
 3. Make sure you save your API Key somewhere, you'll be needing it in the next step!
@@ -141,7 +141,7 @@ print(chat_response.choices[0].message.content)
 ## Testing Codestral Mamba's Response
 
 I wrote a simple prompt asking Codestral Mamba to "Write a code to find the prime numbers from 1 to 10," and it returned the Python code shown in the image below, which successfully identified the prime numbers from 1 to 10.
-[Mamba Output](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-output.png))
+[Mamba Output](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-output.png)
 <div align="center" ><i>Codestral Mamba Sample Output</i></div>
 
 It also provided an explanation of the generated code, as seen in the text box below.
