@@ -26,7 +26,7 @@ Lets look at reasons to why you should think about using Codestral Mamba instead
 
    As illustrated in the below image, Codestral Mamba outperforms many similarly sized popular code generation models, such as CodeGemma and CodeLlama (with 7 billion parameters), across most benchmark metrics. Remarkably, it also matches or surpasses the performance of much larger models, including Codestral and CodeLlama (with 34 billion parameters), in several benchmarks.
 
-![Mamba Compare](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-compare.png))
+![Mamba Compare](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-compare.png)
 <div align="center" ><i>Codestral Mamba Coding Capabilities via mistral.ai</i></div>
 
 
