@@ -101,14 +101,10 @@ chat_response = client.chat.complete(
     messages = [
         {
             "role": "user",
-            
-			#Write your desired prompt
             "content": "Write a code to find the prime numbers from 1 to 10",
         },
     ]
 )
-
-#Displays Codestral Mamba's Response
 print(chat_response.choices[0].message.content)
 ```
 #### Entire Code Put Together
@@ -133,8 +129,7 @@ chat_response = client.chat.complete(
     messages = [
         {
             "role": "user",
-            
-			#Write your desired prompt
+            #Write your desired prompt
             "content": "Write a code to find the prime numbers from 1 to 10",
         },
     ]
