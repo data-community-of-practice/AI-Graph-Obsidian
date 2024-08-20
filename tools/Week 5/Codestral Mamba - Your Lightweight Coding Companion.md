@@ -52,7 +52,7 @@ To access the Codestral Mamba through an API , you'll first need an API key. Her
 
 2. Next, navigate to the API Keys tab [Mistral AI API Key Workspace ](https://console.mistral.ai/api-keys/). Click Create new key to generate your API key. 
 
-![Mamba API ](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-compare.png))
+![Mamba API ](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-api1.png))
 <div align="center" ><i>Mistral AI API Key Workspace</i></div>
 
 [Mamba API 2](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-api2.png))
@@ -157,6 +157,12 @@ This code first defines an empty list `primes` to store the prime numbers. It th
 # Conclusion
 
 Codestral Mamba represents a significant leap forward in making powerful code generation tools accessible to a broader audience, offering high performance in a compact, efficient package. Its ability to handle complex tasks with speed and accuracy, coupled with the ease of deployment, underscores the importance of continuous innovation in AI. As developers increasingly rely on AI-driven tools to enhance productivity and creativity, Codestral Mamba stands out not just as a technical achievement but as a symbol of the evolving relationship between humans and machines, where advanced capabilities are made available without sacrificing accessibility or efficiency.
+
+# References
+
+1) AI, Mistral. “Codestral Mamba.” _Mistral.ai_, 16 July 2024, mistral.ai/news/codestral-mamba/. Accessed 20 Aug. 2024.
+
+2) “Mistralai/Mamba-Codestral-7B-V0.1 · Hugging Face.” _Huggingface.co_, 2024, huggingface.co/mistralai/Mamba-Codestral-7B-v0.1. Accessed 20 Aug. 2024.
 
 
 
