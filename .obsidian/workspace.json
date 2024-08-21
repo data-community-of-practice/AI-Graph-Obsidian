@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
+                "file": "tools/What is Cursor.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
+                "file": "tools/What is Cursor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
+                "file": "tools/What is Cursor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md"
+                "file": "tools/What is Cursor.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   },
   "active": "f87642e0cb9e295e",
   "lastOpenFiles": [
-    "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
+    "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
     "img/mamba-output.png",
     "tools/What is Cursor.md",
     "linkedin/Week 5/DifuzCam Enhancing Lensless Imaging with Diffusion Models.md",
@@ -170,7 +170,7 @@
     "img/mamba output.png",
     "img/mamba-api2.png",
     "img/mamba-api1.png",
-    "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
+    "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
     "img/mamba-compare.png",
     "linkedin/Week 5/Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding.md",
     "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md",

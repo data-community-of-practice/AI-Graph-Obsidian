@@ -1,4 +1,5 @@
 # What is Cursor
+%%Add a subtitle%%
 <div align="center">
   <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/a4016a22-744f-4816-f720-f8a3c6758d00/public" alt="image">
 </div>
@@ -6,7 +7,7 @@
 
 ## Author
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
-
+%%Maintain British English throughout - replace words like revolutionize with revolutionise%%
 ## Introduction
 In the ever-evolving world of software development, Cursor emerges as a game-changer – a revolutionary AI-powered code editor that's blurring the line between human creativity and artificial intelligence. Imagine a coding environment that not only understands your project but actively assists you in writing, editing, and debugging. Cursor does just that, combining the familiar interface of a traditional code editor with the power of advanced AI models.
 
@@ -104,7 +105,7 @@ This advanced capability empowers Cursor to comprehensively analyze and interpre
   <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/b0f12787-8043-4c5b-6795-b6864d759800/public" alt="image">
 </div>
 <div align="center"><small style="font-size: 16px;">Cursor's AI-generated response, offering six detailed suggestions to enhance the application's robustness, including an example of a worker pool implementation with an 'Apply' option for immediate code integration.</small></div><br>
-
+%%Also add how to get Cursor for your system %%
 ## What Sets Cursor Apart: A Developer's Perspective
 
 Having extensively utilized Visual Studio Code and Cursor in my development work, I've discovered several distinctive features that elevate it above other AI-enhanced coding tools. Here are the key aspects that make Cursor stand out:
