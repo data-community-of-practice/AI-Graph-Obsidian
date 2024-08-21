@@ -1,4 +1,4 @@
-## Instruct Large Language Models to Generate Scientific Literature Survey Step by Step
+## Instruct Large Language Models to Generate Scientific Literature Survey
 
 
 **Abstract:** The paper presents a novel methodology for automating the generation of scientific literature surveys using Large Language Models (LLMs). The research addresses the growing challenge of conducting comprehensive literature reviews in the face of an ever-expanding body of scientific publications. By systematically leveraging LLMs to generate titles, abstracts, hierarchical headings, and main content in a sequential manner, the authors have significantly improved the coherence and relevance of generated surveys. 
