@@ -150,7 +150,7 @@ output_text = outputs[0]["generated_text"][-1]['content']
 display(Markdown(output_text))
 ```
 Response:
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3quiz.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3output.png)
 <div align="center"><small>Image generated from the desktop of Tohfa Siddika Barbhuiya</small></div>
 
 ## Training Focus Areas
