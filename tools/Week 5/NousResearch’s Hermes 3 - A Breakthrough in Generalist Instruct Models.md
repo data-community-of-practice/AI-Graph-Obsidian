@@ -153,6 +153,25 @@ Response:
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3output.png)
 <div align="center"><small>Image generated from the desktop of Tohfa Siddika Barbhuiya</small></div>
 
+14. Solve a math problem using the Hermes-3 model and display the solution
+python
+prompt = """
+A notebook and pen costs $2.20. The notebook costs $1.00 more than the pen. How much doe sthe pen costs"
+"""
+
+messages = [
+    {"role": "system", "content": "You are helpful assistant!"},
+    {"role": "user", "content": prompt }
+]
+
+outputs = pipeline(messages, max_new_tokens=1024)
+output_text = outputs[0]["generated_text"][-1]['content']
+display(Markdown(output_text))
+
+Response:
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3mathsoutput.png)
+<div align="center"><small>Image generated from the desktop of Tohfa Siddika Barbhuiya</small></div>
+
 ## Training Focus Areas
 
 The training of Hermes 3 focused on several key areas to enhance its capabilities:
