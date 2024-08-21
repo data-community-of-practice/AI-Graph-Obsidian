@@ -1,7 +1,5 @@
 ## LLM4DSR - Leveraging Large Language Models for Denoising Sequential Recommendation
 
-# LLM4DSR: Leveraging Large Language Models for Denoising Sequential Recommendations
-
 **Abstract:** The paper "LLM4DSR: Leveraging Large Language Model for Denoising Sequential Recommendation" by Bohao Wang et al. introduces an innovative method to enhance sequential recommendation systems by denoising user interaction sequences using Large Language Models (LLMs). The study addresses the challenge of noisy interactions in recommendation systems, which can degrade performance due to the lack of explicit supervisory signals. By employing LLMs, the proposed LLM4DSR method accurately identifies and replaces noisy items in user interaction sequences, improving the overall recommendation quality. Extensive experiments demonstrate the superiority of LLM4DSR over existing denoising methods, making it a promising approach for enhancing sequential recommendation systems.
 
 **Link:** [arXiv:2408.08208v1](https://arxiv.org/abs/2408.08208v1)
