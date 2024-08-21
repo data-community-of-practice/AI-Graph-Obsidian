@@ -1,7 +1,6 @@
 # What is Cursor: The Next Evolution in Intelligent Code Editors
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/a4016a22-744f-4816-f720-f8a3c6758d00/public" alt="image">
-</div>
+
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/a4016a22-744f-4816-f720-f8a3c6758d00/public)
 <div align="center"><small style="font-size: 16px;">Cursor: The AI Editor Logo</small></div><br>
 
 ## Author
@@ -17,9 +16,8 @@ Code editors have transformed dramatically since their inception. Early tools li
 
 The integration of AI has kickstarted a new chapter in coding tools. GitHub Copilot, launched in 2021, was a game-changer, offering AI-generated code suggestions directly within popular editors. Cursor builds on this foundation, taking the concept to new heights. By combining the familiar, extensible interface of VS Code with more advanced AI models, Cursor represents the next leap forward. It's not just a tool that assists; it's an intelligent environment that actively collaborates with developers in real-time, understanding context and offering sophisticated code generation and editing capabilities.
 
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/6f2825e4-92b9-472f-6ca4-a5752188ad00/public" alt="image">
-</div>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/6f2825e4-92b9-472f-6ca4-a5752188ad00/public)
+
 <div align="center"><small style="font-size: 16px;">Evolution of code editors: From basic text editors to AI-powered tools. This image showcases logos of popular code editors, illustrating the progression from simple text manipulation to intelligent, AI-Assisted coding environments like VS Code. (Source: [3])</small></div><br>
 
 ## The Basics of Cursor
@@ -45,9 +43,8 @@ def pollMessagesFromSQS
 ```
 Cursor might suggest completing the function like this:
 
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/87a9c654-3915-4cbd-a3b8-da3fb0d98e00/public" alt="image">
-</div>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/87a9c654-3915-4cbd-a3b8-da3fb0d98e00/public)
+
 <div align="center"><small style="font-size: 16px;">Cursor's smart code completion in action: Automatically generating a complex 'pollMessagesFromSQS()' function, including AWS SQS client setup, message retrieval, and deletion logic.</small></div><br>
 
 ### Chat: AI Assistant for Coding Queries
@@ -58,9 +55,8 @@ Cursor's chat can handle complex queries about your codebase, algorithms, and be
 ```
 How can I modify this function to handle multiple messages and implement error handling?
 ```
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/828fbe3c-c50f-45cb-aa4c-57fbddf0d600/public" alt="image">
-</div>
+
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/828fbe3c-c50f-45cb-aa4c-57fbddf0d600/public)
 <div align="center"><small style="font-size: 16px;">Cursor's AI assistant suggesting an improved 'pollMessagesFromSQS' function with multi-message handling and error management. The 'Apply' button allows for instant code integration.</small></div><br>
 
 ### Cmd+K: AI-Powered Code Editing and Generation
@@ -72,14 +68,11 @@ This powerful feature enables you to describe desired code changes or generate n
 ```
 Refactor this function to use async/await and implement exponential backoff for failed message deletions
 ```
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/d49c177b-7180-4d30-e74c-3dcc233fe600/public" alt="image">
-</div>
+
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/d49c177b-7180-4d30-e74c-3dcc233fe600/public)
 <div align="center"><small style="font-size: 16px;">The Cmd+K edit prompt, showing the original 'pollMessagesFromSQS' function before refactoring. This image demonstrates how users can select code and instruct Cursor to make specific improvements.</small></div><br>
 
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/d657aaee-72d2-4652-8a88-267b6863c800/public" alt="image">
-</div>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/d657aaee-72d2-4652-8a88-267b6863c800/public)
 <div align="center"><small style="font-size: 16px;">Cursor's Cmd+K feature in action: Refactoring the 'pollMessagesFromSQS' function to use async/await and implement exponential backoff. The 'Accept' button allows instant application of the AI-suggested changes.</small></div><br>
 
 ### Codebase Understanding: Cursor "Knows" Your Project
@@ -92,19 +85,13 @@ This advanced capability empowers Cursor to comprehensively analyze and interpre
 @Codebase How does our application handle SQS message polling and processing? Can you suggest any improvements to make it more robust?
 ```
 
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/5217ae50-b71f-4d22-3a84-571f921f0600/public" alt="image">
-</div>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/5217ae50-b71f-4d22-3a84-571f921f0600/public)
 <div align="center"><small style="font-size: 16px;">The initial structure of the SQS polling application with asynchronous message polling and processing, serving as a reference point for AI-suggested improvements.</small></div><br>
 
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/cb9af99f-a645-46fe-ec11-496113107d00/public" alt="image">
-</div>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/cb9af99f-a645-46fe-ec11-496113107d00/public)
 <div align="center"><small style="font-size: 16px;">Cursor's @Codebase feature in action: Analyzing multiple files (sqs.py, main.py, config.py, processor.py, and logger.py) to provide a comprehensive answer about the SQS polling application.</small></div><br>
 
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/b0f12787-8043-4c5b-6795-b6864d759800/public" alt="image">
-</div>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/b0f12787-8043-4c5b-6795-b6864d759800/public)
 <div align="center"><small style="font-size: 16px;">Cursor's AI-generated response, offering six detailed suggestions to enhance the application's robustness, including an example of a worker pool implementation with an 'Apply' option for immediate code integration.</small></div><br>
 
 ## What Sets Cursor Apart: A Developer's Perspective
@@ -115,26 +102,22 @@ Having extensively utilized Visual Studio Code and Cursor in my development work
    - Leverage your existing VS Code shortcuts and workflows seamlessly
    - Effortlessly integrate your preferred VS Code extensions, themes, and settings
    - Experience the robust stability and high performance of VS Code while harnessing Cursor's advanced AI capabilities
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/a248d742-c3b3-4d82-a5fe-c78f33951900/public" alt="image">
-</div>
+
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/a248d742-c3b3-4d82-a5fe-c78f33951900/public)
 <div align="center"><small style="font-size: 16px;">Easy VS Code Settings Import in Cursor: the one-click import feature in Cursor that allows users to instantly bring in all their extensions, settings, and keybindings from VS Code.</small></div><br>
 
-2. **Flexibility in AI Model Selection**: Cursor offers great flexibility in AI model selection, enabling developers to customize AI assistance based on specific project needs or preferences. This feature allows users to explore various AI capabilities, fostering innovation and efficiency in coding solutions:
+1. **Flexibility in AI Model Selection**: Cursor offers great flexibility in AI model selection, enabling developers to customize AI assistance based on specific project needs or preferences. This feature allows users to explore various AI capabilities, fostering innovation and efficiency in coding solutions:
    - Select from a diverse range of built-in models, including cutting-edge options like GPT-4 and Claude 3.5
    - Enhance capabilities by integrating your own API keys to access additional models
    - Seamlessly switch between models to best suit your specific needs or task requirements, optimizing your workflow
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/1bf3b944-fcc1-46ea-dbdc-76c1051edc00/public" alt="image">
-</div>
+
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/1bf3b944-fcc1-46ea-dbdc-76c1051edc00/public)
 <div align="center"><small style="font-size: 16px;">Cursor's Model Configuration and API Key Settings: various AI models available in Cursor and options to add API keys for OpenAI, Anthropic, and Google AI services.</small></div><br>
 
-<div align="center">
-  <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/81e814cf-08ad-4c7e-97ab-1cde37228500/public" alt="image">
-</div>
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/81e814cf-08ad-4c7e-97ab-1cde37228500/public)
 <div align="center"><small style="font-size: 16px;">Cursor's Flexible Model Selection in Chat and Cmd+K: users can easily switch between different AI models when using Cursor's chat feature or the Cmd+K edit function.</small></div><br>
 
-3. **Remote Server Compatibility**: Cursor distinguishes itself with integration for remote server environments:
+1. **Remote Server Compatibility**: Cursor distinguishes itself with integration for remote server environments:
    - Maintain uninterrupted access to Chat and Cmd+K functionalities when connected to servers via SSH
    - Benefit from AI-powered assistance while working on remotely hosted codebases
    - This functionality is notably missing in the combination of VS Code and GitHub Copilot
