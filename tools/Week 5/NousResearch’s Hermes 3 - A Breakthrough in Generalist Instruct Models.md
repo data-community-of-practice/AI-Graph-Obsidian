@@ -49,8 +49,8 @@ The training process of Hermes 3 is executed in two phases:
 
 Hermes 3 has undergone rigorous testing against a variety of benchmarks, showcasing its competitive, if not superior, capabilities compared to Llama-3.1 Instruct models. The Hermes 3 Technical Report provides detailed comparisons and analyses, highlighting the model's strengths and areas for improvement.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3evaluation.png)
-<div align="center"><small>LLMLingua by Microsoft <a href="https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf" target="_blank">Source</a></small></div>
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3evaluations.png)
+<div align="center"><small>Hermes 3 performance evaluation <a href="https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf" target="_blank">Source</a></small></div>
 
 ## Prompt Format and Inference
 
