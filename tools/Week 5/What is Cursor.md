@@ -1,5 +1,4 @@
-# What is Cursor
-%%Add a subtitle%%
+# What is Cursor: The Next Evolution in Intelligent Code Editors
 <div align="center">
   <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/a4016a22-744f-4816-f720-f8a3c6758d00/public" alt="image">
 </div>
@@ -7,7 +6,7 @@
 
 ## Author
 * Mingrui Gao (**OCRID**: 0009-0005-7271-2677)
-%%Maintain British English throughout - replace words like revolutionize with revolutionise%%
+
 ## Introduction
 In the ever-evolving world of software development, Cursor emerges as a game-changer – a revolutionary AI-powered code editor that's blurring the line between human creativity and artificial intelligence. Imagine a coding environment that not only understands your project but actively assists you in writing, editing, and debugging. Cursor does just that, combining the familiar interface of a traditional code editor with the power of advanced AI models.
 
@@ -24,13 +23,15 @@ The integration of AI has kickstarted a new chapter in coding tools. GitHub Copi
 <div align="center"><small style="font-size: 16px;">Evolution of code editors: From basic text editors to AI-powered tools. This image showcases logos of popular code editors, illustrating the progression from simple text manipulation to intelligent, AI-Assisted coding environments like VS Code. (Source: [3])</small></div><br>
 
 ## The Basics of Cursor
-At its core, Cursor is an AI-powered code editor that's revolutionizing the way developers interact with their code. But what exactly does this mean?
+At its core, Cursor is an AI-powered code editor that's revolutionising the way developers interact with their code. But what exactly does this mean?
 
 - **Definition**: Cursor is more than just a text editor for code. It's an intelligent coding environment that leverages advanced AI models to assist developers in writing, editing, and understanding code. Think of it as having a knowledgeable coding partner always at your side, ready to offer suggestions, answer questions, and even predict your next moves.
 
 - **Origin**: Cursor isn't built from scratch. It's forked from Visual Studio Code (VS Code), one of the most popular code editors in the world. This foundation provides Cursor with a familiar, robust editing experience while allowing its creators to focus on integrating cutting-edge AI capabilities. The result is a tool that feels familiar to VS Code users but offers significantly enhanced functionality.
 
 - **Target Audience**: While Cursor's advanced features might sound intimidating, it's designed for developers of all levels. For seasoned programmers, Cursor can speed up workflows, assist with complex problem-solving, and even help explore new coding patterns. For beginners, it serves as an intelligent tutor, offering explanations, suggestions, and helping to catch and explain errors. Even non-technical team members can benefit, using Cursor's natural language interactions to better understand codebases.
+
+- Note: Visit the official Cursor website at [here](www.cursor.com) and select the Download button to obtain Cursor.
 
 ## Key Features of Cursor
 Cursor sets itself apart with four game-changing features that make coding smarter and faster. Let's explore each one with practical examples:
@@ -105,7 +106,7 @@ This advanced capability empowers Cursor to comprehensively analyze and interpre
   <img src="https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/b0f12787-8043-4c5b-6795-b6864d759800/public" alt="image">
 </div>
 <div align="center"><small style="font-size: 16px;">Cursor's AI-generated response, offering six detailed suggestions to enhance the application's robustness, including an example of a worker pool implementation with an 'Apply' option for immediate code integration.</small></div><br>
-%%Also add how to get Cursor for your system %%
+
 ## What Sets Cursor Apart: A Developer's Perspective
 
 Having extensively utilized Visual Studio Code and Cursor in my development work, I've discovered several distinctive features that elevate it above other AI-enhanced coding tools. Here are the key aspects that make Cursor stand out:
