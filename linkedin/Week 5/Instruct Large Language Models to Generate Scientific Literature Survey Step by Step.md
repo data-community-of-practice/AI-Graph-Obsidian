@@ -3,7 +3,7 @@
 
 **Abstract:** The paper presents a novel methodology for automating the generation of scientific literature surveys using Large Language Models (LLMs). The research addresses the growing challenge of conducting comprehensive literature reviews in the face of an ever-expanding body of scientific publications. By systematically leveraging LLMs to generate titles, abstracts, hierarchical headings, and main content in a sequential manner, the authors have significantly improved the coherence and relevance of generated surveys. 
 
-**Link:** [arXiv:2408.07884v1](https://arxiv.org/abs/2408.07884v1)
+**Article Link** : https://arxiv.org/abs/2408.07884v1
 
 1️⃣ **Problem & Context:** The exponential growth of scientific publications poses a significant challenge for researchers, who must dedicate substantial time to conducting literature reviews. This paper tackles the problem by introducing a step-by-step approach to literature survey generation using LLMs.
 
