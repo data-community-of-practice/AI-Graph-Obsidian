@@ -1,37 +1,16 @@
 ## Instruct Large Language Models to Generate Scientific Literature Survey Step by Step
 
-### Introduction
-Automating the generation of scientific literature surveys presents a complex challenge that demands a deep understanding of both subject matter and the ability to systematically organize and present information. Leveraging Large Language Models (LLMs) for this task has shown promising potential. This article deep dives into the innovative approach for harnessing LLMs to produce high-quality literature surveys, which earned us a commendable third place in the NLPCC 2024 Scientific Literature Survey Generation evaluation.
 
-**Article Link** : https://arxiv.org/abs/2408.07884
+**Abstract:** The paper presents a novel methodology for automating the generation of scientific literature surveys using Large Language Models (LLMs). The research addresses the growing challenge of conducting comprehensive literature reviews in the face of an ever-expanding body of scientific publications. By systematically leveraging LLMs to generate titles, abstracts, hierarchical headings, and main content in a sequential manner, the authors have significantly improved the coherence and relevance of generated surveys. 
 
-### Methodology
+**Link:** [arXiv:2408.07884v1](https://arxiv.org/abs/2408.07884v1)
 
-- **Sequential Generation Framework:** We adopted a stepwise instruction paradigm, prioritizing the generation of titles and headings before progressing to content creation. This structured methodology facilitates a coherent and hierarchical presentation of information.
+1️⃣ **Problem & Context:** The exponential growth of scientific publications poses a significant challenge for researchers, who must dedicate substantial time to conducting literature reviews. This paper tackles the problem by introducing a step-by-step approach to literature survey generation using LLMs.
 
-- **Text Embedding with BGE-Large-En-V1.56:** We utilized the BGE-Large-En-V1.56 model for embedding text, which is critical for assessing semantic similarity between generated and reference surveys. This model ensures that the generated headings are both contextually relevant and distinct.
+2️⃣ **Methodology & Contribution:** The authors designed a series of prompts that guide LLMs to generate literature surveys in stages—beginning with the title and abstract, followed by the hierarchical structure, and concluding with the detailed content. This approach ensures that the LLM maintains a high-level perspective throughout the process, thereby improving the logical flow and reducing the costs associated with API usage.
 
-- **Soft Heading Recall Metric:** We introduced the soft heading recall metric to evaluate the overlap between generated and reference headings. Our system achieved a notable 95.84% in soft heading recall, securing a second-place position in this metric.
+3️⃣ **Key Findings:** The implementation of this method using Alibaba’s Qwen-long model achieved third place in the NLPCC 2024 Scientific Literature Survey Generation evaluation task, with a minimal margin behind the second-place team. The model demonstrated an impressive soft heading recall of 95.84%, underscoring the effectiveness of the sequential generation design.
 
-- **Human Evaluation Criteria:** In addition to automated metrics, we conducted human evaluations to assess several qualitative aspects:
-  - **Linguistic Fluency:** Clarity and readability of the generated text.
-  - **Structural Coherence:** Logical organization and flow of the content.
-  - **Citation Integrity:** Accuracy and reliability of references.
-  - **Content Relevance:** Adherence to the thematic focus of the survey.
-  - **Analytical Depth:** Breadth and depth of the analytical coverage.
+4️⃣ **Conclusion & Future Challenges:** While the proposed method significantly enhances the quality and efficiency of automated literature surveys, challenges remain in ensuring the accuracy of citations and mitigating the hallucination effects of LLMs. Future work will focus on integrating reference content to improve factual reliability, aiming to develop a more robust and trustworthy system for automatic literature survey generation.
 
-### Key Findings
-Our results were highly competitive and insightful:
-
-- **Overall Performance:** We ranked third, with an overall score just 0.03% below the second-place team.
-  
-- **Heading Generation Performance:** The sequential generation design significantly improved heading generation, as evidenced by our high soft heading recall score.
-
-- **Challenges in Human Evaluation:** While automated metrics were robust, human evaluations identified challenges related to citation accuracy and the occurrence of hallucinations—instances where the LLM generates plausible but incorrect or unverifiable content.
-
-### Conclusion
-Our research demonstrates the potential of LLMs in automating the generation of scientific literature surveys. By implementing a structured, sequential generation framework, we achieved high performance in the NLPCC 2024 evaluation. Nonetheless, challenges such as ensuring citation accuracy and mitigating hallucinations persist. Future work will focus on integrating reference content to enhance the factual accuracy and reliability of generated surveys and refining the generation framework for more precise outputs. Future improvements will include deeper integration of reference content to address factual inaccuracies and enhance citation reliability. Additionally, we plan to optimize the sequential generation framework to produce more concise and targeted outlines.
-
-**References**: 
-- Lai, Y., Wu, Y., Wang, Y., Hu, W., & Zheng, C., 2024, "Instruct Large Language Models to Generate Scientific Literature Survey Step by Step." ArXiv. /abs/2408.07884
-
+**Reference:** Lai, Y., Wu, Y., Wang, Y., Hu, W., & Zheng, C. (2024). "Instruct Large Language Models to Generate Scientific Literature Survey Step by Step. ArXiv." /abs/2408.07884
