@@ -10,20 +10,19 @@ Tarun Krishnan (**ORCID**: [0009-0006-6647-127X](https://orcid.org/0009-0006-66
 
 Before the rise of Large Language Models (LLMs), coders often spent countless hours debugging their code or searching for solutions to complex problems on platforms like Stack Overflow. Finding the right answer was often a tedious process, requiring users to sift through hundreds of pages, hoping to stumble upon the solution. However, with the advent of LLMs like ChatGPT, those long, tiresome days are becoming a thing of the past. Now, developers can simply input their code into a prompt and receive quick, accurate guidance on how to complete or fix it.
 
-![Mamba](https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/5dc57da3-fd63-47a6-80cd-0ba08c457be7/ed2552ab-99c9-4ee8-a94e-710ac2cc22a5.png)
+![Girl Struggling with Coding](https://img.freepik.com/premium-photo/woman-angry-her-laptop-computer-work_746318-3019.jpg)
 
-<div align="center" ><i>Source : Easy-Peasy.AI</i></div>
-	%%Please add the prompt - Also, since i can see the code on the outer cover of the laptop, not sure if its a great picture%%
+<div align="center" ><i>Source : freepik.com</i></div>
 
-In May 2024, Mistral AI made waves in the AI community with the release of "Codestral," %%Add link to Codestral%% a model designed specifically for code generation. It quickly set a new standard, boasting unparalleled performance on benchmarking tests. The only drawback, if any, was its size: with 22 billion parameters, Codestral required substantial storage space and computing resources, making it challenging to run on personal devices.
+In May 2024, Mistral AI made waves in the AI community with the release of "Codestral,"  [Codestral ](https://mistral.ai/news/codestral/) A model designed specifically for code generation. It quickly set a new standard, boasting unparalleled performance on benchmarking tests. The only drawback, if any, was its size: with 22 billion parameters, Codestral required substantial storage space and computing resources, making it challenging to run on personal devices.
 
 Probably in response to community feedback, Mistral AI introduced a more lightweight version called "Codestral Mamba." Despite its reduced size, Codestral Mamba delivers performance comparable to its predecessor—if not better in some coding benchmarks—offering developers a powerful tool that is both accessible and efficient.
 
 # Features of Codestral Mamba
 
 Let's explore the reasons why you should consider using Codestral Mamba instead of other LLM competitors like ChatGPT or Gemini:
-%%Always follow british english, change the z's in words like specialized to s%%
-1. **Specialized in Code Generation**: Codestral Mamba is specifically designed with code generation in mind. Unlike general-purpose language models, it has been fine-tuned on a vast dataset of programming languages, algorithms, and coding best practices. This specialization enables Codestral Mamba to understand complex coding tasks, generate high-quality code snippets, and even provide detailed explanations and solutions for challenging coding problems. Whether you're debugging, refactoring, or writing new code, Codestral Mamba excels at delivering precise, context-aware code outputs tailored to your needs.
+
+1. **Specialised in Code Generation**: Codestral Mamba is specifically designed with code generation in mind. Unlike general-purpose language models, it has been fine-tuned on a vast dataset of programming languages, algorithms, and coding best practices. This specialisation enables Codestral Mamba to understand complex coding tasks, generate high-quality code snippets, and even provide detailed explanations and solutions for challenging coding problems. Whether you're debugging, refactoring, or writing new code, Codestral Mamba excels at delivering precise, context-aware code outputs tailored to your needs.
 
    As illustrated in the below image, Codestral Mamba outperforms many similarly sized popular code generation models, such as CodeGemma and CodeLlama (with 7 billion parameters), across most benchmark metrics. Remarkably, it also matches or surpasses the performance of much larger models, including Codestral and CodeLlama (with 34 billion parameters), in several benchmarks.
 
@@ -31,11 +30,11 @@ Let's explore the reasons why you should consider using Codestral Mamba instead 
 
 <div align="center" ><i>Codestral Mamba Coding Capabilities via mistral.ai</i></div>
 
-2. **Fast Response Times**: One of the standout features of Codestral Mamba is its use of Mamba models, which differ from traditional Transformer models by offering linear time inference and the ability to model sequences of infinite length. %%explain in a sentence or two what linear time inference and modelling sequences of infinite length actually means%% This means users can engage with the model extensively, receiving quick responses regardless of input length. This efficiency is particularly valuable for code productivity, as Codestral Mamba has been trained with advanced code and reasoning capabilities, allowing it to perform on par with state-of-the-art Transformer-based models.
+2. **Fast Response Times**: One of the standout features of Codestral Mamba is its use of Mamba models, which differ from traditional Transformer models by offering linear time inference and the ability to model sequences of infinite length. ('Linear time inferencing' means that the time it takes for the model to give an output increases at a steady rate as the input length grows, rather than getting slower exponentially. 'Modeling sequences of infinite length' refers to the model's ability to handle very long inputs without running into limits, allowing it to process and understand much larger chunks of information at once) This means users can engage with the model extensively, receiving quick responses regardless of input length. This efficiency is particularly valuable for code productivity, as Codestral Mamba has been trained with advanced code and reasoning capabilities, allowing it to perform on par with state-of-the-art Transformer-based models.
 
-3. **Massive In-Context Capabilities**: Codestral Mamba has demonstrated impressive in-context retrieval capabilities%%explain what in-context retrieval is with an example%%, handling up to 256,000 tokens with ease. This extensive capacity allows the model to effectively manage and retrieve large volumes of context, making it an excellent local code assistant. Whether you’re working on extensive codebases or require detailed context for complex coding tasks, Codestral Mamba provides reliable and efficient support, ensuring accurate and contextually relevant responses.
+3. **Massive In-Context Capabilities**: Codestral Mamba has demonstrated impressive in-context retrieval capabilities handling up to 256,000 tokens with ease. ('In-context retrieval' refers to a model's ability to use specific information from the current input or conversation to generate relevant and accurate responses. For example, if you're coding and ask a model to help debug a specific function, in-context retrieval allows the model to understand the details of that function—such as variable names and logic—from your current code, and then provide a solution that's directly related to that specific context, rather than giving a generic answer. This makes the assistance more precise and tailored to your immediate needs) This extensive capacity allows the model to effectively manage and retrieve large volumes of context, making it an excellent local code assistant. Whether you’re working on extensive codebases or require detailed context for complex coding tasks, Codestral Mamba provides reliable and efficient support, ensuring accurate and contextually relevant responses.
 
-4. **Deployment** : Codestral Mamba can be deployed using the mistral-inference SDK, which leverages reference implementations from Mamba’s GitHub repository. Additionally, it supports deployment through TensorRT-LLM for optimized performance. For local inference, the Mistral team has advised us to keep an eye out for upcoming support in llama.cpp as of the time of this article. Further, the raw model weights are available for download on HuggingFace.
+4. **Deployment** : Codestral Mamba can be deployed using the mistral-inference SDK, which leverages reference implementations from Mamba’s GitHub repository. Additionally, it supports deployment through TensorRT-LLM for optimised performance. For local inference, the Mistral team has advised us to keep an eye out for upcoming support in llama.cpp as of the time of this article. Further, the raw model weights are available for download on HuggingFace.
 
 5. **Accessibility**: For convenient testing, Codestral Mamba is accessible on la Plateforme (codestral-mamba-2407), alongside its larger counterpart, Codestral 22B. Codestral Mamba is offered under the Apache 2.0 license, while Codestral 22B is available under a commercial license for self-deployment or a community license for testing. This flexibility in licensing and deployment options ensures that both models can be integrated and tested effectively across various environments.
 
@@ -58,7 +57,6 @@ To access the Codestral Mamba through an API , you'll first need an API key. Her
 <div align="center" ><i>Mistral AI API Key Workspace</i></div>
 
 [Mamba API 2](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/mamba-api2.png)
-%%This image will not get copied to medium, please check the link%%
 
 <div align="center" ><i>Mistral AI API Key Creation</i></div>
 
