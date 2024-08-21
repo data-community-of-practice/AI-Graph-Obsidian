@@ -1,7 +1,7 @@
 # NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/LLMLingua-thumbnail.png)
-<div align="center"><small>LLMLingua by Microsoft <a href="https://nousresearch.com/hermes3/" target="_blank">Source</a></small></div>
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3.png)
+<div align="center"><small>Hermes 3 by NousResearch <a href="https://nousresearch.com/hermes3/" target="_blank">Source</a></small></div>
 
 ## Author  
 - Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))
