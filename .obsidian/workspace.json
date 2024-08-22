@@ -161,6 +161,7 @@
   },
   "active": "f87642e0cb9e295e",
   "lastOpenFiles": [
+    "models/claude-llama-gpt-comparison.md",
     "tools/Week 5/What is Cursor.md",
     "tools/Week 5/NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models.md",
     "img/Hermes3quiz.png",
@@ -197,7 +198,6 @@
     "tools/Week 3/how-to-use-Stability-AI-API.md",
     "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
     "models/what-is-DETR.md",
-    "linkedin/Week 4/Recognizing Emotion Regulation Strategies from Human Behavior with Large Language Models.md",
     "tools/Week 4"
   ]
 }
