@@ -39,26 +39,20 @@ The Qwen2 series represents a significant leap forward in AI model development, 
 
 **Model Variants and Specifications**
 
-The Qwen2 series is designed to cater to a range of computational demands and application scenarios. The models are available in several sizes, with parameter counts ranging from 0.49 billion to 72.71 billion. Each model also varies in terms of non-embedding parameters, context length support, and the application of advanced features such as Group Query Attention (GQA) and embedding tying.
-
-- **Group Query Attention (GQA)**: Previously limited to Qwen1.5-32B and Qwen1.5-110B, GQA is now implemented across all Qwen2 models. This inclusion enhances the efficiency of model inference, reducing both speed and memory consumption, which is crucial for large-scale applications.
-
-- **Embedding Tying**: In smaller models like Qwen2-0.5B and Qwen2-1.5B, embedding tying is utilized to manage the extensive sparse embeddings efficiently. This approach helps in optimizing parameter allocation, making the models more resource-efficient.
+The Qwen2 series is designed to cater to a range of computational demands and application scenarios. The models are available in several sizes, with parameter counts ranging from 0.49 billion to 72.71 billion. 
 
 **Context Length Capabilities**
 
-One of the notable advancements in the Qwen2 series is the extended context length support. While all base language models have been pretrained with a context length of 32,000 tokens, the instruction-tuned variants exhibit impressive capabilities. Specifically, the Qwen2-7B-Instruct and Qwen2-72B-Instruct models can handle context lengths of up to 128,000 tokens effectively, particularly when augmented with YARN technology. This extended context capability ensures that the models can understand and process longer texts with high accuracy, which is critical for complex tasks and detailed document analysis.
+One of the notable advancements in the Qwen2 series is the extended context length support. While all base language models have been pretrained with a context length of 32,000 tokens, the instruction-tuned variants exhibit impressive capabilities. Specifically, the Qwen2-7B-Instruct and Qwen2-72B-Instruct models can handle context lengths of up to 128,000 tokens effectively. This extended context capability ensures that the models can understand and process longer texts with high accuracy, which is critical for complex tasks and detailed document analysis.
 
 **Multilingual Competence**
 
 A significant focus in the development of Qwen2 was enhancing its multilingual capabilities. The models have been trained on data from 27 additional languages beyond English and Chinese, reflecting a commitment to global applicability. The languages covered span various regions:
 
-
 ![Qwen2 Models Languages](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/qwen2-lang.png)
 <div align="center" ><i>Qwen2 Language Support</i></div>
 
-Furthermore, significant efforts were made to address code-switching—a common phenomenon in multilingual contexts. The Qwen2 models have demonstrated enhanced proficiency in managing code-switching, reducing associated issues significantly. This improvement was validated through evaluations that tested the models' responses to prompts likely to induce code-switching.
-
+Furthermore, significant efforts were made to address code-switching in Qwen2- which is the practice of alternating between two or more languages or dialects within a conversation, sentence, or discourse. 
 ### Performance
 
 The Qwen2 series, particularly the Qwen2-72B model, represents a significant leap forward in AI performance compared to its predecessors and contemporary models. Here's a detailed look at the performance enhancements and key features of Qwen2:
@@ -74,25 +68,18 @@ Comparative assessments reveal that Qwen2-72B, with its 72 billion parameters, o
 
 **2. Enhanced Training Techniques**
 
-Qwen2 benefits from an extensive pre-training phase, followed by targeted post-training to refine its capabilities and align its outputs with human values. This process enhances the model’s performance in coding, mathematics, reasoning, instruction-following, and multilingual understanding. The post-training phase is designed to improve intelligence and ensure that the model remains helpful, honest, and harmless. Key techniques include:
-
-- **Automated Alignment Strategies**: To obtain high-quality, diverse, and creative data, various automated alignment strategies are employed. These include rejection sampling for mathematics, execution feedback for coding and instruction-following, back-translation for creative writing, and scalable oversight for role-play scenarios.
-
-- **Training Methods**: A combination of supervised fine-tuning, reward model training, and online Direct Preference Optimization (DPO) training is used. Additionally, the novel Online Merging Optimizer minimizes alignment tax, further boosting model performance.
+Qwen2 benefits from an extensive pre-training phase, followed by targeted post-training to refine its capabilities and align its outputs with human values. This process enhances the model’s performance in coding, mathematics, reasoning, instruction-following, and multilingual understanding. The post-training phase is designed to improve intelligence and ensure that the model remains helpful, honest, and harmless. 
 
 **3. Benchmark Excellence**
 
 Qwen2-72B-Instruct has been evaluated across 16 benchmarks in various domains, demonstrating a strong balance between enhanced capabilities and alignment with human values. Notably, Qwen2-72B-Instruct significantly outperforms Qwen1.5-72B-Chat across all benchmarks and shows competitive performance compared to Llama-3-70B-Instruct. This indicates that Qwen2-72B-Instruct not only achieves superior results but also aligns well with user expectations and ethical standards.
 
-
 ![Qwen2 Instruct](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/qwen2-instruct.png)
 <div align="center" ><i>Qwen2-72B-Instruct Comparative Assessment</i></div>
-
 
 **4. Impressive Results in Smaller Models**
 
 Even the smaller Qwen2 models, such as Qwen2-7B-Instruct, exhibit advantages over state-of-the-art models of similar or larger sizes. The Qwen2-7B-Instruct model shows outstanding performance, particularly in coding and Chinese-related metrics, outperforming several recently released state-of-the-art models. This demonstrates that Qwen2’s advancements extend across different model sizes, ensuring robust performance regardless of scale.
-
 
 ![Qwen2 Instruct 2](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/qwen2-instruct2.png)
 <div align="center" ><i>Qwen2-7B-Instruct Comparative Assessment</i></div>
@@ -101,10 +88,8 @@ Even the smaller Qwen2 models, such as Qwen2-7B-Instruct, exhibit advantages ove
 
 One of the standout features of Qwen2 is its exceptional performance in coding and mathematics. These areas have been a focal point of development, with continuous efforts to push the boundaries of what the model can achieve.
 
-
 ![Qwen2 Math](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/qwen2-math.png)
 <div align="center" ><i>Qwen2 Code and Math Capabilities</i></div>
-
 
 **Advanced Coding Proficiency**
 
@@ -125,18 +110,9 @@ All instruction-tuned models in the Qwen2 series have been trained on contexts u
 
 The flagship model, Qwen2-72B-Instruct, excels in long-context understanding. In tests like the Needle in a Haystack task, which involves extracting specific information from a vast amount of data, Qwen2-72B-Instruct flawlessly handles contexts up to 128,000 tokens. This capability, combined with its strong inherent performance, makes it the go-to choice for tasks that require processing lengthy documents or datasets, especially when ample computational resources are available.
 
-Other models in the Qwen2 series also exhibit impressive long-context capabilities:
-
-- **Qwen2-7B-Instruct**: Nearly matches the flagship's performance, managing contexts up to 128,000 tokens with impressive accuracy.
-- **Qwen2-57B-A14B-Instruct**: Handles contexts up to 64,000 tokens, offering a robust solution for medium-length text tasks.
-- **Smaller Models**: Both Qwen2-0.5B and Qwen2-1.5B support contexts up to 32,000 tokens, making them suitable for shorter documents while still benefiting from the series' advanced training techniques.
-
 **Scaling Up: Processing Massive Documents**
 
-Beyond the long-context models, Qwen2 also includes an open-sourced agent solution capable of efficiently processing documents containing up to 1 million tokens. This solution is ideal for handling exceptionally large texts or datasets, offering scalability and efficiency in a variety of applications. For those interested in exploring this capability further, more detailed information is available in our dedicated blog post.
-
-Overall, Qwen2’s mastery of long-context understanding significantly expands its applicability, making it an invaluable tool for tasks that involve processing and analyzing extensive textual information.
-
+Beyond the long-context models, Qwen2 also includes an open-sourced agent solution capable of efficiently processing documents containing up to 1 million tokens. This solution is ideal for handling exceptionally large texts or datasets, offering scalability and efficiency in a variety of applications. 
 ### Safety and Responsibility
 
 Safety and responsibility are at the core of the Qwen2 series, with particular emphasis on reducing harmful outputs and ensuring the model's alignment with ethical standards. The performance of Qwen2-72B-Instruct in this regard is a testament to Alibaba's commitment to creating AI that is not only powerful but also responsible.
@@ -145,12 +121,9 @@ Safety and responsibility are at the core of the Qwen2 series, with particular e
 
 To assess the safety of Qwen2-72B-Instruct, a series of tests were conducted using multilingual unsafe queries across four key categories: Illegal Activity, Fraud, Pornography, and Privacy Violations. The test data, derived from Jailbreak and translated into multiple languages, provided a rigorous evaluation of the model's ability to handle potentially harmful prompts.
 
-The results, presented in the table below, demonstrate that Qwen2-72B-Instruct performs comparably to GPT-4 in terms of safety, particularly in its ability to avoid generating harmful responses across different languages. This is a significant achievement, especially when considering that many large-scale models struggle with multilingual safety. For instance, Llama-3, despite its strengths in other areas, was excluded from this comparison due to its inadequate handling of multilingual prompts.
-
 **Comparison with Other Models**
 
 In direct comparison with other leading models, Qwen2-72B-Instruct significantly outperforms the Mistral-8x22B model in terms of safety. The significance testing (P_value) confirms that Qwen2-72B-Instruct's performance is not only robust but also reliable, offering a safer alternative for applications that require the handling of sensitive or potentially harmful content.
-
 ### Accessibility to the AI Community
 
 Qwen2 has been made widely accessible to developers and researchers, marking a significant milestone in the journey toward open-source AI. All models in the Qwen2 series are now available on popular platforms such as Hugging Face and ModelScope, allowing enthusiasts and professionals alike to explore their capabilities, fine-tune them for specific needs, and contribute to their ongoing development.
@@ -161,32 +134,19 @@ Developers can easily access detailed information about each model, including th
 
 **Community Support and Contributions**
 
-The development of Qwen2 has been a collaborative effort, supported by a broad community of developers, researchers, and organizations. Various teams have played crucial roles in different aspects of Qwen2's evolution:
-
-- **Fine-tuning**: Contributions from platforms like Axolotl, Llama-Factory, Firefly, Swift, and XTuner have been instrumental in optimizing Qwen2 for specific tasks.
-- **Quantization**: Tools like AutoGPTQ, AutoAWQ, and Neural Compressor have been used to compress the models, making them more efficient without compromising performance.
-- **Deployment**: Frameworks such as vLLM, SGL, SkyPilot, TensorRT-LLM, OpenVino, and TGI have facilitated the deployment of Qwen2 across various environments.
-- **API Platforms**: Integration with platforms like Together, Fireworks, and OpenRouter has expanded Qwen2's accessibility through APIs.
-- **Local Run**: Solutions like MLX, Llama.cpp, Ollama, and LM Studio have enabled local execution of Qwen2 models, making them versatile tools for development.
-- **Agent and RAG Frameworks**: Frameworks like LlamaIndex, CrewAI, and OpenDevin have enhanced Qwen2's capabilities in agent-based systems and Retrieval-Augmented Generation (RAG).
-- **Evaluation**: Contributions from LMSys, OpenCompass, and Open LLM Leaderboard have provided valuable benchmarks and assessments for Qwen2.
-- **Model Training**: Initiatives like Dolphin and Openbuddy have contributed to the training and refinement of Qwen2 models.
-
-This collective effort has not only enriched the Qwen2 series but also fostered a strong community spirit, driving innovation and collaboration in the open-source AI community. While not every contributor is mentioned, their efforts are deeply appreciated, and Alibaba expresses sincere gratitude to all who have supported the project.
+The development of Qwen2 has been a collaborative effort, supported by a broad community of developers, researchers, and organizations. Various teams have played crucial roles in different aspects of Qwen2's evolution which has not only enriched the Qwen2 series but also fostered a strong community spirit, driving innovation and collaboration in the open-source AI community. 
 
 **Licensing and Openness**
 
 In a move to further democratize access to AI, Alibaba has adjusted the licensing of Qwen2 models. The flagship model, Qwen2-72B, along with its instruction-tuned variants, continues to use the original Qianwen License. However, the other models in the series—Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, and Qwen2-57B-A14B—have adopted the Apache 2.0 license. This shift towards a more open licensing framework is intended to accelerate the adoption, application, and commercial use of Qwen2 across the globe.
 
 By opening up Qwen2 under these licenses, Alibaba aims to empower developers and researchers to explore new frontiers in AI, fostering an environment where innovation can thrive, and the full potential of Qwen2 can be realized. The company remains committed to supporting the global AI community and looks forward to continued collaboration and shared success.
-
 # Quick and Easy Qwen2 Installation
 
 Now that we have learned about how powerful Qwen2 can be, let's look at how you can easily start using this model!
 ## Step 1: Install Ollama
 
 Ollama can be thought of as a platform that helps you easily download and access open-source language models. You can click on this link to reach the download page of Ollama: [Ollama Download Page](https://ollama.com/download). Ollama can be downloaded on macOS, Linux, and Windows.
-
 ## Step 2: Installing Qwen2
 
 Once you have installed Ollama, open your command prompt/terminal and execute the following command:
@@ -213,7 +173,6 @@ ollama run qwen2:7b
 ollama run qwen2:72b
 ```
 
-
 ## Step 3: Trying Out Qwen2's Latest Multimodal AI!
 
 Once you download your desired Qwen2 model, you should see the following message request:
@@ -221,12 +180,10 @@ Once you download your desired Qwen2 model, you should see the following message
 ![qwen2 start](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/qwen2-prompt.png)
 <div align="center" ><i>Qwen2 Message Request</i></div>
 
-
 If not, you can always run the same command that you ran to install your Qwen2 model!
 
 ![qwen2 sample conversation](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/qwen2-response.png)
 <div align="center" ><i>Qwen2 Sample Conversation</i></div>
-
 
 # Conclusions
 
