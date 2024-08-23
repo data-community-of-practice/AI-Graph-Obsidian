@@ -658,7 +658,7 @@ In our workflows, replace "Load Diffusion Model" node with "Unet Loader (GGUF)"
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408232126120.png)
 
-**## FLUX.1 LoRA Online Training Tool**
+## FLUX.1 LoRA Online Training Tool
 
 Replicate offers a training tool called "[ostris/flux-dev-lora-trainer](https://replicate.com/ostris/flux-dev-lora-trainer/train)," which allows you to train your own Lora-style model with a minimum of just 10 images. You can give it a try.
 
