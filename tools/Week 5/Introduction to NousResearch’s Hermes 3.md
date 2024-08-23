@@ -1,4 +1,4 @@
-# NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models
+# Introduction toNousResearch’s Hermes 3 
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3.png)
 <div align="center"><small>Hermes 3 by NousResearch <a href="https://nousresearch.com/hermes3/" target="_blank">Source</a></small></div>
@@ -8,7 +8,23 @@
 
 ## Introduction
 
-NousResearch's Hermes 3 is a breakthrough in Generalist Instruction Models, offering advancements in Language Models and versatile AI Capabilities. Hermes 3 contains advanced long-term context retention and multi-turn conversation capability, complex roleplaying and internal monologue abilities, and enhanced agentic function-calling. Hermes 3 training data aggressively encourages the model to follow the system and instruction prompts exactly and in an adaptive manner. Hermes 3 was created by fine-tuning Llama 3.1 8B, 70B and 405B, and training on a dataset of primarily synthetically generated responses. These models are not only powerful but also uniquely aligned to follow system and instruction prompts with unparalleled precision and neutrality. The model boasts comparable and superior performance to Llama 3.1 while unlocking deeper capabilities in reasoning and creativity.This article deep dives into the innovative features of Hermes 3, its advanced capabilities, and its impact on the field of AI. This Generalist AI System showcases Intelligent Conversational Agents and Adaptive AI Algorithms, enabling Personalized AI Assistance and AI-driven Task Completion. Hermes 3 has demonstrated impressive Performance Benchmarks, making it a valuable addition to the NousResearch AI Ecosystem. As an Instructable AI Assistant, Hermes 3 can be seamlessly integrated into various Workflows, driving Productivity Enhancement and Automation Solutions across a wide range of applications.
+Instruct (or “chat”) tuned models have become the primary way in which most people interact with large language models. As opposed to “base” or “foundation” models, instruct-tuned models are optimized to respond to imperative statements.
+
+NousResearch's Hermes 3 is a breakthrough in Generalist Instruction Models, offering advancements in Language Models and versatile AI Capabilities. Hermes 3 contains advanced long-term context retention and multi-turn conversation capability, complex roleplaying and internal monologue abilities as claimed by the developers. Hermes 3 training data aggressively encourages the model to follow the system and instruction prompts exactly and in an adaptive manner. Hermes 3 was created by fine-tuning Llama 3.1 8B, 70B and 405B, and training on a dataset of primarily synthetically generated responses. These models are not only powerful but also uniquely aligned to follow system and instruction prompts with unparalleled precision and neutrality. The model boasts comparable and superior performance to Llama 3.1 while unlocking deeper capabilities in reasoning and creativity.This article deep dives into the innovative features of Hermes 3, its advanced capabilities, and its impact on the field of AI. This Generalist AI System showcases Intelligent Conversational Agents and Adaptive AI Algorithms, enabling Personalized AI Assistance and AI-driven Task Completion.
+The advent of large language models like ChatGPT has revolutionized how we interact with AI, introducing the "chat" paradigm where AI assumes the role of a conversational assistant. This shift towards chat-tuned models has made AI more accessible and user-friendly, allowing it to respond naturally to human inquiries and commands. However, the true potential of large language models extends beyond simple conversation. Hermes 3 is not just another chatbot. This model is a versatile assistant capable of complex tasks.
+
+## Some key concepts
+
+- **Generalist Instruction Models**:
+Generalist Instruction Models are AI systems designed to understand and execute a wide variety of tasks based on given instructions. Unlike specialized models that are fine-tuned for specific tasks, generalist models can adapt to multiple contexts, allowing them to perform diverse functions like answering questions, generating creative content, engaging in dialogue, or executing complex commands across different domains. These models are trained on broad datasets and are optimized to interpret 
+
+- **Multi-Turn Conversation Capability**:
+The AI can remember what was discussed earlier and continue the conversation naturally.
+Example: You ask the AI, "What's the weather like today?" After it tells you, you say, "Should I take an umbrella?" The AI remembers the weather details and advises you accordingly.
+
+- **Internal Monologue Abilities**:
+The AI thinks through a problem internally before giving you an answer.
+Example: You ask the AI, "What's the best gift for a 10-year-old?" The AI considers factors like age, interests, and current trends before suggesting a popular toy.
 
 ## Model Overview and Key Features
 
@@ -24,14 +40,15 @@ Hermes 3, particularly its flagship 405B model, is designed to excel in a variet
 Hermes 3 introduces several cutting-edge features that enhance its ability to solve complex problems:
 
 - **Structured Output with XML Tags**: The model can generate well-organized outputs using XML tags, facilitating structured communication.
-- **Intermediate Processing using Scratchpads**: Hermes 3 uses scratchpads for intermediate steps, ensuring transparency and accuracy in decision-making.
+- **Intermediate Processing using Scratchpads**: Hermes 3 uses scratchpads for intermediate steps, ensuring transparency and accuracy in decision-making. 
 - **Transparent Decision-Making through Internal Monologues**: The model provides insight into its reasoning process through internal monologues, making its decision-making more understandable.
-- **Visual Communication with Mermaid Diagrams**: Hermes 3 can generate visual representations of information using Mermaid diagrams, enhancing clarity and comprehension.
 - **Step-Labeled Reasoning and Planning**: The model labels each step in its reasoning and planning process, offering a clear roadmap of its problem-solving approach.
 
-## Enhanced Tool Use and Retrieval Augmented Generation (RAG)
+One of the key features of Hermes 3 is its ability to make informed judgments and assess the quality of generated text through improved judgment and reward modeling. This allows Hermes 3 to evaluate and refine its outputs with a nuanced understanding, potentially enabling more effective fine-tuning and iterative improvements in language models. An example of this capability can be seen in multi-turn evaluations, where the model demonstrates refined decision-making across extended interactions.
 
-Hermes 3 use cases are it excels in tool use and retrieval augmented generation (RAG) through the Hermes Function Calling standard. This standard leverages specific JSON schemas to define and invoke tools, significantly enhancing the model’s ability to manage complex tasks and communicate solutions effectively across various domains.
+In addition, Hermes 3 incorporates several advanced agentic capabilities designed to enhance multi-step problem-solving and transparency in reasoning. The model utilizes XML tags for structured output and implements scratchpads to facilitate intermediate processing. These tools enable Hermes 3 to generate internal monologues that provide insights into its decision-making process, and utilize step-labeled reasoning for systematic planning. The model was trained on various reasoning tasks using specialized tokens such as <SCRATCHPAD>, <REASONING>, <INNER_MONOLOGUE>, <PLAN>, and others, significantly improving its ability to tackle complex tasks and clearly communicate its methodology.
+
+For instance, in the domain of software development, Hermes 3 excels in generating complex, functional code snippets across various programming languages. It can also provide detailed explanations and documentation, showcasing a deep understanding of coding paradigms and design patterns. This makes it an invaluable tool for developers, particularly in tasks like planning and implementing a Discord chatbot, where agentic coding generation is critical.
 
 ## Data Mixture and Training Recipe
 
