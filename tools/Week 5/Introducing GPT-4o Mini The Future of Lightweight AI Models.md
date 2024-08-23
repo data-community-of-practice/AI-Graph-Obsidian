@@ -3,7 +3,7 @@
 Discover How GPT-4o Mini Balances Power and Efficiency for Everyday AI Tasks
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/gpt-avatar.png)
-<div align="center"><small>Created using DALLE on August 22, 2024, using prompt "avatar of Chatgpt"</small></div>
+<div align="center"><small>Created using DALLE on August 22, 2024, using prompt "avatar of ChatGPT"</small></div>
 
 ## Authors
 
