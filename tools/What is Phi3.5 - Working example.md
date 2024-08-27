@@ -121,10 +121,10 @@ One of the most fundamental tasks for a vision-language model is describing a si
 For this demonstration, we'll use an image of a dog and ask the model to describe it in detail.
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/edb3f39e-5caa-466c-0b7e-dec9bb4b3000/public)
 <div align="center"><small style="font-size: 16px;">Example Dog  for Phi3.5 Single Image Analysis (Source [3])</small></div><br>
-Here's the Python code to set up and run this example:
+
 
 <details>
-<summary>Click to expand/collapse code</summary>
+<summary><b>Here's the Python code for this example(Click to Expand):</b></summary>
 
 ```python
 from PIL import Image 
@@ -209,10 +209,9 @@ This output demonstrates several impressive capabilities of Phi-3.5-vision:
 Phi-3.5-vision's ability to process and analyze multiple images simultaneously is a powerful feature that sets it apart from many other vision models. Let's explore this capability with an example where the model describes two different pet images: the dog from above example and a cat.
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/c7fc5b95-267c-49e6-d902-71f6fd765400/public)
 <div align="center"><small style="font-size: 16px;">Example Cat  for Phi3.5 Multi Images Analysis (Source [4])</small></div><br>
-Here's the Python code we used for this multi-image analysis:
 
 <details>
-<summary>Click to expand/collapse code</summary>
+<summary><b>Here's the Python code for this example(Click to Expand):</b></summary>
 
 ```
 from PIL import Image 
@@ -299,10 +298,8 @@ This output demonstrates several impressive capabilities of Phi-3.5-vision in mu
 
 Phi-3.5-vision's ability to engage in multi-turn conversations about multiple images showcases its versatility in visual analysis and comparison. Let's explore this capability with an example dialogue involving two different images: the dog and the cat in the examples above.
 
-Here's the Python code we used to facilitate this multi-turn, multi-image conversation:
-
 <details>
-<summary>Click to expand/collapse code</summary>
+<summary><b>Here's the Python code for this example(Click to Expand):</b></summary>
 
 ```python
 from PIL import Image 
@@ -397,9 +394,8 @@ One of Phi-3.5-vision's most impressive capabilities is its ability to understan
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/956ce0e3-e18d-4993-e6bd-5ded8e479500/public)
 <div align="center"><small style="font-size: 16px;">Chart from Academic Paper (Source [2]) for Phi3.5 Chart Analysis</small></div><br>
 
-Here's the Python code we used for this document analysis:
 <details>
-<summary>Click to expand/collapse code</summary>
+<summary><b>Here's the Python code for this example(Click to Expand):</b></summary>
 
 ```python
 from PIL import Image 
