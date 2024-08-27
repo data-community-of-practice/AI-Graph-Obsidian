@@ -210,10 +210,10 @@ Hardware Requirements:
 | Operating System | Supports Windows system. |
 |  | Provides Mac installation instructions for Macs with Apple Silicon. |
 | Storage | It is highly recommended to use an SSD to speed up the loading and running of model files, and at least 40GB of hard disk space is recommended. |
-| Software Dependencies | [Python](https://www.python.org/) environment is required, but a Python environment is also embedded in the installation package. |
+| Software Dependencies | Python environment is required, but a Python environment is also embedded in the installation package. |
 |  | Python libraries such as `torch`, `transformers`, etc., need to be installed. |
-|  | Some plugins may require [Git](https://git-scm.com/) for installation. |
-| Note | Specific requirements may change with updates to ComfyUI, it is recommended to check the [official documentation](https://github.com/comfyanonymous/ComfyUI/tree/master). |
+|  | Some plugins may require Git for installation. |
+| Note | Specific requirements may change with updates to ComfyUI, it is recommended to check the official documentation. |
 
 ComfyUI Official Repository Address: [ComfyUI's Github Repository](https://github.com/comfyanonymous/ComfyUI#installing)
 
@@ -288,9 +288,17 @@ Here is a detailed introduction to the different versions of the FLUX.1 model (T
 | **Prompt Adherence** | High | Medium | Medium |
 | **Hand Detail Optimization** | Yes | Yes | Yes |
 | **Pricing (Per Image)** | $0.055 | API: $0.03, Free download | API: $0.003, Free download |
-| **License Type** | Enterprise solutions, API only | Open-source, [FLUX.1-dev Non-Commercial License](https://github.com/black-forest-labs/flux/blob/main/model_licenses/LICENSE-FLUX1-schnell) | [Apache2.0](https://github.com/black-forest-labs/flux/blob/main/model_licenses/LICENSE-FLUX1-schnell), Commercial use allowed |
-| **Model Download** | Not available for download, API access only [FLUX.1 [pro] API](http://docs.bfl.ml/)、[Flux.1 Pro Replicate API](https://replicate.com/black-forest-labs/flux-pro)、[Flux.1 Pro FAL AI API](https://fal.ai/models/fal-ai/flux-pro)、 [Flux.1 Pro Mystic AI API](https://www.mystic.ai/black-forest-labs/flux1-pro) | Available for download [Flux.1 Dev GitHub repository](https://github.com/black-forest-labs/flux)、[Flux.1 Dev Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-dev)、[Flux.1 Dev Replicate API](https://replicate.com/black-forest-labs/flux-dev)、[Flux.1 Dev FAL AI API](https://fal.ai/models/fal-ai/flux/dev)、[Mystic AI](https://www.mystic.ai/black-forest-labs/flux1-dev) | Available for download [Flux.1 Schnell GitHub repository](https://github.com/black-forest-labs/flux)、[Flux.1 Schnell on Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-schnell)、[Flux.1 Schnell Replicate API](https://replicate.com/black-forest-labs/flux-schnell)、 [Try Flux.1 Schnell on FAL AI](https://fal.ai/models/fal-ai/flux/schnell)、[Flux.1 Schnell Mystic AI API](https://www.mystic.ai/black-forest-labs/flux1-schnell) |
+| **License Type** | Enterprise solutions, API only | Open-source, FLUX.1-dev Non-Commercial License | Apache2.0, Commercial use allowed |
 | **Use Case** | Professional use, enterprise customization | Development and personal use | Personal and commercial use |
+
+**Model Download**：
+
+- **Flux.1 Pro**
+  - Not available for download, API access only [FLUX.1 [pro] API](http://docs.bfl.ml/)、[Flux.1 Pro Replicate API](https://replicate.com/black-forest-labs/flux-pro)、[Flux.1 Pro FAL AI API](https://fal.ai/models/fal-ai/flux-pro)、 [Flux.1 Pro Mystic AI API](https://www.mystic.ai/black-forest-labs/flux1-pro)
+- **Flux.1 Dev**
+  - Available for download [Flux.1 Dev GitHub repository](https://github.com/black-forest-labs/flux)、[Flux.1 Dev Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-dev)、[Flux.1 Dev Replicate API](https://replicate.com/black-forest-labs/flux-dev)、[Flux.1 Dev FAL AI API](https://fal.ai/models/fal-ai/flux/dev)、[Mystic AI](https://www.mystic.ai/black-forest-labs/flux1-dev)
+- **Flux.1 Schnell**
+  - Available for download [Flux.1 Schnell GitHub repository](https://github.com/black-forest-labs/flux)、[Flux.1 Schnell on Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-schnell)、[Flux.1 Schnell Replicate API](https://replicate.com/black-forest-labs/flux-schnell)、 [Try Flux.1 Schnell on FAL AI](https://fal.ai/models/fal-ai/flux/schnell)、[Flux.1 Schnell Mystic AI API](https://www.mystic.ai/black-forest-labs/flux1-schnell)
 
 For more information, visit the FLUX.1 repository: [https://github.com/black-forest-labs/flux](https://github.com/black-forest-labs/flux)
 
@@ -304,16 +312,22 @@ You can choose to download the official original model or the quantized model. S
 
 ### 5 Mainstream FLUX.1 Model Versions
 
+- [**Black Forest Labs Official Models**](https://huggingface.co/black-forest-labs)
+- [**FP8 Versions Released by @Kijia**](https://huggingface.co/Kijai/flux-fp8/tree/main)
+- [**FP8 Versions Released by ComfyUI**](https://huggingface.co/Comfy-Org)
+- [**NF4 Quantized Versions Released by @Illyasviel**](https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/tree/main)
+- [**GGUF Quantized Versions Released by @City96**](https://github.com/city96/ComfyUI-GGUF)
+
 | **Category** | **Version** | **Details** |
 | --- | --- | --- |
-| [**Black Forest Labs Official Models**](https://huggingface.co/black-forest-labs) | FLUX.1-dev | Not for commercial use |
+| **Black Forest Labs Official Models** | FLUX.1-dev | Not for commercial use |
 |  | FLUX.1-schnell | For commercial use. Supports ControlNet and LoRa, 16GB or more GPU memory |
-| [**FP8 Versions Released by @Kijia**](https://huggingface.co/Kijai/flux-fp8/tree/main) | flux1-dev-fp8.safetensors |  |
+| **FP8 Versions Released by @Kijia** | flux1-dev-fp8.safetensors |  |
 |  | flux1-schnell-fp8.safetensors | 8GB GPU memory available, suitable for original workflow, supports ControlNet and LoRa |
-| [**FP8 Versions Released by ComfyUI**](https://huggingface.co/Comfy-Org) | flux1-dev-fp8.safetensors |  |
+| **FP8 Versions Released by ComfyUI** | flux1-dev-fp8.safetensors |  |
 |  | flux1-schnell-fp8.safetensors | 8GB GPU memory available, integrates with CLIP and VAE, suitable for simplified workflow, supports ControlNet and LoRa |
-| [**NF4 Quantized Versions Released by @Illyasviel**](https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/tree/main) | flux1-dev-bnb-nf4.safetensors (v1 / v2) | 6GB GPU memory available, integrates with CLIP and VAE, suitable for simplified workflow, supports LoRa and ControlNet |
-| [**GGUF Quantized Versions Released by @City96**](https://github.com/city96/ComfyUI-GGUF) | Q8 / Q5 / Q4 | Q8: Best performance, highest GPU memory usage, lowest latency available for Q4 |
+| **NF4 Quantized Versions Released by @Illyasviel** | flux1-dev-bnb-nf4.safetensors (v1 / v2) | 6GB GPU memory available, integrates with CLIP and VAE, suitable for simplified workflow, supports LoRa and ControlNet |
+| **GGUF Quantized Versions Released by @City96** | Q8 / Q5 / Q4 | Q8: Best performance, highest GPU memory usage, lowest latency available for Q4 |
 |  |  | WebUI Forge supports GGUF Q8/Q5/Q4 |
 |  |  | ComfyUI supports and integrates with ComfyUI-GGUF plugins |
 |  |  | 8GB GPU memory available, suitable for original workflow, supports ControlNet and LoRa |
@@ -332,10 +346,13 @@ For most users, running the official model smoothly can be quite a challenge. He
 
 [https://huggingface.co/Kijai/flux-fp8/tree/main](https://huggingface.co/Kijai/flux-fp8/tree/main)
 
-| **Version Name** | **VRAM Requirement** | **Download Link** |
-| --- | --- | --- |
-| FLUX.1 [dev] fp8 | Minimum 12GB VRAM | [Download Here](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-dev-fp8.safetensors) |
-| FLUX.1 [schnell] fp8 | May lower than 12GB VRAM. | [Download Here](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-schnell-fp8.safetensors) |
+| **Version Name** | **VRAM Requirement** |
+| --- | --- |
+| FLUX.1 [dev] fp8 | Minimum 12GB VRAM |
+| FLUX.1 [schnell] fp8 | May lower than 12GB VRAM. |
+
+- FLUX.1 [dev] fp8: [Download Here](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-dev-fp8.safetensors)
+- FLUX.1 [schnell] fp8: [Download Here](https://huggingface.co/Kijai/flux-fp8/blob/main/flux1-schnell-fp8.safetensors)
 
 Here, I choose to download the FLUX.1 [schnell] fp8 for testing. You can download the model as needed.
 
@@ -360,11 +377,19 @@ William Shakespeare sits in a sparsely furnished room in a Tudor-era house in So
 
 [ComfyUI flux_text_encoders on hugging face](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)
 
-| **Model File Name** | **Size** | **Note** | **Link** |
-| --- | --- | --- | --- |
-| `clip_l.safetensors` | 246 MB |  | [Download](https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/clip_l.safetensors) |
-| `t5xxl_fp8_e4m3fn.safetensors` (Recommended) | 4.89 GB | For lower memory usage (8-12GB) | [Download](https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/t5xxl_fp8_e4m3fn.safetensors) |
-| `t5xxl_fp16.safetensors` | 9.79 GB | For better results, if you have high VRAM and RAM(more than 32GB ram). | [Download](https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/t5xxl_fp16.safetensors) |
+| **Model File Name** | **Size** | **Note** |
+| --- | --- | --- |
+| `clip_l.safetensors` | 246 MB |  |
+| `t5xxl_fp8_e4m3fn.safetensors` (Recommended) | 4.89 GB | For lower memory usage (8-12GB) |
+| `t5xxl_fp16.safetensors` | 9.79 GB | For better results, if you have high VRAM and RAM(more than 32GB ram). |
+Download Links:
+
+- `clip_l.safetensors`:  [Download](https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/clip_l.safetensors)
+- `t5xxl_fp8_e4m3fn.safetensors`: [Download](https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/t5xxl_fp8_e4m3fn.safetensors)
+- `t5xxl_fp16.safetensors`: [Download](https://huggingface.co/comfyanonymous/flux_text_encoders/blob/main/t5xxl_fp16.safetensors)
+
+Steps:
+
 1. Download `clip_l.safetensors`
 2. Download `t5xxl_fp8_e4m3fn.safetensors` or `t5xxl_fp16.safetensors` Depend on your VRAM and RAM
 3. Place downloaded model files in `ComfyUI/models/clip/` folder. 
@@ -394,10 +419,7 @@ tranquil pond in a bamboo forest at dawn, sun is barely starting to peak over th
 
 [FLUX.1-schnell on hugging face](https://huggingface.co/black-forest-labs/FLUX.1-schnell/tree/main)
 
-| **File Name** | **Size** | **Link** |
-| --- | --- | --- |
-| `ae.safetensors` | 335 MB | [Download](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/ae.safetensors) |
-1. Downloaded the `ae.safetensors` model.
+1. Downloaded the `ae.safetensors` model. [Download (335 MB)](https://huggingface.co/black-forest-labs/FLUX.1-schnell/blob/main/ae.safetensors)
 2. Place downloaded model files in `ComfyUI/models/vae` folder.
 3. For easy identification, you can rename it to `flux_ae.safetensors`;
 
