@@ -501,6 +501,8 @@ print("\n" + "="*50 + "\n")
 
 When we run this code with our scientific paper images, Phi-3.5-vision generates the following analyses:
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/5ef9d3c1-dd6e-4fb1-1b08-d0565d80c000/public)
+<div align="center"><small style="font-size: 16px;">Generated Document and Chart Analysis for Academic Paper</small></div><br>
+
 This output demonstrates several impressive capabilities of Phi-3.5-vision in document understanding:
 1. **Text Recognition and Comprehension**: The model accurately reads and comprehends complex text, including the paper's title, abstract content, and figure captions.
 2. **Structure Understanding**: It identifies different sections of the paper, such as the abstract and figures, demonstrating an understanding of scientific paper structure.
