@@ -1,31 +1,18 @@
 {
   "main": {
-    "id": "116c9c63bc5b85c6",
+    "id": "b2bb22c1ac7ba6cc",
     "type": "split",
     "children": [
       {
-        "id": "da0130edbdfbbd1a",
+        "id": "24fa74b5b635ad83",
         "type": "tabs",
         "children": [
           {
-            "id": "45c82ec24e8a22cb",
+            "id": "5b670fb991c2f2e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87642e0cb9e295e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Week 5/NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models.md",
                 "file": "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
                 "mode": "source",
                 "source": false
@@ -57,23 +44,21 @@
             }
           }
         ],
-        "currentTab": 1
-        ],
         "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3c0a6d0867f544e8",
+    "id": "3c060475ed67e2ac",
     "type": "split",
     "children": [
       {
-        "id": "a2b72ffcf57409bc",
+        "id": "454c3cb742b7bb9d",
         "type": "tabs",
         "children": [
           {
-            "id": "b6fe713a15fa225f",
+            "id": "b2a99cec1e3f006f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,7 +68,7 @@
             }
           },
           {
-            "id": "302110b9b1cd1835",
+            "id": "6c407348118a893b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -98,7 +83,7 @@
             }
           },
           {
-            "id": "703685cffe6a22b3",
+            "id": "71aa4c6807af2116",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -112,20 +97,19 @@
     "width": 300
   },
   "right": {
-    "id": "1ca683ab7a7e3ea9",
+    "id": "e65ba5079b55109f",
     "type": "split",
     "children": [
       {
-        "id": "0b18a6f9a248eb92",
+        "id": "c92a264277eab817",
         "type": "tabs",
         "children": [
           {
-            "id": "a4af5b15d8075f99",
+            "id": "98d7e5caf4851969",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 5/NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models.md",
                 "file": "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -138,12 +122,11 @@
             }
           },
           {
-            "id": "27f7acd45d70dc1b",
+            "id": "821b76907e0ec027",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 5/NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models.md",
                 "file": "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -151,7 +134,7 @@
             }
           },
           {
-            "id": "7985fa1b2b4424e7",
+            "id": "8e842e86d9c6ed28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,12 +145,11 @@
             }
           },
           {
-            "id": "19c8e156cf93f247",
+            "id": "95cd573d31a779d0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 5/NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models.md"
                 "file": "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md"
               }
             }
@@ -189,16 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87642e0cb9e295e",
   "active": "f3fd423478e8caa2",
   "lastOpenFiles": [
     "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
     "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
+    "conflict-files-obsidian-git.md",
+    "tools/Week 5/Introduction to NousResearch’s Hermes 3.md",
+    "tools/Week 5/Introducing GPT-4o Mini The Future of Lightweight AI Models.md",
+    "models/The Ultimate FLUX.1 Hands-On Guide From Beginner to Advanced with LoRA and ControlNet.md",
+    "img/gpt-website4.jpg",
+    "img/gpt-website3.jpg",
+    "img/gpt-website2.jpg",
+    "img/gpt-website1.png",
+    "img/gpt-q2-4omini.png",
+    "img/gpt-q2-4o.png",
+    "img/gpt-q1-4omini.png",
+    "img/gpt-q1-4o.png",
+    "img/gpt-benchmarks.png",
+    "img/gpt-avatar.png",
     "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
     "models/claude-llama-gpt-comparison.md",
     "models/Week 4/what-is-DETR.md",
     "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
-    "conflict-files-obsidian-git.md",
     "tools/Week 5/What is Cursor.md",
     "tools/Week 5/NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models.md",
     "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
@@ -217,46 +211,7 @@
     "linkedin/Week 5/Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding.md",
     "linkedin/Week 5/Challenging AI Inferring Causality with Vision Large Language Models.md",
     "linkedin/Week 5",
-    "img/mamba-output.png",
-    "img/mamba-compare.png",
-    "img/mamba-api2.png",
-    "img/mamba-api1.png",
-    "img/Hermes3quiz.png",
-    "img/Hermes3outputmaths.png",
-    "img/Hermes3output.png",
-    "img/Hermes3mathsoutput.png",
-    "img/Hermes3evaluations.png",
-    "img/Hermes3evaluation.png",
-    "img/Hermes3.png",
-    "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
-    "tools/What is Cursor.md",
-    "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
-    "linkedin/Week 5/KIND-Knowledge Integration and Diversion in Diffusion Models.md",
-    "img/mamba-output.png",
-    "linkedin/Week 5/DifuzCam Enhancing Lensless Imaging with Diffusion Models.md",
-    "linkedin/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
-    "linkedin/KIND-Knowledge Integration and Diversion in Diffusion Models.md",
-    "img/mamba output.png",
-    "img/mamba-api2.png",
-    "tools/Week 4/Qwen2 - Alibaba's New Powerhouse Multimodal AI.md",
-    "linkedin/Week 5/Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding.md",
-    "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md",
-    "linkedin/Week 5/LLM4DSR - Leveraing Large Language Model for Denoising Sequential Recommendation.md",
-    "linkedin/Week 5/Instruct Large Language Models to Generate Scientific Literature Survey Step by Step.md",
-    "linkedin/Week 4/Hybrid diffusion models- combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models.md",
-    "tools/Week 4/Microsoft LLMLingua - Advanced Prompt Compression for Faster, Cost-Effective AI.md",
-    "models/Week 4/what-is-DETR.md",
     "models/Week 4",
-    "models/Week 4/LLava-Advancing-Image-Recognition-with-Enhanced-AI-Models.md",
-    "models/Week 4/How to use Deep Live Cam Real-Time Face Swap and One-Click Video Deepfake with a Single Image.md",
-    "linkedin/Week 4/Img-diff-contrastive-data-synthesis-for-multimodal-large-language-models.md",
-    "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
-    "tools/Week 4/What is TinyLlama.md",
-    "tools/Week 3/how-to-use-Stability-AI-API.md",
-    "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
-    "models/what-is-DETR.md",
-    "tools/Week 4"
-    "models/LLava-Advancing-Image-Recognition-with-Enhanced-AI-Models.md",
     "tools/Week 4",
     "linkedin/Week 4",
     "tools/Week 3",
