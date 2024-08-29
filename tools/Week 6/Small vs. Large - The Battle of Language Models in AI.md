@@ -1,5 +1,5 @@
 
-![SLM-LLM_intro](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/slm-llm-intro.png)
+![SLM-LLM_intro](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/slm-llm-intro.jpg)
 
 <div align="center" ><i>Source : mage.space , Prompt Provided : 'Small sized brain vs Large sized brain in a boxing ring'</i></div>
 
@@ -75,7 +75,7 @@ LLMs offer sophisticated fine-tuning capabilities, allowing them to be tailored 
 # The Trade-Offs: Balancing Act
 
 
-![SLM-LLM_man](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/slm-llm-man.png)
+![SLM-LLM_man](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/slm-llm-man.jpg)
 
 <div align="center" ><i>Source : mage.space , Prompt Provided : 'Man thinking in front of a computer'</i></div>
 
