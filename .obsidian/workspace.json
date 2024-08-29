@@ -11,8 +11,24 @@
             "id": "f87e1f60f82077f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f6fb542f28c6936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
+                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
+                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md"
+                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md"
               }
             }
           }
@@ -142,10 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4624ba648bfff988",
+  "active": "f87e1f60f82077f3",
   "lastOpenFiles": [
-    "linkedin/Week 6/COMPARATIVE ANALYSIS OF GENERATIVE MODELS - ENHANCING IMAGE SYNTHESIS WITH VAES, GANS, AND STABLE DIFFUSION.md",
+    "img/slm-llm-man.jpg",
+    "img/slm-llm-man.jpg.crdownload",
+    "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
+    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+    "img/slm-llm-intro.jpg",
+    "img/slm-llm-intro.jpg.crdownload",
     "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
+    "tools/Week 6",
+    "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
+    "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
+    "linkedin/Week 6/COMPARATIVE ANALYSIS OF GENERATIVE MODELS - ENHANCING IMAGE SYNTHESIS WITH VAES, GANS, AND STABLE DIFFUSION.md",
     "linkedin/Week 5/Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding.md"
   ]
 }
