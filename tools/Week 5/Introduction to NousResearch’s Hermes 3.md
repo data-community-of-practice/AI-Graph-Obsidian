@@ -1,4 +1,4 @@
-# Introduction toNousResearch’s Hermes 3 
+# Introduction to NousResearch’s Hermes 3 
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Hermes3.png)
 <div align="center"><small>Hermes 3 by NousResearch <a href="https://nousresearch.com/hermes3/" target="_blank">Source</a></small></div>
