@@ -10,7 +10,6 @@ Multimodal AI is an interdisciplinary field that combines different modalities o
 For example, GPT-4, an advanced multimodal model, can process text and images simultaneously to provide a more nuanced response to user inputs, such as generating a description from an image or understanding context better through combined modalities. But what makes multimodal AI unique is the ability to combine and fuse the outputs from these different models.
 
 There are three primary components:
-
 - **Input modules:** These are unimodal neural networks that individually receive and process different types of data, such as text, audio, and images.
 - **Fusion modules:** These modules extract relevant information from each modality, integrating and aligning the data to pinpoint the most significant details.
 - **Output modules:** These modules generate the final result, decision, or prediction for the user based on the data that has been processed and integrated earlier in the system.
