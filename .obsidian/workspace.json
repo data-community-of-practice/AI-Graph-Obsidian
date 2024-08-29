@@ -1,96 +1,64 @@
 {
   "main": {
     "id": "b2bb22c1ac7ba6cc",
-    "id": "5e77ca4f9d61c63a",
     "type": "split",
     "children": [
       {
-        "id": "24fa74b5b635ad83",
-        "id": "e2a2a72addcadcb9",
+        "id": "294654c42bff7b04",
         "type": "tabs",
         "children": [
           {
-            "id": "5b670fb991c2f2e0",
-            "id": "f87e1f60f82077f3",
+            "id": "52c32fe36ce4b86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+                "file": "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6f6fb542f28c6936",
+            "id": "b0aa67f1e9faa9f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
+                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "46c2e89af29c2a86",
+            "id": "8e5bccde1b2f465a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3fd423478e8caa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
-                "file": "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0dcc262e1ddf149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "models/Mistral-Nemo-GPT4-Llama.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
     "id": "3c060475ed67e2ac",
-    "id": "0cba1149566df688",
     "type": "split",
     "children": [
       {
         "id": "454c3cb742b7bb9d",
-        "id": "20e748aa31bc5717",
         "type": "tabs",
         "children": [
           {
             "id": "b2a99cec1e3f006f",
-            "id": "4624ba648bfff988",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -101,7 +69,6 @@
           },
           {
             "id": "6c407348118a893b",
-            "id": "eb92f20780b21f9a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -117,7 +84,6 @@
           },
           {
             "id": "71aa4c6807af2116",
-            "id": "82833e44b6219ed1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -132,23 +98,19 @@
   },
   "right": {
     "id": "e65ba5079b55109f",
-    "id": "44bb491aa7b672ac",
     "type": "split",
     "children": [
       {
         "id": "c92a264277eab817",
-        "id": "5997eb3156153fab",
         "type": "tabs",
         "children": [
           {
             "id": "98d7e5caf4851969",
-            "id": "355d697a3e52b572",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
-                "file": "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
+                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,13 +123,11 @@
           },
           {
             "id": "821b76907e0ec027",
-            "id": "1b431f42cda1cbdb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
-                "file": "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
+                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +135,6 @@
           },
           {
             "id": "8e842e86d9c6ed28",
-            "id": "24151ac4d745f573",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -187,13 +146,11 @@
           },
           {
             "id": "95cd573d31a779d0",
-            "id": "505b1e61e2e07280",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md"
-                "file": "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md"
+                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md"
               }
             }
           }
@@ -214,19 +171,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87e1f60f82077f3",
-  "active": "f3fd423478e8caa2",
+  "active": "b0aa67f1e9faa9f7",
   "lastOpenFiles": [
+    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
+    "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+    "models/Mistral-Nemo-GPT4-Llama.md",
+    "models/What-is-stable-diffusion-model.md",
+    "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
+    "models/Week 4/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
+    "models/claude-llama-gpt-comparison.md",
+    "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
+    "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
+    "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
+    "conflict-files-obsidian-git.md",
+    "tools/What is Phi3.5 - Working example.md",
     "tools/Week 6/What is Multimodel AI.md",
+    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+    "tools/Week 6",
+    "linkedin/Week 6/Revolutionizing Text-to-Image Synthesis Enhancing User Interaction with Multi-Turn Prompt Generation.md",
+    "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
+    "linkedin/Week 6/Towards Evaluating and Building Versatile Large Language Models for Medicine.md",
+    "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
+    "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
+    "linkedin/Week 6/Empowering Knowledge Engineers Unleashing the Potential of Large Language Models in Knowledge Engineering.md",
+    "linkedin/Week 6/COMPARATIVE ANALYSIS OF GENERATIVE MODELS - ENHANCING IMAGE SYNTHESIS WITH VAES, GANS, AND STABLE DIFFUSION.md",
+    "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
+    "linkedin/Week 6",
+    "img/slm-llm-man.jpg",
+    "img/slm-llm-intro.jpg",
     "img/Unimodel-vs-Multimodal.png",
     "img/Multimodel-Graph.png",
     "img/Multimodel-AI-image.png",
     "img/Multimodal-AI.png",
-    "img/slm-llm-man.jpg",
-    "img/slm-llm-man.jpg.crdownload",
-    "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
-    "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
-    "conflict-files-obsidian-git.md",
     "tools/Week 5/Introduction to NousResearch’s Hermes 3.md",
     "tools/Week 5/Introducing GPT-4o Mini The Future of Lightweight AI Models.md",
     "models/The Ultimate FLUX.1 Hands-On Guide From Beginner to Advanced with LoRA and ControlNet.md",
@@ -234,42 +210,8 @@
     "img/gpt-website3.jpg",
     "img/gpt-website2.jpg",
     "img/gpt-website1.png",
-    "img/gpt-q2-4omini.png",
-    "img/gpt-q2-4o.png",
-    "img/gpt-q1-4omini.png",
-    "img/gpt-q1-4o.png",
-    "img/gpt-benchmarks.png",
-    "img/gpt-avatar.png",
-    "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
-    "models/claude-llama-gpt-comparison.md",
     "models/Week 4/what-is-DETR.md",
-    "linkedin/Week 4/EPPNET-for-explainable-image-classification-via-prototypes.md",
-    "tools/Week 5/What is Cursor.md",
-    "tools/Week 5/NousResearch’s Hermes 3 - A Breakthrough in Generalist Instruct Models.md",
-    "tools/Week 5/Codestral Mamba - Your Lightweight Coding Companion.md",
-    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
-    "img/slm-llm-intro.jpg",
-    "img/slm-llm-intro.jpg.crdownload",
-    "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
-    "tools/Week 6",
-    "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
-    "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
-    "linkedin/Week 6/COMPARATIVE ANALYSIS OF GENERATIVE MODELS - ENHANCING IMAGE SYNTHESIS WITH VAES, GANS, AND STABLE DIFFUSION.md",
-    "linkedin/Week 5/Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding.md"
     "tools/Week 5",
-    "models/Week 4/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
-    "models/Week 4/Llama 3.1 405B vs GPT-4o Which model is better.md",
-    "models/Week 4/LLava-Advancing-Image-Recognition-with-Enhanced-AI-Models.md",
-    "models/Week 4/How to use Deep Live Cam Real-Time Face Swap and One-Click Video Deepfake with a Single Image.md",
-    "linkedin/Week 5/LLM4DSR - Leveraing Large Language Model for Denoising Sequential Recommendation.md",
-    "linkedin/Week 5/KIND-Knowledge Integration and Diversion in Diffusion Models.md",
-    "linkedin/Week 5/Instruct Large Language Models to Generate Scientific Literature Survey Step by Step.md",
-    "linkedin/Week 5/DifuzCam Enhancing Lensless Imaging with Diffusion Models.md",
-    "linkedin/Week 5/Enhancing Large Language Models with Human-Inspired Learning in Medical Question Answering.md",
-    "linkedin/Week 5/Implications of mappings between ICD clinical diagnosis codes and Human Phenotype Ontology terms.md",
-    "linkedin/Week 5/Enhancing LLMs' Understanding of Symbolic Graphics Programs.md",
-    "linkedin/Week 5/Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding.md",
-    "linkedin/Week 5/Challenging AI Inferring Causality with Vision Large Language Models.md",
     "linkedin/Week 5",
     "models/Week 4",
     "tools/Week 4",
