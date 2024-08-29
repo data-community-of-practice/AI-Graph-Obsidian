@@ -1,6 +1,6 @@
 # What is Multimodal AI?
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img//Users/tohfasiddikabarbhuiya/Downloads/Multimodel-AI-image.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Multimodel-AI-image.png)
 <div align="center"><small>Multimodel AI<a href="https://ideausher.com/blog/what-are-multimodal-model-ai/" target="_blank">Source</a></small></div>
 
 ## Author  
@@ -10,7 +10,7 @@
 
 Multimodal AI is revolutionizing the way businesses interpret and utilize data by integrating multiple forms of information—such as text, audio, and visual input—to create more nuanced and effective AI solutions. At its core, multimodal AI works by combining these different data types to provide a holistic understanding of a given context, making it far superior to unimodal AI, which relies on a single data type. The benefits of multimodal AI are substantial; companies can unlock insights across diverse datasets, enhancing decision-making and driving innovation in various fields, from healthcare to marketing. For instance, healthcare applications of multimodal AI can analyze patient records and imaging data simultaneously, leading to improved diagnostics. However, implementing multimodal AI comes with its challenges, including the need for robust data infrastructure and advanced algorithms that can handle complex integrations. Organizations looking to leverage multimodal AI can explore various top tools and platforms and consider custom development solutions to fit their specific needs. Ultimately, with the right strategies and support, businesses can effectively harness the power of multimodal AI to gain a competitive edge in today's data-driven landscape.
 
-## What is Multimodal AI?
+## Multimodal AI in depth
 
 Multimodal AI is an interdisciplinary field that combines different modalities of data—text, image, audio, and video—to build AI systems capable of understanding and generating content across these formats. Unlike unimodal AI, which focuses on a single type of data, multimodal AI enables a more human-like interaction by leveraging multiple data types, much like how humans use their senses to perceive the world.
 For example, GPT-4, an advanced multimodal model, can process text and images simultaneously to provide a more nuanced response to user inputs, such as generating a description from an image or understanding context better through combined modalities. But what makes multimodal AI unique is the ability to combine and fuse the outputs from these different models.
