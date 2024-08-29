@@ -1,5 +1,11 @@
 # What is Multimodal AI?
 
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img//Users/tohfasiddikabarbhuiya/Downloads/Multimodel-AI-image.png)
+<div align="center"><small>Multimodel AI<a href="https://ideausher.com/blog/what-are-multimodal-model-ai/" target="_blank">Source</a></small></div>
+
+## Author  
+- Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))
+
 ## Introduction
 
 Multimodal AI is revolutionizing the way businesses interpret and utilize data by integrating multiple forms of information—such as text, audio, and visual input—to create more nuanced and effective AI solutions. At its core, multimodal AI works by combining these different data types to provide a holistic understanding of a given context, making it far superior to unimodal AI, which relies on a single data type. The benefits of multimodal AI are substantial; companies can unlock insights across diverse datasets, enhancing decision-making and driving innovation in various fields, from healthcare to marketing. For instance, healthcare applications of multimodal AI can analyze patient records and imaging data simultaneously, leading to improved diagnostics. However, implementing multimodal AI comes with its challenges, including the need for robust data infrastructure and advanced algorithms that can handle complex integrations. Organizations looking to leverage multimodal AI can explore various top tools and platforms and consider custom development solutions to fit their specific needs. Ultimately, with the right strategies and support, businesses can effectively harness the power of multimodal AI to gain a competitive edge in today's data-driven landscape.
@@ -15,7 +21,8 @@ There are three primary components:
 - **Output modules:** These modules generate the final result, decision, or prediction for the user based on the data that has been processed and integrated earlier in the system.
 
 The main multimodal fusion component merges information from various inputs, addressing any conflicts or ambiguities to create a cohesive multimodal output. This fusion component can integrate data from different modalities using methods like deep learning neural networks or rule-based systems. It can also utilize contextual information to better interpret the user’s intent, resulting in more accurate and coherent responses.
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Multimodel-AI.png)
+
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Multimodal-AI.png)
 <div align="center"><small>Workflow of Multimodal AI.<a href="https://www.neurons-lab.com/article/multimodal-ai-use-cases-the-next-opportunity-in-enterprise-ai/" target="_blank">Source</a></small></div>
 
 ## Core Concepts of Multimodal AI
@@ -26,7 +33,8 @@ To create a comprehensive and accurate understanding of different types of data,
 - **Mid fusion:** This method combines different modalities at various preprocessing stages by incorporating special layers in the neural network specifically designed for data fusion.
 - **Late fusion:** This approach uses separate models to process each modality and then combines their outputs in a new algorithmic layer.
 There isn’t a one-size-fits-all data fusion technique for every scenario. The choice of technique depends on the specific multimodal task, often requiring experimentation to identify the most effective AI pipeline.
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Unimodel-vs-Multimodel.png)
+
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Unimodel-vs-Multimodal.png)
 <div align="center"><small>Unimodal vs Multimodal AI.<a href="https://www.datacamp.com/blog/what-is-multimodal-ai" target="_blank">Source</a></small></div>
 
 ## The Role of Large Language Models in Multimodal AI
