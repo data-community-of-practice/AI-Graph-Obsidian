@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+                "file": "models/Mistral-Nemo-GPT4-Llama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+                "file": "models/Mistral-Nemo-GPT4-Llama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md"
+                "file": "models/Mistral-Nemo-GPT4-Llama.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0aa67f1e9faa9f7",
+  "active": "8e5bccde1b2f465a",
   "lastOpenFiles": [
+    "models/What-is-stable-diffusion-model.md",
+    "models/Mistral-Nemo-GPT4-Llama.md",
     "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
     "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
-    "models/Mistral-Nemo-GPT4-Llama.md",
-    "models/What-is-stable-diffusion-model.md",
     "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
     "models/Week 4/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
     "models/claude-llama-gpt-comparison.md",

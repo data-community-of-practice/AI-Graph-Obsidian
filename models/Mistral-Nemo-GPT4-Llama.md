@@ -3,6 +3,11 @@
 ![gpt4](https://i.imgur.com/bWSK6Sy.png)![llama](https://i.imgur.com/b23Az5W.png)![mistral-nemo](https://i.imgur.com/Woe7ryL.png)
 <div  align="center"><i>GPT4, Llama and Mistral Nemo logos</i></div>
 
+
+## Author
+
+* Aditya Iyengar (ORCID: [0009-0005-1959-9724](https://orcid.org/0009-0005-1959-9724))
+
 ## Introduction
 
 The field of AI and natural language processing (NLP) is in a constant state of innovation, with new models being introduced to tackle increasingly complex tasks. Mistral Nemo is one such model, designed to handle large and intricate prompts with high efficiency and accuracy. In this article, we'll compare Mistral Nemo with two of the leading models in the industry: Llama and GPT. We'll examine their performance based on key parameters, focusing on their ability to process complex prompts.
