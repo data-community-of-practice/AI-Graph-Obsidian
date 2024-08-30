@@ -27,13 +27,13 @@ Building upon that foundation, this introduction will explore the differences in
 The provided figures illustrate the performance benchmarks of the Mistral 7B model compared to other popular models, such as LLaMA 2 (7B and 13B), Code LLaMA 7B, and LLaMA 1 34B, across a range of NLP tasks. 
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-3.png)
-<div align="center"><small>Performance Comparison, Retrieved from Mistral AI Website</small></div>
+<div align="center"><small>Performance Comparison, Retrieved from Mistral AI Website</small></div><br>
 
 
 The first figure shows a detailed comparison of these models' accuracies on various benchmarks, including common sense and reasoning (HellaSwag, WinoGrande, PIQA), scientific reasoning (Arc-e, Arc-c), knowledge and QA (NQ, TriviaQA), code understanding (HumanEval, MBPP), and math & logic (MATH, GSM8K). Mistral 7B demonstrates competitive results, particularly excelling in benchmarks like HellaSwag, PIQA, Arc-e, HumanEval, and GSM8K, showing its versatility in different types of tasks.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-2.png)
-<div align="center"><small>Performance Comparison: Mistral 7B vs. LLaMA Models, Retrieved from Mistral AI Website</small></div>
+<div align="center"><small>Performance Comparison: Mistral 7B vs. LLaMA Models, Retrieved from Mistral AI Website</small></div><br>
 
 
 The second figure provides a more aggregated view of the models' performance across broader categories such as MMLU, Knowledge, Reasoning, Comprehension, AGI Eval, Math, BBH, and Code. Mistral 7B consistently outperforms or matches the performance of larger models like LLaMA 2 13B and LLaMA 1 34B in several categories, indicating its efficiency and effectiveness despite having fewer parameters. These results highlight Mistral 7B's strong capabilities across a wide range of NLP tasks and its potential as a preferred choice for various applications due to its balanced performance and efficiency.
@@ -45,7 +45,7 @@ From the figures above, we can see that Mistral 7B significantly outperforms the
 **Question: A train leaves New York traveling at a constant speed of 60 miles per hour. Another train leaves Chicago traveling at a constant speed of 80 miles per hour, heading towards New York. They are 1,600 miles apart. How many hours will it take for the two trains to meet?**
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-4.png)
-<div align="center"><small>A Cartoon Example of This Math Question</small></div>
+<div align="center"><small>A Cartoon Example of This Math Question</small></div><br>
 
 
 It is not hard to determine that the correct answer is **T = 1600 / (60 + 80) = 11.43 hours**. Now, let's see what answers our models will provide.
@@ -66,7 +66,7 @@ The response from the LLaMA 2 7B model demonstrates a highly disorganized mathem
 ### Benchmarks 1
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-7.png)
-<div align="center"><small>Performance Comparison, Retrieved from Mistral AI Website</small></div>
+<div align="center"><small>Performance Comparison, Retrieved from Mistral AI Website</small></div><br>
 
 
 The table shows that Mistral NeMo 12B outperforms other models, such as Gemma 2 9B and LLaMA 3 8B, across various benchmarks, including common sense reasoning (HellaSwag: 83.5%), question answering (TriviaQA: 73.8%), and advanced knowledge (CommonSenseQA: 70.4%). With a much larger context window (128k vs. 8k), Mistral NeMo 12B handles complex tasks more effectively, providing clearer and more accurate responses, making it a superior choice for diverse NLP applications.
@@ -85,7 +85,7 @@ While it is evident that Mistral NeMo often outperforms other competing models i
 **Answer from Mistral NeMo:**
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-9.png)
-<div align="center"><small>Screenshot of the Answer from Terminal</small></div>
+<div align="center"><small>Screenshot of the Answer from Terminal</small></div><br>
 
 When asked to explain "photosynthesis" using an analogy, LLaMA 3 and Mistral NeMo provide noticeably different responses. LLaMA 3's analogy, comparing photosynthesis to a bakery using yeast to rise dough, is confusing and misleading because it inaccurately equates sunlight with yeast and suggests processes that are fundamentally different. This can easily confuse users. In contrast, Mistral NeMo compares photosynthesis to a plant "making its own breakfast," using sunlight, water, and carbon dioxide to produce glucose and oxygen. This analogy is simple and accurate, making the concept easy to understand. Creating effective analogies is more challenging than straightforward explanations, and Mistral NeMo demonstrates a better ability to convey complex ideas clearly.
 
@@ -95,7 +95,7 @@ When asked to explain "photosynthesis" using an analogy, LLaMA 3 and Mistral NeM
 <div align="center"><small>Performance Comparison, Retrieved from Mistral AI Website</small></div>
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-11.png)
-<div align="center"><small>Tekken Compression Rate, Retrieved from Mistral AI Website</small></div>
+<div align="center"><small>Tekken Compression Rate, Retrieved from Mistral AI Website</small></div><br>
 
 The first chart shows that Mistral NeMo 12B consistently outperforms LLaMA 3 8B across various languages in tasks involving common sense reasoning (HellaSwag), scientific reasoning (Arc Challenge), and multitask knowledge evaluation (MMLU). This highlights Mistral NeMo's superior multilingual capabilities. The second chart further supports this by illustrating Mistral NeMo's effective compression ratio across different languages, maintaining a low ratio for many, indicating efficient processing and understanding. These results demonstrate Mistral NeMo's strong ability to handle diverse languages effectively.
 
@@ -116,7 +116,7 @@ Referring to the second chart (Tekken Compression Rate), which shows languages a
 **Answer in Japanese:**
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-14.png)
-<div align="center"><small>Screenshot of the Answer from Terminal</small></div>
+<div align="center"><small>Screenshot of the Answer from Terminal</small></div><br>
 
 Comparing the responses in these three languages, the quality of the answers in Chinese and Spanish is relatively good. However, the quality in Japanese is notably lower, with a mix of Japanese and English appearing in the answers. This observation highlights that **the model does not perform well across all languages**, so it's important to choose languages that Mistral NeMo excels at when using it for multilingual tasks.
 
@@ -136,7 +136,7 @@ Here, we use a prompt: "Write a Python Tetris game," and have both ChatGPT-4o an
 **Responses from ChatGPT-4o (left) and Mistral Large (right):**
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-16.png)]]
-<div align="center"><small>Tetris games made by ChatGPT-4o and Mistral Large 2</small></div>
+<div align="center"><small>Tetris games made by ChatGPT-4o and Mistral Large 2</small></div><br>
 
 Comparing the Tetris games generated by ChatGPT-4o and Mistral Large, both models deliver visually similar outputs, with Mistral Large's UI even appearing slightly more polished. This comparison highlights a key point: Mistral Large, an open-source and freely available model, can achieve results on par with commercial software like ChatGPT. This makes it an excellent choice for developers looking for powerful, cost-effective AI tools without sacrificing quality. The fact that Mistral Large is both accessible and capable showcases its potential as a strong alternative in the AI development landscape, providing robust solutions for coding and other tasks.
 
@@ -214,7 +214,7 @@ async def main(message: cl.Message):
 Here’s what our demo looks like
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-17.png)
-<div align="center"><small>Your Personal AI-Assistant</small></div>
+<div align="center"><small>Your Personal AI-Assistant</small></div><br>
 
 
 The implementation of this personal AI assistant reminds me of JARVIS from Iron Man. With the rapid advancement of technology, we may soon be able to run highly sophisticated models on portable devices like smartphones. At that point, AI could handle many daily tasks or provide valuable suggestions, allowing humans to focus more on decision-making rather than execution. Imagine a world where everyone has their own powerful, offline AI companion, seamlessly integrating into daily life—whether for work, creativity, or personal growth. This future could redefine productivity, enabling us to leverage AI's potential to its fullest and transform the way we live and work.
