@@ -70,3 +70,11 @@ The choice between these models ultimately depends on the specific needs of the 
 ## Final Thoughts
 
 As AI continues to advance, models like Mistral Nemo, Llama, and GPT-4 Turbo will likely evolve further, pushing the boundaries of what's possible in AI-driven text generation. With ongoing innovations, the future of NLP looks brighter than ever, with even more powerful tools on the horizon.
+
+## References
+
+- NVIDIA. Mistral-NeMo-12B-Base [Online]. Available at: [https://huggingface.co/nvidia/Mistral-NeMo-12B-Base](https://huggingface.co/nvidia/Mistral-NeMo-12B-Base).
+
+- Meta AI. Large Language Model - LLaMA - Meta AI [Online]. Available at: [https://ai.meta.com/blog/large-language-model-llama-meta-ai/](https://ai.meta.com/blog/large-language-model-llama-meta-ai/).
+
+- KDnuggets. Details on GPT-4 Leaked [Online]. Available at: [https://www.kdnuggets.com/2023/07/gpt4-details-leaked.html#:~:text=It%20is%20stated%20that%20GPT,epochs%20for%20code%2Dbased%20data](https://www.kdnuggets.com/2023/07/gpt4-details-leaked.html#:~:text=It%20is%20stated%20that%20GPT,epochs%20for%20code%2Dbased%20data).

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
+                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,18 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "models/Mistral-Nemo-GPT4-Llama.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31fc05dad07ec11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
                 "file": "models/Mistral-Nemo-GPT4-Llama.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -140,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
                 "file": "models/Mistral-Nemo-GPT4-Llama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -164,7 +150,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/What-is-stable-diffusion-model.md"
                 "file": "models/Mistral-Nemo-GPT4-Llama.md"
               }
             }
@@ -188,7 +173,14 @@
   },
   "active": "8e5bccde1b2f465a",
   "lastOpenFiles": [
+    "models/claude-llama-gpt-comparison.md",
+    "models/What-is-stable-diffusion-model.md",
+    "models/Mistral-Nemo-GPT4-Llama.md",
+    "conflict-files-obsidian-git.md",
+    "tools/Week 6/What is Phi3.5 - Working example.md",
     "tools/Week 6/Mistral Models vs. Competitors A Performance Showdown Across NLP, Code, and Multilingual Tasks.md",
+    "linkedin/Week 6/Unlearning Trojans in Large Language Models.md",
+    "linkedin/Week 6/FRAP Improving Text-to-Image Faithfulness with Adaptive Prompt Weighting.md",
     "img/MistralExtention-9.png",
     "img/MistralExtention-8.png",
     "img/MistralExtention-7.png",
@@ -199,23 +191,16 @@
     "img/MistralExtention-2.png",
     "img/MistralExtention-17.png",
     "img/MistralExtention-16.png",
-    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
-    "tools/Week 6/What is Multimodel AI.md",
-    "tools/Week 6/What is Phi3.5 - Working example.md",
-    "models/What-is-stable-diffusion-model.md",
-    "models/Mistral-Nemo-GPT4-Llama.md",
     "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
     "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
-    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
-    "models/Mistral-Nemo-GPT4-Llama.md",
-    "models/What-is-stable-diffusion-model.md",
     "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
     "models/Week 4/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
-    "models/claude-llama-gpt-comparison.md",
     "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
     "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
     "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
-    "conflict-files-obsidian-git.md",
+    "tools/What is Phi3.5 - Working example.md",
+    "tools/Week 6/What is Multimodel AI.md",
+    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
     "tools/Week 6",
     "linkedin/Week 6/Revolutionizing Text-to-Image Synthesis Enhancing User Interaction with Multi-Turn Prompt Generation.md",
     "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
@@ -226,9 +211,6 @@
     "linkedin/Week 6/COMPARATIVE ANALYSIS OF GENERATIVE MODELS - ENHANCING IMAGE SYNTHESIS WITH VAES, GANS, AND STABLE DIFFUSION.md",
     "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
     "linkedin/Week 6",
-    "tools/Week 5/Introduction to NousResearch’s Hermes 3.md",
-    "tools/Week 5/Introducing GPT-4o Mini The Future of Lightweight AI Models.md",
-    "models/The Ultimate FLUX.1 Hands-On Guide From Beginner to Advanced with LoRA and ControlNet.md",
     "tools/Week 5",
     "linkedin/Week 5",
     "models/Week 4",
