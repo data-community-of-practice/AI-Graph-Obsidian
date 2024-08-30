@@ -29,10 +29,12 @@ The provided figures illustrate the performance benchmarks of the Mistral 7B mod
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-3.png)
 <div align="center"><small>Performance Comparison, Retrieved from Mistral AI Website</small></div>
 
+
 The first figure shows a detailed comparison of these models' accuracies on various benchmarks, including common sense and reasoning (HellaSwag, WinoGrande, PIQA), scientific reasoning (Arc-e, Arc-c), knowledge and QA (NQ, TriviaQA), code understanding (HumanEval, MBPP), and math & logic (MATH, GSM8K). Mistral 7B demonstrates competitive results, particularly excelling in benchmarks like HellaSwag, PIQA, Arc-e, HumanEval, and GSM8K, showing its versatility in different types of tasks.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-2.png)
 <div align="center"><small>Performance Comparison: Mistral 7B vs. LLaMA Models, Retrieved from Mistral AI Website</small></div>
+
 
 The second figure provides a more aggregated view of the models' performance across broader categories such as MMLU, Knowledge, Reasoning, Comprehension, AGI Eval, Math, BBH, and Code. Mistral 7B consistently outperforms or matches the performance of larger models like LLaMA 2 13B and LLaMA 1 34B in several categories, indicating its efficiency and effectiveness despite having fewer parameters. These results highlight Mistral 7B's strong capabilities across a wide range of NLP tasks and its potential as a preferred choice for various applications due to its balanced performance and efficiency.
 
@@ -44,6 +46,7 @@ From the figures above, we can see that Mistral 7B significantly outperforms the
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-4.png)
 <div align="center"><small>A Cartoon Example of This Math Question</small></div>
+
 
 It is not hard to determine that the correct answer is **T = 1600 / (60 + 80) = 11.43 hours**. Now, let's see what answers our models will provide.
 
@@ -64,6 +67,7 @@ The response from the LLaMA 2 7B model demonstrates a highly disorganized mathem
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-7.png)
 <div align="center"><small>Performance Comparison, Retrieved from Mistral AI Website</small></div>
+
 
 The table shows that Mistral NeMo 12B outperforms other models, such as Gemma 2 9B and LLaMA 3 8B, across various benchmarks, including common sense reasoning (HellaSwag: 83.5%), question answering (TriviaQA: 73.8%), and advanced knowledge (CommonSenseQA: 70.4%). With a much larger context window (128k vs. 8k), Mistral NeMo 12B handles complex tasks more effectively, providing clearer and more accurate responses, making it a superior choice for diverse NLP applications.
 
@@ -211,6 +215,7 @@ Here’s what our demo looks like
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/MistralExtention-17.png)
 <div align="center"><small>Your Personal AI-Assistant</small></div>
+
 
 The implementation of this personal AI assistant reminds me of JARVIS from Iron Man. With the rapid advancement of technology, we may soon be able to run highly sophisticated models on portable devices like smartphones. At that point, AI could handle many daily tasks or provide valuable suggestions, allowing humans to focus more on decision-making rather than execution. Imagine a world where everyone has their own powerful, offline AI companion, seamlessly integrating into daily life—whether for work, creativity, or personal growth. This future could redefine productivity, enabling us to leverage AI's potential to its fullest and transform the way we live and work.
 
