@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+                "file": "models/What-is-stable-diffusion-model.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+                "file": "models/What-is-stable-diffusion-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+                "file": "models/What-is-stable-diffusion-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md"
+                "file": "models/What-is-stable-diffusion-model.md"
               }
             }
           }
@@ -173,8 +173,22 @@
   },
   "active": "b0aa67f1e9faa9f7",
   "lastOpenFiles": [
-    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
+    "tools/Week 6/Mistral Models vs. Competitors A Performance Showdown Across NLP, Code, and Multilingual Tasks.md",
+    "img/MistralExtention-9.png",
+    "img/MistralExtention-8.png",
+    "img/MistralExtention-7.png",
+    "img/MistralExtention-6.png",
+    "img/MistralExtention-5.png",
+    "img/MistralExtention-4.png",
+    "img/MistralExtention-3.png",
+    "img/MistralExtention-2.png",
+    "img/MistralExtention-17.png",
+    "img/MistralExtention-16.png",
+    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+    "tools/Week 6/What is Multimodel AI.md",
+    "tools/Week 6/What is Phi3.5 - Working example.md",
     "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
     "models/Mistral-Nemo-GPT4-Llama.md",
     "models/What-is-stable-diffusion-model.md",
     "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
@@ -184,9 +198,6 @@
     "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
     "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
     "conflict-files-obsidian-git.md",
-    "tools/What is Phi3.5 - Working example.md",
-    "tools/Week 6/What is Multimodel AI.md",
-    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
     "tools/Week 6",
     "linkedin/Week 6/Revolutionizing Text-to-Image Synthesis Enhancing User Interaction with Multi-Turn Prompt Generation.md",
     "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
@@ -197,20 +208,9 @@
     "linkedin/Week 6/COMPARATIVE ANALYSIS OF GENERATIVE MODELS - ENHANCING IMAGE SYNTHESIS WITH VAES, GANS, AND STABLE DIFFUSION.md",
     "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
     "linkedin/Week 6",
-    "img/slm-llm-man.jpg",
-    "img/slm-llm-intro.jpg",
-    "img/Unimodel-vs-Multimodal.png",
-    "img/Multimodel-Graph.png",
-    "img/Multimodel-AI-image.png",
-    "img/Multimodal-AI.png",
     "tools/Week 5/Introduction to NousResearch’s Hermes 3.md",
     "tools/Week 5/Introducing GPT-4o Mini The Future of Lightweight AI Models.md",
     "models/The Ultimate FLUX.1 Hands-On Guide From Beginner to Advanced with LoRA and ControlNet.md",
-    "img/gpt-website4.jpg",
-    "img/gpt-website3.jpg",
-    "img/gpt-website2.jpg",
-    "img/gpt-website1.png",
-    "models/Week 4/what-is-DETR.md",
     "tools/Week 5",
     "linkedin/Week 5",
     "models/Week 4",
