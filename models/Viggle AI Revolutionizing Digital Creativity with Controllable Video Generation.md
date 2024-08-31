@@ -24,7 +24,7 @@ You might not be familiar with Viggle AI, but you've probably seen its viral mem
 
 Jesus seems to be cheering on the crowd:
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408312230568.gif)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408312236145.gif)
 
 Viggle initially started from the Discord community and currently has over 4.3 million users. In March, they launched an independent app. The team developed their own JST-1 model, which supports creating more realistic character movements and expressions.
 
