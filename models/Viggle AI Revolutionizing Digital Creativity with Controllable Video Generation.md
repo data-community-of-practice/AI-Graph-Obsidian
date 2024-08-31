@@ -20,7 +20,7 @@ The company's founder and CEO, Chu Hang, is of Chinese descent and has worked at
 
 You might not be familiar with Viggle AI, but you've probably seen its viral memes online. These include the widely circulated meme where rapper Lil Yachty is jumping at a summer music festival, but his face is replaced with Joaquin Phoenix's Joker from the movie "Joker."
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408312230176.gif)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202408312241401.gif)
 
 Jesus seems to be cheering on the crowd:
 
