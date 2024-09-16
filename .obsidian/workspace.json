@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "294654c42bff7b04",
+        "id": "7b9c680b654eb31f",
         "type": "tabs",
         "children": [
           {
-            "id": "52c32fe36ce4b86b",
+            "id": "52e3ce19cdd32bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
+                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0aa67f1e9faa9f7",
+            "id": "dbdd5cf3e04863c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5bccde1b2f465a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "models/Mistral-Nemo-GPT4-Llama.md",
+                "file": "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md"
+                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md"
               }
             }
           }
@@ -171,8 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2a99cec1e3f006f",
+  "active": "52e3ce19cdd32bbe",
   "lastOpenFiles": [
+    "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
+    "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
+    "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
+    "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
+    "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
+    "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
+    "linkedin/Week 6/Unlearning Trojans in Large Language Models.md",
+    "linkedin/Week 6/Towards Evaluating and Building Versatile Large Language Models for Medicine.md",
+    "linkedin/Week 6/Revolutionizing Text-to-Image Synthesis Enhancing User Interaction with Multi-Turn Prompt Generation.md",
+    "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
     "linkedin/Week 7",
     "tools/Week 6/What is Phi3.5 - Working example.md",
     "tools/Week 6/Mistral Models vs. Competitors A Performance Showdown Across NLP, Code, and Multilingual Tasks.md",
@@ -188,7 +185,6 @@
     "img/MistralExtention-17.png",
     "img/MistralExtention-16.png",
     "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
-    "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
     "models/Mistral-Nemo-GPT4-Llama.md",
     "models/What-is-stable-diffusion-model.md",
     "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
@@ -202,14 +198,6 @@
     "tools/Week 6/What is Multimodel AI.md",
     "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
     "tools/Week 6",
-    "linkedin/Week 6/Revolutionizing Text-to-Image Synthesis Enhancing User Interaction with Multi-Turn Prompt Generation.md",
-    "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
-    "linkedin/Week 6/Towards Evaluating and Building Versatile Large Language Models for Medicine.md",
-    "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
-    "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
-    "linkedin/Week 6/Empowering Knowledge Engineers Unleashing the Potential of Large Language Models in Knowledge Engineering.md",
-    "linkedin/Week 6/COMPARATIVE ANALYSIS OF GENERATIVE MODELS - ENHANCING IMAGE SYNTHESIS WITH VAES, GANS, AND STABLE DIFFUSION.md",
-    "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
     "linkedin/Week 6",
     "tools/Week 5",
     "linkedin/Week 5",
@@ -217,7 +205,6 @@
     "tools/Week 4",
     "linkedin/Week 4",
     "tools/Week 3",
-    "linkedin/Week 3",
-    "tools/Week 2"
+    "linkedin/Week 3"
   ]
 }
