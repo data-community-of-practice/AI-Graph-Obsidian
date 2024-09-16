@@ -1,0 +1,15 @@
+Securing Autonomous Vision: A Holistic Approach to Image Processing Pipeline Security
+
+📌 Autonomous vehicles rely heavily on camera systems for perception and decision-making, but the complex image processing pipeline in these systems can be vulnerable to various security threats. This comprehensive Systematization of Knowledge (SoK) paper bridges the gap between security and robustness research in automotive image processing pipelines, offering a holistic view of potential attacks, defense mechanisms, and areas for improvement across all layers of the pipeline - from the physical world to the final application layer.
+
+Article Link: https://arxiv.org/abs/2409.01234
+
+🔹 The image processing pipeline in autonomous vehicles is complex and multi-layered, spanning from physical world interactions to high-level computer vision algorithms. This complexity introduces numerous potential vulnerabilities across different layers, yet existing security research often focuses narrowly on specific components or layers, overlooking the interconnected nature of the entire pipeline. This fragmented approach leaves gaps in our understanding of system-wide security risks and countermeasures.
+
+🔹 This SoK paper introduces a comprehensive framework for analyzing security and robustness across the entire image processing pipeline. It systematically classifies existing research using the ISO 21434 automotive security standard, bridging the gap between security and robustness studies. The paper also proposes an open-source embedded testbed that allows researchers to manipulate parameters across all pipeline layers, facilitating the development and testing of both attacks and countermeasures in a realistic setting.
+
+🔹 The study reveals that while many attacks target the physical world or application layer, the sensor and data preparation layers are often overlooked yet vulnerable. It also highlights that robustness-related research can potentially mitigate various security threats, such as using High Dynamic Range (HDR) imaging to counter blinding attacks. The paper identifies critical research gaps, including the need for specific countermeasures against specialized attacks and the importance of considering security implications in new robustness-related work.
+
+🔹 This research provides a foundation for integrating security and robustness in autonomous vehicle vision systems. Future work should address identified gaps, particularly countering specialized attacks on specific pipeline components. As the technology evolves, maintaining a holistic view of the entire image processing pipeline will be crucial for both performance and security.
+
+Kühr, M., Hamad, M., MohajerAnsari, P., Pesé, M. D., & Steinhorst, S. (2024). SoK: Security of the Image Processing Pipeline in Autonomous Vehicles. arXiv. DOI: 10.48550/ARXIV.2409.01234
