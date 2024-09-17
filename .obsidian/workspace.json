@@ -11,8 +11,24 @@
             "id": "3fcb572ddd56db91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64d1116d07926662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md"
+              }
             }
           }
         ]
@@ -140,6 +160,9 @@
   },
   "active": "3fcb572ddd56db91",
   "lastOpenFiles": [
+    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+    "img/math-intro.png",
     "tools/Week 7",
     "linkedin/Week 7/SoK-Security of the Image Processing Pipeline in Autonomous Vehicles.md",
     "linkedin/Week 7/Securing AI Addressing Bias, Misinformation, and Vulnerabilities in Large Language Models.md",
@@ -168,7 +191,6 @@
     "img/MistralExtention-3.png",
     "img/MistralExtention-2.png",
     "img/MistralExtention-17.png",
-    "img/MistralExtention-16.png",
     "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
     "models/Mistral-Nemo-GPT4-Llama.md",
     "models/What-is-stable-diffusion-model.md",
@@ -176,7 +198,6 @@
     "models/Week 4/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
     "models/claude-llama-gpt-comparison.md",
     "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
-    "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
     "tools/Week 6",
     "linkedin/Week 6",
     "tools/Week 5",
@@ -184,7 +205,6 @@
     "models/Week 4",
     "tools/Week 4",
     "linkedin/Week 4",
-    "tools/Week 3",
-    "linkedin/Week 3"
+    "tools/Week 3"
   ]
 }
