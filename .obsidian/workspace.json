@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9c680b654eb31f",
+        "id": "f5eab28853a40d42",
         "type": "tabs",
         "children": [
           {
-            "id": "52e3ce19cdd32bbe",
+            "id": "3fcb572ddd56db91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbdd5cf3e04863c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52e3ce19cdd32bbe",
+  "active": "3fcb572ddd56db91",
   "lastOpenFiles": [
+    "linkedin/Week 7/SoK-Security of the Image Processing Pipeline in Autonomous Vehicles.md",
+    "linkedin/Week 7/Securing AI Addressing Bias, Misinformation, and Vulnerabilities in Large Language Models.md",
+    "linkedin/Week 7/Revolutionizing Privacy-Preserving Image Processing with iCHEETAH.md",
+    "linkedin/Week 7/Large Language Models are Pattern Matchers - Editing Semi-Structured and Structured Documents with ChatGPT.md",
     "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
     "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
     "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
@@ -193,10 +177,6 @@
     "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
     "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
     "linkedin/Week 5/When-Video-Coding-Meets-Multimodal-Large-Language Models-A-Unified-Paradigm-for-Video-Coding.md",
-    "conflict-files-obsidian-git.md",
-    "tools/What is Phi3.5 - Working example.md",
-    "tools/Week 6/What is Multimodel AI.md",
-    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
     "tools/Week 6",
     "linkedin/Week 6",
     "tools/Week 5",
