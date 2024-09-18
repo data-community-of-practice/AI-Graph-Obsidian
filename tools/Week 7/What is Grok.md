@@ -1,4 +1,4 @@
-# What is Grok
+# What is Grok: Working Examples
 ![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/d8b781fa-a4f0-4f25-5393-ee74653f8700/public)
 <div align="center"><small style="font-size: 16px;">Grok Logo</small></div><br>
 
