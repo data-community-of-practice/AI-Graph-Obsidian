@@ -1,6 +1,6 @@
 # Zed AI Editor : Revolutionising AI-Assisted coding
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed.png)
+![](https://imgur.com/edleGnv.png)
 <div align="center"><small>Zed AI Dev Editor <a href="https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c" target="_blank">Source</a></small></div>
 
 ## Author  
@@ -43,13 +43,13 @@ The impressive speed of Zed can be attributed to two key factors:
 
 Zed can outperform lightweight editors like Sublime Text as shown in this benchmark, and performs nearly twice as fast as VSCode:
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed benchmarks.png)
+![](https://imgur.com/CLSoGga.png)
 <div align="center"><small>Zed benchmark <a href="https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c" target="_blank">Source</a></small></div>
 
 ## World Class developers use Zed
 
 World-class developers and industry-leading teams such as Apple, Vercel, Atlassian, Slack, Gitlab trust and use Zed.
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Users.png)
+![](https://imgur.com/jlCp6YO.png)
 <div align="center"><small>World Class developers use Zed <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 ## Key Features of Zed AI
@@ -74,7 +74,7 @@ Additional noteworthy features of Zed include:
 
 - **Language-awareness**: A complete syntax tree for every buffer, supporting Language Server Protocol (LSP) for accurate code highlighting, powerful autocompletion, and smooth navigation.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Language Support.png)
+![](https://imgur.com/DET1m5m.png)
 <div align="center"><small>Zed Language Support <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 - **Integrated Terminal**: A fully-equipped terminal that provides shell access directly within the editor.
@@ -102,34 +102,34 @@ Zed supports real-time collaboration, with AI-enhanced suggestions visible to al
 
 Zed is fast, built in Rust for optimal CPU and GPU use; intelligent, integrating upcoming LLMs for code generation and analysis; and collaborative, featuring built-in chat, shared notes, and screen/project sharing.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Highlight1.png)
+![](https://imgur.com/YzjqYoF.png)
 <div align="center"><small>Zed is fast, intelligent, collaborative <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 
 Zed is incredibly powerful out of the box, letting you start coding instantly. It supports multibuffer editing to combine excerpts from across the codebase, interactive programming, multi-language environments, a terminal and task runner, and is Vim-friendly.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Highlight2.png)
+![](https://imgur.com/M1wvSRr.png)
 <div align="center"><small>Zed is incredibly powerful out of the box <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 Zed is built by a global community of thousand of developers and is Open Source.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Highlight3.png)
+![](https://imgur.com/3t9DxoQ.png)
 <div align="center"><small>Zed is Open Source <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 Boost your Zed experience by choosing from hundreds of extensions that broaden language support, offer different themes, and more.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Highlight4.png)
+![](https://imgur.com/oNoFo4X.png)
 <div align="center"><small>Zed has growing extension ecosystem <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 Built with ultimate care, Zed's every feature is designed to advance the state of the art. Language Server support integrates with any language server, Outline view allows navigation through a file's symbols, and text and line manipulation ensures smooth and efficient editing.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Highlight5.png)
+![](https://imgur.com/LGfJ6mL.png)
 <div align="center"><small>Zed is built with utmost care <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 
 Zed features a CLI for command-line usage, diagnostics for project-wide errors and warnings, custom snippets to streamline repetitive tasks, split panes for customizing your UI layout, Markdown preview for visualizing document appearance, rename refactoring for project-wide symbol renaming, syntax-aware selections for efficient node selection, and breadcrumbs to view the entire file path.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Highlight6.png)
+![](https://imgur.com/L1UfKXX.png)
 <div align="center"><small>Zed features <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 ## Advantages of Zed AI Over Traditional Code Editors
@@ -145,37 +145,40 @@ Zed features a CLI for command-line usage, diagnostics for project-wide errors a
 
 Download from the <a href="https://zed.dev/" target="_blank">Zed website</a> for macOS or Linux (Windows support coming soon). Utilize Zed’s features such as prompts, inline prompts, CLI prompts, and manage token size to code efficiently in seconds.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Download.png)
+![](https://imgur.com/7H00N6y.png)
 <div align="center"><small>Zed Download</small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Configuration1.png)
+![](https://imgur.com/5LmytvJ.png)
+<div align="center"><small>Zed System Requirements</small></div>
+
+![](https://imgur.com/sld9I87.png)
 <div align="center"><small>Zed Configurations of Anthropic, Github Copilot Chat, Google AI<i>Output of RAG Pipeline created using Google Colab by Tohfa Siddika Barbhuiya.</i></small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Configuration2.png)
+![](https://imgur.com/qeYjuvN.png)
 <div align="center"><small>Zed Configurations of Ollama, OpenAI</small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Languages.png)
+![](https://imgur.com/F4WxWyW.png)
 <div align="center"><small>Zed Languages</small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Inline Assistance.png)
+![](https://imgur.com/8fsfeYm.png)
 <div align="center"><small>Zed Inline Assistance</small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Prompts.png)
+![](https://imgur.com/hQCZdzf.png)
 <div align="center"><small>Zed Prompts</small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Code.png)
+![](https://imgur.com/uwuiNX2.png)
 <div align="center"><small>Zed generated code on user prompt</small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed Inline Prompts.png)
+![](https://imgur.com/QNOkwxX.png)
 <div align="center"><small>Zed Inline Prompts Support</small></div>
 
 ## User Reviews of Zed.dev
 Zed.dev has emerged as a significant tool in the realm of software development, offering features that enhance coding efficiency and collaboration. In an industry driven by constant innovation and connectivity, understanding user experiences can inform developers and project managers in their choice of tools. This section of the article dives deep into user reviews of Zed.dev according to actual users and providing insights into its effectiveness as a collaborative coding solution.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed User Reviews.png)
+![](https://imgur.com/mjEXLxg.png)
 <div align="center"><small>Zed User Reviews<a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/Zed team.png)
+![](https://imgur.com/nvWAkTv.png)
 <div align="center"><small>Zed Team<a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 ## Real-World Use Cases
