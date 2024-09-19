@@ -43,8 +43,12 @@ The impressive speed of Zed can be attributed to two key factors:
 
 Zed can outperform lightweight editors like Sublime Text as shown in this benchmark, and performs nearly twice as fast as VSCode:
 
-![](https://imgur.com/CLSoGga.png)
-<div align="center"><small>Zed benchmark <a href="https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c" target="_blank">Source</a></small></div>
+<p align="center">
+  <img src="https://imgur.com/CLSoGga.png" alt="Zed benchmark" />
+</p>
+<div align="center">
+  <small>Zed benchmark <a href="https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c" target="_blank">Source</a></small>
+</div>
 
 ## World Class developers use Zed
 
@@ -74,8 +78,12 @@ Additional noteworthy features of Zed include:
 
 - **Language-awareness**: A complete syntax tree for every buffer, supporting Language Server Protocol (LSP) for accurate code highlighting, powerful autocompletion, and smooth navigation.
 
-![](https://imgur.com/DET1m5m.png)
-<div align="center"><small>Zed Language Support <a href="https://zed.dev/" target="_blank">Source</a></small></div>
+<p align="center">
+  ![Zed Language Support](https://imgur.com/DET1m5m.png)
+</p>
+<div align="center">
+  <small>Zed Language Support <a href="https://zed.dev/" target="_blank">Source</a></small>
+</div>
 
 - **Integrated Terminal**: A fully-equipped terminal that provides shell access directly within the editor.
 - **Built-in Vim Mode**: VSCode-style keybindings to enhance coding efficiency right from the start.
@@ -152,7 +160,7 @@ Download from the <a href="https://zed.dev/" target="_blank">Zed website</a> for
 <div align="center"><small>Zed System Requirements</small></div>
 
 ![](https://imgur.com/sld9I87.png)
-<div align="center"><small>Zed Configurations of Anthropic, Github Copilot Chat, Google AI<i>Output of RAG Pipeline created using Google Colab by Tohfa Siddika Barbhuiya.</i></small></div>
+<div align="center"><small>Zed Configurations of Anthropic, Github Copilot Chat, Google AI</small></div>
 
 ![](https://imgur.com/qeYjuvN.png)
 <div align="center"><small>Zed Configurations of Ollama, OpenAI</small></div>
