@@ -79,11 +79,12 @@ Additional noteworthy features of Zed include:
 - **Language-awareness**: A complete syntax tree for every buffer, supporting Language Server Protocol (LSP) for accurate code highlighting, powerful autocompletion, and smooth navigation.
 
 <p align="center">
-  ![Zed Language Support](https://imgur.com/DET1m5m.png)
+  <img src="https://imgur.com/DET1m5m.png" alt="Zed Language Support" />
 </p>
 <div align="center">
   <small>Zed Language Support <a href="https://zed.dev/" target="_blank">Source</a></small>
 </div>
+
 
 - **Integrated Terminal**: A fully-equipped terminal that provides shell access directly within the editor.
 - **Built-in Vim Mode**: VSCode-style keybindings to enhance coding efficiency right from the start.
@@ -108,37 +109,45 @@ Zed supports real-time collaboration, with AI-enhanced suggestions visible to al
 
 ## Key Highlights of Zed AI
 
-Zed is fast, built in Rust for optimal CPU and GPU use; intelligent, integrating upcoming LLMs for code generation and analysis; and collaborative, featuring built-in chat, shared notes, and screen/project sharing.
+1. Zed is fast, built in Rust for optimal CPU and GPU use; intelligent, integrating upcoming LLMs for code generation and analysis; and collaborative, featuring built-in chat, shared notes, and screen/project sharing.
 
 ![](https://imgur.com/YzjqYoF.png)
 <div align="center"><small>Zed is fast, intelligent, collaborative <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 
-Zed is incredibly powerful out of the box, letting you start coding instantly. It supports multibuffer editing to combine excerpts from across the codebase, interactive programming, multi-language environments, a terminal and task runner, and is Vim-friendly.
+
+2. Zed is incredibly powerful out of the box, letting you start coding instantly. It supports multibuffer editing to combine excerpts from across the codebase, interactive programming, multi-language environments, a terminal and task runner, and is Vim-friendly.
 
 ![](https://imgur.com/M1wvSRr.png)
 <div align="center"><small>Zed is incredibly powerful out of the box <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
-Zed is built by a global community of thousand of developers and is Open Source.
+
+
+3. Zed is built by a global community of thousand of developers and is Open Source.
 
 ![](https://imgur.com/3t9DxoQ.png)
 <div align="center"><small>Zed is Open Source <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
-Boost your Zed experience by choosing from hundreds of extensions that broaden language support, offer different themes, and more.
+
+
+4. Boost your Zed experience by choosing from hundreds of extensions that broaden language support, offer different themes, and more.
 
 ![](https://imgur.com/oNoFo4X.png)
 <div align="center"><small>Zed has growing extension ecosystem <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
-Built with ultimate care, Zed's every feature is designed to advance the state of the art. Language Server support integrates with any language server, Outline view allows navigation through a file's symbols, and text and line manipulation ensures smooth and efficient editing.
+
+
+5. Built with ultimate care, Zed's every feature is designed to advance the state of the art. Language Server support integrates with any language server, Outline view allows navigation through a file's symbols, and text and line manipulation ensures smooth and efficient editing.
 
 ![](https://imgur.com/LGfJ6mL.png)
 <div align="center"><small>Zed is built with utmost care <a href="https://zed.dev/" target="_blank">Source</a></small></div>
 
 
-Zed features a CLI for command-line usage, diagnostics for project-wide errors and warnings, custom snippets to streamline repetitive tasks, split panes for customizing your UI layout, Markdown preview for visualizing document appearance, rename refactoring for project-wide symbol renaming, syntax-aware selections for efficient node selection, and breadcrumbs to view the entire file path.
+6. Zed features a CLI for command-line usage, diagnostics for project-wide errors and warnings, custom snippets to streamline repetitive tasks, split panes for customizing your UI layout, Markdown preview for visualizing document appearance, rename refactoring for project-wide symbol renaming, syntax-aware selections for efficient node selection, and breadcrumbs to view the entire file path.
 
 ![](https://imgur.com/L1UfKXX.png)
 <div align="center"><small>Zed features <a href="https://zed.dev/" target="_blank">Source</a></small></div>
+
 
 ## Advantages of Zed AI Over Traditional Code Editors
 
@@ -164,17 +173,26 @@ Download from the <a href="https://zed.dev/" target="_blank">Zed website</a> for
 </div>
 
 
+
 ![](https://imgur.com/sld9I87.png)
 <div align="center"><small>Zed Configurations of Anthropic, Github Copilot Chat, Google AI</small></div>
+
+
 
 ![](https://imgur.com/qeYjuvN.png)
 <div align="center"><small>Zed Configurations of Ollama, OpenAI</small></div>
 
+
+
 ![](https://imgur.com/F4WxWyW.png)
 <div align="center"><small>Zed Languages</small></div>
 
+
+
 ![](https://imgur.com/8fsfeYm.png)
 <div align="center"><small>Zed Inline Assistance</small></div>
+
+
 
 ![](https://imgur.com/hQCZdzf.png)
 <div align="center"><small>Zed Prompts</small></div>
@@ -182,8 +200,12 @@ Download from the <a href="https://zed.dev/" target="_blank">Zed website</a> for
 ![](https://imgur.com/uwuiNX2.png)
 <div align="center"><small>Zed generated code on user prompt</small></div>
 
+
+
 ![](https://imgur.com/QNOkwxX.png)
 <div align="center"><small>Zed Inline Prompts Support</small></div>
+
+
 
 ## User Reviews of Zed.dev
 Zed.dev has emerged as a significant tool in the realm of software development, offering features that enhance coding efficiency and collaboration. In an industry driven by constant innovation and connectivity, understanding user experiences can inform developers and project managers in their choice of tools. This section of the article dives deep into user reviews of Zed.dev according to actual users and providing insights into its effectiveness as a collaborative coding solution.
