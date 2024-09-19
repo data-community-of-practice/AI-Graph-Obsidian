@@ -156,8 +156,13 @@ Download from the <a href="https://zed.dev/" target="_blank">Zed website</a> for
 ![](https://imgur.com/7H00N6y.png)
 <div align="center"><small>Zed Download</small></div>
 
-![](https://imgur.com/5LmytvJ.png)
-<div align="center"><small>Zed System Requirements</small></div>
+<p align="center">
+  <img src="https://imgur.com/5LmytvJ.png" alt="Zed System Requirements" />
+</p>
+<div align="center">
+  <small>Zed System Requirements</small>
+</div>
+
 
 ![](https://imgur.com/sld9I87.png)
 <div align="center"><small>Zed Configurations of Anthropic, Github Copilot Chat, Google AI</small></div>
