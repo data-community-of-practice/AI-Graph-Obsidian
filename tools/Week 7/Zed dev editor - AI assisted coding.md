@@ -1,7 +1,7 @@
-# Zed dev Editor : Revolutionising AI-Assisted coding
+# Zed AI Editor : Revolutionising AI-Assisted coding
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Zed.png)
-<div align="center"><small>Zed Dev Editor <a href="https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c" target="_blank">Source</a></small></div>
+<div align="center"><small>Zed AI Dev Editor <a href="https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c" target="_blank">Source</a></small></div>
 
 ## Author  
 - Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))
