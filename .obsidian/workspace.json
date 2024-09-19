@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0aa67f1e9faa9f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "models/midjourney-vs-stable-diffusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e400a0032928154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
+                "file": "models/Week 7/midjourney-vs-stable-diffusion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/midjourney-vs-stable-diffusion.md",
+                "file": "models/Week 7/midjourney-vs-stable-diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/midjourney-vs-stable-diffusion.md",
+                "file": "models/Week 7/midjourney-vs-stable-diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/midjourney-vs-stable-diffusion.md"
+                "file": "models/Week 7/midjourney-vs-stable-diffusion.md"
               }
             }
           }
@@ -171,24 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0aa67f1e9faa9f7",
+  "active": "b2a99cec1e3f006f",
   "lastOpenFiles": [
-    "models/What-is-stable-diffusion-model.md",
-    "models/midjourney-vs-stable-diffusion.md",
-    "Pasted image 20240919121935.png",
-    "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
-    "undefined.md",
-    "models/Mistral-Nemo-GPT4-Llama.md",
-    "tools/Week 7/What is Grok.md",
-    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
-    "tools/Week 7",
-    "models/Viggle AI Revolutionizing Digital Creativity with Controllable Video Generation.md",
+    "models/Week 4/what-is-DETR.md",
+    "models/Week 7/midjourney-vs-stable-diffusion.md",
+    "models/Week 7",
     "linkedin/Week 7/SoK-Security of the Image Processing Pipeline in Autonomous Vehicles.md",
-    "linkedin/Week 7/Revolutionizing Privacy-Preserving Image Processing with iCHEETAH.md",
     "linkedin/Week 7/Securing AI Addressing Bias, Misinformation, and Vulnerabilities in Large Language Models.md",
+    "linkedin/Week 7/Scalable, reproducible, and cost-effective processing of large-scale medical imaging datasets.md",
+    "linkedin/Week 7/Revolutionizing Privacy-Preserving Image Processing with iCHEETAH.md",
     "linkedin/Week 7/Large Language Models are Pattern Matchers - Editing Semi-Structured and Structured Documents with ChatGPT.md",
     "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
+    "linkedin/Week 7/FreeEnhance - Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process.md",
     "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
+    "Pasted image 20240919121935.png",
+    "README.md",
+    "URL.md",
+    "undefined.md",
+    "tools/Week 7/What is Grok.md",
+    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
+    "models/What-is-stable-diffusion-model.md",
+    "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
+    "models/Mistral-Nemo-GPT4-Llama.md",
+    "tools/Week 7",
+    "models/Viggle AI Revolutionizing Digital Creativity with Controllable Video Generation.md",
     "linkedin/Week 7",
     "img/mathkid.webp",
     "img/math-result.png",
@@ -205,18 +187,12 @@
     "tools/Week 6/Mistral Models vs. Competitors A Performance Showdown Across NLP, Code, and Multilingual Tasks.md",
     "linkedin/Week 6/Unlearning Trojans in Large Language Models.md",
     "linkedin/Week 6/FRAP Improving Text-to-Image Faithfulness with Adaptive Prompt Weighting.md",
-    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
-    "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
-    "models/Week 4/introducing-mistral-nemo-everything-you-need-to know-about-this-powerful-ai-model.md",
-    "linkedin/Week 5/Predicting Lung Cancer Patient Prognosis with Large Language Models.md",
-    "linkedin/Week 5/Does-reasoning-emerge-examining-probabilities-of-causation-in-LLMs.md",
     "tools/Week 6",
     "linkedin/Week 6",
     "tools/Week 5",
     "linkedin/Week 5",
     "models/Week 4",
     "tools/Week 4",
-    "linkedin/Week 4",
-    "tools/Week 3"
+    "linkedin/Week 4"
   ]
 }
