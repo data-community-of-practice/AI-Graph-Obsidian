@@ -1,6 +1,6 @@
-# Zed dev Editor : Revolutionising AI-Assited coding
+# Zed dev Editor : Revolutionising AI-Assisted coding
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Zed.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/Zed .png)
 <div align="center"><small>Zed Dev Editor <a href="https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c" target="_blank">Source</a></small></div>
 
 ## Author  
