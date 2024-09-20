@@ -83,7 +83,7 @@ The o1 model has shown improvements over GPT-4o across a wide range of benchmark
 
 In many reasoning-intensive benchmarks, the performance of the o1 model is comparable to that of human experts. Recent cutting-edge models have performed so well on MATH and GSM8K that these benchmarks are no longer effective at distinguishing between models. Consequently, OpenAI evaluated mathematical performance on the AIME, an exam designed to test the brightest high school math students in the United States.
 
-![In an official demonstration, o1-preview solved a very difficult reasoning problem: When the princess's age is twice the prince's age, the princess's age is the same as the prince's, and the princess's age is half the sum of their current ages. What are the ages of the prince and the princess?](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201146350.gif)
+![In an official demonstration, o1-preview solved a very difficult reasoning problem: When the princess's age is twice the prince's age, the princess's age is the same as the prince's, and the princess's age is half the sum of their current ages. What are the ages of the prince and the princess?](https://raw.githubusercontent.com/data-community-of-practice/AI-Graph-Obsidian/refs/heads/main/img/202409201146350.gif)
 
 In an official demonstration, o1-preview solved a very difficult reasoning problem: When the princess's age is twice the prince's age, the princess's age is the same as the prince's, and the princess's age is half the sum of their current ages. What are the ages of the prince and the princess?
 
@@ -125,7 +125,7 @@ Further fine-tuning for programming competitions enhanced the capabilities of o1
 
 The following official example vividly demonstrates the programming capabilities of o1-preview: with just a single prompt, it was able to write a fully functional game.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147543.gif)
+![](https://raw.githubusercontent.com/data-community-of-practice/AI-Graph-Obsidian/refs/heads/main/img/202409201147543.gif)
 
 ## Human Preference Evaluation
 
@@ -177,7 +177,7 @@ Human Preference Evaluation: OpenAI had human raters compare o1-mini and GPT-4o 
 
 In terms of speed, OpenAI compared GPT-4o, o1-mini, and o1-preview on a word reasoning problem. The results showed that GPT-4o answered incorrectly, while both o1-mini and o1-preview answered correctly, with o1-mini arriving at the answer approximately 3-5 times faster.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148999.gif)
+![](https://raw.githubusercontent.com/data-community-of-practice/AI-Graph-Obsidian/refs/heads/main/img/202409201148999.gif)
 
 Behind these exciting advancements in capabilities, a series of long-speculated technical developments have also been validated.
 
