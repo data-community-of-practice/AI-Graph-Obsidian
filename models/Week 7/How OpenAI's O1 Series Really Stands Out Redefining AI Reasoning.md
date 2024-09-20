@@ -77,7 +77,7 @@ Compared to GPT-4o, the o1-preview model has improved its ability to solve mathe
 
 The o1 model has made significant improvements over GPT-4o on challenging reasoning benchmarks.
 
-![The o1 model has shown improvements over GPT-4o across a wide range of benchmarks, including 54 out of 57 MMLU subcategories, with 7 of these illustrated for demonstration.](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201146956.webp)
+![The o1 model has shown improvements over GPT-4o across a wide range of benchmarks, including 54 out of 57 MMLU subcategories, with 7 of these illustrated for demonstration.](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201146956.jpg)
 
 The o1 model has shown improvements over GPT-4o across a wide range of benchmarks, including 54 out of 57 MMLU subcategories, with 7 of these illustrated for demonstration.
 
@@ -119,7 +119,7 @@ OpenAI found that relaxing the submission constraints significantly boosts the m
 
 Finally, OpenAI simulated a competitive programming contest hosted by Codeforces to demonstrate the model's coding skills. The evaluation closely followed the contest rules, allowing 10 code submissions. GPT-4o's Elo rating was 808, placing it in the top 11% among human competitors. **The model significantly outperformed GPT-4o and o1—it achieved an Elo rating of 1807, surpassing 93% of competitors.**
 
-![Further fine-tuning for programming competitions enhanced the capabilities of o1, allowing it to rank in the top 49% under the rules of the 2024 International Olympiad in Informatics (IOI).](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147846.webp)
+![Further fine-tuning for programming competitions enhanced the capabilities of o1, allowing it to rank in the top 49% under the rules of the 2024 International Olympiad in Informatics (IOI).](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147846.jpg)
 
 Further fine-tuning for programming competitions enhanced the capabilities of o1, allowing it to rank in the top 49% under the rules of the 2024 International Olympiad in Informatics (IOI).
 
@@ -133,7 +133,7 @@ Beyond exams and academic benchmarks, OpenAI also assessed human preferences for
 
 In this evaluation, human raters anonymously reviewed responses to prompts from both o1-preview and GPT-4o, voting for their preferred answers. **In categories requiring strong reasoning abilities, like data analysis, programming, and mathematics, o1-preview was significantly more favored than GPT-4o.** However, o1-preview was less preferred for some natural language tasks, indicating that it might not be suitable for all use cases.
 
-![In domains requiring stronger reasoning abilities, people showed a preference for o1-preview.](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147700.webp)
+![In domains requiring stronger reasoning abilities, people showed a preference for o1-preview.](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147700.jpg)
 
 In domains requiring stronger reasoning abilities, people showed a preference for o1-preview.
 
@@ -145,7 +145,7 @@ OpenAI believes that using CoT can bring substantial progress to safety and alig
 
 To stress-test their improvements, OpenAI conducted a series of safety tests and red-teaming exercises according to their safety readiness framework before deployment. The results indicated that CoT reasoning contributed to enhanced capabilities throughout the evaluation process. Notably, OpenAI observed intriguing instances of reward hacking.
 
-![Safety Readiness Framework Link: https://openai.com/safety/](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147168.webp)
+![Safety Readiness Framework Link: https://openai.com/safety/](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147168.jpg)
 
 Safety Readiness Framework Link: https://openai.com/safety/
 
@@ -159,21 +159,21 @@ In contrast, **o1-mini is a smaller model optimized for STEM reasoning during pr
 
 For example, in benchmarks that require intelligence and reasoning, o1-mini performs well compared to o1-preview and o1. However, it performs less effectively on tasks that require non-STEM factual knowledge.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147598.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147598.jpg)
 
 Mathematical Ability: In the high school AIME math competition, o1-mini (70.0%) is almost on par with o1 (74.4%), but at a much lower cost, and it outperforms o1-preview (44.6%). The score of o1-mini (about 11 out of 15 problems) places it approximately among the top 500 high school students in the United States.
 
 Coding Ability: On the Codeforces competition website, o1-mini has an Elo score of 1650, closely matching o1 (1673) and surpassing o1-preview (1258). Additionally, o1-mini performs well on the HumanEval coding benchmark and high school Capture the Flag (CTF) cybersecurity challenges.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147146.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201147146.jpg)
 
 STEM: On certain academic benchmarks requiring reasoning, such as GPQA (Science) and MATH-500, o1-mini outperforms GPT-4o. However, o1-mini performs worse than GPT-4o on tasks like MMLU and lags behind o1-preview on the GPQA benchmark due to its lack of broad world knowledge.
 
-![640.webp](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148788.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148788.jpg)
 
 Human Preference Evaluation: OpenAI had human raters compare o1-mini and GPT-4o on challenging open-ended prompts across various domains. Similar to o1-preview, o1-mini was preferred over GPT-4o in reasoning-intensive fields; however, in language-centric areas, o1-mini was not preferred over GPT-4o.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148275.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148275.jpg)
 
 In terms of speed, OpenAI compared GPT-4o, o1-mini, and o1-preview on a word reasoning problem. The results showed that GPT-4o answered incorrectly, while both o1-mini and o1-preview answered correctly, with o1-mini arriving at the answer approximately 3-5 times faster.
 
@@ -191,7 +191,7 @@ The paper "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 
 The paper "Large Language Models are Zero-Shot Reasoners, NeurIPS2022" introduced the idea of using prompts like "Let's think step by step" to encourage the model to generate its own reasoning process (Zero-shot CoT). This approach has also led to the creation of other well-known prompts such as "Let's take it step by step".
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148709.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148709.jpg)
 
 The paper "Automatic Chain of Thought Prompting in Large Language Models, ICLR2023" can be seen as a combination of the two previous approaches. It first uses the prompt "Let's think step by step" to generate a reasoning process, and then incorporates these processes into the prompt to guide the model's reasoning. This method eliminates the need for manual writing while maintaining reliability.
 
@@ -203,11 +203,11 @@ Similar to AlphaZero, reinforcement learning is a machine learning method that a
 
 This changed in 2022 when Stanford University proposed a method called "Self-Taught Reasoner" (STaR). The approach involves initially providing the model with detailed solutions to some example problems. The model then attempts to solve more problems on its own. If it solves them correctly, the methods are added back to the example set, forming a dataset that is used to fine-tune the original model. This allows the model to learn these methods, representing a classic approach for automatically generating data.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148833.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148833.jpg)
 
 Subsequently, this approach evolved into a new technique known as "Quiet-STaR," or Q*, which translates roughly to "Quiet Self-Taught Reasoning." The core idea is to insert a "thinking" step after each input token, allowing the large model to generate internal reasoning. The system then evaluates whether this reasoning helps predict subsequent text and adjusts the model parameters accordingly. This method enables the model to perform implicit reasoning while processing various types of text, not just when answering questions.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148962.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148962.jpg)
 
 In simpler terms, incorporating reinforcement learning means teaching the large model specific strategies during training (which are, of course, generated and optimized by the model itself). When faced with a problem, the model selects a strategy based on the type of question, breaks it down step by step, and repeatedly reviews the solution. If the chosen strategy doesn't work, it tries a different one—much like how we teach elementary students problem-solving techniques. However, due to the complexity of the reward model, this self-learning mechanism typically performs better in fields like mathematics and coding.
 
@@ -215,11 +215,11 @@ In simpler terms, incorporating reinforcement learning means teaching the large 
 
 The combination of the above techniques results in no significant changes during the pre-training phase, but greatly increases computational load during the inference phase. The goal shifts from fast thinking to deliberately slowing down the process to achieve more accurate results.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148840.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148840.jpg)
 
 OpenAI mentioned a phenomenon they discovered during training: with more reinforcement learning (training computation) and longer thinking time (inference computation), the performance of their models continues to improve.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148011.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148011.jpg)
 
 NVIDIA AI leader Jim Fan commented on X about the historical significance of this event: models now have scaling laws not only during training but also during inference. The joint growth of these curves will break through the previous limitations on the capabilities of large models. "Previously, no one could replicate the success of AlphaGo in large models by using more computation to achieve superhuman capabilities. Today, we have turned that page."
 
@@ -251,7 +251,7 @@ Indeed, much scientific research involves repetitive and mechanical tasks, and h
 
 As pointed out in the paper "Large Language Monkeys: Scaling Inference Compute," merely increasing the number of generated samples to expand inference computation does not fundamentally change the nature of large language models; they remain statistical probability-based "monkeys typing." To truly achieve general artificial intelligence and groundbreaking advances in the scientific field, we may need to seek more fundamental innovations in algorithms and architectures, rather than simply piling on computational power.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148925.webp)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202409201148925.jpg)
 
 ## **Summary and Reflections**
 
