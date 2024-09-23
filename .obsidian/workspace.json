@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "294654c42bff7b04",
+        "id": "32f434aed0b1990e",
         "type": "tabs",
         "children": [
           {
-            "id": "52c32fe36ce4b86b",
+            "id": "b3832e736e024a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/Week 7/midjourney-vs-stable-diffusion.md",
-                "file": "linkedin/Week 7/Transforming-3D-Image-Generation-with-Hi3D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5036c0c8576f595d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "models/Week 7/midjourney-vs-stable-diffusion.md",
-                "file": "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "models/Week 7/midjourney-vs-stable-diffusion.md",
-                "file": "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "models/Week 7/midjourney-vs-stable-diffusion.md"
-                "file": "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md"
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md"
               }
             }
           }
@@ -162,56 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2a99cec1e3f006f",
-  "active": "5036c0c8576f595d",
+  "active": "b3832e736e024a6b",
   "lastOpenFiles": [
-    "models/Week 4/what-is-DETR.md",
+    "undefined.md",
+    "tools/Week 7/Zed dev editor - AI assisted coding.md",
+    "tools/Week 7/What is Grok.md",
+    "tools/Week 7/Stable Fast 3D Rapid 3D Asset Creation from a Single Image.md",
     "models/Week 7/midjourney-vs-stable-diffusion.md",
+    "models/Week 7/How OpenAI's O1 Series Really Stands Out Redefining AI Reasoning.md",
     "models/Week 7",
+    "linkedin/Week 7/Transforming-3D-Image-Generation-with-Hi3D.md",
+    "linkedin/Week 7/Scalable, reproducible, and cost-effective processing of large-scale medical imaging datasets.md",
+    "linkedin/Week 7/Real-Time Game Simulation Using Diffusion Models.md",
+    "linkedin/Week 7/FreeEnhance - Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process.md",
+    "linkedin/Week 7/Fine-Tuning Large Language Models to Enhance Entity Matching and Generalization.md",
+    "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
+    "img/sf3D-9.jpg",
+    "img/sf3D-8.gif",
+    "img/sf3D-7.jpg",
+    "img/sf3D-6.jpg",
+    "img/sf3D-5.jpg",
+    "img/sf3D-4.gif",
+    "img/sf3D-3.png",
+    "img/sf3D-2.png",
+    "img/sf3D-15.jpg",
+    "img/sf3D-14.jpg",
+    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+    "tools/Week 7",
     "linkedin/Week 7/SoK-Security of the Image Processing Pipeline in Autonomous Vehicles.md",
     "linkedin/Week 7/Securing AI Addressing Bias, Misinformation, and Vulnerabilities in Large Language Models.md",
-    "linkedin/Week 7/Scalable, reproducible, and cost-effective processing of large-scale medical imaging datasets.md",
     "linkedin/Week 7/Revolutionizing Privacy-Preserving Image Processing with iCHEETAH.md",
     "linkedin/Week 7/Large Language Models are Pattern Matchers - Editing Semi-Structured and Structured Documents with ChatGPT.md",
-    "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
-    "linkedin/Week 7/FreeEnhance - Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process.md",
     "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
-    "linkedin/Week 7/Transforming-3D-Image-Generation-with-Hi3D.md",
-    "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
-    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
-    "models/midjourney-vs-stable-diffusion.md",
-    "linkedin/Week 7/Scalable, reproducible, and cost-effective processing of large-scale medical imaging datasets.md",
-    "linkedin/Week 7/FreeEnhance - Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process.md",
-    "models/What-is-stable-diffusion-model.md",
-    "Pasted image 20240919121935.png",
-    "README.md",
-    "URL.md",
-    "undefined.md",
-    "tools/Week 7/What is Grok.md",
-    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
-    "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
-    "models/What-is-stable-diffusion-model.md",
-    "linkedin/Week 6/Enhancing-AI-Reliability-with-DualChecker.md",
-    "models/Mistral-Nemo-GPT4-Llama.md",
-    "tools/Week 7",
-    "models/Viggle AI Revolutionizing Digital Creativity with Controllable Video Generation.md",
-    "linkedin/Week 7",
-    "img/mathkid.webp",
-    "img/math-result.png",
-    "img/math-intro.png",
-    "img/math-feat.png",
-    "img/math-compare.png",
-    "img/math-access.png",
-    "img/202408312244471.gif",
-    "img/202408312241401.gif",
-    "img/202408312236145.gif",
-    "models/claude-llama-gpt-comparison.md",
-    "conflict-files-obsidian-git.md",
-    "tools/Week 6/What is Phi3.5 - Working example.md",
-    "tools/Week 6/Mistral Models vs. Competitors A Performance Showdown Across NLP, Code, and Multilingual Tasks.md",
+    "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
+    "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
+    "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
+    "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
+    "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
     "linkedin/Week 6/Unlearning Trojans in Large Language Models.md",
-    "linkedin/Week 6/FRAP Improving Text-to-Image Faithfulness with Adaptive Prompt Weighting.md",
-    "tools/Week 2/running-mistral-models-with-hugging-face-or-ollama-a-step-by-step-guide.md",
+    "linkedin/Week 6/Towards Evaluating and Building Versatile Large Language Models for Medicine.md",
+    "linkedin/Week 7",
     "tools/Week 6",
     "linkedin/Week 6",
     "tools/Week 5",
