@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a1512e03171c091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md"
+                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md"
               }
             }
           }
@@ -148,6 +160,10 @@
   },
   "active": "b3832e736e024a6b",
   "lastOpenFiles": [
+    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
+    "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
+    "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
+    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
     "linkedin/Week 8",
     "undefined.md",
     "tools/Week 7/Zed dev editor - AI assisted coding.md",
@@ -172,7 +188,6 @@
     "img/sf3D-2.png",
     "img/sf3D-15.jpg",
     "img/sf3D-14.jpg",
-    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
     "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
     "tools/Week 7",
     "linkedin/Week 7/SoK-Security of the Image Processing Pipeline in Autonomous Vehicles.md",
@@ -180,19 +195,16 @@
     "linkedin/Week 7/Revolutionizing Privacy-Preserving Image Processing with iCHEETAH.md",
     "linkedin/Week 7/Large Language Models are Pattern Matchers - Editing Semi-Structured and Structured Documents with ChatGPT.md",
     "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
-    "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
     "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
     "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
     "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
     "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
-    "linkedin/Week 6/Unlearning Trojans in Large Language Models.md",
     "linkedin/Week 7",
     "tools/Week 6",
     "linkedin/Week 6",
     "tools/Week 5",
     "linkedin/Week 5",
     "models/Week 4",
-    "tools/Week 4",
-    "linkedin/Week 4"
+    "tools/Week 4"
   ]
 }
