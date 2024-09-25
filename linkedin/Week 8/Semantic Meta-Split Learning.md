@@ -22,6 +22,6 @@ This study introduces the **Semantic Meta-Split Learning (Semantic-MSL)** framew
 
 This paper sets the stage for future advancements in energy-efficient and privacy-conscious wireless communication systems. Future challenges may include expanding this framework for more complex image classification tasks or integrating it with reinforcement learning to boost adaptability in real-time scenarios.
 
-Beger, Eldeeb, Shehab, Alves, Alouini, 2024, *Semantic Meta-Split Learning: A TinyML Scheme for Few-Shot Wireless Image Classification*, IEEE Transactions on Communications. arXiv:2409.12978. 
+Beger, Eldeeb, Shehab, Alves, Alouini, 2024, *Semantic Meta-Split Learning: A TinyML Scheme for Few-Shot Wireless Image Classification*, arXiv:2409.12978. 
 
 
