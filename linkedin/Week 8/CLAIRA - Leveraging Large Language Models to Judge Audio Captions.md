@@ -18,4 +18,4 @@ CLAIRA uses the zero-shot capabilities of LLMs to directly assess the semantic d
 While CLAIRA represents a significant advancement, challenges remain in further refining the method for multilingual datasets and exploring its applicability across broader audio domains. The next steps will likely involve enhancing the robustness of the approach to handle more diverse soundscapes and languages.
 
 ### Reference
-Wu, T-H., Gonzalez, J.E., Darrell, T., Chan, D.M., 2024, CLAIRA: Leveraging Large Language Models to Judge Audio Captions, IEEE International Conference on Audio Processing. arXiv:2409.12962. 
+Wu, T-H., Gonzalez, J.E., Darrell, T., Chan, D.M., 2024, CLAIRA: Leveraging Large Language Models to Judge Audio Captions, arXiv:2409.12962. 
