@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "32f434aed0b1990e",
+        "id": "ab2b2cdac11726f4",
         "type": "tabs",
         "children": [
           {
-            "id": "b3832e736e024a6b",
+            "id": "4377201a7dd41eff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a1512e03171c091",
+            "id": "a7394502e1104799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
+                "file": "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md"
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md"
               }
             }
           }
@@ -158,12 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3832e736e024a6b",
+  "active": "4377201a7dd41eff",
   "lastOpenFiles": [
+    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+    "img/film_intro.webp",
+    "img/DALL·E 2024-09-25 18.48.31 - A futuristic, vibrant scene blending elements of both the film and music industries with a strong presence of generative AI. On one side, a digital fi.webp",
     "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
     "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
     "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
-    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
     "linkedin/Week 8",
     "undefined.md",
     "tools/Week 7/Zed dev editor - AI assisted coding.md",
@@ -186,8 +189,6 @@
     "img/sf3D-4.gif",
     "img/sf3D-3.png",
     "img/sf3D-2.png",
-    "img/sf3D-15.jpg",
-    "img/sf3D-14.jpg",
     "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
     "tools/Week 7",
     "linkedin/Week 7/SoK-Security of the Image Processing Pipeline in Autonomous Vehicles.md",
@@ -197,8 +198,6 @@
     "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
     "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
     "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
-    "linkedin/Week 6/JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet.md",
-    "linkedin/Week 6/Not Every Image is Worth a Thousand Words-Quantifying Originality in Stable Diffusion.md",
     "linkedin/Week 7",
     "tools/Week 6",
     "linkedin/Week 6",
