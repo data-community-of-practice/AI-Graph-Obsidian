@@ -1,6 +1,6 @@
 # Llama 3.2: Meta's Groundbreaking Multimodal AI Model 
 
-![](https://imgur.com/CMdqMDD)
+![](https://imgur.com/CMdqMDD.png)
 <div align="center"><small>Llama 3.2 <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
 
 ## Author  
@@ -26,7 +26,7 @@ Llama 3.2 introduces four new models:
 - **1B** and **3B** parameter models: Lightweight text-only versions for edge and mobile devices
 - **11B** and **90B** parameter models: Larger versions with vision capabilities
 
-![](https://imgur.com/81U0Qyc)
+![](https://imgur.com/81U0Qyc.png)
 <div align="center"><small>Llama 3.2 1B and 3B Model sizes<a href="https://huggingface.co/blog/llama32" target="_blank">Source</a></small></div>
 
 ### Performance Enhancements
@@ -34,7 +34,7 @@ Despite their smaller size, the new models show impressive performance:
 - The **3B model** matches or exceeds Llama 3.1 8B on tasks like tool use and summarization
 - The **1B model** rivals larger models on summarization and re-writing tasks
 
-![](https://imgur.com/ZzbyLFr)
+![](https://imgur.com/ZzbyLFr.png)
 <div align="center"><small>Llama 3.2 1B and 3B Model Performance <a href="https://huggingface.co/blog/llama32" target="_blank">Source</a></small></div>
 
 ### Architectural Innovations
@@ -115,11 +115,17 @@ Knowledge distillation transfers knowledge from a larger model to a smaller one,
 
 while the instruct models were evaluated across three popular benchmarks that measure instruction-following and correlate well with the LMSYS Chatbot Arena: IFEval, AlpacaEval, and MixEval-Hard. These are the results for the base models, with Llama-3.1-8B included as a reference:
 
-![](https://imgur.com/tV0B5ec)
+![](https://imgur.com/tV0B5ec.png)
 <div align="center"><small>Llama 3.2 Benchmarks <a href="https://huggingface.co/blog/llama32" target="_blank">Source</a></small></div>
 
 
 Remarkably, the 3B model is as strong as the 8B one on IFEval! This makes the model well-suited for agentic applications, where following instructions is crucial for improving reliability. This high IFEval score is very impressive for a model of this size.
+
+![](https://imgur.com/xNEr3uH.png)
+<div align="center"><small>Llama 3.2 Benchmarks <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
+
+![](https://imgur.com/CC0ghij.png)
+<div align="center"><small>Llama 3.2 Benchmarks <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
 
 
 
@@ -149,27 +155,23 @@ You can use the following command to generate text with Llama 3.2:
 llama-cli --hf-repo hugging-quants/Llama-3.2-1B-Instruct-Q4_K_M-GGUF --hf-file llama-3.2-1b-instruct-q4_k_m.gguf -p "The meaning to life and the universe is"
 ```
 
-![](https://imgur.com/0iAySis)
+![](https://imgur.com/0iAySis.png)
 <div align="center"><small>Llama 3.2 1B output</small></div>
 
 ```bash
 llama-cli --hf-repo hugging-quants/Llama-3.2-1B-Instruct-Q4_K_M-GGUF --hf-file llama-3.2-1b-instruct-q4_k_m.gguf -p "The meaning to life and the universe is"
 ```
 
-![](https://imgur.com/Jpc6IHi)
+![](https://imgur.com/Jpc6IHi.png)
 <div align="center"><small>Llama 3.2 1B output</small></div>
 
 ## Online Demo
 
 You can experiment with the three Instruct models in the following demos:
 
-<a href="https://zed.dev/" target="_blank">Gradio Space with Llama 3.2 11B Vision Instruct</a>
+<a href="https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B" target="_blank">Gradio Space with Llama 3.2 11B Vision Instruct</a>
 
-<a href="https://zed.dev/" target="_blank">Gradio-powered Space with Llama 3.2 3B</a>
-
-<a href="https://zed.dev/" target="_blank">Llama 3.2 3B running on WebGPU</a>
-
-https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B
+<a href="https://huggingface.co/spaces/huggingface-projects/llama-3.2-3B-Instruct" target="_blank">Gradio-powered Space with Llama 3.2 3B</a>
 
 ![](https://imgur.com/i4hxdd5)
 <div align="center"><small>Llama 3.2 online demo query<a href="https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B" target="_blank">Source</a></small></div>
@@ -202,7 +204,10 @@ Llama 3.2 marks a major milestone in large language models. With its **multimoda
 
 ## References
 
-https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md
+[1] Llama Models, "Llama 3.2 Model Card," GitHub, https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md.
 
-https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B
+[2] Hugging Face, "Llama 3.2 Vision 11B," Hugging Face, https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B.
 
+[3] Hugging Face, "Llama 3.2," Hugging Face, https://huggingface.co/blog/llama32.
+
+[4] Meta AI, "Llama 3.2 Connect 2024: Vision, Edge, and Mobile Devices," Meta AI, https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/.
