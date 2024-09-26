@@ -121,10 +121,27 @@ while the instruct models were evaluated across three popular benchmarks that me
 
 Remarkably, the 3B model is as strong as the 8B one on IFEval! This makes the model well-suited for agentic applications, where following instructions is crucial for improving reliability. This high IFEval score is very impressive for a model of this size.
 
+Llama 3.2 Vision Instruction tuned benchmarks
+
+| Modality | Category Benchmark | Llama 3.2 11B | Llama 3.2 90B | Claude 3 - Haiku | GPT-4o-mini |
+|----------|---------------------|---------------|---------------|------------------|-------------|
+| Image    | MMMU | 50.7 | 60.3 | 50.2 | 59.4 |
+|          | MMMU-Pro, Standard | 33.0 | 45.2 | 27.3 | 42.3 |
+|          | MMMU-Pro, Vision | 23.7 | 33.8 | 20.1 | 36.5 |
+|          | MathVista | 51.5 | 57.3 | 46.4 | 56.7 |
+|          | ChartQA | 83.4 | 85.5 | 81.7 | — |
+|          | AI2 Diagram | 91.1 | 92.3 | 86.7 | — |
+|          | DocVQA | 88.4 | 90.1 | 88.8 | — |
+|          | VQAv2 | 75.2 | 78.1 | — | — |
+| Text     | MMLU | 73.0 | 86.0 | 75.2 | 82.0 |
+|          | MATH | 51.9 | 68.0 | 38.9 | 70.2 |
+|          | GPQA | 32.8 | 46.7 | 33.3 | 40.2 |
+|          | MGSM | 68.9 | 86.9 | 75.1 | 87.0 |
+
 ![](https://imgur.com/xNEr3uH.png)
 <div align="center"><small>Llama 3.2 Vision Instruction tuned benchmarks <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
 
-Here's the table structure in Markdown format:
+Llama 3.2 Light Weight Instruction tuned benchmarks
 
 | Benchmark | Llama 3.2 1B | Llama 3.2 3B | Gemma 2 2B IT | Phi-3.5-mini IT |
 |-----------|--------------|--------------|---------------|-----------------|
