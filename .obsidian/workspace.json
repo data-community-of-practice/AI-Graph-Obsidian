@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "294654c42bff7b04",
+        "id": "ab2b2cdac11726f4",
         "type": "tabs",
         "children": [
           {
-            "id": "52c32fe36ce4b86b",
+            "id": "4377201a7dd41eff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "file": "models/Stable-diffusion-prompt-tips.md",
                 "mode": "source",
                 "source": false
@@ -31,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "file": "models/Stable-diffusion-prompt-tips.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "file": "models/Stable-diffusion-prompt-tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -137,6 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md"
                 "file": "models/Stable-diffusion-prompt-tips.md"
               }
             }
@@ -158,11 +163,49 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "4377201a7dd41eff",
   "active": "52c32fe36ce4b86b",
   "lastOpenFiles": [
+    "tools/Week 6/Small vs. Large - The Battle of Language Models in AI.md",
+    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
+    "img/film_intro.webp",
+    "img/DALL·E 2024-09-25 18.48.31 - A futuristic, vibrant scene blending elements of both the film and music industries with a strong presence of generative AI. On one side, a digital fi.webp",
+    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
+    "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
+    "linkedin/Week 7/Improving Virtual Try-On with Garment-focused Diffusion Models.md",
+    "linkedin/Week 8",
+    "undefined.md",
+    "tools/Week 7/Zed dev editor - AI assisted coding.md",
+    "tools/Week 7/What is Grok.md",
+    "tools/Week 7/Stable Fast 3D Rapid 3D Asset Creation from a Single Image.md",
     "models/What-is-stable-diffusion-model.md",
     "models/Stable-diffusion-prompt-tips.md",
     "models/Week 7/midjourney-vs-stable-diffusion.md",
+    "models/Week 7/How OpenAI's O1 Series Really Stands Out Redefining AI Reasoning.md",
+    "models/Week 7",
+    "linkedin/Week 7/Transforming-3D-Image-Generation-with-Hi3D.md",
+    "linkedin/Week 7/Scalable, reproducible, and cost-effective processing of large-scale medical imaging datasets.md",
+    "linkedin/Week 7/Real-Time Game Simulation Using Diffusion Models.md",
+    "linkedin/Week 7/FreeEnhance - Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process.md",
+    "linkedin/Week 7/Fine-Tuning Large Language Models to Enhance Entity Matching and Generalization.md",
+    "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
+    "img/sf3D-9.jpg",
+    "img/sf3D-8.gif",
+    "img/sf3D-7.jpg",
+    "img/sf3D-6.jpg",
+    "img/sf3D-5.jpg",
+    "img/sf3D-4.gif",
+    "img/sf3D-3.png",
+    "img/sf3D-2.png",
+    "tools/Week 7",
+    "linkedin/Week 7/SoK-Security of the Image Processing Pipeline in Autonomous Vehicles.md",
+    "linkedin/Week 7/Securing AI Addressing Bias, Misinformation, and Vulnerabilities in Large Language Models.md",
+    "linkedin/Week 7/Revolutionizing Privacy-Preserving Image Processing with iCHEETAH.md",
+    "linkedin/Week 7/Large Language Models are Pattern Matchers - Editing Semi-Structured and Structured Documents with ChatGPT.md",
+    "linkedin/Week 7/An Evaluation Framework for Attributed Information Retrieval using Large Language Models.md",
+    "linkedin/Week 6/Improving the Classification Effect of Clinical Images of Diseases for Multi-Source Privacy Protection.md",
+    "linkedin/Week 6/Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations.md",
     "models/Mistral-Nemo-GPT4-Llama.md",
     "linkedin/Week 7/Transforming-3D-Image-Generation-with-Hi3D.md",
     "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
@@ -204,7 +247,6 @@
     "tools/Week 5",
     "linkedin/Week 5",
     "models/Week 4",
-    "tools/Week 4",
-    "linkedin/Week 4"
+    "tools/Week 4"
   ]
 }
