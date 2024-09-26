@@ -122,10 +122,27 @@ while the instruct models were evaluated across three popular benchmarks that me
 Remarkably, the 3B model is as strong as the 8B one on IFEval! This makes the model well-suited for agentic applications, where following instructions is crucial for improving reliability. This high IFEval score is very impressive for a model of this size.
 
 ![](https://imgur.com/xNEr3uH.png)
-<div align="center"><small>Llama 3.2 Benchmarks <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
+<div align="center"><small>Llama 3.2 Vision Instruction tuned benchmarks <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
 
-![](https://imgur.com/CC0ghij.png)
-<div align="center"><small>Llama 3.2 Benchmarks <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
+Here's the table structure in Markdown format:
+
+| Benchmark | Llama 3.2 1B | Llama 3.2 3B | Gemma 2 2B IT | Phi-3.5-mini IT |
+|-----------|--------------|--------------|---------------|-----------------|
+| MMLU | 49.3 | 63.4 | 57.8 | 69.0 |
+| Open-rewrite eval | 41.6 | 40.1 | 31.2 | 34.5 |
+| TLDR9+ | 16.8 | 19.0 | 13.9 | 12.8 |
+| IFEval | 59.5 | 77.4 | 61.9 | 59.2 |
+| BPCLv2 | 25.7 | 67.0 | 27.4 | 58.4 |
+| Nexus | 13.5 | 34.3 | 21.0 | 26.1 |
+| GSMBK | 44.4 | 77.7 | 62.5 | 86.2 |
+| MATH | 30.6 | 48.0 | 23.8 | 44.2 |
+| ARC Challenge | 59.4 | 78.6 | 76.7 | 87.4 |
+| GPQA | 27.2 | 32.8 | 27.5 | 31.9 |
+| Hellaswag | 41.2 | 69.8 | 61.1 | 81.4 |
+| InfiniteBench/En.MC | 38.0 | 63.3 | — | 39.2 |
+| InfiniteBench/En.QA | 20.3 | 19.8 | — | 11.3 |
+| NIH/Multi-needle | 75.0 | 84.7 | — | 52.7 |
+| MGSM | 24.5 | 58.2 | 40.2 | 49.8 |
 
 
 
@@ -173,10 +190,10 @@ You can experiment with the three Instruct models in the following demos:
 
 <a href="https://huggingface.co/spaces/huggingface-projects/llama-3.2-3B-Instruct" target="_blank">Gradio-powered Space with Llama 3.2 3B</a>
 
-![](https://imgur.com/i4hxdd5)
+![](https://imgur.com/i4hxdd5.png)
 <div align="center"><small>Llama 3.2 online demo query<a href="https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B" target="_blank">Source</a></small></div>
 
-![](https://imgur.com/DlXgPEs)
+![](https://imgur.com/DlXgPEs.png)
 <div align="center"><small>Llama 3.2 online demo output <a href="https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B" target="_blank">Source</a></small></div>
 
 ## Applications and Use Cases
