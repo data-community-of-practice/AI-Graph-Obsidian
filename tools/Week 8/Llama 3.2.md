@@ -138,8 +138,6 @@ Llama 3.2 Vision Instruction tuned benchmarks
 |          | GPQA | 32.8 | 46.7 | 33.3 | 40.2 |
 |          | MGSM | 68.9 | 86.9 | 75.1 | 87.0 |
 
-![](https://imgur.com/xNEr3uH.png)
-<div align="center"><small>Llama 3.2 Vision Instruction tuned benchmarks <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/" target="_blank">Source</a></small></div>
 
 Llama 3.2 Light Weight Instruction tuned benchmarks
 
