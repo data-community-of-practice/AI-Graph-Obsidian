@@ -7,7 +7,7 @@
 - Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))
 
 
-Meta has released **Llama 3.2**, its latest advancement in large language models, introducing groundbreaking **multimodal capabilities** and improved **efficiency**. This guide explores the key features, improvements, and potential applications of this cutting-edge AI model, set to revolutionize the field of artificial intelligence.
+Meta has released **Llama 3.2**, its latest advancement in large language models, introducing groundbreaking **multimodal capabilities** and improved **efficiency**. This article explores the key features, improvements, and potential applications of this cutting-edge AI model, set to revolutionize the field of artificial intelligence.
 
 ## Introduction to Llama 3.2
 
