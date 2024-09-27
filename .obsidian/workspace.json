@@ -5,14 +5,17 @@
     "children": [
       {
         "id": "294654c42bff7b04",
+        "id": "294654c42bff7b04",
         "type": "tabs",
         "children": [
           {
+            "id": "52c32fe36ce4b86b",
             "id": "52c32fe36ce4b86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "file": "linkedin/Week 8/Efficient-Domain-Augmentation-for-Autonomous-Driving-Testing-Using-Diffusion-Models.md",
                 "mode": "source",
                 "source": false
@@ -31,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "file": "linkedin/Week 7/PrimeDepth-Revolutionizing-Monocular-Depth-Estimation-with-Diffusion-Models.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "file": "linkedin/Week 7/PrimeDepth-Revolutionizing-Monocular-Depth-Estimation-with-Diffusion-Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -138,6 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md"
                 "file": "linkedin/Week 7/PrimeDepth-Revolutionizing-Monocular-Depth-Estimation-with-Diffusion-Models.md"
               }
             }
@@ -159,8 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "52c32fe36ce4b86b",
   "active": "5036c0c8576f595d",
   "lastOpenFiles": [
+    "tools/Week 8/Llama 3.2.md",
+    "models/Stable-diffusion-prompt-tips.md",
+    "tools/README.md",
     "linkedin/Week 8/Efficient-Domain-Augmentation-for-Autonomous-Driving-Testing-Using-Diffusion-Models.md",
     "linkedin/Week 7/PrimeDepth-Revolutionizing-Monocular-Depth-Estimation-with-Diffusion-Models.md",
     "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
@@ -176,8 +185,30 @@
     "linkedin/Week 8/Simultaneous Music Separation and Generation Using Multi-Track Latent Diffusion Models.md",
     "linkedin/Week 8/Scaling Smart-Accelerating Large Language Model Pre-training with Small Model Initialization.md",
     "linkedin/Week 8/Semantic Meta-Split Learning.md",
+    "tools/Week 8",
+    "linkedin/Week 8/Semantic Meta-Split Learning.md",
+    "linkedin/Week 8/CLAIRA - Leveraging Large Language Models to Judge Audio Captions.md",
+    "img/film_intro.webp",
+    "tools/Week 8/What is Perplexity AI.md",
+    "Pasted image 20240919121935.png",
+    "README.md",
+    "undefined.md",
+    "models/claude-llama-gpt-comparison.md",
+    "models/Mistral-Nemo-GPT4-Llama.md",
+    "models/The Ultimate FLUX.1 Hands-On Guide From Beginner to Advanced with LoRA and ControlNet.md",
+    "models/Viggle AI Revolutionizing Digital Creativity with Controllable Video Generation.md",
+    "models/What-is-stable-diffusion-model.md",
+    "tools/Week 7/Zed dev editor - AI assisted coding.md",
+    "tools/Week8/What is Perplexity AI.md",
+    "tools/Week 8/What is Perplexity AI.md",
+    "tools/Week8",
+    "models/Week 7/Revolutionizing Microscopy How AI Is Enhancing Image Quality Without Compromising Sample Integrity.md",
+    "models/Week 7/Boosting Image Classification with Graph Neural Networks and Manifold Learning.md",
+    "linkedin/Week 8/Scaling Smart-Accelerating Large Language Model Pre-training with Small Model Initialization.md",
+    "linkedin/Week 8/Simultaneous Music Separation and Generation Using Multi-Track Latent Diffusion Models.md",
     "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
     "linkedin/Week 8/CLAIRA - Leveraging Large Language Models to Judge Audio Captions.md",
+    "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
     "linkedin/Week 8",
     "img/film_intro.webp",
     "models/What-is-stable-diffusion-model.md",
@@ -186,10 +217,8 @@
     "linkedin/Week 7/Transforming-3D-Image-Generation-with-Hi3D.md",
     "tools/Week 7/Zed dev editor - AI assisted coding.md",
     "tools/Week 7/Stable Fast 3D Rapid 3D Asset Creation from a Single Image.md",
+    "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
     "models/Week 7/How OpenAI's O1 Series Really Stands Out Redefining AI Reasoning.md",
-    "models/Week 7",
-    "linkedin/Week 7/Real-Time Game Simulation Using Diffusion Models.md",
-    "linkedin/Week 7/Fine-Tuning Large Language Models to Enhance Entity Matching and Generalization.md",
     "img/sf3D-9.jpg",
     "img/sf3D-8.gif",
     "img/sf3D-7.jpg",
@@ -198,6 +227,7 @@
     "img/sf3D-4.gif",
     "img/sf3D-3.png",
     "img/sf3D-2.png",
+    "models/Week 7",
     "img/sf3D-15.jpg",
     "linkedin/Week 6/Enhancing-Medical-AI-with-RuleAlign.md",
     "tools/Week 7",
@@ -207,5 +237,6 @@
     "tools/Week 5",
     "linkedin/Week 5",
     "models/Week 4"
+    "linkedin/Week 5"
   ]
 }
