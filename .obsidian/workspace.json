@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e70b414bb8447e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5486295897e91a72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+                "file": "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,10 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e70b414bb8447e1",
+  "active": "5486295897e91a72",
   "lastOpenFiles": [
-    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+    "img/pixtral-chat.png",
+    "img/pixtral-arch.png",
+    "img/pixtral4.png",
+    "img/pixtral3.png",
+    "img/pixtral2.png",
+    "tools/Week 7/MathΣtral - The Ultimate Math Buddy.md",
     "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
+    "img/pixtral1.png",
+    "img/pixtral-compare3.png",
+    "img/pixtral-compare2.png",
+    "img/pixtral-compare1.png",
+    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
     "img/pixtral-intro.png"
   ]
 }
