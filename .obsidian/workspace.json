@@ -11,8 +11,24 @@
             "id": "624a67997461eeb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b49e99db37d0310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md"
+              }
             }
           }
         ]
@@ -138,8 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "861c242c15ad1263",
+  "active": "624a67997461eeb5",
   "lastOpenFiles": [
+    "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
+    "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
+    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
     "linkedin/Week 9",
     "Pasted image 20240919121935.png",
     "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
