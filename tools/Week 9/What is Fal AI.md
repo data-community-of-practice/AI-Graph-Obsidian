@@ -183,7 +183,7 @@ npm run dev
 ```
 5. Open your browser and navigate to http://localhost:3000 to see the application in action.
 
-![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/2269285d-5519-4fba-227c-0d73c6e4a300/public)
+![image](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/17413665-71f5-491d-dec7-16d299348f00/public)
 <div align="center"><small style="font-size: 16px;">Real Time Stable Diffusion Inference by Fal</small></div>
 
 
