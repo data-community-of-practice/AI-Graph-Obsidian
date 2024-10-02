@@ -160,7 +160,7 @@ Fal AI's api significantly faster performance (2.76 seconds vs. 18 seconds on an
 
 
 
-## Working Example 3: Deploying a Custom AI Model as a Private Serverless Model
+## Working Example 3: Building a Real-Time AI Application
 Fal AI offers powerful real-time APIs that enable rapid image generation, allowing for interactive applications with near-instantaneous results. In this example, we'll use a pre-built demo application to showcase the capabilities of Fal AI's real-time image generation.
 
 Steps:
@@ -183,7 +183,7 @@ npm run dev
 ```
 5. Open your browser and navigate to http://localhost:3000 to see the application in action.
 
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg5OTc1aTltaTI3c2J2aTFod2F1YTdmbmNkbW8xcm1qdWhnODk0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T6h48XDjoZo0WL8OyE/giphy.gif)
+![](../../img/Fal-AI.gif)
 <div align="center"><small style="font-size: 16px;">Real Time Stable Diffusion Inference by Fal</small></div>
 
 
