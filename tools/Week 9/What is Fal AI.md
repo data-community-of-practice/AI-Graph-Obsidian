@@ -183,7 +183,7 @@ npm run dev
 ```
 5. Open your browser and navigate to http://localhost:3000 to see the application in action.
 
-![GIF](https://imagedelivery.net/0LwqpAMWL2C8o12h9UoZew/17413665-71f5-491d-dec7-16d299348f00/public)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg5OTc1aTltaTI3c2J2aTFod2F1YTdmbmNkbW8xcm1qdWhnODk0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T6h48XDjoZo0WL8OyE/giphy.gif)
 <div align="center"><small style="font-size: 16px;">Real Time Stable Diffusion Inference by Fal</small></div>
 
 
