@@ -1,7 +1,7 @@
 # Molmo AI: Revolutionising Open-Source Multimodal Intelligence
 
 ![](https://imgur.com/tyhnKBW.png)
-<div align="center"><small>Llama 3.2 <a href="https://www.etcentric.org/allen-institute-announces-vision-optimized-molmo-ai-models/" target="_blank">Source</a></small></div>
+<div align="center"><small>Molmo AI <a href="https://www.etcentric.org/allen-institute-announces-vision-optimized-molmo-ai-models/" target="_blank">Source</a></small></div>
 
 
 ## Author  
