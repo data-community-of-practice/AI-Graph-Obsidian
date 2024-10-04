@@ -73,7 +73,7 @@ of supervised training data. This mixture includes common academic datasets and 
 
 You can read more details from its <a href="https://allenai.org/" target="_blank">academic paper</a>. 
 
-![](https://imgur.com/6hpNgKe.png)
+![](https://imgur.com/Jr7fY83.png)
 <div align="center"><small>Molmo Research Paper by Allen Institute for AI</small></div>
 
 ## How to Get Started with Molmo AI
@@ -87,10 +87,10 @@ For those with more advanced technical requirements, the full source code, model
 ### Test 1:
 
 ![](https://imgur.com/0Az3cuT.png)
-<div align="center"><small>Molmo Research Paper by Allen Institute for AI</small></div>
+<div align="center"><small>Test 1 with Molmo</small></div>
 
-![](https://imgur.com/6hpNgKe.png)
-<div align="center"><small>Molmo Research Paper by Allen Institute for AI</small></div>
+![](https://imgur.com/UdkrTXB.png)
+<div align="center"><small>Output of Test 1 by Molmo</small></div>
 
 Checking the same prompt "Count the number of boats" in Llama 3.2 in<a href="https://huggingface.co/spaces/huggingface-projects/llama-3.2-vision-11B" target="_blank">online chatbot</a>
 
