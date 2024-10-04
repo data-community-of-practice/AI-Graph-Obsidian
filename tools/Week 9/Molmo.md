@@ -1,6 +1,6 @@
 # Molmo AI: Revolutionising Open-Source Multimodal Intelligence
 
-![Molmo](https://imgur.com/undefined.png)
+![](https://imgur.com/W9IJwKT.png)
 <div align="center"><small>Image from <a href="https://www.etcentric.org/allen-institute-announces-vision-optimized-molmo-ai-models/" target="_blank">Source</a></small></div>
 
 
