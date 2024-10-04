@@ -4,34 +4,40 @@
     "type": "split",
     "children": [
       {
+        "id": "294654c42bff7b04",
         "id": "8ea26799f03f7b50",
         "type": "tabs",
         "children": [
           {
             "id": "624a67997461eeb5",
+            "id": "5036c0c8576f595d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
+                "file": "tools/Game-N-Gen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+            "id": "2316ef3265c0f996",
             "id": "3b49e99db37d0310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "models/Stable-diffusion-prompt-tips.md",
                 "file": "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +104,7 @@
               "type": "backlink",
               "state": {
                 "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
+                "file": "tools/Game-N-Gen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +122,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
+                "file": "tools/Game-N-Gen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +146,7 @@
               "type": "outline",
               "state": {
                 "file": "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md"
+                "file": "tools/Game-N-Gen.md"
               }
             }
           }
@@ -159,6 +168,7 @@
     }
   },
   "active": "624a67997461eeb5",
+  "active": "5036c0c8576f595d",
   "lastOpenFiles": [
     "linkedin/Week 9/Unlocking the Future of Video Understanding The Rise of MultiModal Large Language Models for Long Videos.md",
     "linkedin/Week 9/Enhancing AI Explainability with Ontology-Driven Multimodal Models.md",
@@ -179,5 +189,51 @@
     "img/pixtral-compare2.png",
     "img/pixtral-compare1.png",
     "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md"
+    "models/Stable-diffusion-prompt-tips.md",
+    "tools/Game-N-Gen.md",
+    "linkedin/Week 8/Efficient-Domain-Augmentation-for-Autonomous-Driving-Testing-Using-Diffusion-Models.md",
+    "models/Week 7/midjourney-vs-stable-diffusion.md",
+    "models/Week 7/How OpenAI's O1 Series Really Stands Out Redefining AI Reasoning.md",
+    "models/Mistral-Nemo-GPT4-Llama.md",
+    "models/claude-llama-gpt-comparison.md",
+    "models/Week 4/what-is-DETR.md",
+    "models/What-is-stable-diffusion-model.md",
+    "undefined.md",
+    "tools/Week 3/how-to-use-Stability-AI-API.md",
+    "tools/Week 3/Phi-3 - A Language Model That Runs On Your Phone!.md",
+    "tools/Week 3/What is BLIP.md",
+    "tools/Week 2/What-Is-Gemma2.md",
+    "tools/Week 1/How-to-use-Llamaindex.md",
+    "tools/Week 0/How-to-use-GitHub-Copilot.md",
+    "linkedin/Week 7/PrimeDepth-Revolutionizing-Monocular-Depth-Estimation-with-Diffusion-Models.md",
+    "conflict-files-obsidian-git.md",
+    "tools/Week 8/What is Perplexity AI.md",
+    "linkedin/Week 7/Estimating-Atmospheric-Variables-from-Digital-Typhoon-Satellite-Images-via-Conditional-Denoising-Diffusion-Models.md",
+    "tools/What is Perplexity AI.md",
+    "tools/Week 8/Llama 3.2.md",
+    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+    "tools/Week 8",
+    "models/Week 7/Revolutionizing Microscopy How AI Is Enhancing Image Quality Without Compromising Sample Integrity.md",
+    "models/Week 7/Boosting Image Classification with Graph Neural Networks and Manifold Learning.md",
+    "linkedin/Week 8/Profiling Patient Transcript Using Large Language Model Reasoning Augmentation for Alzheimer’s Disease Detection.md",
+    "linkedin/Week 8",
+    "img/film_intro.webp",
+    "models/Week 7",
+    "img/sf3D-9.jpg",
+    "img/sf3D-8.gif",
+    "img/sf3D-7.jpg",
+    "img/sf3D-6.jpg",
+    "img/sf3D-5.jpg",
+    "img/sf3D-4.gif",
+    "img/sf3D-3.png",
+    "img/sf3D-2.png",
+    "img/sf3D-15.jpg",
+    "tools/Week 7",
+    "linkedin/Week 7",
+    "tools/Week 6",
+    "linkedin/Week 6",
+    "tools/Week 5",
+    "linkedin/Week 5",
+    "models/Week 4"
   ]
 }
