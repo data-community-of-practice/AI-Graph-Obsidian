@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3b49e99db37d0310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -160,10 +148,10 @@
   },
   "active": "624a67997461eeb5",
   "lastOpenFiles": [
-    "linkedin/Week 9/Unlocking the Future of Video Understanding The Rise of MultiModal Large Language Models for Long Videos.md",
-    "linkedin/Week 9/Enhancing AI Explainability with Ontology-Driven Multimodal Models.md",
     "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
     "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
+    "linkedin/Week 9/Unlocking the Future of Video Understanding The Rise of MultiModal Large Language Models for Long Videos.md",
+    "linkedin/Week 9/Enhancing AI Explainability with Ontology-Driven Multimodal Models.md",
     "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
     "linkedin/Week 9",
     "Pasted image 20240919121935.png",
