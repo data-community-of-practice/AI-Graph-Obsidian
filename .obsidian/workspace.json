@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
+                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
+                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
+                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md"
+                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b8d9adbe1a8e3792",
   "lastOpenFiles": [
-    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
     "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
+    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
+    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
     "linkedin/Week 10"
   ]
 }
