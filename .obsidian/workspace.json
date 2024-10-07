@@ -1,38 +1,19 @@
 {
   "main": {
-    "id": "b2bb22c1ac7ba6cc",
+    "id": "7dc0bfa83e7c226e",
     "type": "split",
     "children": [
       {
-        "id": "294654c42bff7b04",
+        "id": "de64a38b739486a7",
         "type": "tabs",
         "children": [
           {
-            "id": "5036c0c8576f595d",
+            "id": "b8d9adbe1a8e3792",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "53e549debe18c815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
->>>>>>> b9812650b725efa8f2562a64bb12aac6e1acb46e
           }
         ]
       }
@@ -40,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c060475ed67e2ac",
+    "id": "8c9d5b3f3033ba0d",
     "type": "split",
     "children": [
       {
-        "id": "454c3cb742b7bb9d",
+        "id": "fe493e930a61e296",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a99cec1e3f006f",
+            "id": "92f09afd97af2d1c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +39,7 @@
             }
           },
           {
-            "id": "6c407348118a893b",
+            "id": "fb388b70bf22a57d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +54,7 @@
             }
           },
           {
-            "id": "71aa4c6807af2116",
+            "id": "ea91feec9f3efd99",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "e65ba5079b55109f",
+    "id": "8475f72ffd4f07e3",
     "type": "split",
     "children": [
       {
-        "id": "c92a264277eab817",
+        "id": "2f37c709955bbfa7",
         "type": "tabs",
         "children": [
           {
-            "id": "98d7e5caf4851969",
+            "id": "644a9c141bf5227d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +92,18 @@
             }
           },
           {
-            "id": "821b76907e0ec027",
+            "id": "3fcaaddb963ab17c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8e842e86d9c6ed28",
+            "id": "ea5c1082b7682f9b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,13 +114,11 @@
             }
           },
           {
-            "id": "95cd573d31a779d0",
+            "id": "86190c04d2a3893d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,63 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5036c0c8576f595d",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
-    "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
-    "linkedin/Week 9/Unlocking the Future of Video Understanding The Rise of MultiModal Large Language Models for Long Videos.md",
-    "linkedin/Week 9/Enhancing AI Explainability with Ontology-Driven Multimodal Models.md",
-    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
-    "linkedin/Week 9",
-    "Pasted image 20240919121935.png",
-=======
-    "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
-    "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
-    "tools/Game-N-Gen.md",
-    "conflict-files-obsidian-git.md",
-    "tools/Week 9/What is Fal AI.md",
->>>>>>> b9812650b725efa8f2562a64bb12aac6e1acb46e
-    "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
-    "tools/Week 9",
-    "tools/Week 8/Qwen 2.5 Is It Really That Good.md",
-    "models/How to Run Llama 32 on Android Phone.md",
-    "models/Breaking the Transformer Monopoly Liquid Foundation Models Redefine SOTA.md",
-    "linkedin/Week 9/Unlocking the Future of Video Understanding The Rise of MultiModal Large Language Models for Long Videos.md",
-    "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
-    "linkedin/Week 9/study on histopathology image classification.md",
-    "linkedin/Week 9/multimodal medical image fusion for non small cell lung cancer classification.md",
-    "linkedin/Week 9/Enhancing AI Explainability with Ontology-Driven Multimodal Models.md",
-    "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
-    "linkedin/Week 9",
-    "linkedin/Week 8/Privacy-Enhanced Training for ControlNet with Split Learning.md",
-    "linkedin/Week 8/A Method for Generating Unseen 3D Human Motions.md",
-    "linkedin/Cloud Adversarial Example Generation for Remote Sensing Image Classification.md",
-    "linkedin/Beyond Single-Audio - Advancing Multi-Audio Processing in Audio Large Language Models.md",
-    "img/qwen2.5-9.png",
-    "img/qwen2.5-8.jpg",
-    "img/qwen2.5-7.jpg",
-    "img/qwen2.5-6.png",
-    "img/qwen2.5-5.jpg",
-    "img/qwen2.5-4.jpg",
-    "img/qwen2.5-3.jpg",
-    "img/qwen2.5-2.jpg",
-    "img/qwen2.5-15.jpg",
-    "img/qwen2.5-14.jpg",
-    "models/Stable-diffusion-prompt-tips.md",
-    "linkedin/Week 8/Efficient-Domain-Augmentation-for-Autonomous-Driving-Testing-Using-Diffusion-Models.md",
-    "models/Week 7/midjourney-vs-stable-diffusion.md",
-    "models/Week 7/How OpenAI's O1 Series Really Stands Out Redefining AI Reasoning.md",
-    "models/Mistral-Nemo-GPT4-Llama.md",
-    "models/claude-llama-gpt-comparison.md",
-    "models/Week 4/what-is-DETR.md",
-    "tools/Week 8",
-    "linkedin/Week 8",
-    "models/Week 7",
-    "tools/Week 7",
-    "linkedin/Week 7",
-    "tools/Week 6",
-    "linkedin/Week 6",
-    "tools/Week 5"
-  ]
+  "active": "b8d9adbe1a8e3792",
+  "lastOpenFiles": []
 }
