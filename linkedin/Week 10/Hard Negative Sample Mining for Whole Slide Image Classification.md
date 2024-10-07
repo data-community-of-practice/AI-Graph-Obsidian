@@ -1,7 +1,7 @@
 
 Interesting findings from "Hard Negative Sample Mining for Whole Slide Image Classification"
 
-Article Link : https://arxiv.org/abs/2410.00655
+Article Link : https://arxiv.org/abs/2410.02212
 
 WSI (Whole Slide Image) classification is a crucial task in medical imaging, where a whole slide (an image) is broken down into patches, and predictions are made based on these individual patches. The major challenge lies in weak supervision, where only slide-level labels are available, not patch-level. Traditional MIL (Multiple Instance Learning) methods often face difficulties in accurately differentiating positive and negative patches, especially when patches share similar features. This paper addresses these challenges by introducing a new method for mining hard negative samples that are crucial for improving patch-level feature representations.
 
