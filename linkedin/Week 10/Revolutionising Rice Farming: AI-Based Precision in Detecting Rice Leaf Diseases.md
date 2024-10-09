@@ -1,4 +1,4 @@
-# Revolutionising Rice Farming: AI-Based Precision in Detecting Rice Leaf Diseases
+# Revolutionising Rice Farming - AI-Based Precision in Detecting Rice Leaf Diseases
 
 This paper introduces an innovative approach using deep learning for rice leaf disease detection, specifically utilizing convolutional neural networks (CNNs) to address the challenges faced in precision agriculture. The study focuses on creating an accurate model to identify multiple rice leaf diseases using transfer learning techniques and presents a user-friendly application for real-time predictions. It aims to modernize farming practices, enabling farmers to make informed decisions swiftly and efficiently.
 
