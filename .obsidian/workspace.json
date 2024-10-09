@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "de64a38b739486a7",
+        "id": "d6ce9f22d8f1c2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d9adbe1a8e3792",
+            "id": "1e77d41b99a0bd71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebbeba86ed3df16b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,6 +140,9 @@
   },
   "active": "92f09afd97af2d1c",
   "lastOpenFiles": [
+    "tools/Week 10",
+    "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
+    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
     "tools/What is LM Studio-Working Examples.md",
     "linkedin/Week 9/Cloud Adversarial Example Generation for Remote Sensing Image Classification.md",
     "linkedin/Week 9/Beyond Single-Audio - Advancing Multi-Audio Processing in Audio Large Language Models.md",
@@ -170,8 +152,6 @@
     "linkedin/Week 10/One2set + Large Language Model-Best Partners for Keyphrase Generation.md",
     "linkedin/Week 10/How Toxicity Classifiers and Large Language Models Respond to Ableism.md",
     "linkedin/Week 10/AutoTM - Advancing Topic Modeling with AI-Powered Optimization.md",
-    "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
-    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
     "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
     "linkedin/Week 10"
   ]
