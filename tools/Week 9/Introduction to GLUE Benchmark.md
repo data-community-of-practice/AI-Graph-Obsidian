@@ -26,32 +26,95 @@ The GLUE benchmark is widely used to assess how well models understand and proce
 
 - **CoLA (Corpus of Linguistic Acceptability):** This task tests a model's ability to predict whether a sentence is grammatically acceptable. It challenges models to go beyond surface-level understanding and grasp deeper syntactic rules in language.
 
+	**Example**:
+
+	- Input: `The cat on the mat.`
+	- Output: `1` (The sentence is grammatically correct)
+	- Input: `On the mat cat the.`
+	- Output: `0` (The sentence is grammatically incorrect)
 
 - **SST-2 (Stanford Sentiment Treebank):** Here, the goal is to predict the sentiment (positive or negative) of a given sentence. This task evaluates a model's ability to understand nuanced emotional tones in text, which is crucial for applications like opinion mining and sentiment analysis.
 
+	**Example**:
+
+	- Input: `This movie was absolutely wonderful!`
+	- Output: `1` (Positive sentiment)
+	- Input: `The film was incredibly boring.`
+	- Output: `0` (Negative sentiment)
 
 - **MRPC (Microsoft Research Paraphrase Corpus):** This task asks models to determine if two sentences are paraphrases, meaning they convey the same meaning. It's a test of semantic similarity, often useful for tasks like text deduplication or summarization.
 
+	**Example**:
+
+	- Input: `He is a teacher.` and `He teaches students.`
+	- Output: `1` (The sentences are paraphrases)
+	- Input: `She loves dogs.` and `She hates dogs.`
+	- Output: `0` (The sentences are not paraphrases)
 
 - **QQP (Quora Question Pairs):** Similar to MRPC, this task requires models to identify whether two questions from Quora are semantically equivalent. It emphasizes the importance of detecting similar intent in different phrasings—a challenge in tasks such as question answering and chatbot development.
 
+	**Example**:
+
+	- Input: `What is the capital of France?` and `Which city is the capital of France?`
+	- Output: `1` (The questions have the same meaning)
+	- Input: `What is the capital of France?` and `How big is France?`
+	- Output: `0` (The questions have different meanings)
 
 - **MNLI (Multi-Genre Natural Language Inference):** In this task, models must predict the relationship between a premise and a hypothesis across multiple genres of text. The relationship can be entailment (the premise supports the hypothesis), contradiction, or neutral. This broad task evaluates a model’s general inference capabilities across a diverse set of real-world genres.
 
+	**Example**:
+
+	- Premise: `The man is driving a car.`
+	- Hypothesis: `The man is traveling by vehicle.`
+	- Output: `Entailment` (The hypothesis follows from the premise)
+	- Premise: `The man is driving a car.`
+	- Hypothesis: `The man is flying an airplane.`
+	- Output: `Contradiction` (The hypothesis contradicts the premise)
 
 - **QNLI (Question-answering Natural Language Inference):** This task is a reformulation of the Stanford Question Answering Dataset (SQuAD), where the model must decide if the answer to a given question is contained within a provided context sentence. It helps assess a model’s understanding of question-answer relations and factual consistency.
 
+	**Example**:
+
+	- Question: `What is the capital of France?`
+	- Context: `Paris is the capital of France.`
+	- Output: `Entailment` (The context answers the question)
+	- Question: `What is the capital of France?`
+	- Context: `London is the capital of the UK.`
+	- Output: `Not Entailment` (The context doesn’t answer the question)
 
 - **RTE (Recognizing Textual Entailment):** Models are asked to predict whether one sentence entails another. This is a simplified version of the NLI task and tests the core reasoning abilities of a model, often based on short text pairs.
 
+	**Example**:
+
+	- Input: `The company CEO resigned.` and `The CEO of the company has left.`
+	- Output: `1` (Entailment)
+	- Input: `The company CEO resigned.` and `The CEO of the company is still in position.`
+	- Output: `0` (Not Entailment)
 
 - **WNLI (Winograd Natural Language Inference):** This is a challenging task involving pronoun resolution in complex sentences. Models must determine whether a sentence with a substituted pronoun logically follows from an original sentence. It tests a model's understanding of coreference resolution, a difficult area in language processing.
 
+	**Example**:
+
+	- Input: `The trophy didn’t fit in the suitcase because it was too small.`
+	- Output: `It` refers to `suitcase`
+	- Input: `The trophy didn’t fit in the suitcase because it was too big.`
+	- Output: `It` refers to `trophy`
 
 - **AX (Diagnostics Main):** A diagnostic dataset that helps evaluate model performance across different linguistic phenomena, such as lexical semantics, predicate-argument structure, and logical forms. This task offers insight into specific strengths and weaknesses in a model’s understanding of natural language inference.
 
+	**Example**:
+
+	- Input: `The cat sat on the mat.` and `The animal rested on the rug.`
+	- Diagnostic Assessment: Evaluates model performance in lexical semantics, e.g., understanding that `cat` and `animal` are related.
 
 - **STS-B (Semantic Textual Similarity Benchmark):** This task requires models to predict a similarity score (from 1 to 5) between two sentences, based on their meaning. It tests a model’s ability to assess fine-grained semantic similarity, a key aspect of tasks like text summarization or document retrieval.
+
+	**Example**:
+
+	- Input: `A man is playing a guitar.` and `A person is strumming a musical instrument.`
+	- Output: `4.8` (High semantic similarity)
+	- Input: `A man is playing a guitar.` and `A cat is sitting on a chair.`
+	- Output: `1.0` (No semantic similarity)
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/GLUE-2.jpg)
 <div align="center"><small>Summary of GLUE benchamrk tasks</small></div>
