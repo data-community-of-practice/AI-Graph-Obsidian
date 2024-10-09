@@ -2,7 +2,7 @@ AutoTM - Advancing Topic Modeling with AI-Powered Optimization
 
 The paper presents AutoTM 2.0, an advanced framework designed for optimizing additively regularized topic models (ARTM). It aims to simplify the complex process of topic modeling, making it accessible for both specialists and non-specialists. By integrating novel optimization pipelines and large language model (LLM)-based quality metrics, AutoTM 2.0 offers enhanced performance for analyzing and clustering text documents across diverse datasets. This version addresses the challenge of flexibility and parameter tuning in topic models, providing an adaptable solution for varied corpora.
 
-**Article link:** https://arxiv.org/pdf/2410.00655
+**Article link:** https://arxiv.org/abs/2410.00655
 
 1. **Context/Problem Statement:**  
    Topic modeling involves creating models that uncover the underlying structure of large text corpora. While effective, additively regularized topic models (ARTM) demand a high level of expertise to configure their parameters, making them challenging for general users. The need for an accessible yet powerful tool that simplifies this process is crucial for researchers and practitioners.
