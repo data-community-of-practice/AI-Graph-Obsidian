@@ -73,13 +73,16 @@ Once everything is set up, you're ready to start using the new voice chat. If it
 	![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/chatgpt_advanced_voice_5.png)
     <div align="center"><small>User interface of old ChatGPT voice chat</small></div>
 
-	These voices sound highly realistic and can even mimic the subtle noises or pauses that naturally occur in human speech. This significantly enhances the user experience, making interactions more lifelike and immersive.
+	These voices sound highly realistic and can even mimic the subtle noises or pauses that naturally occur in human speech. This significantly enhances the user experience, making interactions more lifelike and immersive. <br>
 
-- **Improved Accent Support**: The new version includes better support for various accents, allowing for more localized and natural-sounding speech. For instance, it can better handle regional accents compared to the older version, which was less adaptive.
+
+- **Improved Accent Support**: The new version includes better support for various accents, allowing for more localized and natural-sounding speech. For instance, it can better handle regional accents compared to the older version, which was less adaptive. <br>
 
 	The new voice mode does a better job of mimicking different accents, such as Italian-accented or Russian-accented English. I was pleasantly surprised to discover that ChatGPT can also imitate regional accents in other languages. For example, in Chinese, it can mimic accents like Beijing, Henan, or Sichuan dialects. This versatility further enhances the realism and personalization of the user experience.
+
     
 - **Multilingual Capability**: The new voice mode supports over 50 languages, such as saying "Sorry I'm late" in different languages. The old version had limited multilingual support, making this a significant improvement.
+
     
 - **Smoother Conversations**: The new text-to-speech engine offers smoother, more fluid conversations. Compared to the older version, the transitions between sentences and phrases are now more natural and less robotic.
 
@@ -109,9 +112,10 @@ Here are some potential drawbacks of the new Advanced Voice Mode:
 	![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/chatgpt_advanced_voice_6.jpg)
     <div align="center"><small>Reach the limit of data</small></div>
     
-1. **Pronunciation Issues**: Although it supports multiple languages, some of the accents or pronunciations in non-English languages can sound unnatural or inaccurate.
+2. **Pronunciation Issues**: Although it supports multiple languages, some of the accents or pronunciations in non-English languages can sound unnatural or inaccurate.
 
 	Although the English pronunciation is excellent, when it comes to other languages like Chinese, I noticed that a few words sound somewhat unnatural. It's relatively easy to tell that the voice isn't completely human in those cases.
+
     
 3. **Separate Window for Advanced Mode**: You can't use **Advanced Voice Mode** directly in the chat window; instead, you need to open a new chat window to start using it.
 
