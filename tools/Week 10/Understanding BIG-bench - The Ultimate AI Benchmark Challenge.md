@@ -63,6 +63,7 @@ However, as models scale, performance improvements are not always linear. Some t
 
 ![big_2](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/big-2.png)
 <div align="center" ><i>Benchmark tasks that achieve the highest and lowest scores on the metrics linearity and breakthroughness [1]</i></div>
+
 ### **The Role of Calibration and Social Bias**
 
 #### **Calibration in AI Models**
