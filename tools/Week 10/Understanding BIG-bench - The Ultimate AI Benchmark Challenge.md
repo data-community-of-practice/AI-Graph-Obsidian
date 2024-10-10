@@ -77,6 +77,7 @@ In the context of **BIG-bench**, it was observed that **larger language models**
 
 ![big_3](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/big-3.png)
 <div align="center" ><i>Language models make poorly calibrated predictions, but calibration improves as the models are made larger [1]</i></div>
+
 ##### **Brier Score:**
 
 The **Brier score** is used to measure this calibration. It's a metric that calculates the squared difference between predicted probabilities and actual outcomes. Lower Brier scores indicate better calibration, meaning the model is more appropriately confident about its predictions.
