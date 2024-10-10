@@ -1,18 +1,34 @@
 {
   "main": {
-    "id": "7dc0bfa83e7c226e",
+    "id": "5909c15a1c03f79e",
     "type": "split",
     "children": [
       {
-        "id": "d6ce9f22d8f1c2d4",
+        "id": "8ea26799f03f7b50",
         "type": "tabs",
         "children": [
           {
-            "id": "1e77d41b99a0bd71",
+            "id": "624a67997461eeb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 10/What is LM Studio-Working Examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b49e99db37d0310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8c9d5b3f3033ba0d",
+    "id": "77ab62e1de23b2d1",
     "type": "split",
     "children": [
       {
-        "id": "fe493e930a61e296",
+        "id": "88e713510c6f3b03",
         "type": "tabs",
         "children": [
           {
-            "id": "92f09afd97af2d1c",
+            "id": "861c242c15ad1263",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +55,7 @@
             }
           },
           {
-            "id": "fb388b70bf22a57d",
+            "id": "a04e8bcc30032661",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +70,7 @@
             }
           },
           {
-            "id": "ea91feec9f3efd99",
+            "id": "2a9e23eb09592648",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "8475f72ffd4f07e3",
+    "id": "b548bb0254d8db0a",
     "type": "split",
     "children": [
       {
-        "id": "2f37c709955bbfa7",
+        "id": "41f458546e86d53d",
         "type": "tabs",
         "children": [
           {
-            "id": "644a9c141bf5227d",
+            "id": "0705f80d7764c520",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/Week 10/What is LM Studio-Working Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +109,19 @@
             }
           },
           {
-            "id": "3fcaaddb963ab17c",
+            "id": "9112d2bef0c43272",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/Week 10/What is LM Studio-Working Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ea5c1082b7682f9b",
+            "id": "bbc1a56ce9816dfa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +132,13 @@
             }
           },
           {
-            "id": "86190c04d2a3893d",
+            "id": "6a70668e56b23484",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tools/Week 10/What is LM Studio-Working Examples.md"
+              }
             }
           }
         ]
@@ -138,21 +158,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92f09afd97af2d1c",
+  "active": "624a67997461eeb5",
   "lastOpenFiles": [
+    "tools/Week 9/Introduction to GLUE Benchmark.md",
+    "models/What-is-stable-diffusion-model.md",
     "tools/Week 10",
-    "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
-    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
-    "tools/What is LM Studio-Working Examples.md",
+    "tools/Week 10/What is LM Studio-Working Examples.md",
+    "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
+    "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
     "linkedin/Week 9/Cloud Adversarial Example Generation for Remote Sensing Image Classification.md",
     "linkedin/Week 9/Beyond Single-Audio - Advancing Multi-Audio Processing in Audio Large Language Models.md",
     "linkedin/Week 10/Unlocking the Role of Large Language Models in Machine Translation Evaluation.md",
-    "linkedin/Week 10/Revolutionising Rice Farming - AI-Based Precision in Detecting Rice Leaf Diseases.md",
-    "linkedin/Week 10/Preventing Dataset Misuse in Fine-Tuning Text-to-Image Models.md",
     "linkedin/Week 10/One2set + Large Language Model-Best Partners for Keyphrase Generation.md",
+    "linkedin/Week 10/Preventing Dataset Misuse in Fine-Tuning Text-to-Image Models.md",
+    "linkedin/Week 10/Revolutionising Rice Farming - AI-Based Precision in Detecting Rice Leaf Diseases.md",
     "linkedin/Week 10/How Toxicity Classifiers and Large Language Models Respond to Ableism.md",
+    "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
+    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
     "linkedin/Week 10/AutoTM - Advancing Topic Modeling with AI-Powered Optimization.md",
-    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
-    "linkedin/Week 10"
+    "linkedin/Week 10",
+    "tools/Week 9/Game-N-Gen.md",
+    "models/Viggle AI Revolutionizing Digital Creativity with Controllable Video Generation.md",
+    "models/The Ultimate FLUX.1 Hands-On Guide From Beginner to Advanced with LoRA and ControlNet.md",
+    "models/Stable-diffusion-prompt-tips.md",
+    "models/Mistral-Nemo-GPT4-Llama.md",
+    "models/How to Run Llama 32 on Android Phone.md",
+    "models/claude-llama-gpt-comparison.md",
+    "models/Week 7/Revolutionizing Microscopy How AI Is Enhancing Image Quality Without Compromising Sample Integrity.md",
+    "models/Breaking the Transformer Monopoly Liquid Foundation Models Redefine SOTA.md",
+    "tools/Week 9/Game-N-Gen.md",
+    "tools/Week 9/Molmo.md",
+    "img/Molmo.png",
+    "img/GLUE-3.png",
+    "img/GLUE-2.jpg",
+    "img/GLUE-1.png",
+    "img/202410041135271.png",
+    "img/202410041134993.png",
+    "img/202410041134439.png",
+    "img/202410041134423.png",
+    "img/202410041134166.png",
+    "img/202410041134018.png",
+    "linkedin/Week 9"
   ]
 }
