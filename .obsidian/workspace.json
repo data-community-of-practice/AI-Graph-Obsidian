@@ -11,8 +11,24 @@
             "id": "1e77d41b99a0bd71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92ce0e1fec3f115f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md"
+              }
             }
           }
         ]
@@ -138,8 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92f09afd97af2d1c",
+  "active": "1e77d41b99a0bd71",
   "lastOpenFiles": [
+    "img/big-4.png",
+    "img/big-3.png",
+    "img/big-2.png",
+    "img/big-1.png",
+    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+    "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
+    "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
+    "img/big-intro.png",
     "tools/Week 10",
     "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
     "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
