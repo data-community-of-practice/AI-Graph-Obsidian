@@ -197,19 +197,19 @@ Actual Stable Diffusion WEBUI:
 
 1. **State Preservation**  
     Gradio allows you to store and maintain state between different user interactions. For example, if you're working with a chatbot or any model that needs context, you can maintain the conversation history across different responses.
-    
+
 2. **Theming**  
     Gradio interfaces can be customized with different themes, such as dark mode or light mode, or you can create a custom theme using CSS to match your brand or personal style.
-    
+
 3. **Interactive Examples**  
     Gradio allows you to pre-load examples into your interface so that users can quickly test your model without needing to input their own data. This is particularly useful for demonstration purposes when you want to showcase specific use cases.
-    
+
 4. **API Access**  
     For developers looking to integrate Gradio with other applications or services, it provides RESTful API access. This allows you to make API calls to the Gradio app, giving external systems the ability to interact with your model.
-    
+
 5. **Collaboration with Hugging Face Spaces**  
     Gradio integrates seamlessly with Hugging Face Spaces, a platform where developers can share their ML models and interfaces. With this integration, developers can easily share their Gradio-powered interfaces with the larger Hugging Face community.
-    
+
 
 ### **Use Cases of Gradio**
 

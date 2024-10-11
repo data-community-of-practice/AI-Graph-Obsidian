@@ -1,31 +1,30 @@
 {
   "main": {
-    "id": "7dc0bfa83e7c226e",
+    "id": "b2bb22c1ac7ba6cc",
     "type": "split",
     "children": [
       {
-        "id": "d6ce9f22d8f1c2d4",
+        "id": "294654c42bff7b04",
         "type": "tabs",
         "children": [
           {
-            "id": "1e77d41b99a0bd71",
+            "id": "5036c0c8576f595d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
+                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92ce0e1fec3f115f",
+            "id": "53e549debe18c815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
                 "file": "models/What-is-stable-diffusion-model.md",
                 "mode": "source",
                 "source": false
@@ -33,33 +32,45 @@
             }
           },
           {
-            "id": "16d7210b989bcc39",
+            "id": "06adf7c119aeb5fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gradio-overview.md",
+                "file": "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fbdb49e85b889b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8c9d5b3f3033ba0d",
+    "id": "3c060475ed67e2ac",
     "type": "split",
     "children": [
       {
-        "id": "fe493e930a61e296",
+        "id": "454c3cb742b7bb9d",
         "type": "tabs",
         "children": [
           {
-            "id": "92f09afd97af2d1c",
+            "id": "b2a99cec1e3f006f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +80,7 @@
             }
           },
           {
-            "id": "fb388b70bf22a57d",
+            "id": "6c407348118a893b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,7 +95,7 @@
             }
           },
           {
-            "id": "ea91feec9f3efd99",
+            "id": "71aa4c6807af2116",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,21 +109,20 @@
     "width": 300
   },
   "right": {
-    "id": "8475f72ffd4f07e3",
+    "id": "e65ba5079b55109f",
     "type": "split",
     "children": [
       {
-        "id": "2f37c709955bbfa7",
+        "id": "c92a264277eab817",
         "type": "tabs",
         "children": [
           {
-            "id": "644a9c141bf5227d",
+            "id": "98d7e5caf4851969",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
-                "file": "gradio-overview.md",
+                "file": "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,20 +134,19 @@
             }
           },
           {
-            "id": "3fcaaddb963ab17c",
+            "id": "821b76907e0ec027",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
-                "file": "gradio-overview.md",
+                "file": "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ea5c1082b7682f9b",
+            "id": "8e842e86d9c6ed28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,13 +157,12 @@
             }
           },
           {
-            "id": "86190c04d2a3893d",
+            "id": "95cd573d31a779d0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md"
-                "file": "gradio-overview.md"
+                "file": "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md"
               }
             }
           }
@@ -175,79 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e77d41b99a0bd71",
-  "active": "16d7210b989bcc39",
+  "active": "7fbdb49e85b889b3",
   "lastOpenFiles": [
+    "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
+    "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
+    "gradio-overview.md",
+    "conflict-files-obsidian-git.md",
     "tools/Week 9/Game-N-Gen.md",
     "tools/Week 10/What is LM Studio-Working Examples.md",
-    "linkedin/Week 10/FRAME-VOYAGER Optimizing Frame Queries for Video-LLMsd.md",
-    "linkedin/Week 10/AI in Freeform Optics A Review.md",
-    "img/big-4.png",
-    "img/big-3.png",
-    "img/big-2.png",
-    "img/big-1.png",
-    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
+    "tools/Week 10/Unlocking the Power of ChatGPT's Advanced Voice Mode.md",
     "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
-    "models/What-is-stable-diffusion-model.md",
-    "gradio-overview.md",
-    "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
-    "tools/Game-N-Gen.md",
-    "tools/README.md",
-    "Pasted image 20240919121935.png",
-    "README.md",
-    "undefined.md",
-    "tools/Week 9/Molmo.md",
-    "tools/Week 9/Introduction to GLUE Benchmark.md",
-    "linkedin/Week 9/torchKLIP A PyTorch Benchmark for Enhancing High-Contrast Exoplanet Imaging.md",
-    "linkedin/Week 9/Enhancing Scientific Literature Synthesis with LLMs The LLMs4Synthesis Framework.md",
-    "img/Molmo.png",
-    "img/GLUE-3.png",
-    "img/GLUE-2.jpg",
-    "img/GLUE-1.png",
-    "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
-    "conflict-files-obsidian-git.md",
-    "tools/Week 9/What is Fal AI.md",
-    "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
-    "img/big-intro.png",
     "tools/Week 10",
-    "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
-    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
-    "tools/What is LM Studio-Working Examples.md",
     "linkedin/Week 9/Cloud Adversarial Example Generation for Remote Sensing Image Classification.md",
     "linkedin/Week 9/Beyond Single-Audio - Advancing Multi-Audio Processing in Audio Large Language Models.md",
     "linkedin/Week 10/Unlocking the Role of Large Language Models in Machine Translation Evaluation.md",
     "linkedin/Week 10/Revolutionising Rice Farming - AI-Based Precision in Detecting Rice Leaf Diseases.md",
     "linkedin/Week 10/Preventing Dataset Misuse in Fine-Tuning Text-to-Image Models.md",
+    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
     "linkedin/Week 10/One2set + Large Language Model-Best Partners for Keyphrase Generation.md",
     "linkedin/Week 10/How Toxicity Classifiers and Large Language Models Respond to Ableism.md",
+    "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
+    "linkedin/Week 10/FRAME-VOYAGER Optimizing Frame Queries for Video-LLMsd.md",
     "linkedin/Week 10/AutoTM - Advancing Topic Modeling with AI-Powered Optimization.md",
-    "linkedin/Week 8/Nigerian Software Engineer or American Data Scientist - GitHub Profile Recruitment Bias in Large Language Models.md",
-    "linkedin/Week 10"
+    "linkedin/Week 10/AI in Freeform Optics A Review.md",
+    "linkedin/Week 10",
+    "img/chatgpt_advanced_voice_6.jpg",
+    "img/chatgpt_advanced_voice_5.png",
+    "img/chatgpt_advanced_voice_4.jpg",
+    "img/chatgpt_advanced_voice_3.jpg",
+    "img/chatgpt_advanced_voice_2.png",
+    "img/chatgpt_advanced_voice_1.png",
+    "img/big-intro.png",
+    "img/big-4.png",
+    "img/big-3.png",
+    "img/big-2.png",
+    "models/What-is-stable-diffusion-model.md",
+    "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
+    "tools/Game-N-Gen.md",
+    "tools/README.md",
+    "README.md",
+    "undefined.md",
     "tools/Week 9",
-    "tools/Week 8/Qwen 2.5 Is It Really That Good.md",
-    "models/How to Run Llama 32 on Android Phone.md",
-    "models/Breaking the Transformer Monopoly Liquid Foundation Models Redefine SOTA.md",
-    "linkedin/Week 9/Unlocking the Future of Video Understanding The Rise of MultiModal Large Language Models for Long Videos.md",
-    "linkedin/Week 9/Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation.md",
-    "linkedin/Week 9/study on histopathology image classification.md",
-    "linkedin/Week 9/multimodal medical image fusion for non small cell lung cancer classification.md",
-    "linkedin/Week 9/Enhancing AI Explainability with Ontology-Driven Multimodal Models.md",
-    "linkedin/Week 9/Aided design of bridge aesthetics based on Stable Diffusion fine-tuning.md",
     "linkedin/Week 9",
-    "linkedin/Week 8/Privacy-Enhanced Training for ControlNet with Split Learning.md",
-    "linkedin/Week 8/A Method for Generating Unseen 3D Human Motions.md",
-    "img/qwen2.5-9.png",
-    "img/qwen2.5-8.jpg",
-    "img/qwen2.5-7.jpg",
-    "img/qwen2.5-6.png",
-    "img/qwen2.5-5.jpg",
     "tools/Week 8",
     "linkedin/Week 8",
     "models/Week 7",
     "tools/Week 7",
     "linkedin/Week 7",
-    "tools/Week 6",
-    "linkedin/Week 6",
-    "tools/Week 5"
+    "tools/Week 6"
   ]
 }
