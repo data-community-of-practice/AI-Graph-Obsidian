@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
+                "file": "models/What-is-stable-diffusion-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d7210b989bcc39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gradio-overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
+                "file": "gradio-overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
+                "file": "gradio-overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md"
+                "file": "gradio-overview.md"
               }
             }
           }
@@ -158,11 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5036c0c8576f595d",
+  "active": "16d7210b989bcc39",
   "lastOpenFiles": [
+    "models/What-is-stable-diffusion-model.md",
+    "gradio-overview.md",
     "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
-    "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
     "tools/Game-N-Gen.md",
+    "tools/README.md",
+    "Pasted image 20240919121935.png",
+    "README.md",
+    "undefined.md",
+    "tools/Week 9/Molmo.md",
+    "tools/Week 9/Introduction to GLUE Benchmark.md",
+    "linkedin/Week 9/torchKLIP A PyTorch Benchmark for Enhancing High-Contrast Exoplanet Imaging.md",
+    "linkedin/Week 9/Enhancing Scientific Literature Synthesis with LLMs The LLMs4Synthesis Framework.md",
+    "img/Molmo.png",
+    "img/GLUE-3.png",
+    "img/GLUE-2.jpg",
+    "img/GLUE-1.png",
+    "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
     "conflict-files-obsidian-git.md",
     "tools/Week 9/What is Fal AI.md",
     "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
@@ -179,25 +206,11 @@
     "linkedin/Week 9",
     "linkedin/Week 8/Privacy-Enhanced Training for ControlNet with Split Learning.md",
     "linkedin/Week 8/A Method for Generating Unseen 3D Human Motions.md",
-    "linkedin/Cloud Adversarial Example Generation for Remote Sensing Image Classification.md",
-    "linkedin/Beyond Single-Audio - Advancing Multi-Audio Processing in Audio Large Language Models.md",
     "img/qwen2.5-9.png",
     "img/qwen2.5-8.jpg",
     "img/qwen2.5-7.jpg",
     "img/qwen2.5-6.png",
     "img/qwen2.5-5.jpg",
-    "img/qwen2.5-4.jpg",
-    "img/qwen2.5-3.jpg",
-    "img/qwen2.5-2.jpg",
-    "img/qwen2.5-15.jpg",
-    "img/qwen2.5-14.jpg",
-    "models/Stable-diffusion-prompt-tips.md",
-    "linkedin/Week 8/Efficient-Domain-Augmentation-for-Autonomous-Driving-Testing-Using-Diffusion-Models.md",
-    "models/Week 7/midjourney-vs-stable-diffusion.md",
-    "models/Week 7/How OpenAI's O1 Series Really Stands Out Redefining AI Reasoning.md",
-    "models/Mistral-Nemo-GPT4-Llama.md",
-    "models/claude-llama-gpt-comparison.md",
-    "models/Week 4/what-is-DETR.md",
     "tools/Week 8",
     "linkedin/Week 8",
     "models/Week 7",
