@@ -10,7 +10,7 @@
 ## Introduction
 In the rapidly advancing field of AI language models, **Reflection Llama 3.1** emerges as a game-changing innovation. Released on **September 6, 2024**, this enhanced version of the **Llama 3.1 70B Instruct model** introduces a pioneering technique known as *reflection-tuning*. This new method enables the model to identify and correct its own errors, providing a level of precision and insight that outperforms earlier versions.
 
-In this article, we’ll explore the key aspects of **Reflection Llama 3.1**, including its unique features and how it compares to other top-tier AI models. We'll also guide you on how to start using this advanced model and what it could mean for the future of AI technology.
+In this article, we’ll explore the key aspects of **Reflection Llama 3.1**, including its unique features and how it compares to other top-tier AI models. We'll also guide you on how to start using this advanced model and what it could mean for the future of AI technology. However, this is controversial model and along with exploring highly successful models, reflecting on controversial models gives us idea about the work as well.
 
 ## What is Reflection Llama 3.1?
 **Reflection Llama 3.1** is built upon the robust framework of the **Llama 3.1 70B Instruct** model, but it introduces a unique *reflection-tuning* approach. Unlike conventional models, this capability allows Reflection Llama to assess its own thought process, correct mistakes, and deliver a more accurate final response. Here’s a closer look at the model’s workflow:
@@ -36,10 +36,10 @@ Reflection Llama 3.1 stirred excitement with claims of surpassing other AI model
 When **Reflection Llama 3.1 70B** was launched, it claimed to outdo **GPT-4o** and **Claude 3.5 Sonnet** on various benchmarks. However, early testing by **Artificial Analysis** indicated that the model fell short of expectations. The first release on **Hugging Face** encountered criticism due to performance inconsistencies, primarily linked to issues with the model's weights.
 
 ![](https://imgur.com/VZDyInr.png)
-<div align="center"><small>Reflection Llama 3.1 vs Frontier Models</small></div>
+<div align="center"><small>Reflection Llama 3.1 vs Frontier Models<a href="https://x.com/ArtificialAnlys/status/1832505338991395131" target="_blank">Source</a></small></div>
 
 ![](https://imgur.com/4a9MWcd.png)
-<div align="center"><small>Quality Evaluation: MMLU</small></div>
+<div align="center"><small>Quality Evaluation: MMLU<a href="https://x.com/ArtificialAnlys/status/1832505338991395131" target="_blank">Source</a></small></div>
 
 ### Retraining and Adjustments  
 To resolve these issues, the developers retrained **Reflection Llama 3.1** and released an updated version on **OpenRouter**. Although the revised model showed improvements compared to the initial version, it still didn't quite live up to the original bold claims. The lack of transparency regarding the exact model weights posed challenges for independent verification of its performance.
