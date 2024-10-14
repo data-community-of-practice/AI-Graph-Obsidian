@@ -11,8 +11,12 @@
             "id": "0cb8fde19b5ec2b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md"
+              }
             }
           }
         ]
@@ -139,5 +147,8 @@
     }
   },
   "active": "0cb8fde19b5ec2b8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "linkedin/Week 11/DiffusionFake - Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion.md",
+    "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md"
+  ]
 }
