@@ -57,7 +57,7 @@ Despite facing some initial hurdles, **Reflection Llama 3.1** has shown promisin
 You can explore Reflection Llama 3.1 on Hugging Face’s platform through <a href="https://huggingface.co/mattshumer/ref_70_e3" target="_blank">this link</a> and try out the new reflection-tuning feature. For a more in-depth experience, developers and researchers can access the private API version through OpenRouter, though public availability remains limited.
 
 ### Reflection Llama 3.1 Model in Action
-To evaluate the performance of **Reflection Llama 3.1**, I tested the model using a variety of prompts.
+To evaluate the performance of **Reflection Llama 3.1**, the model is tested using a variety of prompts as given <a href="https://www.datacamp.com/tutorial/reflection-llama-3-1-70b" target="_blank">here</a> .
 
 **Numerical Reasoning with Financial Data**  
 Reflection Llama 3.1 handled a financial prompt effectively, accurately calculating and comparing the cumulative returns for **UPS** and the **S&P 500 Index** over a five-year period.
@@ -322,7 +322,7 @@ No, if it is raining and the ground is wet, it doesn't necessarily mean that the
 ## Final Thoughts: Is Reflection Llama 3.1 the Future of AI?  
 Reflection Llama 3.1’s journey has been a blend of innovation, setbacks, and potential. The reflection-tuning approach signals a new direction for AI models, one where transparency and iterative learning are at the forefront. While questions about performance reproducibility remain, the model’s creators are optimistic that future versions like Reflection Llama 405B will close the gap between claims and results.
 
-As the AI landscape continues to evolve, Reflection Llama 3.1 stands as a testament to the possibilities and challenges of pushing the boundaries in AI development. Whether it becomes the benchmark for future models or simply a stepping stone, its impact on the field of AI is undeniable.
+As the AI landscape continues to evolve, Reflection Llama 3.1 stands as a testament to the possibilities and challenges of pushing the boundaries in AI development. Whether it becomes the benchmark for future models or simply a stepping stone, its impact on the field of AI is undeniable. However due to its controversies, this model demands further investigations.
 
 ## Reference
 
