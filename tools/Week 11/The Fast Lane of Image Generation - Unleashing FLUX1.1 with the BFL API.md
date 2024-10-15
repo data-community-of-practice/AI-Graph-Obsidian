@@ -28,7 +28,7 @@ Before delving into the **BFL API**, it's important to understand the power behi
 ![bfl2](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/bfl-2.png)
 <div align="center" ><i>FLUX1.1 [pro] Elo Score: Performance Leader in Image Generation,  Source : blackforestlabs.ai</i></div>
 
-![bfl3](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/bfl-3e.png)
+![bfl3](https://blackforestlabs.ai/wp-content/uploads/2024/10/elo_vs_price-3-1536x1152.png)
 <div align="center" ><i>FLUX1.1 [pro]: Elo Score vs. Cost Comparison of Leading Image Models,  Source : blackforestlabs.ai</i></div>
 
 ![bfl4](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/bfl-4.png)
