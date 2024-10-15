@@ -1,5 +1,6 @@
 ![Logo](https://www.blackforestlabs.ai/wp-content/uploads/2024/07/logo-with-text_more-1024x970.png)
 <div align="center" ><i>Source : blackforestlabs.ai</i></div>
+
 # **Author**
 
 Tarun Krishnan (**ORCID**: [0009-0006-6647-127X](https://orcid.org/0009-0006-6647-127X))
@@ -19,6 +20,7 @@ Before delving into the **BFL API**, it's important to understand the power behi
 ![bfl1](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/bfl-1.png)
 
 <div align="center" ><i>FLUX1.1 [pro] Image Generation Examples, Source : blackforestlabs.ai</i></div>
+
 ### Why Choose FLUX1.1 [pro]?
 
 - **Speed and Efficiency**: The model strikes an ideal balance between image quality and inference speed, producing images three times faster than **FLUX.1 [pro]**, making it perfect for workflows that demand both speed and precision.
