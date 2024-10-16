@@ -21,13 +21,14 @@ Adjustment Phase: Based on its reflection, the AI makes adjustments to its respo
 Proponents of this approach argue that reflection brings AI closer to human-like thinking and enables it to handle complex, ambiguous tasks more effectively. The idea is that a reflective AI can learn from its own mistakes without needing constant human intervention. However, this capability comes with significant challenges, leading some experts to question whether the benefits outweigh the costs.
 
 ## Controversy and Claims 
-One of the models, Reflection Llama 3.1 stirred excitement with claims of surpassing other AI models, though its path has seen a mix of achievements and challenges. During user testing, some reported that the model identified itself as **Claude Sonnet 3.5**, raising questions about its true origins. Additionally, some users speculated that the model was actually based on the older **Llama 3** rather than the updated **Llama 3.1**. These controversies have added an intriguing twist to the model's narrative.  When **Reflection Llama 3.1 70B** was launched, it claimed to outdo **GPT-4o** and **Claude 3.5 Sonnet** on various benchmarks. However, early testing by **Artificial Analysis** indicated that the model fell short of expectations. The first release on **Hugging Face** encountered criticism due to performance inconsistencies, primarily linked to issues with the model's weights.Here’s an overview of the controversies:
+One of the models, Reflection Llama 3.1 stirred excitement with claims of surpassing other AI models, though its path has seen a mix of achievements and challenges. Some reported that the model identified itself as **Claude Sonnet 3.5**, raising questions about its true origins. Additionally, some users speculated that the model was actually based on the older **Llama 3** rather than the updated **Llama 3.1**. These controversies have added an intriguing twist to the model's narrative.  When **Reflection Llama 3.1 70B** was launched, it claimed to outdo **GPT-4o** and **Claude 3.5 Sonnet** on various benchmarks. However, early testing by **Artificial Analysis** indicated that the model fell short of expectations as shown <a href="https://x.com/ArtificialAnlys/status/1832505338991395131" target="_blank"> here.</a>. Here’s an overview of the controversies:
 
 ![](https://imgur.com/bmBmH4e.png)
 <div align="center"><small>Reflection Llama 3.1 vs Frontier Models<a href="https://x.com/ArtificialAnlys/status/1832505338991395131" target="_blank">Source</a></small></div>
 
 ## Tests using Prompt Engineering
 
+The results of few prompts are shown below. <a href="https://www.datacamp.com/tutorial/reflection-llama-3-1-70b" target="_blank"> Source</a>
 **Numerical Reasoning with Financial Data**  
 Reflection Model is tested with financial prompt, to calculate and compare the cumulative returns for **UPS** and the **S&P 500 Index** over a five-year period.
 
@@ -162,7 +163,7 @@ Therefore we can see that it has overthinking issue.
 Much like humans can overthink decisions, reflective AI models can fall into a loop of unnecessary self-evaluation. This overthinking leads to inefficiency because the system is essentially second-guessing itself. In some cases, the AI may make a correct decision but then waste time reflecting on it, considering whether it made an error, and sometimes needlessly adjusting its response.
 
 ## Conclusion
-The introduction of reflection in AI has sparked an important debate about the direction of AI development. While the idea of self-assessing models is exciting, it often results in unnecessary complexity and inefficiency. Many tasks that reflection seeks to improve can be handled just as effectively, if not more so, by non-reflective models designed for speed and accuracy.
+The introduction of reflection in AI has sparked an important debate about the direction of AI development. While self-assessing models are an exciting concept, they can add unnecessary complexity. Many tasks that reflection aims to enhance can be handled just as well, by non-reflective models that prioritise speed and accuracy. 
 
 ## Reference
 
