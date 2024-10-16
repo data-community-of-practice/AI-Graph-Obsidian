@@ -26,9 +26,11 @@ One of the models, Reflection Llama 3.1 stirred excitement with claims of surpas
 ![](https://imgur.com/bmBmH4e.png)
 <div align="center"><small>Reflection Llama 3.1 vs Frontier Models<a href="https://x.com/ArtificialAnlys/status/1832505338991395131" target="_blank">Source</a></small></div>
 
-## Tests using Prompt Engineering
+## Outputs of Prompt Engineering
 
-The results of few prompts are shown below. <a href="https://www.datacamp.com/tutorial/reflection-llama-3-1-70b" target="_blank"> Source</a>
+The results of few prompts are shown below. <a href="https://www.datacamp.com/tutorial/reflection-llama-3-1-70b" target="_blank"> Source. </a>
+
+
 **Numerical Reasoning with Financial Data**  
 Reflection Model is tested with financial prompt, to calculate and compare the cumulative returns for **UPS** and the **S&P 500 Index** over a five-year period.
 
