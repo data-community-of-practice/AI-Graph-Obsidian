@@ -1,0 +1,15 @@
+MHSS: Tackling Noisy Labels in Multi-Label Classification for Smarter Sewer Inspections
+
+📌 Automating CCTV sewer inspections using multi-label image classification has shown promise, but the significant presence of label noise in historical inspection databases poses a major challenge. This paper tackles the under-explored issue of label noise in multi-label classification (MLC), proposing novel approaches to enhance robustness and accuracy in the face of complex, real-world noise patterns. By addressing this critical gap, the research paves the way for more reliable and efficient automated sewer inspection systems.
+
+Article Link: https://arxiv.org/abs/2410.07689
+
+🔹 Multi-label classification (MLC) in sewer inspection datasets faces significant challenges due to label noise. This noise stems from inconsistencies between operators and limitations of inspection cameras. While label noise has been extensively studied in single-label classification, it remains relatively unexplored in MLC. Naive adaptations of single-label methods to MLC often prove ineffective, especially when dealing with complex, real-world noise patterns.
+
+🔹 The paper introduces MHSS (Multi-label Hybrid Sample Selection), a novel method built upon the adapted CoSELFIE algorithm. MHSS incorporates two key innovations: Class-dependent Noise Rate (CDNR) and Joint Correction Criterion (JCC). CDNR adapts the forget rate to be class-specific, addressing the reality that noise rates often vary across classes in MLC. JCC leverages the dual network architecture to improve label correction, allowing for more effective handling of complex noise patterns.
+
+🔹 The study revealed that the small-loss trick alone is insufficient for handling complex label noise in MLC. Hybrid methods, like MHSS, that combine sample selection with other approaches perform significantly better. MHSS outperformed other methods on both synthetic and real-world noisy datasets, demonstrating substantial improvements in mAP scores. On the UcMerced dataset with complex noise, MHSS achieved a 9.9% improvement over the baseline, while on a real-world sewer inspection dataset, it showed a 0.6% improvement, outperforming existing methods.
+
+🔹 This research significantly advances the field of multi-label classification with noisy labels, offering both theoretical insights and practical solutions for real-world applications like sewer inspection automation. However, challenges remain in handling mixed noise types in diverse real-world scenarios. Future work should focus on developing more adaptive methods that can effectively tackle varying noise patterns across different industrial applications and datasets.
+
+Chelouche, K., Lachaize, M., Bernard, M., Olgiati, L., & Cuingnet, R. (2024). When the Small-Loss Trick is Not Enough: Multi-Label Image Classification with Noisy Labels Applied to CCTV Sewer Inspections. arXiv. DOI: 10.48550/ARXIV.2410.07689
