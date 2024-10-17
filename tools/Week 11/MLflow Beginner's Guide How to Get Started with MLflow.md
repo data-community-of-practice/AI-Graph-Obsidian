@@ -47,6 +47,7 @@ After running the above command, you will see the URL for the running MLflow UI 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/mlflow-2.jpg)
 <div align="center"><small>MLFlow server is running in the terminal</small></div>
 
+<br>
 By opening this URL in your browser, you will see the UI as depicted in the following image:
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/mlflow-3.jpg)
@@ -159,12 +160,16 @@ Once the site opens, you'll see a screen similar to the one below:
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/mlflow-4.png)
 <div align="center"><small>The main MLflow Tracking page, showing Experiments that have been created, downloaded from MLflow website</small></div>
 
+<br>
+
 By clicking on the name of the experiment we created ("MLflow Quickstart"), you'll be presented with a list of all the runs associated with that experiment. In the table view on the right, you'll see a randomly generated name for the run.
 
 Clicking on the run's name will take you to the run details page, where you can view all the information we've logged. The key elements are highlighted below to show how and where this data is displayed within the UI:
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/mlflow-5.png)
 <div align="center"><small>The run view page for our run, downloaded from MLflow website</small></div>
+
+<br>
 
 Our model have also been saved in Registered Model section named as "tracking-quickstart":
 
