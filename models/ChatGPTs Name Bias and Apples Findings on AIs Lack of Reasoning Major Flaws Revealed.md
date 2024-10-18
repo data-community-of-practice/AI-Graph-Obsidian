@@ -27,6 +27,7 @@ In this article, we will delve into these two important studies, examining the l
 ## Apple's New Paper Questions AI's Reasoning Capabilities
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181418097.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 The paper titled "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models," with Apple's machine learning research engineer Iman Mirzadeh as the first author, includes Samy Bengio, the brother of Turing Award winner Yoshua Bengio, as one of the co-authors.
 
@@ -59,12 +60,15 @@ As the researchers stated in their paper: "We studied the fragility of mathemati
 This conclusion has been endorsed by François Chollet, the creator of Keras, and cognitive scientist Gary Marcus, both of whom have long been skeptical about the capabilities of large AI models. Recently, François Chollet posted that LLMs, when used through prompting, fail to understand situations that diverge significantly from their training data, and therefore, they do not possess general intelligence. He believes that LLMs serve primarily as repositories of knowledge and procedures for actual AGI, functioning as a form of memory, whereas intelligence is much more than just memory. Apple's recent paper now lends support to his viewpoint.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181419211.png)
+*https://x.com/fchollet/status/1844759564874387558*
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181419577.png)
+*https://x.com/GaryMarcus/status/1844754079618400271*
 
 However, a researcher from OpenAI refuted this paper, pointing out that many top-tier LLMs are actually chat models trained to handle the chaotic environment of conversations. They are designed to infer user intent and utilize all provided information, even if it is not logically necessary. Therefore, when these models generalize this behavior to mathematical problems, it is not due to a lack of reasoning ability but rather because this is the expected behavior they have been trained to follow. The researcher also noted that humans typically have clear context when solving math problems, whereas LLMs might lack such context. Consequently, if appropriate prompt engineering is used to clearly indicate to the model that it is in a math exam setting, the performance decline caused by adding extraneous clauses could potentially be mitigated.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181419185.png)
+*https://x.com/boazbaraktcs/status/1844763538260209818*
 
 Some have pointed out that this phenomenon can also be observed in human groups. For instance, when irrelevant statements are added to calculus problems, many college freshmen can be misled. This suggests that humans might have similar limitations in reasoning as large language models (LLMs).
 
@@ -84,30 +88,38 @@ Small changes in input tokens can dramatically alter model outputs, indicating a
 Mathematical reasoning is a crucial cognitive skill supporting problem-solving in many scientific and practical applications. The GSM8K (Grade School Math 8K) dataset, proposed by OpenAI in 2021, has become a popular benchmark for evaluating the mathematical reasoning capabilities of LLMs. Although it includes simple math problems with detailed solutions suitable for techniques like Chain of Thought (CoT) prompting, it only provides a single metric on a fixed set of problems. This limitation restricts comprehensive insights into the model's mathematical reasoning abilities. Additionally, the popularity and ubiquity of GSM8K may increase the risk of accidental data contamination. Finally, the static nature of GSM8K does not allow for controlled experiments to understand model limitations, such as behavior under different conditions or variations in problem aspects and difficulty levels.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181420695.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 To address these issues, there is a need for a more diverse and adaptive evaluation framework—one that can generate a variety of problem variants and adjust complexity levels to better explore the robustness and reasoning abilities of LLMs. This would help in gaining deeper insights into the strengths and weaknesses of these models in mathematical reasoning tasks. The authors make the following contributions:
 
 1. The authors introduce GSM-Symbolic, an enhanced benchmark that uses symbolic templates to generate diverse variants of GSM8K problems. This allows researchers to conduct more detailed and reliable evaluations of LLM performance across various settings, going beyond single-point accuracy metrics. The authors conducted a large-scale study on 25 state-of-the-art open and closed models, providing significant insights into LLM behavior in mathematical reasoning tasks.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181420270.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 2. The authors question the reliability of current results reported on GSM8K, demonstrating that LLM performance shows unreasonable variability when handling different formulations of the same problem. They show that all models experience a performance drop on GSM-Symbolic, suggesting potential data contamination.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181420996.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 3. The authors demonstrate that while LLMs are more robust to changes in surface elements, such as proper nouns, they are very sensitive to numerical changes. They show that as the number of clauses increases, model performance declines and variance increases, indicating that LLMs struggle with reasoning as complexity increases.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181420474.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181420379.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181421581.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 4. Finally, the authors further question the reasoning abilities of LLMs by introducing the GSM-NoOp dataset. By adding seemingly relevant but ultimately irrelevant information to the problems, they demonstrate a significant performance drop in all state-of-the-art models, with decreases of up to 65%.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181421607.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410181422192.png)
+*https://x.com/MFarajtabar/status/1844456880971858028*
 
 This reveals a critical flaw in the models' ability to discern relevant information for problem-solving, likely because their reasoning relies more on pattern matching rather than formal reasoning in the commonsense sense. The authors show that even when provided with multiple examples of the same problem or examples containing similar irrelevant information, LLMs struggle to overcome the challenges presented by GSM-NoOp. This indicates deeper issues in their reasoning processes that cannot be mitigated by contextual examples and require further investigation.
 
