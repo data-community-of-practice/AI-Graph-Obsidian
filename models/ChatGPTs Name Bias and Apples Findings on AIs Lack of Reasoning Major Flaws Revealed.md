@@ -300,3 +300,7 @@ OpenAI’s study, on the other hand, focuses on bias in AI outputs, demonstratin
 
 - https://openai.com/index/evaluating-fairness-in-chatgpt/
 - https://techcrunch.com/2024/10/11/researchers-question-ais-reasoning-ability-as-models-stumble-on-math-problems-with-trivial-changes/
+- https://x.com/boazbaraktcs/status/1844763538260209818
+- https://x.com/GaryMarcus/status/1844754079618400271
+- https://x.com/fchollet/status/1844759564874387558
+- https://x.com/MFarajtabar/status/1844456880971858028
