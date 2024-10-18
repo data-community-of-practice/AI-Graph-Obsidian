@@ -1,17 +1,14 @@
 {
   "main": {
     "id": "b2bb22c1ac7ba6cc",
-    "id": "10649f0696283d80",
     "type": "split",
     "children": [
       {
         "id": "294654c42bff7b04",
-        "id": "918036705e8fddb7",
         "type": "tabs",
         "children": [
           {
             "id": "5036c0c8576f595d",
-            "id": "5ae8117d57fc18b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +16,9 @@
                 "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Transforming-Facial-Paralysis-Diagnosis-with-CCFExp"
             }
           },
           {
@@ -31,7 +30,9 @@
                 "file": "models/What-is-stable-diffusion-model.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "What-is-stable-diffusion-model"
             }
           },
           {
@@ -43,7 +44,9 @@
                 "file": "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Transforming-Hyperspectral-Image-Classification-with-SFormer"
             }
           },
           {
@@ -53,13 +56,12 @@
               "type": "markdown",
               "state": {
                 "file": "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
-                "file": "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Advancing-Machine-Translation-with-Multi-task-Learning"
             }
-          }
-        ]
           },
           {
             "id": "19b217363ffb3173",
@@ -67,22 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/new-image-generation-developments.md",
+                "file": "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Transforming-Diffusion-Model-Efficiency"
             }
           },
           {
-            "id": "e8e319f61568d05b",
+            "id": "a7a0c0bf6e6c2912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 10/gradio-overview.md",
+                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Enhancing-Ground-Penetrating-Radar-Classification"
             }
           }
         ],
@@ -93,28 +99,26 @@
   },
   "left": {
     "id": "3c060475ed67e2ac",
-    "id": "7c5d284788cd2f43",
     "type": "split",
     "children": [
       {
         "id": "454c3cb742b7bb9d",
-        "id": "cc1d45bdb9e89e98",
         "type": "tabs",
         "children": [
           {
             "id": "b2a99cec1e3f006f",
-            "id": "613bc05e41e35d2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
             "id": "6c407348118a893b",
-            "id": "dbdb277fd8f707d6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -125,16 +129,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
             "id": "71aa4c6807af2116",
-            "id": "f4cf16b1195df4ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -145,23 +152,19 @@
   },
   "right": {
     "id": "e65ba5079b55109f",
-    "id": "1d5db33f92d584f2",
     "type": "split",
     "children": [
       {
         "id": "c92a264277eab817",
-        "id": "7dbb4e11f06b1fd9",
         "type": "tabs",
         "children": [
           {
             "id": "98d7e5caf4851969",
-            "id": "1caefa138716a7be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
-                "file": "models/new-image-generation-developments.md",
+                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,45 +172,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Enhancing-Ground-Penetrating-Radar-Classification"
             }
           },
           {
             "id": "821b76907e0ec027",
-            "id": "87e8e91ad47ebbce",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
-                "file": "models/new-image-generation-developments.md",
+                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Enhancing-Ground-Penetrating-Radar-Classification"
             }
           },
           {
             "id": "8e842e86d9c6ed28",
-            "id": "3560cbef781dc96e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
             "id": "95cd573d31a779d0",
-            "id": "8e7887aaecc0f098",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md"
-                "file": "models/new-image-generation-developments.md"
-              }
+                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Enhancing-Ground-Penetrating-Radar-Classification"
             }
           }
         ]
@@ -227,72 +233,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ae8117d57fc18b9",
   "active": "19b217363ffb3173",
   "lastOpenFiles": [
-    "img/bfl-3.png",
-    "tools/Week 8/How Generative AI is Revolutionizing Film and Music.md",
-    "img/bfl-4.png",
-    "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
-    "tools/Week 10/The idea of Reflection Models.md",
-    "linkedin/Week 11/ChatGPT Redefines Conversational Search Unlocking Precision Through Intelligent Query Rewriting.md",
-    "linkedin/Week 11/Breaking New Ground Optimizing Prompts for Generating Minority Images with AI.md",
-    "tools/Week 9/Pixtral 12B - Mistral's New Lightweight Multimodal Powerhouse.md",
-    "tools/Week 10/gradio-overview.md",
+    "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
+    "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
     "models/new-image-generation-developments.md",
-    "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
     "conflict-files-obsidian-git.md",
+    "tools/Week 11/What is Cog.md",
+    "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
+    "tools/Week 11",
+    "tools/Week 10/The idea of Reflection Models.md",
+    "models/OpenAI Canvas and DevDay Advancing AI Collaboration with Voice Realtime API Model Distillation and More.md",
+    "linkedin/Week 11/Uncovering Overfitting in Large Language Model Editing.md",
+    "linkedin/Week 11/Relightable 3D Car Asset Generation from Single Images.md",
+    "linkedin/Week 11/When the Small-Loss Trick is Not Enough-Multi-Label Image Classification with Noisy Labels Applied to CCTV Sewer Inspections.md",
+    "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md",
+    "linkedin/Week 11/Enhancing Trustworthiness in Large Language Models Through Knowledge Graph Integration.md",
+    "linkedin/Week 11/Breaking New Ground Optimizing Prompts for Generating Minority Images with AI.md",
+    "linkedin/Week 11/DiffusionFake - Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion.md",
+    "linkedin/Week 11/Benchmarking LLMs for Planning Through 2D Game Traversal.md",
+    "linkedin/Week 11/ChatGPT Redefines Conversational Search Unlocking Precision Through Intelligent Query Rewriting.md",
+    "linkedin/Week 11/A Teaching-Inspired Framework for Enhancing Arithmetic Reasoning in Large Language Models.md",
+    "linkedin/Week 11",
+    "img/bfl-4.png",
+    "img/bfl-3.png",
+    "img/bfl-2.png",
+    "img/bfl-1.png",
+    "img/202410120325668.webp",
+    "img/202410120325479.webp",
+    "img/202410120325319.webp",
+    "img/202410120324648.png",
+    "img/202410120324633.png",
+    "img/202410120324460.webp",
+    "tools/Week 10/gradio-overview.md",
+    "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
     "tools/Week 10/reflection Llama 3.1 70B.md",
     "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
     "gradio-overview.md",
     "tools/Week 9/Game-N-Gen.md",
     "tools/Week 10/What is LM Studio-Working Examples.md",
     "tools/Week 10/Unlocking the Power of ChatGPT's Advanced Voice Mode.md",
-    "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
-    "img/big-4.png",
-    "img/bfl-4.png.crdownload",
-    "img/bfl-3.png.crdownload",
-    "img/bfl-2.png",
-    "img/bfl-2.png.crdownload",
-    "img/bfl-1.png.crdownload",
-    "img/bfl-1.png",
-    "tools/Week 11",
-    "linkedin/Week 11/DiffusionFake - Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion.md",
-    "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md"
     "tools/Week 10",
-    "linkedin/Week 9/Cloud Adversarial Example Generation for Remote Sensing Image Classification.md",
-    "linkedin/Week 9/Beyond Single-Audio - Advancing Multi-Audio Processing in Audio Large Language Models.md",
-    "linkedin/Week 10/Unlocking the Role of Large Language Models in Machine Translation Evaluation.md",
-    "linkedin/Week 10/Revolutionising Rice Farming - AI-Based Precision in Detecting Rice Leaf Diseases.md",
-    "linkedin/Week 10/Preventing Dataset Misuse in Fine-Tuning Text-to-Image Models.md",
-    "linkedin/Week 10/Hard Negative Sample Mining for Whole Slide Image Classification.md",
-    "linkedin/Week 10/One2set + Large Language Model-Best Partners for Keyphrase Generation.md",
-    "linkedin/Week 10/How Toxicity Classifiers and Large Language Models Respond to Ableism.md",
-    "linkedin/Week 10/Generative Edge Detection with Stable Diffusion.md",
-    "linkedin/Week 10/FRAME-VOYAGER Optimizing Frame Queries for Video-LLMsd.md",
-    "linkedin/Week 10/AutoTM - Advancing Topic Modeling with AI-Powered Optimization.md",
-    "linkedin/Week 10/AI in Freeform Optics A Review.md",
     "linkedin/Week 10",
-    "img/chatgpt_advanced_voice_6.jpg",
-    "img/chatgpt_advanced_voice_5.png",
-    "img/chatgpt_advanced_voice_4.jpg",
-    "img/chatgpt_advanced_voice_3.jpg",
-    "img/chatgpt_advanced_voice_2.png",
-    "img/chatgpt_advanced_voice_1.png",
-    "img/big-intro.png",
-    "img/big-4.png",
-    "img/big-3.png",
-    "img/big-2.png",
-    "models/What-is-stable-diffusion-model.md",
-    "linkedin/Week 9/Understanding-Memorization-in-Large-Language-Models.md",
-    "tools/Game-N-Gen.md",
     "tools/Week 9",
     "linkedin/Week 9",
     "tools/Week 8",
     "linkedin/Week 8",
     "models/Week 7",
-    "tools/Week 7",
-    "linkedin/Week 7",
-    "tools/Week 6"
+    "tools/Week 7"
   ]
 }
