@@ -101,8 +101,8 @@ He added that the rise of AI “is going to be wonderful in many respects,” ci
 
 In early 2023, Hinton quit his job at Google and focused on sounding the alarm about the risks of rapid and unfettered AI development.
 
-As per an article from <a href="https://www.nature.com/articles/d41586-024-03213-8" target="_blank"> Nature as well, </a>
-in recent years, Hinton has become one of the loudest voices calling for safeguards to be placed around AI. He says he became convinced last year that digital computation had become better than the human brain, thanks to its ability to share learning from multiple copies of an algorithm, running in parallel. “It made me think [that these systems are] going to become more intelligent than us sooner than I thought,” he said on 31 May, speaking virtually to the AI for Good Global Summit in Geneva, Switzerland. “Up until that point, I’d spent 50 years thinking that if we could only make it more like the brain, it will be better.”
+As per an article from <a href="https://www.nature.com/articles/d41586-024-03213-8" target="_blank"> Nature </a>
+as well, in recent years, Hinton has become one of the loudest voices calling for safeguards to be placed around AI. He says he became convinced last year that digital computation had become better than the human brain, thanks to its ability to share learning from multiple copies of an algorithm, running in parallel. “It made me think [that these systems are] going to become more intelligent than us sooner than I thought,” he said on 31 May, speaking virtually to the AI for Good Global Summit in Geneva, Switzerland. “Up until that point, I’d spent 50 years thinking that if we could only make it more like the brain, it will be better.”
 
 Here is an interesting video from Youtube <a href="https://www.youtube.com/watch?v=_S-IOXNegFw" target="_blank"> CBC News, </a> showing details of  British Canadian Geoffrey Hinton Nobel Prize for AI discoveries.
 
