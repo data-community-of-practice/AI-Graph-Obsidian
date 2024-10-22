@@ -8,91 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5036c0c8576f595d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transforming-Facial-Paralysis-Diagnosis-with-CCFExp"
-            }
-          },
-          {
-            "id": "53e549debe18c815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "models/What-is-stable-diffusion-model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What-is-stable-diffusion-model"
-            }
-          },
-          {
-            "id": "06adf7c119aeb5fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transforming-Hyperspectral-Image-Classification-with-SFormer"
-            }
-          },
-          {
-            "id": "7fbdb49e85b889b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advancing-Machine-Translation-with-Multi-task-Learning"
-            }
-          },
-          {
             "id": "19b217363ffb3173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
+                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transforming-Diffusion-Model-Efficiency"
+              }
             }
           },
           {
-            "id": "a7a0c0bf6e6c2912",
+            "id": "1b2bd3886ec39eba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
+                "file": "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enhancing-Ground-Penetrating-Radar-Classification"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,9 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -129,9 +66,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -139,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -164,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
+                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,9 +105,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Enhancing-Ground-Penetrating-Radar-Classification"
+              }
             }
           },
           {
@@ -183,12 +114,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
+                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Enhancing-Ground-Penetrating-Radar-Classification"
+              }
             }
           },
           {
@@ -199,9 +128,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -210,10 +137,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Enhancing-Ground-Penetrating-Radar-Classification"
+                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md"
+              }
             }
           }
         ]
@@ -235,12 +160,15 @@
   },
   "active": "19b217363ffb3173",
   "lastOpenFiles": [
-    "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
+    "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
+    "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
+    "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
+    "img/mini1.png",
     "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
+    "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
     "models/new-image-generation-developments.md",
     "conflict-files-obsidian-git.md",
     "tools/Week 11/What is Cog.md",
-    "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
     "tools/Week 11",
     "tools/Week 10/The idea of Reflection Models.md",
     "models/OpenAI Canvas and DevDay Advancing AI Collaboration with Voice Realtime API Model Distillation and More.md",
@@ -264,15 +192,12 @@
     "img/202410120325319.webp",
     "img/202410120324648.png",
     "img/202410120324633.png",
-    "img/202410120324460.webp",
     "tools/Week 10/gradio-overview.md",
     "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
     "tools/Week 10/reflection Llama 3.1 70B.md",
     "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
     "gradio-overview.md",
     "tools/Week 9/Game-N-Gen.md",
-    "tools/Week 10/What is LM Studio-Working Examples.md",
-    "tools/Week 10/Unlocking the Power of ChatGPT's Advanced Voice Mode.md",
     "tools/Week 10",
     "linkedin/Week 10",
     "tools/Week 9",
