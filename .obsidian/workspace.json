@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "294654c42bff7b04",
+        "id": "6058ac1cea64d155",
         "type": "tabs",
         "children": [
           {
-            "id": "19b217363ffb3173",
+            "id": "b5422a3883337940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
+                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ministral - The World's Best Edge Language Model"
+              "title": "A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
+                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ministral - The World's Best Edge Language Model"
+              "title": "Backlinks for A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
+                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ministral - The World's Best Edge Language Model"
+              "title": "Outgoing links from A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Week 12/Ministral - The World's Best Edge Language Model.md"
+                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ministral - The World's Best Edge Language Model"
+              "title": "Outline of A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
             }
           }
         ]
@@ -162,13 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19b217363ffb3173",
+  "active": "b5422a3883337940",
   "lastOpenFiles": [
+    "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
+    "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
+    "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
     "linkedin/Week 12",
     "linkedin/Large Language Models Know What To Say But Not When To Speak.md",
     "linkedin/Advancements In Heart Disease Prediction A Machine Learning Approach For Early Detection And Risk Assessment.md",
     "img/mini4.png",
-    "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
     "img/mini6.png",
     "img/mini6.png.crdownload",
     "img/mini5.png",
@@ -206,9 +208,7 @@
     "img/bfl-1.png",
     "tools/Week 10/gradio-overview.md",
     "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
-    "tools/Week 10/reflection Llama 3.1 70B.md",
     "tools/Week 10",
-    "linkedin/Week 10",
-    "tools/Week 9"
+    "linkedin/Week 10"
   ]
 }
