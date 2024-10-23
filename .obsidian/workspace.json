@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
+                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
+              "title": "Cross-lingual Emotion Detection through Large Language Models"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
+                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
+              "title": "Backlinks for Cross-lingual Emotion Detection through Large Language Models"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
+                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
+              "title": "Outgoing links from Cross-lingual Emotion Detection through Large Language Models"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md"
+                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game"
+              "title": "Outline of Cross-lingual Emotion Detection through Large Language Models"
             }
           }
         ]
@@ -164,10 +164,10 @@
   },
   "active": "b5422a3883337940",
   "lastOpenFiles": [
+    "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
     "linkedin/Week 12/Tackling Hallucinations in Large Audio-Language Models with Innovative Multi-Task Assessment.md",
     "linkedin/Week 12/Navigating Knowledge Conflicts in Large Language Models Introducing WhoQA.md",
     "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
-    "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
     "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
     "linkedin/Week 12",
     "linkedin/Large Language Models Know What To Say But Not When To Speak.md",
