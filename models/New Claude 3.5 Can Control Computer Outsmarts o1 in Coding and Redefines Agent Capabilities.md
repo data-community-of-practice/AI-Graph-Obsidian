@@ -18,7 +18,7 @@ Claude 3.5 Receives a Major Upgrade Overnight!
 
 As anticipated, Anthropic AI made a significant move this week with the launch of Claude 3.5 Haiku. The newly upgraded Claude 3.5 Sonnet has also been released.
 
-![[https://x.com/AnthropicAI/status/1848742740420341988](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240107240.png)](image%201.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240107240.png)
 
 [https://x.com/AnthropicAI/status/1848742740420341988](https://x.com/AnthropicAI/status/1848742740420341988)
 
@@ -32,7 +32,7 @@ Remarkably, the evolved Claude 3.5 Sonnet has surpassed OpenAI o1, establishing 
 
 Claude is the undisputed leader among all models when it comes to writing code.
 
-![[https://x.com/AnthropicAI/status/1848742740420341988](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240107920.png)](image%202.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240107920.png)
 
 [https://x.com/AnthropicAI/status/1848742740420341988](https://x.com/AnthropicAI/status/1848742740420341988)
 
@@ -48,7 +48,7 @@ According to Anthropic's Head of Developer Relations, "computer usage" is the fi
 
 [https://x.com/alexalbert__/status/1848758641353986365](https://x.com/alexalbert__/status/1848758641353986365)
 
-![[https://x.com/alexalbert__/status/1848743056654405799](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240108162.png)](image%205.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240108162.png)
 
 [https://x.com/alexalbert__/status/1848743056654405799](https://x.com/alexalbert__/status/1848743056654405799)
 
@@ -175,7 +175,7 @@ In various industry benchmark tests, the upgraded Claude 3.5 Sonnet has shown co
 
 Notably, it has achieved significant breakthroughs in tasks involving intelligent coding and tool usage.
 
-![[https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240111176.png)](image%2010.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240111176.png)
 
 [https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf](https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf)
 
@@ -183,7 +183,7 @@ In terms of coding ability, its performance in the SWE-bench Verified test has s
 
 This surpasses all publicly available models, including inference models like OpenAI o1-preview and specialized systems designed for intelligent coding.
 
-![[https://www.swebench.com/](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240111612.png)](image%2011.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240111612.png)
 
 [https://www.swebench.com/](https://www.swebench.com/)
 
