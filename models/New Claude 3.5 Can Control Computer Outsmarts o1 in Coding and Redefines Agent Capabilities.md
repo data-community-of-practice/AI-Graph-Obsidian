@@ -44,7 +44,7 @@ Amazingly, Claude can now interact with a computer like a human, including viewi
 
 According to Anthropic's Head of Developer Relations, "computer usage" is the first step towards a new paradigm of human-computer interaction. It is also a fundamental capability that AI models should possess.
 
-![[https://x.com/alexalbert__/status/1848758641353986365](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240108566.png)](image%204.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202410240108566.png)
 
 [https://x.com/alexalbert__/status/1848758641353986365](https://x.com/alexalbert__/status/1848758641353986365)
 
