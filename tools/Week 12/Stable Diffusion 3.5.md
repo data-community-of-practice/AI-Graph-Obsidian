@@ -38,7 +38,7 @@ The model weights are now accessible on Hugging Face for self-hosting, and the m
 - **Speed**: High-quality image generation in just four steps, making it significantly faster.  
 - **Use Cases**: When speed is prioritized without sacrificing image quality.
 
-### **3. Stable Diffusion 3.5 Medium** (Coming on October 29th)
+### **3. Stable Diffusion 3.5 Medium** (To be released on October 29th, 2024)
 - **Parameters**: 2.5 billion.  
 - **Optimized For**: Consumer hardware with enhanced MMDiT-X architecture.  
 - **Flexibility**: Customizable with resolutions between 0.25 and 2 megapixels.
@@ -152,10 +152,6 @@ Agencies, marketers, and developers can leverage the model to create **custom im
 ### **3. Educational and Research Use**
 
 Educators and researchers can use **Stable Diffusion 3.5** to visualize complex concepts, making learning more **engaging** and **interactive**.
-
-## **ControlNets for Stable Diffusion 3.5**
-
-Following the public release of **Stable Diffusion 3.5 Medium** on **October 29th**, **ControlNets** will soon be introduced, providing advanced control features for various professional applications. **ControlNets** will offer users the ability to manipulate key elements such as **pose, depth, and structure**, enabling more detailed and controlled image creation.
 
 ## **Conclusion**
 In conclusion, Stable Diffusion 3.5 stands as a landmark achievement in generative AI, redefining the balance between innovation and accessibility. By integrating advanced features like Query-Key Normalization and refining its architecture, Stability AI has successfully addressed past limitations and delivered a model that excels in both performance and prompt adherence. This release underscores the company’s commitment to shaping the future of visual media, offering a versatile solution for creators, developers, and enterprises. As the landscape of AI-powered image generation continues to evolve, Stable Diffusion 3.5 sets a new standard, combining cutting-edge capabilities with practical deployment options, making it a pivotal tool in the creative and professional domains.
