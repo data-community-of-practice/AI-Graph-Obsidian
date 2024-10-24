@@ -57,8 +57,6 @@ Input tokens: Both the image and text inputs are represented as tokens, which ar
 Patching & Embedding: The diagram shows that after encoding and pooling (simplifying) the image, it is broken into smaller segments or "patches" which are embedded or converted into a format that the model can understand.
 Latent Space & Positional Embedding: The "Noised Latent" part refers to the core of diffusion models like Stable Diffusion, where the model gradually removes noise from an image to create a clear picture. Positional embedding helps the model understand the order and relative position of elements in the text and images.
 Multiple MM-DiT Blocks: These are sections that repeatedly process information in stages. Each block refines the input, making the model more accurate over each step. MM-DiT blocks essentially represent a specialized variant of transformer-based layers.
-One MM-DiT Block Structure (Diagram b):
-
 Attention Mechanism: At the heart of the MM-DiT block, there's an attention mechanism denoted by Q (Query), K (Key), and V (Value). This mechanism lets the model focus on different aspects of the input (e.g., text details or image sections) and figure out the most relevant parts to pay attention to.
 Modulation and Layer Normalization: The architecture uses multiple normalizing steps, ensuring each segment of data is correctly scaled and processed. Modulation elements (denoted as "Mod") help adjust the information flow to fine-tune the final output.
 MLP (Multi-Layer Perceptron): These MLP blocks act as processing units for refining the image and text representations. They further polish the outputs from the attention blocks.
@@ -66,6 +64,8 @@ Overall Workflow:
 Text and image tokens are fed separately through CLIP and T5 XXL, encoding the data to meaningful tokens.
 Noised latent and positional embedding provide the model with processed visual input and text-based positional information.
 The combined data is processed through a series of MM-DiT blocks. These blocks gradually refine the text and image features using repeated attention and normalization processes.
+The noised latent input, derived from visual data, helps the model learn to progressively refine and reconstruct image details, enhancing visual comprehension. 
+Meanwhile, positional embeddings capture the structure and order of text, ensuring that the model understands relationships between words and aligns them with corresponding visual features. Together, these components allow the model to maintain coherence between image and text, leading to improved understanding and generation capabilities.
 Finally, modulation and unpatching convert the processed tokens back into the desired output format.
 This architecture ensures that the model can both understand and generate high-quality images and text while keeping a clear connection between visual and language data. In simpler terms, it's like a series of intelligent filters that understand and enhance the relationship between images and words to generate or process visual-text content accurately.
 
