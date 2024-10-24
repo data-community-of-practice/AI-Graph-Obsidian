@@ -1,7 +1,7 @@
 # Using Fiber Shape Analysis to Predict Cognitive Performance
 
 **Introduction:**  
-The paper, *The Shape of the Brain’s Connections is Predictive of Cognitive Performance: An Explainable Deep Learning Study*, investigates the predictive power of white matter fiber shape features on cognitive performance. Leveraging diffusion MRI (dMRI) tractography, the study introduces shape-based features and applies machine learning to analyze cognitive assessment data from the Human Connectome Project.
+The paper  investigates the predictive power of white matter fiber shape features on cognitive performance.
 
 **Article link:** https://arxiv.org/abs/2410.15108
 
