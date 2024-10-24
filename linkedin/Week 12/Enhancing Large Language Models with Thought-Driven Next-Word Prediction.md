@@ -17,8 +17,5 @@ Experiments demonstrated that LLMs pre-trained with TOW data achieved up to 9% i
 4️⃣ **Conclusion and Future Challenges**  
 The paper concludes that incorporating thought-driven reasoning into pre-training effectively reduces hallucination and strengthens logical consistency in LLMs without introducing task-specific biases. However, limitations such as dataset size constraints and potential biases in the distillation process point to future research directions, including scaling TOW with more comprehensive datasets and refining distillation techniques.
 
-**Additional Point**  
-The TOW approach categorizes words and injects thoughts in a way that mirrors human reasoning, thereby addressing limitations seen in traditional next-word prediction methods. The researchers emphasized that summarizing and denoising techniques are critical to preserving the logical connections and enhancing the predictive accuracy of TOW-based models.
-
 **Paper Article Reference**  
 Zhikun Xu, Ming Shen, Jacob Dineen, Zhaonan Li, Xiao Ye, Shijie Lu, Aswin RRV, Chitta Baral, Ben Zhou, 2024, "Thoughts of Words Improve Reasoning in Large Language Models", DOI: 10.48550/arXiv.2410.16235
