@@ -20,8 +20,40 @@
               "icon": "lucide-file",
               "title": "Cross-lingual Emotion Detection through Large Language Models"
             }
+              "title": "Transforming-Facial-Paralysis-Diagnosis-with-CCFExp"
+            }
+          },
+          {
+            "id": "53e549debe18c815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "models/new-image-generation-developments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new-image-generation-developments"
+            }
+          },
+          {
+            "id": "d1e013deaa63c51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "models/the-future-of-healthcare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the-future-of-healthcare"
+            }
           }
         ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,6 +195,7 @@
     }
   },
   "active": "b5422a3883337940",
+  "active": "d1e013deaa63c51e",
   "lastOpenFiles": [
     "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
     "linkedin/Week 12/Tackling Hallucinations in Large Audio-Language Models with Innovative Multi-Task Assessment.md",
@@ -186,8 +219,28 @@
     "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
     "img/mini1.png",
     "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
+    "models/new-image-generation-developments.md",
+    "models/the-future-of-healthcare.md",
+    "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
+    "models/What-is-stable-diffusion-model.md",
+    "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
     "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
     "models/new-image-generation-developments.md",
+    "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
+    "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
+    "tools/Week 11/MLflow Beginner's Guide How to Get Started with MLflow.md",
+    "tools/Week 11/Geoffrey Hinton Wins Nobel Prize - The Godfather of AI.md",
+    "models/ChatGPTs Name Bias and Apples Findings on AIs Lack of Reasoning Major Flaws Revealed.md",
+    "img/mlflow-7.jpg",
+    "img/mlflow-6.jpg",
+    "img/mlflow-5.png",
+    "img/mlflow-4.png",
+    "img/mlflow-3.jpg",
+    "img/mlflow-2.jpg",
+    "img/mlflow-1.png",
+    "img/202410181425980.webp",
+    "img/202410181425062.png",
+    "img/202410181423973.png",
     "conflict-files-obsidian-git.md",
     "tools/Week 11/What is Cog.md",
     "tools/Week 11",
@@ -195,14 +248,6 @@
     "models/OpenAI Canvas and DevDay Advancing AI Collaboration with Voice Realtime API Model Distillation and More.md",
     "linkedin/Week 11/Uncovering Overfitting in Large Language Model Editing.md",
     "linkedin/Week 11/Relightable 3D Car Asset Generation from Single Images.md",
-    "linkedin/Week 11/When the Small-Loss Trick is Not Enough-Multi-Label Image Classification with Noisy Labels Applied to CCTV Sewer Inspections.md",
-    "linkedin/Week 11/Generated Bias - Auditing Internal Bias Dynamics of Text-To-Image Generative Models.md",
-    "linkedin/Week 11/Enhancing Trustworthiness in Large Language Models Through Knowledge Graph Integration.md",
-    "linkedin/Week 11/Breaking New Ground Optimizing Prompts for Generating Minority Images with AI.md",
-    "linkedin/Week 11/DiffusionFake - Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion.md",
-    "linkedin/Week 11/Benchmarking LLMs for Planning Through 2D Game Traversal.md",
-    "linkedin/Week 11/ChatGPT Redefines Conversational Search Unlocking Precision Through Intelligent Query Rewriting.md",
-    "linkedin/Week 11/A Teaching-Inspired Framework for Enhancing Arithmetic Reasoning in Large Language Models.md",
     "linkedin/Week 11",
     "img/bfl-4.png",
     "img/bfl-3.png",
