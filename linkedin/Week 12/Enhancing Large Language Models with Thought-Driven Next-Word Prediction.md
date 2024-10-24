@@ -3,7 +3,7 @@
  
 The paper "Thoughts of Words Improve Reasoning in Large Language Models" introduces a novel method called Thoughts of Words (TOW), aimed at improving next-word prediction accuracy in large language models (LLMs). By embedding fine-grained "thoughts" that guide the model’s reasoning process, TOW addresses key challenges in existing training paradigms, such as factual hallucination and inadequate understanding of context. The methodology enables more accurate and context-aware predictions, ultimately enhancing the robustness and interpretability of LLMs in diverse tasks. 
 
-**Article link:** https://arxiv.org/abs/2410.08068
+**Article link:** https://arxiv.org/abs/2410.16235
 
 1️⃣ **Addressing Core Challenges**  
 Existing next-word prediction frameworks often struggle with implicit reasoning in raw text data, resulting in LLMs producing hallucinated or contextually irrelevant outputs. This research addresses these gaps by framing next-word prediction as a core reasoning task, emphasizing the importance of contextual connections in pre-training.
