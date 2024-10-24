@@ -1,7 +1,7 @@
 # **Stable Diffusion 3.5: Stability AI Redeems Itself With New Models and Expanded Features**
 
 ![](https://imgur.com/undefined.png)
-<div align="center"><small>Geoffrey Hilton - The Godfather of AI. <a href="https://habr.com/ru/articles/852664/" target="_blank"> Source</a></small></div>
+<div align="center"><small>Stable Diffusion 3.5 <a href="https://blog.comfy.org/sd3-5-comfyui/" target="_blank"> Source</a></small></div>
 
 ## Author  
 - Tohfa Siddika Barbhuiya (**ORCID**: [0009-0007-2976-4601](https://orcid.org/0009-0007-2976-4601))
@@ -121,8 +121,6 @@ The new model claims that it supports **negative prompts**, allowing users to in
 
 This section shows the output comparison of Stable Diffusion 3.5 (SD3.5) and FLUX.1! as per <a href="https://www.runcomfy.com/comfyui-workflows/stable-diffusion-3.5-vs-flux1" target="_blank"> RunComfy. </a> With the latest ComfyUI workflow, you can now input a text prompt and generate images using both models simultaneously, making it easy to compare and select your favorite results.
 
-Note - The output using SD3.5-large and Flux.1-schnell, each model showcased its strengths. FLUX.1 excels at creating highly photorealistic images, while SD3.5 shines in producing anime-style artwork without needing additional fine-tuning or adjustments.
-
 ![](https://imgur.com/BEztrwv.png)
 <div align="center"><small>Output image comparison 1 between Sd3.5 vs Flux.1<a href="https://runcomfy.com/comfyui-workflows/stable-diffusion-3.5-vs-flux1" target="_blank"> Source</a></small></div>
 
@@ -135,6 +133,7 @@ Note - The output using SD3.5-large and Flux.1-schnell, each model showcased its
 ![](https://imgur.com/BEztrwv.png)
 <div align="center"><small>Output image comparison 4 between Sd3.5 vs Flux.1<a href="https://runcomfy.com/comfyui-workflows/stable-diffusion-3.5-vs-flux1" target="_blank"> Source</a></small></div>
 
+The output using SD3.5-large and Flux.1, each model showcased its strengths. FLUX.1 excels at creating highly photorealistic images, while SD3.5 shines in producing anime-style artwork without needing additional fine-tuning or adjustments.
 
 ## **Real-World Applications of Stable Diffusion 3.5**
 
