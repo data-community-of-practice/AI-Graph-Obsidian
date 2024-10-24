@@ -17,9 +17,13 @@ You can download **Stable Diffusion 3.5 Large** and **Stable Diffusion 3.5 Large
 
 The model weights are now accessible on Hugging Face for self-hosting, and the model can also be utilized via the following platforms:
 
-<a href="https://platform.stability.ai/docs/api-reference?_gl=1*1jyd7p2*_ga*MTAwMDk2OTczNS4xNzI5NjM3NjY1*_ga_W4CMY55YQZ*MTcyOTc0OTc3NS40LjEuMTcyOTc1MDE0My4wLjAuMA..#tag/Generate/paths/~1v2beta~1stable-image~1generate~1sd3/post" target="_blank"> Stability AI API </a>
-<a href="https://replicate.com/stability-ai/stable-diffusion-3.5-large" target="_blank"> Replicate </a>
-<a href="https://blog.comfy.org/sd3-5-comfyui/" target="_blank"> ComfyUI </a>
+<a href="https://platform.stability.ai/docs/api-reference?_gl=1*1jyd7p2*_ga*MTAwMDk2OTczNS4xNzI5NjM3NjY1*_ga_W4CMY55YQZ*MTcyOTc0OTc3NS40LjEuMTcyOTc1MDE0My4wLjAuMA..#tag/Generate/paths/~1v2beta~1stable-image~1generate~1sd3/post" target="_blank"> Stability AI API </a>,
+
+
+<a href="https://replicate.com/stability-ai/stable-diffusion-3.5-large" target="_blank"> Replicate </a>,
+
+<a href="https://blog.comfy.org/sd3-5-comfyui/" target="_blank"> ComfyUI </a>,
+
 <a href="https://deepinfra.com/stabilityai/sd3.5" target="_blank"> DeepInfra </a> 
 
 ## **Key Takeaways: What’s Being Released?**
