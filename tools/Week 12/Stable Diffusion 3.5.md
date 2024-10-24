@@ -156,7 +156,7 @@ Following the public release of **Stable Diffusion 3.5 Medium** on **October 29t
 ## **Conclusion**
 In conclusion, Stable Diffusion 3.5 stands as a landmark achievement in generative AI, redefining the balance between innovation and accessibility. By integrating advanced features like Query-Key Normalization and refining its architecture, Stability AI has successfully addressed past limitations and delivered a model that excels in both performance and prompt adherence. This release underscores the company’s commitment to shaping the future of visual media, offering a versatile solution for creators, developers, and enterprises. As the landscape of AI-powered image generation continues to evolve, Stable Diffusion 3.5 sets a new standard, combining cutting-edge capabilities with practical deployment options, making it a pivotal tool in the creative and professional domains.
 
-## Reference
+## References
 
 [1] Stability AI, “Stable Diffusion 3.5 Overview,” DeepInfra. [Online]. Available: https://deepinfra.com/stabilityai/sd3.5. 
 
