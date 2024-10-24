@@ -1,4 +1,4 @@
-# **Stable Diffusion 3.5: Stability AI Redeems Itself With New Models and Expanded Features**
+# **Stable Diffusion 3.5: Stability AI’s latest release offering New Models and Features**
 
 ![](https://imgur.com/ah6wXhF.png)
 <div align="center"><small>Stable Diffusion 3.5 <a href="https://blog.comfy.org/sd3-5-comfyui/" target="_blank"> Source</a></small></div>
