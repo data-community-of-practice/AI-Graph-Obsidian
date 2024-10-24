@@ -134,7 +134,7 @@ This section shows the output comparison of Stable Diffusion 3.5 (SD3.5) and FLU
 ![](https://imgur.com/TcsRURg.png)
 <div align="center"><small>Output image comparison 3 between Sd3.5 vs Flux.1<a href="https://runcomfy.com/comfyui-workflows/stable-diffusion-3.5-vs-flux1" target="_blank"> Source</a></small></div>
 
-![](https://imgur.com/BEztrwv.png)
+![](https://imgur.com/TCmCOwv.png)
 <div align="center"><small>Output image comparison 4 between Sd3.5 vs Flux.1<a href="https://runcomfy.com/comfyui-workflows/stable-diffusion-3.5-vs-flux1" target="_blank"> Source</a></small></div>
 
 The output using SD3.5-large and Flux.1, each model showcased its strengths. FLUX.1 excels at creating highly photorealistic images, while SD3.5 shines in producing anime-style artwork without needing additional fine-tuning or adjustments.
