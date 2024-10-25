@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6058ac1cea64d155",
+        "id": "294654c42bff7b04",
         "type": "tabs",
         "children": [
           {
-            "id": "b5422a3883337940",
+            "id": "5036c0c8576f595d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
+                "file": "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross-lingual Emotion Detection through Large Language Models"
-            }
               "title": "Transforming-Facial-Paralysis-Diagnosis-with-CCFExp"
             }
           },
@@ -38,22 +36,35 @@
             }
           },
           {
-            "id": "d1e013deaa63c51e",
+            "id": "2f2bfd74db9341e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/the-future-of-healthcare.md",
+                "file": "linkedin/Week 12/Self-Explained-Keywords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the-future-of-healthcare"
+              "title": "Self-Explained-Keywords"
+            }
+          },
+          {
+            "id": "64e32c176c601646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin/Week 12/Where-to-Build-Food-Banks-and-Pantries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Where-to-Build-Food-Banks-and-Pantries"
             }
           }
-        ]
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
+                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cross-lingual Emotion Detection through Large Language Models"
+              "title": "Backlinks for Enhancing-Ground-Penetrating-Radar-Classification"
             }
           },
           {
@@ -144,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
+                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cross-lingual Emotion Detection through Large Language Models"
+              "title": "Outgoing links from Enhancing-Ground-Penetrating-Radar-Classification"
             }
           },
           {
@@ -171,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md"
+                "file": "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cross-lingual Emotion Detection through Large Language Models"
+              "title": "Outline of Enhancing-Ground-Penetrating-Radar-Classification"
             }
           }
         ]
@@ -194,66 +205,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5422a3883337940",
-  "active": "d1e013deaa63c51e",
+  "active": "64e32c176c601646",
   "lastOpenFiles": [
-    "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
+    "linkedin/Week 12/Where-to-Build-Food-Banks-and-Pantries.md",
+    "linkedin/Week 12/Self-Explained-Keywords.md",
+    "models/new-image-generation-developments.md",
+    "models/the-future-of-healthcare.md",
+    "conflict-files-obsidian-git.md",
+    "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
+    "linkedin/Week 12/Using Fiber Shape Analysis to Predict Cognitive Performance.md",
     "linkedin/Week 12/Tackling Hallucinations in Large Audio-Language Models with Innovative Multi-Task Assessment.md",
     "linkedin/Week 12/Navigating Knowledge Conflicts in Large Language Models Introducing WhoQA.md",
-    "linkedin/Week 12/Cross-lingual Emotion Detection through Large Language Models.md",
-    "tools/Week 12/Ministral - The World's Best Edge Language Model.md",
+    "linkedin/Week 12/Enhancing Large Language Models with Thought-Driven Next-Word Prediction.md",
+    "linkedin/Week 12/A Machine Learning Approach to Detect Strategic Behavior from Large-Population Observational Data Applied to Game Mode Prediction on a Team-Based Video Game.md",
     "linkedin/Week 12",
     "linkedin/Large Language Models Know What To Say But Not When To Speak.md",
     "linkedin/Advancements In Heart Disease Prediction A Machine Learning Approach For Early Detection And Risk Assessment.md",
-    "img/mini4.png",
     "img/mini6.png",
-    "img/mini6.png.crdownload",
     "img/mini5.png",
-    "img/mini5.png.crdownload",
-    "img/mini4.png.crdownload",
-    "img/mini3.png.crdownload",
-    "img/mini2.png.crdownload",
+    "img/mini4.png",
     "img/mini3.png",
     "img/mini2.png",
-    "tools/Week 10/Understanding BIG-bench - The Ultimate AI Benchmark Challenge.md",
-    "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
     "img/mini1.png",
-    "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
-    "models/new-image-generation-developments.md",
-    "models/the-future-of-healthcare.md",
+    "img/202410240112840.png",
+    "img/202410240112633.png",
+    "img/202410240112480.gif",
+    "img/202410240111929.png",
     "linkedin/Week 9/Transforming-Facial-Paralysis-Diagnosis-with-CCFExp.md",
     "models/What-is-stable-diffusion-model.md",
     "linkedin/Week 10/Transforming-Hyperspectral-Image-Classification-with-SFormer.md",
     "linkedin/Week 11/Enhancing-Ground-Penetrating-Radar-Classification.md",
-    "models/new-image-generation-developments.md",
     "linkedin/Week 10/Advancing-Machine-Translation-with-Multi-task-Learning.md",
     "linkedin/Week 11/Transforming-Diffusion-Model-Efficiency.md",
     "tools/Week 11/MLflow Beginner's Guide How to Get Started with MLflow.md",
     "tools/Week 11/Geoffrey Hinton Wins Nobel Prize - The Godfather of AI.md",
     "models/ChatGPTs Name Bias and Apples Findings on AIs Lack of Reasoning Major Flaws Revealed.md",
-    "img/mlflow-7.jpg",
-    "img/mlflow-6.jpg",
-    "img/mlflow-5.png",
-    "img/mlflow-4.png",
-    "img/mlflow-3.jpg",
-    "img/mlflow-2.jpg",
-    "img/mlflow-1.png",
-    "img/202410181425980.webp",
-    "img/202410181425062.png",
-    "img/202410181423973.png",
-    "conflict-files-obsidian-git.md",
     "tools/Week 11/What is Cog.md",
+    "tools/Week 11/The Fast Lane of Image Generation - Unleashing FLUX1.1 with the BFL API.md",
     "tools/Week 11",
     "tools/Week 10/The idea of Reflection Models.md",
     "models/OpenAI Canvas and DevDay Advancing AI Collaboration with Voice Realtime API Model Distillation and More.md",
-    "linkedin/Week 11/Uncovering Overfitting in Large Language Model Editing.md",
-    "linkedin/Week 11/Relightable 3D Car Asset Generation from Single Images.md",
     "linkedin/Week 11",
-    "img/bfl-4.png",
-    "img/bfl-3.png",
-    "img/bfl-2.png",
-    "img/bfl-1.png",
     "tools/Week 10",
-    "linkedin/Week 10"
+    "linkedin/Week 10",
+    "tools/Week 9",
+    "linkedin/Week 9",
+    "tools/Week 8",
+    "linkedin/Week 8",
+    "models/Week 7"
   ]
 }
