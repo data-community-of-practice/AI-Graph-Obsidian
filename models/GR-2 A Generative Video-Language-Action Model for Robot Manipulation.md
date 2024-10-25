@@ -40,6 +40,7 @@ GR-2 was evaluated across multiple benchmarks to demonstrate its capability:
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/GR2-4.jpg)
 <div align="center"><small> Success rates of multi-task learning, downloaded from paper "GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation"</small></div>
 
+
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian/img/GR2-5.gif)
 <div align="center"><small> Performance of this model, downloaded from paper "GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation"</small></div>
 
