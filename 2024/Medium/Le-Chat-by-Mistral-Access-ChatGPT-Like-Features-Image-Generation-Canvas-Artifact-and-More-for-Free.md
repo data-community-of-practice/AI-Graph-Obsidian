@@ -62,7 +62,7 @@ In Le Chat's Canvas, generated documents can be displayed separately, eliminatin
 
 Code can also be handled in the same way, with support for real-time previews and the ability to select specific sections for modification.
 
-![640.gif](640%201.gif)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201605630.gif)
 
 Next is the internet search capability. Like ChatGPT, Le Chat can perform online searches to summarize information and provide source citations, all at a very fast speed.
 
