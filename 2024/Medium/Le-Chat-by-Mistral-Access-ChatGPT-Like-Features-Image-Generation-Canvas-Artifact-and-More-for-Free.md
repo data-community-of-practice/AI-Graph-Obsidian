@@ -128,7 +128,7 @@ However, on Reddit, some have questioned whether Pixtral truly achieves state-of
 
 In reality, on multiple datasets, Qwen2-VL (with a maximum parameter size of 72B) performs better than Pixtral. Additionally, on certain datasets, Pixtral's test scores are also lower than those of Molmo, developed by a non-profit research organization called Ai2 based in Seattle.
 
-![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201557009.png)](image%208.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201557009.png)
 
 [https://www.reddit.com/r/LocalLLaMA/comments/1gu7cm8/comment/lxs7gbe/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/LocalLLaMA/comments/1gu7cm8/comment/lxs7gbe/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
