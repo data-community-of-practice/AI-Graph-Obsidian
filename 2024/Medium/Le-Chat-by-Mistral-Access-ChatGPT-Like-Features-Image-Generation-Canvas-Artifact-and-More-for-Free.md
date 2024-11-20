@@ -30,13 +30,13 @@ How le Chat compares to leading chat and search assistants in the market today
 
 They also announced a partnership with the renowned image generation model Flux, offering online image creation capabilities on the Le Chat platform, again at no cost.
 
-![[https://x.com/bfl_ml/status/1858572519571063076](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201555323.png)](image%202.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201555323.png)](image%202.png)
 
 [https://x.com/bfl_ml/status/1858572519571063076](https://x.com/bfl_ml/status/1858572519571063076)
 
 Mistral's CEO, Arthur Mensch, stated that the new version of Le Chat is a milestone, marking the platform as a "more mature animal.”
 
-![[https://x.com/arthurmensch/status/1858567024609276372](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201555465.png)](image%203.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201555465.png)](image%203.png)
 
 [https://x.com/arthurmensch/status/1858567024609276372](https://x.com/arthurmensch/status/1858567024609276372)
 
@@ -112,7 +112,7 @@ In terms of image understanding, Pixtral Large also performs exceptionally well.
 
 Pixtral Large will provide the total amount in an organized manner, first calculating the cost of the coffee and sausage—such as two lattes and one sausage—then computing the 18% tip, and finally providing the total amount.
 
-![image.png](image%207.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201607426.png)
 
 Pixtral Large can also accurately understand and analyze charts. For instance, when asked about the point at which the "dark dragon" model starts experiencing issues based on a training loss curve, Pixtral Large accurately analyzes: "At 10,000 steps, the training loss begins to show instability... Subsequently, this instability persists, with another significant peak occurring around 20,000 steps..."
 
@@ -128,13 +128,13 @@ However, on Reddit, some have questioned whether Pixtral truly achieves state-of
 
 In reality, on multiple datasets, Qwen2-VL (with a maximum parameter size of 72B) performs better than Pixtral. Additionally, on certain datasets, Pixtral's test scores are also lower than those of Molmo, developed by a non-profit research organization called Ai2 based in Seattle.
 
-![[https://www.reddit.com/r/LocalLLaMA/comments/1gu7cm8/comment/lxs7gbe/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201557009.png)](image%208.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201557009.png)](image%208.png)
 
 [https://www.reddit.com/r/LocalLLaMA/comments/1gu7cm8/comment/lxs7gbe/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/LocalLLaMA/comments/1gu7cm8/comment/lxs7gbe/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 Moreover, some users have reported that in their tests involving images with Japanese text, Pixtral Large's recognition capabilities were inferior to the 7B version of Qwen.
 
-![[https://x.com/AiXsatoshi/status/1858648441616035951](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201557471.png)](image%209.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202411201557471.png)
 
 [https://x.com/AiXsatoshi/status/1858648441616035951](https://x.com/AiXsatoshi/status/1858648441616035951)
 
