@@ -38,7 +38,7 @@ First, ensure that Python is installed on your computer:
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011316958.png)
 
-1. In the command prompt, paste the following command to check if Python is installed:
+2. In the command prompt, paste the following command to check if Python is installed:
 
 ```bash
 python --version
@@ -50,7 +50,7 @@ If Python is installed, you will see the version number displayed. If not, you w
 python --version
 ```
 
-1. Paste the following command to check if pip is installed:
+3. Paste the following command to check if pip is installed:
 
 ```
 pip --version
@@ -58,10 +58,11 @@ pip --version
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011316199.png)
 
-1. After entering both commands, verify the results:
+4. After entering both commands, verify the results:
+
 - If both Python and pip are installed, you will see the version numbers displayed as shown in the image above. In this case, you can skip the installation step and proceed directly to "2. Deploy the Project."
 - If they are not installed, you will see an error message similar to the image below, indicating that you need to follow the installation steps.
-1. To install Python, visit the official Python website to download it:
+5. To install Python, visit the official Python website to download it:
 
 [Python Downloads](https://www.python.org/downloads/)
 
@@ -79,7 +80,7 @@ The installer is running, please wait for it to complete.
 
 Seeing the word "successful" indicates that the installation is complete.
 
-![image.png](image%205.png)
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011326309.png)
 
 Run the commands from steps 2 and 3 again. At this point, you should see the version numbers displayed, indicating that the installation was successful.
 
@@ -93,19 +94,19 @@ Here, I'll use Windows as an example for downloading and installing Docker Deskt
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011317685.png)
 
-1. After downloading, run the downloaded file and click "OK" to start loading the files.
+2. After downloading, run the downloaded file and click "OK" to start loading the files.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011317051.png)
 
-1. Click "Close" to complete the installation (a restart may be required).
+3. Click "Close" to complete the installation (a restart may be required).
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011318980.png)
 
-1. Launch Docker Desktop. You can choose to log in or skip this step; it won't affect the functionality.
+4. Launch Docker Desktop. You can choose to log in or skip this step; it won't affect the functionality.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011318410.png)
 
-1. You will then enter Docker Desktop. This concludes the setup process.
+5. You will then enter Docker Desktop. This concludes the setup process.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011318060.png)
 
@@ -115,7 +116,7 @@ Here, I'll use Windows as an example for downloading and installing Docker Deskt
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011318947.png)
 
-1. Paste the command and press Enter:
+2. Paste the command and press Enter:
 
 ```
 git clone https://github.com/anthropics/anthropic-quickstarts.git
@@ -123,13 +124,13 @@ git clone https://github.com/anthropics/anthropic-quickstarts.git
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011318984.png)
 
-1. Once the download is complete, open the `anthropic-quickstarts` folder and navigate to the `computer-use-demo` directory.
+3. Once the download is complete, open the `anthropic-quickstarts` folder and navigate to the `computer-use-demo` directory.
 
 ```
 cd .\anthropic-quickstarts\computer-use-demo\
 ```
 
-1. Run the following command to install dependencies:
+4. Run the following command to install dependencies:
 
 ```
 pip install -r dev-requirements.txt
@@ -139,7 +140,7 @@ pip install -r dev-requirements.txt
 
 Wait for the download to complete.
 
-1. Start the Docker container.
+5. Start the Docker container.
 
 ```
 docker run -v ${env:USERPROFILE}\.anthropic:/home/computeruse/.anthropic -p 5900:5900 -p 8501:8501 -p 6080:6080 -p 8080:8080 -it ghcr.io/anthropics/anthropic-quickstarts:computer-use-demo-latest
@@ -156,13 +157,13 @@ Wait for the download to complete. You will see the following image upon success
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011319841.png)
 
-1. Open your browser and enter `http://localhost:8080/`
+6. Open your browser and enter `http://localhost:8080/`
 
 You will see the following screen, then click the top left corner to open the settings.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011319311.png)
 
-1. Enter your "API Key" and press Enter to start a conversation on the Chat page.
+7. Enter your "API Key" and press Enter to start a conversation on the Chat page.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412011320947.png)
 
