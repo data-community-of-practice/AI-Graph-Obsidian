@@ -34,7 +34,7 @@ Additionally, Black Forest Labs has open-sourced the FLUX series of tools:
 
 This article will guide you step-by-step through the new FLUX 1.1 AI drawing model and a suite of powerful drawing tools. With just a simple trick, you can remove the "AI smell” from images to achieve photo-level quality, whether for portraits or landscapes. All this can be accomplished with just a few clicks, making it accessible to complete beginners.
 
-You can experience all the latest features by using [FLux.1 AI](https://flux1.ai/), where registering will give you 10 free credits.
+You can experience all the latest features by using [Flux.1 AI](https://flux1.ai/), where registering will give you 10 free credits.
 
 ## Generating Ultra-Realistic Images with Camera Filename Prompts
 
@@ -138,7 +138,13 @@ FLUX Fill is a versatile image editing tool that uses cutting-edge inpainting an
 
 With FLUX Fill, users can extend images beyond their original borders, make precise edits, and even guide modifications using text prompts. These capabilities make it suitable for creative projects and professional workflows requiring high-quality results.
 
-For example, using the FLUX Fill tool, we can transform a cat into a dog in an image. Simply upload the image, and a URL will be provided. Then, use the cursor to erase the cat, leaving a blank space. In the prompt section, enter "A dog on the table," and FLUX Fill will replace the cat with a dog while keeping the rest of the image unchanged.
+Let’s try out FLUX Fill at https://flux1.ai/flux-fill
+
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412121553551.png)
+
+For example, using the FLUX Fill tool, we can transform a cat into a dog in an image. Simply upload the image, and a URL will be provided. Then, use the cursor to erase the cat, leaving a blank space. In the prompt section, enter "A dog on the table" and FLUX Fill will replace the cat with a dog while keeping the rest of the image unchanged.
+
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412121614569.png)
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412110033466.png)
 
@@ -174,11 +180,17 @@ You can find these two tools here:
 
 For example, we can use Canny to transform an image of a man running into Iron Man running through a forest.
 
+First, open [Flux Canny](https://flux1.ai/flux-canny), where you can upload an image of a man running. Then, in the prompt field below, enter "iron man is running in the forest" to achieve the desired effect.
+
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412121617854.png)
+
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412110035025.png)
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412110035213.png)
 
 The principle of Canny can be understood through the following image, as it primarily captures edge information.
+
+The image below demonstrates how the Canny edge detection technique extracts edge information from the input image, generating an image that aligns with the text description while preserving the original structure.
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412110035984.png)
 
@@ -190,9 +202,15 @@ The principle of Canny can be understood through the following image, as it prim
 
 We can also use the Depth feature to create new images by preserving the depth information of the original. For instance, we can transform a photo of a narrow alley into a cyberpunk world.
 
+First, visit [FLUX Depth](https://flux1.ai/flux-depth), upload an image to provide the structural base, and then enter your desired prompt, such as "a cyberpunk street." Click generate, and you'll get results like the one shown below.
+
+![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412121625320.png)
+
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412110036281.png)
 
 ![](https://cdn.jsdelivr.net/gh/data-community-of-practice/AI-Graph-Obsidian@main/img/202412110037725.png)
+
+“Depth” utilizes depth maps to analyze and preserve the three-dimensional structure of input images. By understanding spatial relationships, it enables precise, text-guided transformations while maintaining the original composition's integrity. This approach ensures that generated images align with the intended structural layout, making it particularly effective for applications requiring accurate depth representation.
 
 Here's how FLUX Depth works.
 
